@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Robert Bosch Centre for Data Sciences & Artificial Intelligence, IIT Madras
 
-You can use the [editor on GitHub](https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This research initiative seeks to advance and implement practices for gathering, processing and analysing data across different engineering and social branches. The primary aim of the initiative is to be one-stop-solution for all data analytics related needs — gathering, processing and analysing — of the IIT community as well as the larger Indian eco-system.  The initiative will initially focus on analytics related to the establishment of smart cities. We will specifically focus on studies related to smart transportation, smart grids and smart water supply. The initiative will also setup physical infrastructure and the establish standard operating practices pertaining to Data Science, leading to development of broad competence in the area of data sciences across various related disciplines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We work closely with several industry partners and government agencies to develop cutting edge solutions to real problems. There are three critical areas of research impact in this study. The first one is the area of Data Analytics− Data mining/Machine learning, Network analysis, Optimisation, Design of Experiments, etc. The second, is in the advancement of data gathering and processing related infrastructure – sensing, storage, and computing – paying special attention to secure computing systems. The third and equally important target, is contribution to domain specific advances in academic disciplines where empirical research has the potential to supplement the respective body of knowledge. The scope of this research is therefore multi-disciplinary in nature and will build on and contribute to a wide range of domains and functional applications.
 
-### Markdown
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dr. B Ravindran, CSE, IITM
