@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+title: Robert Bosch Center for Data Sciences and Artificial Intelligence
+email:  ravi@cse.iitm.ac.in
+description: >
+  This research initiative seeks to advance and implement practices 
+  for gathering, processing and analysing data across different 
+  engineering and social branches. 
+baseurl: ""
+url: "localhost:4000"
+include: ['_pages']

@@ -1,0 +1,26 @@
+.people-card {
+  border :none;
+  margin-bottom:1.3rem;
+}
+
+.people-card .card-img-top {
+  margin-bottom:1.1rem;
+  width:60%;
+}
+
+.people-card > .card-body {
+  padding:1rem;
+}
+.people-card > .card-body > .card-title > a {
+  font-size:0.8em;
+  font-weight:bold;
+  color : #0162cb;
+} 
+
+.people-card > .card-body > .card-subtitle {
+  font-weight:bold;
+  font-size:0.95em;
+}
+.people-card > .card-body > .card-text {
+  font-size:0.9em;
+}

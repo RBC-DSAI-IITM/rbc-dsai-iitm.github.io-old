@@ -1,0 +1,25 @@
+    <nav class="navbar with-shadow navbar-expand-md navbar-light fixed-top bg-light">
+
+    <div class="container">
+      <!-- Logo Section -->
+      <a class="navbar-brand" href="{{ site.url}}">
+        <img src="{{ "images/iillogo.png" | prepend: site.baseurl }}" width="30" height="30" class="d-inline-block align-top" alt="IIL Logo">
+       <span class="navbar-brand-expanded hidden-md-down">RBC DSAI</span>
+       <span class="logotext-tail"> IITM </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navigation Links -->
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav ml-auto">
+          {% for page in site.pages %} {% if page.title %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }} </a>
+          </li>
+          {% endif %}{% endfor %}
+        </ul>
+      </div>
+    </div>
+    </nav>

@@ -1,0 +1,122 @@
+/* dropshadow for the fixed top navbar */
+.navbar.with-shadow {
+ -webkit-box-shadow: 0 6px 6px -6px #bbb;
+ -moz-box-shadow: 0 6px 6px -6px #bbb;
+  box-shadow: 0 6px 6px -6px #bbb;
+  opacity: 0.9;
+}
+
+/* logo tail de-highlight */
+.logotext-tail {
+    color: #888;
+    font-weight: normal;
+    padding-left: 2px;
+    font-size:0.85em;
+}
+
+#research-areas-carousel {
+    margin-top:8px;
+}
+
+#research-areas-carousel a.btn-primary,#research-areas-carousel a.btn-primary:focus  {
+    background-color:transparent;
+    border-color:#fff;
+}
+
+.navbar-nav > li  {
+    margin-left:20px;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bold;
+    color:black;
+    /*color: rgba(36, 78, 179, 0.9)*/
+}
+
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color : rgba(206, 88, 1, 0.9);
+}
+
+a.nav-link {
+  text-transform: capitalize;
+}
+
+.carousel-indicators li {
+    width:10px;
+    height:10px;
+    border-radius:10px;
+
+}
+
+
+.section-title {
+  padding:0px;
+  color: rgb(6, 59, 153);
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin-bottom:1.3rem;
+} 
+
+.news-img {
+  width: 100%;
+}
+.news .card {
+  margin-bottom :10px;
+  border:none;
+}
+.news a.card-title  {
+  cursor: pointer;
+  font-family :serif;
+  text-decoration:underline;
+}
+
+.news .card-subtitle {
+  font-size:0.9rem;
+}
+.news .card-body {
+  padding : 1.5rem;
+}
+
+.events a.card-title {
+  font-size:0.95em;
+
+}
+.calbox {
+  font-size:0.9rem;
+  font-weight: bold;
+}
+
+footer {
+  font-size:0.9em;
+  padding-top:1rem;
+  margin-top:2rem;
+  border-top:1px solid #ccc;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand-short{
+      font-size:1.2em;
+    }
+    .navbar-nav > li {
+        margin-left : 0px;
+    }
+
+    a.nav-link{
+      color:#111;
+    }
+
+    .carousel h1{
+        font-size:1.6rem;
+    }
+    .carousel p{
+width: 100%;
+    }
+
+    .section-title{
+        text-align:center;
+    
+    }
+
+}

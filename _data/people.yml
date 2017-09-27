@@ -1,0 +1,69 @@
+- name: Dr. B. Ravindran
+  image: ravi.jpg
+  designation: Associate Professor
+  areas: Machine learning, Reinforcement learning, Social Network Analysis, Data and text mining 
+
+- name: Dr. Mitesh M. Khapra
+  image: mitesh.jpg
+  designation: Assistant Professor
+  areas: Statistical Machine Translation, Text Analytics, Deep Learning and Crowd-sourcing 
+
+- name: Dr. Venkatesh R
+  image: venkat.jpg
+  designation: Assistant Professor
+  areas: Performance analysis and optimization of ad hoc wireless networks, Communication protocols for industrial applications 
+
+- name: Sudarsun S
+  image: sudarsun.jpg
+  designation: Ph.D Scholar
+  areas: Natural Language Processing, Data Mining, Machine Learning, Distributed Computing, Large Graph Mining
+
+- name: Tarun Kumar
+  image: tarun.jpg
+  designation: Ph.D Scholar
+  areas: Machine Learning, Networks Representation Learning, Learning on Hypergraphs and Multiplex networks
+
+- name: Priyesh V
+  image: priyesh.jpg
+  designation: M.S Scholar
+  areas: Learning on Networks, Multiview Learning, Class Imbalance learning, Deep Learning, Networks Representation Learning 
+
+- name: Beethika Tripathi
+  image: beethika.jpg
+  designation: M.S Scholar
+  areas: Multiplex Network Analysis, Complex Network Analysis, Machine Learning, Deep Learning 
+
+- name: Akash Jain
+  image: akash.jpg
+  designation: M.S Scholar
+  areas: Social Network Analysis, Distributed Computing for large networks, Deep Learning for networks 
+
+- name: Denzil Francis Crasta
+  image: denzil.jpg
+  designation: M.Tech Scholar
+  areas: Network Representation Learning, Scalable Graph Indexing, Cloud Computing, Deep Learning 
+
+- name: Mohan Bhambhani
+  image: mohan.jpg
+  designation: Dual Degree 
+  areas: Deep Learning for Networks, Computer Vision, Natural Language Processing 
+
+- name: Ujjawal Soni
+  image: ujjawal.jpg
+  designation: Dual Degree
+  areas: Deep Learning for Networks, Networks Representation Learning 
+
+- name: Rohith B
+  image: rohith.jpg
+  designation: Dual Degree
+  areas: Opinion Dynamics, Application specific random walks in social networks 
+
+- name: Sankaran V
+  image: sankaran.jpg
+  designation: Project Associate
+  areas: Deep Learning for Networks, Networks Representation Learning, Generative Modeling 
+
+- name: Anasua Mitra
+  image: soya.jpg
+  designation: Intern
+  areas: Deep Learning for Networks, Networks Representation Learning</p>

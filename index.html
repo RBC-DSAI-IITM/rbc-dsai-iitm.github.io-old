@@ -1,0 +1,104 @@
+---
+layout: default
+---
+
+    <div id="research-areas-carousel" class="carousel slide" data-ride="carousel">
+
+      <ol class="carousel-indicators">
+        <li data-target="#research-areas-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#research-areas-carousel" data-slide-to="1"></li>
+        <li data-target="#research-areas-carousel" data-slide-to="2"></li>
+      </ol>
+
+      <div class="carousel-inner">
+
+        {% for item in site.data.carousel %}
+        <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+          <img class="{{forloop.index}}-slide" src="images/{{ item.image }}" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption  d-md-block text-left">
+              <h1> {{ item.title }} </h1>
+              <p> {{ item.message }} </p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More</a></p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+      <a class="carousel-control-prev" href="#research-areas-carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#research-areas-carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+    <!-- News and Spotlight Events  --> 
+    <div class="container news">
+
+      <div class="row">
+
+        <div class="col-sm-8 news">
+          <h3 class="col-sm-6 section-title"> News </h3>
+
+          <div class="card"> 
+            <div class="row no-gutters align-items-center">
+            <div class="col-sm-2">
+            <img  class="news-img img-responsive center-block" src="images/news/Kamakoti.jpg" alt="Card image cap" >
+            </div>
+            <div class="card-body col-sm-10">
+              <h6 class="card-subtitle mb-2 ">26 August 2017</h6>
+              <a class="card-title" href="#">Prof. V. Kamakoti to chair GoI Task Force on AI for Development across various fields.</a>
+              <p class="card-text">
+                 Commerce and Industry Minister Nirmala Sitharaman has constituted a Task Force chaired by V. Kamakoti of IIT Madras to explore possibilities to leverage Artificial Intelligence (AI) for development across various fields
+              </p>
+            </div>
+            </div>
+          </div>
+
+          <div class="card"> 
+            <div class="row no-gutters align-items-center">
+            <div class="col-sm-2">
+            <img  class="news-img img-responsive center-block" src="images/news/preksha.jpg" alt="Card image cap" >
+            </div>
+            <div class="card-body col-sm-10">
+              <h6 class="card-subtitle mb-2">12 July 2017</h6>
+              <a class="card-title" href="#">Preksha Nema (CS15D201) has been selected for Google India PhD Fellowship</a>
+              <p class="card-text">
+                 Preksha Nema (CS15D201) who is a PhD scholar at the CSE dept has been selected for Google India PhD Fellowship.
+              </p>
+            </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="col-sm-4 events">
+          <h3 class="section-title"> Events </h3> 
+
+          <div class="card event-card"> 
+              <div class="calbox"> 
+               4:30pm, 21 Sep @ Alan M. Turing Hall
+              </div>
+              <a class="card-title" href="#">Seminar on Knowledge Representation and Reasoning with Deep Neural Networks</a>
+          </div>
+
+          <div class="card event-card"> 
+              <div class="calbox"> 
+                2pm, 23 Sep @ Ada Lovelace Hall
+              </div>
+              <a class="card-title" href="#">Seminar on Knowledge Representation and Reasoning with Deep Neural Networks</a>
+          </div>
+
+          <div class="card event-card"> 
+              <div class="calbox"> 
+                2pm, 25 Sep @ Ada Lovelace Hall
+              </div>
+              <a class="card-title" href="#">Seminar on Knowledge Representation and Reasoning with Deep Neural Networks</a>
+          </div>
+        </div>
+      </div>
+
+    </div>

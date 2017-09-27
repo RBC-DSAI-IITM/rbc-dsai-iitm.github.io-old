@@ -1,0 +1,31 @@
+---
+layout: default 
+title: people
+permalink: people
+---
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">People</h1>
+        <p class="lead  text-muted">
+           Our team at IIL, comprises of faculty, doctoral, masters, dual-degree, undergradute students along with
+           several external collaborators from industry and  national/international universities
+        </p>
+      </div>
+     </section>
+
+      <div class="container">
+          <div class="row">
+
+           {% for member in site.data.people %}
+           <div class="card people-card col-sm-3">
+             <div class="card-body">
+             <img class="card-img-top rounded-circle img-responsive center-block" src="images/people/{{ member.image }}" alt="B. Ravindran">
+               <h5 class="card-title"><a  href="">{{ member.name }}</a></h5>
+               <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
+               <p class="card-text">{{ member.areas }}</p>
+             </div>
+           </div>
+           {% endfor %}
+
+          </div>
+     </div>
