@@ -14,33 +14,26 @@ permalink: publications
       <div class="container">
           <div class="row">
             <ol class="col publications">
+            {% for paper in site.data.ilds %}
               <li>
-                <span class="pub-authors">Jain, A., Nasre, R., and Ravindran, B.</span>
-                <span class="pub-title">DCEIL: Distributed Community Detection with the CEIL Score </span> 
-                <span class="pub-journal">To appear in the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication (HPCC 2017) </span>
-                <span class="pub-publisher">IEEE Press</span>
+                <span class="pub-authors"> {{ paper.author }}</span>
+                <span class="pub-title"> {{ paper.title | remove:'{'  }} </span> 
+                <span class="pub-journal">{{ paper.journal }}</span>
+                <span class="pub-publisher">{{ paper.publisher }}</span>
                 <span class="pub-location"></span>
-                <span class="pub-tail"></span>
-                <span class="pub-year"> 2017 </span>
+                <span class="pub-tail">
+                  {{ paper.volume }} 
+                  {{ paper.number}}
+                  {{ paper.pages}}
+                </span>
+                <span class="pub-year"> {{ paper.year }} </span>
                 <span class="pub-links"> 
                   <a href="#">pdf</a>
                   <a href="#">git</a>
                 </span>
               </li>
+              {% endfor %}
 
-              <li>
-                <span class="pub-authors">Bhuvaneswari, S., Pasumarthy, R., Ravindran, B., and Mahindrakar, A.</span>
-                <span class="pub-title">Tracking and Stabilization of Mechanical Systems using Reinforcement Learning</span> 
-                <span class="pub-journal">To appear in the Proceedings of the Fourth Indian Control Conference</span>
-                <span class="pub-publisher">ICC 2018</span>
-                <span class="pub-location"></span>
-                <span class="pub-tail"></span>
-                <span class="pub-year"> 2018 </span>
-                <span class="pub-links"> 
-                  <a href="#">pdf</a>
-                  <a href="#">git</a>
-                </span>
-              </li>
             </ol>
           </div>
       </div>

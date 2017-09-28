@@ -88,6 +88,10 @@ a.nav-link {
   font-weight: bold;
 }
 
+.collab-section {
+  margin-top: 2rem;
+}
+
 footer {
   font-size:0.9em;
   padding-top:1rem;
