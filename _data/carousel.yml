@@ -1,20 +1,26 @@
-- title: Network Representation Learning 
+- title: Robert Bosch Centre for Data Sciences and Artificial Intelligence 
   image: carousel3_bg.jpg
   message: >
-    We learn distributed vector representations of the vertices in 
-    large-scale networks that preserve structural and semantic 
-    similarity of the vertices in the embedding space 
+    This research initiative seeks to advance and implement practices for gathering, processing and analysing data across different engineering and social branches. 
+  link: about.html 
 
-- title: Reinforcement Learning 
-  image: carousel2_bg.jpg
-  message: >
-    Learning algorithms that enable software agents to take actions 
-    that maximizes some notion of cumulative reward.
+# - title: Network Representation Learning 
+#   image: carousel3_bg.jpg
+#   message: >
+#     We learn distributed vector representations of the vertices in 
+#     large-scale networks that preserve structural and semantic 
+#     similarity of the vertices in the embedding space 
 
-- title: Natural Language Processing
-  image: carousel1_bg.jpg
-  message: >
-    We develop algorithms to process and understand natural 
-    language to aid interaction between computers and humans
+# - title: Reinforcement Learning 
+#   image: carousel2_bg.jpg
+#   message: >
+#     Learning algorithms that enable software agents to take actions 
+#     that maximizes some notion of cumulative reward.
+
+# - title: Natural Language Processing
+#   image: carousel1_bg.jpg
+#   message: >
+#     We develop algorithms to process and understand natural 
+#     language to aid interaction between computers and humans
 
 

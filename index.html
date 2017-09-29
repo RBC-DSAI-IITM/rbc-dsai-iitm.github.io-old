@@ -6,8 +6,8 @@ layout: default
 
       <ol class="carousel-indicators">
         <li data-target="#research-areas-carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#research-areas-carousel" data-slide-to="1"></li>
-        <li data-target="#research-areas-carousel" data-slide-to="2"></li>
+        <!-- <li data-target="#research-areas-carousel" data-slide-to="1"></li>
+        <li data-target="#research-areas-carousel" data-slide-to="2"></li> -->
       </ol>
 
       <div class="carousel-inner">
@@ -19,7 +19,7 @@ layout: default
             <div class="carousel-caption  d-md-block text-left">
               <h1> {{ item.title }} </h1>
               <p> {{ item.message }} </p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More</a></p>
+              <p><a class="btn btn-lg btn-primary" href="{{ item.link }}" role="button">Learn More</a></p>
             </div>
           </div>
         </div>

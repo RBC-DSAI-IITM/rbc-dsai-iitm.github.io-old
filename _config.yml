@@ -7,3 +7,9 @@ description: >
 baseurl: ""
 url: "localhost:4000"
 include: ['_pages']
+
+authors:
+  denzil:
+    name: Denzil Francis Crasta
+  abhishek:
+    name: Abhishek Naik
