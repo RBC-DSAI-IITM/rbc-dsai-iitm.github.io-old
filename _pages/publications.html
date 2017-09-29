@@ -7,7 +7,7 @@ permalink: publications
       <div class="container">
         <h1 class="jumbotron-heading">Publications</h1>
         <p class="lead  text-muted">
-           Some text describing and characterizing our  publication distribution </p>
+           Some text describing and characterizing our publication distribution </p>
       </div>
      </section>
 
@@ -16,20 +16,20 @@ permalink: publications
             <ol class="col publications">
             {% for paper in site.data.ilds %}
               <li>
-                <span class="pub-authors"> {{ paper.author }}</span>
-                <span class="pub-title"> {{ paper.title | remove:'{'  }} </span> 
+                <span class="pub-authors">{{ paper.author }}</span>
+                <span class="pub-title">{{ paper.title | remove:'{'  }}</span> 
                 <span class="pub-journal">{{ paper.journal }}</span>
                 <span class="pub-publisher">{{ paper.publisher }}</span>
+                <span class="pub-year">({{ paper.year }})</span>
                 <span class="pub-location"></span>
                 <span class="pub-tail">
-                  {{ paper.volume }} 
-                  {{ paper.number}}
+                  {{ paper.volume }}
+                  {% if paper.number %} ({{ paper.number }}) {% endif %}
                   {{ paper.pages}}
                 </span>
-                <span class="pub-year"> {{ paper.year }} </span>
                 <span class="pub-links"> 
-                  <a href="#">pdf</a>
-                  <a href="#">git</a>
+                  {% if paper.link %}<a href="{{ paper.link }}">pdf</a> {% endif %}
+                  <!-- <a href="#">git</a> -->
                 </span>
               </li>
               {% endfor %}
