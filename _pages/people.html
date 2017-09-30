@@ -15,13 +15,35 @@ permalink: people
       <div class="container">
           <div class="row">
 
-           {% for member in site.members %}
+            <h3>Faculty</h3>
+            <hr>
+
+           {% for member in site.members.faculty %}
            <div class="card people-card col-sm-3">
              <div class="card-body">
-             <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="B. Ravindran">
-               <h5 class="card-title"><a  href="">{{ member.name }}</a></h5>
+             <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
+               <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
                <p class="card-text">{{ member.areas }}</p>
+             </div>
+           </div>
+           {% endfor %}
+
+          </div>
+     </div>
+
+     <div class="container">
+          <div class="row">
+
+            <h3>Collaborators</h3>
+            <hr>
+
+           {% for member in site.members.collaborators %}
+           <div class="card people-card col-sm-3">
+             <div class="card-body">
+             <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
+               <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
+               <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
              </div>
            </div>
            {% endfor %}
