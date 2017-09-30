@@ -4,9 +4,14 @@ description: >
   This research initiative seeks to advance and implement practices 
   for gathering, processing and analysing data across different 
   engineering and social branches. 
+  
 baseurl: ""
 url: "localhost:4000"
 include: ['_pages']
+
+collections:
+ members:
+   output: true 
 
 authors:
   denzil:

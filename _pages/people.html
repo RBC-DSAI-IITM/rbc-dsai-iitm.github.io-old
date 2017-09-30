@@ -15,10 +15,10 @@ permalink: people
       <div class="container">
           <div class="row">
 
-           {% for member in site.data.people %}
+           {% for member in site.members %}
            <div class="card people-card col-sm-3">
              <div class="card-body">
-             <img class="card-img-top rounded-circle img-responsive center-block" src="images/people/{{ member.image }}" alt="B. Ravindran">
+             <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="B. Ravindran">
                <h5 class="card-title"><a  href="">{{ member.name }}</a></h5>
                <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
                <p class="card-text">{{ member.areas }}</p>
