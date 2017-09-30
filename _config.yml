@@ -10,7 +10,7 @@ url: "localhost:4000"
 include: ['_pages']
 
 collections:
-  # collections_dir : members
+  collections_dir : members
   members:
     output: true 
    # permalink: /:collection/:name
