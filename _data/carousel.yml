@@ -1,7 +1,9 @@
 - title: Robert Bosch Centre for Data Sciences and Artificial Intelligence 
   image: carousel3_bg.jpg
   message: >
-    The Robert Bosch Centre for Data Sciences and Artificial Intelligence (RBC-DSAI) was founded in August 2017, with a vision to become an internationally renowned centre for data science research, where long-standing fundamental research problems, cutting across disciplines, are targeted and solved.
+    Founded in August 2017, with a vision to become an internationally renowned 
+    centre for data science research, where long-standing fundamental research problems, 
+    cutting across disciplines, are targeted and solved.
   link: about.html 
 
 # - title: Network Representation Learning 

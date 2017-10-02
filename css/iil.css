@@ -74,7 +74,7 @@ a.nav-link {
   padding:1rem 1rem;
   color: #d18164;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 1.6em;
   margin:0;
   margin-top:1.5rem;
   margin-bottom:1.5rem;
@@ -83,14 +83,20 @@ a.nav-link {
 
 .news-img {
   width:100%;
+  padding:5px;
+  border:1px solid #eee;
 }
 .news .card {
-  margin-bottom :10px;
+  margin-bottom :1.8rem;
   border:none;
+  border-bottom:1px dashed #eee;
+  padding-bottom:1.3rem;
+
 }
 .news a.card-title  {
   cursor: pointer;
-  font-family :serif;
+  font-size:1.1rem;
+  margin-bottom:0.4rem;
 }
 
 .news a.card-title:hover  {
@@ -98,18 +104,26 @@ a.nav-link {
 }
 .news .card-subtitle {
   font-size:0.9rem;
+  font-weight:bold;
+  margin-top:5px;
 }
 .news .card-body {
-  padding : 1.5rem;
+  padding :0 1.5rem;
 }
 
+.event-card {
+  margin-bottom:1.2rem;
+}
 .events a.card-title {
-  font-size:0.95em;
-
+  font-size:1em;
+  font-style:sans-serif;
+  margin-bottom:0.2rem;
 }
-.calbox {
+.events .card-subtitle{
   font-size:0.9rem;
-  font-weight: bold;
+  font-weight:bold;
+  margin-top:0px;
+  color:#444;
 }
 
 .collab-section {
