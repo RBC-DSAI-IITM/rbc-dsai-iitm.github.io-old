@@ -7,7 +7,6 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
   */
-  padding-top:3rem;
 }
 
 
@@ -16,7 +15,6 @@ body {
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 2rem;
 }
 
 .carousel .btn-lg {
@@ -26,11 +24,12 @@ body {
 
 .carousel h1 {
     font-size: 2.1rem;
-    margin-bottom:15px;
+    margin-bottom:2.1rem;
 }
 
 .carousel p {
-width:70%;
+width:75%;
+margin-bottom:1.1rem;
 }
 
 
@@ -45,7 +44,7 @@ width:70%;
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 25rem;
+  height: 28rem;
   background-color: #777;
   text-shadow: 1px 1px #333;
 }
@@ -54,7 +53,7 @@ width:70%;
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 25rem;
+  height: 28rem;
 }
 
 .carousel-indicators > li {
@@ -110,6 +109,7 @@ width:70%;
 
   .featurette-heading {
     font-size: 50px;
+
   }
 }
 

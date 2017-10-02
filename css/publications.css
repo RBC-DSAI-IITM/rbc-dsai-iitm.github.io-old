@@ -1,34 +1,39 @@
 ol.publications {
-  list-style-type: none;
-  padding:0 2em;
   line-height:1.5em;
+  list-style-type:none;
 }
 
 ol.publications > li {
   padding: 1.2em 0;
+  border-bottom: 1px dashed #ddd;
   
 }
 
 .pub-authors {
+  display:block;
 }
 
 .pub-title {
   font-weight: bold;
-  font-size:1.05em;
+  font-size:1.2em;
+  display:block;
 }
 
 
+/*
 .pub-title::before, .pub-title::after{
   content: '"';
 }
+*/
 
 .pub-journal {
   color:#444;
+  font-size:0.95em;
 }
 
 .pub-publisher, .pub-tail, .pub-year, .pub-location {
   color:#777;
-  font-style:italic;
+  font-size:0.95em;
 }
 
 .pub-links > a {

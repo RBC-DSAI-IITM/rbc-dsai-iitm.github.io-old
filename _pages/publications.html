@@ -1,8 +1,9 @@
 ---
 layout: default
-title: publications
+title: Publications
 permalink: publications
 ---
+<!--
     <section class="jumbotron text-center">
       <div class="container">
         <h1 class="jumbotron-heading">Publications</h1>
@@ -10,14 +11,15 @@ permalink: publications
            Some text describing and characterizing our publication distribution </p>
       </div>
      </section>
+     -->
 
       <div class="container">
           <div class="row">
             <ol class="col publications">
             {% for paper in site.data.ilds %}
               <li>
-                <span class="pub-authors">{{ paper.author }}</span>
                 <span class="pub-title">{{ paper.title}} </span> 
+                <span class="pub-authors">{{ paper.author }}</span>
                 <span class="pub-journal">{{ paper.journal }}</span>
                 <span class="pub-publisher">{{ paper.publisher }}</span>
                 <span class="pub-year">({{ paper.year }})</span>

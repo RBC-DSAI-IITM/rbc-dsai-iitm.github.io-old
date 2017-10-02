@@ -1,8 +1,9 @@
 ---
 layout: default 
-title: people
+title: People
 permalink: people
 ---
+ <!--
     <section class="jumbotron text-center">
       <div class="container">
         <h1 class="jumbotron-heading">People</h1>
@@ -11,21 +12,20 @@ permalink: people
         </p>
       </div>
      </section>
+     -->
 
-      <div class="container">
-        <hr>
-        <h3>Faculty</h3>
-        <hr>
-      </div>
+      <div class="container ">
 
-      <div class="container">
+          <div class="row"> 
+            <h1 class="col section-title">Faculty</h1>
+          </div>
+
           <div class="row">
-
            {% for member in site.members %}
              {% if member.type contains "faculty" %}
-             <div class="card people-card col-sm-3">
+             <div class="card people-card col-sm-4">
                <div class="card-body">
-               <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
+               <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
                  <p class="card-text">{{ member.areas }}</p>
@@ -37,22 +37,22 @@ permalink: people
           </div>
      </div>
 
-    <div class="container">
-      <hr>
-      <h3>Collaborators</h3>
-      <hr>
-    </div>
 
      <div class="container">
+          <div class="row"> 
+            <h1 class="col section-title ">Collaborators</h1>
+          </div>
           <div class="row">
 
            {% for member in site.members %}
             {% if member.type contains "collaborator" %}
-             <div class="card people-card col-sm-3">
+             <div class="card people-card col-sm-4">
                <div class="card-body">
-               <img class="card-img-top rounded-circle img-responsive center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
+               <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
-                 <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
+                 {% for designation in member.designations %}
+                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                 {% endfor %}
                </div>
              </div>
             {% endif %}
