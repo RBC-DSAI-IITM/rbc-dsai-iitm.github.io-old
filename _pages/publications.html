@@ -15,7 +15,14 @@ permalink: publications
 
       <div class="container">
           <div class="row">
-            <ol class="col publications">
+            <h1 class="col section-title"> Publications </h1>
+          </div>
+          
+          <div class="row" id="pub-container">
+               <input class="search col-6" placeholder="Search By Paper Title or Author or Year" />
+               <button class="sort col-3" data-sort="pub-title"> Sort By Title </button>
+               <button class="sort col-3" data-sort="pub-year"> Sort By Year </button>
+            <ol class="col publications list">
             {% for paper in site.data.ilds %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
@@ -39,3 +46,4 @@ permalink: publications
             </ol>
           </div>
       </div>
+
