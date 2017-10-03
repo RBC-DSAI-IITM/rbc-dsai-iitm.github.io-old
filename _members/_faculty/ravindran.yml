@@ -3,6 +3,10 @@ layout: default
 name: Dr. B. Ravindran
 image: ravi.jpg
 designation: Associate Professor
-areas: Machine learning, Reinforcement learning, Social Network Analysis, Data and text mining 
+areas: 
+-Machine learning, 
+-Reinforcement learning, 
+-Social Network Analysis, 
+-Data and text mining 
 bio: Dr. B. Ravindran has been working in the domain of complex data analytics for nearly a decade and in the broader area of machine learning for nearly two. He has been recently leading investigations into learning with networked data, where both the input and output space has significant structure in them. His work has been supported by Yahoo! labs, General Motors R&D, DST, Adobe Research, and Ericsson Research. With Ericsson Research there has been active collaboration for the past 5 years on investigating algorithms for telecom call analysis, social computing in general and distributed computing abstractions for data analytics. He is also an advisor to several startups in the area of data analytics.
 ---
