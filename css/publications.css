@@ -51,3 +51,34 @@ ol.publications > li {
   color: #fff;
   background-color: #058eb6;
 }
+
+.sort.asc::after {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid #2e2e2e;
+  content: "";
+  position: relative;
+  top: 11px;
+  right: -4px;
+}
+
+.sort.desc::after {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid #2e2e2e;
+  content: "";
+  position: relative;
+  top: -9px;
+  right: -4px;
+}
+
+.list-controls {
+  
+  padding:1em;
+  background-color: #feffdf;
+  border-bottom:1px solid #eee;
+}

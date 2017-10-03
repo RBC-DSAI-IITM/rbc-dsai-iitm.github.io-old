@@ -13,16 +13,21 @@ permalink: publications
      </section>
      -->
 
-      <div class="container">
+      <div class="container" id="pub-container">
           <div class="row">
-            <h1 class="col section-title"> Publications </h1>
+            <h1 class="col section-title mb-0"> Publications </h1>
           </div>
           
-          <div class="row" id="pub-container">
-               <input class="search col-6" placeholder="Search By Paper Title or Author or Year" />
-               <button class="sort col-3" data-sort="pub-title"> Sort By Title </button>
-               <button class="sort col-3" data-sort="pub-year"> Sort By Year </button>
-            <ol class="col publications list">
+          <div class="row list-controls">
+
+               <input class="col-6 search" placeholder="Search By Paper Title or Author or Year" />
+               <div class="col-6">
+                 <button class="sort " data-sort="pub-title"> sort by <strong> Title </strong> </button>
+                 <button class="sort " data-sort="pub-year"> sort by <strong> Year </strong> </button>
+               </div>
+          </div>
+          <div class="row" >
+            <ol class="col-12 publications list">
             {% for paper in site.data.ilds %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
