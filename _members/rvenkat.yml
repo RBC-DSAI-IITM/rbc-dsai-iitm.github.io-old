@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Venkatesh Ramaiyan
-designation :  Professor
+designations : 
+  - Professor
 email : rvenkat@ece.iisc.ernet.in
 areas : 
 image : default.png

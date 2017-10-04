@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Rahul R Marathe
-designation :  Associate Professor
+designations : 
+  - Associate Professor
 email : rrmarathe@iitm.ac.in
 areas : Stochastic Processes Mathematical and Statistical Modeling Data Analytics.
 image : rrmarathe.png

@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Nirav Bhatt
-designation :  INSPIRE Fellow
+designations : 
+  - INSPIRE Fellow
 email : nirav@chem.iitm.ac.in
 areas : Data analysis, Process systems engineering, kinetic modeling.
 image : nirav.png

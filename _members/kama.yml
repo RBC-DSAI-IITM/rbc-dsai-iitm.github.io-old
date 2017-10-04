@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Kamakoti Veezhinathan
-designation :  Professor
+designations : 
+  - Professor
 email : kama@cse.iitm.ac.in
 areas : Secure Systems Engineering, High Performance Computing, VLSI Design, Computer Architecture.
 image : kama.png

@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Karthik K Srinivasan
-designation :  Professor
+designations : 
+  - Professor
 email : karthikks@iitm.ac.in
 areas : 
 image : karthikks.png

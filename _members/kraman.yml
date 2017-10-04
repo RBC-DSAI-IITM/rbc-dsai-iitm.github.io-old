@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Karthik Raman
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : kraman@iitm.ac.in
 areas : Metabolic network analysis, Computational modelling and simulation of biological systems/networks, Systems and synthetic biology, Metabolic engineering (strain improvement through in silico modelling), High-performance GPGPU computing for systems biology
 image : kraman.png

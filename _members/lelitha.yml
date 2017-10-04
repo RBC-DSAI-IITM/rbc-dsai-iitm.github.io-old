@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Lelitha Devi Vanajakshi
-designation :  Associate Professor
+designations : 
+  - Associate Professor
 email : lelitha@ iitm.ac.in
 areas : Traffic Flow Modeling,Intelligent Transportation Systems, Traffic Operations and Management.
 image : lelitha.png

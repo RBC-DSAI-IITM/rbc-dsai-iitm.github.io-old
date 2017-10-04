@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Ramkrishna Pasumarthy
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : ramkrishna@ee.iitm.ac.in
 areas : His lie in the area of systems and control theory. In particular I am interested in modeling and control of complex physical systems in the port-Hamiltonian framework. I also have interests in the area of modeling and control of (cloud) computing systems and data analytics for power and cloud networks.
 image : ramkrishna.png

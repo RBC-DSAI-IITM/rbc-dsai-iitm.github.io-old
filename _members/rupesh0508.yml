@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Rupesh Nasre
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : rupesh0508@gmail.com
 areas : Compilers, Parallelization.
 image : rupesh0508.png

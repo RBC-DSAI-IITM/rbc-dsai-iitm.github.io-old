@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Kaushik Mitra
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : kmitra@iitm.ac.in
 areas : Develop theory to explore the performance limits of CI systems, Develop novel CI systems, Explore the promise of data-driven signal models in CI and computer vision.
 image : kmitra.png

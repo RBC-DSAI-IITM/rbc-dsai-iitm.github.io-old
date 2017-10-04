@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Shankar Narasimhan
-designation :  M.S. Ananth Institute Chair Professor
+designations : 
+  - M.S. Ananth Institute Chair Professor
 email : naras@iitm.ac.in
 areas : Data mining, Fault Diagnosis, Process design.
 image : naras.png

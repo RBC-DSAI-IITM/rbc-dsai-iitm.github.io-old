@@ -27,8 +27,10 @@ permalink: people
                <div class="card-body">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
-                 <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
+                 {% for designation in member.designations %}
+                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
                  <p class="card-text">{{ member.areas }}</p>
+                 {% endfor %}
                </div>
              </div>
              {% endif %}

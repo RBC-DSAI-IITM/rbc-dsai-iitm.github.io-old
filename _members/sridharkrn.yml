@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Sridharakumar Narasimhan
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : sridharkrn@iitm.ac.in
 areas : Fault Diagnosis, Process Control, Optimization, System Identification, Systems biology.
 image : sridharkrn.png

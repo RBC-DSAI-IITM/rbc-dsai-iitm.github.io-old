@@ -1,7 +1,8 @@
 ---
 layout : default
 name : Krishna Jagannathan
-designation :  Assistant Professor
+designations : 
+  - Assistant Professor
 email : krishnaj@iitm.ac.in
 areas : lie in the stochastic modeling and analysis of communication networks, transportation networks, network control, and queuing theory.
 image : krishnaj.png
