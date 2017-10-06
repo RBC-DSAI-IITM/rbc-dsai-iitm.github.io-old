@@ -81,7 +81,7 @@ a.nav-link {
   border-bottom:1px solid #eee;
 } 
 
-.news-img {
+.member-img {
   width:100%;
   padding:5px;
   border:1px solid #eee;
@@ -130,6 +130,52 @@ a.nav-link {
   margin-top: 2rem;
 }
 
+
+.profile-pic {
+  width:100%;
+  padding:5px;
+  border: 1px solid #eee;
+}
+
+.member-name {
+  font-weight:bold;
+  font-size:1.4em;
+  color:#4748c6;
+}
+
+.member-designation {
+  font-weight:600;  
+  font-size:1.1em;
+}
+
+.separator {
+  
+  font-size:1.3em;
+  color : #ccc;
+  padding: 0 2px;
+  }
+
+
+.member-research-area {
+
+  
+}
+.member-profile-header {
+} 
+
+.member-title {
+  color:#d18164;
+  font-size:1.3em;
+  font-weight:bold;
+  padding:1.1em 0 0.2em 0;
+  
+}
+.member-bio {
+  padding:20px ;
+  background-color:#f2f9ff;
+  border-radius:10px;
+}
+
 footer {
   font-size:0.9em;
   padding-top:1rem;
@@ -138,6 +184,7 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .profile-pic { width:60%;}
     .navbar-light .navbar-brand {
        padding:0.9rem; 
       }

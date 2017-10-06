@@ -1,9 +1,0 @@
----
-layout : default
-name : Venkatesh Ramaiyan
-designation :  Professor
-email : rvenkat@ece.iisc.ernet.in
-areas : 
-image : default.png
-bio : My research interests include performance modelling and analysis of wired and wireless networks (MAC,network, application and cross-layer), resource allocation and optimization in constrained networks, stochastic control, algorithm and protocol design, information theory and network coding. My current focus are in performance optimization in wireless sensor networks, modelling and analysis of distributed medium access protocols and performance analysis and provisioning of wireless access networks.
----

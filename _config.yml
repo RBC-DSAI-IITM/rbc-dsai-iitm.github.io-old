@@ -12,10 +12,10 @@ url    : "localhost:4000"
 include: ['_pages']
 
 collections:
-  collections_dir : members
-  members:
+  collections_dir : people
+  permalink: /:collection/:path
+  people:
     output: true 
-   # permalink: /:collection/:name
 
 authors:
   denzil:

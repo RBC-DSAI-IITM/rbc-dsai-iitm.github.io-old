@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="container pt-3">
+  <div class="row">
+    <div class="col-sm-2 col-md-2">
+      <img class="profile-pic"  src="{{site.baseurl}}/images/members/{{page.image}}">
+    </div>
+
+    <div class="col-sm-10 col-md-10 member-profile-header">
+      <div class="member-name mb-0"> {{ page.name }} </div>
+      {% for designation in page.designations %}
+      <div class="member-designation mb-1"> {{ designation }} </div>
+      {% endfor %}
+      {% for area in page.areas %}
+      <span class="member-research-area"> {{ area }} </span>
+      <span class="separator"> | </span>
+      {% endfor %}
+      <div class="member-contact mt-1">
+        <img src="/images/contact.png" width="16" />
+        {{ page.email }}
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <h2 class="member-title"> Profile </h2>
+      <p class="member-bio">
+        {{ page.bio }}
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <h2 class="member-title"> Publications </h2>
+      <ol class="col-12 publications list">
+      {% assign sorted_pubs = site.data.ilds | sort: 'year' | reverse %}
+      {%  for paper in sorted_pubs %}
+      {%  if paper.author contains 'Ravindran' %}
+        <li>
+          <span class="pub-title">{{ paper.title}} </span> 
+          <span class="pub-authors">{{ paper.author }}</span>
+          <span class="pub-journal">{{ paper.journal }}</span>
+          <span class="pub-publisher">{{ paper.publisher }}</span>
+          <span class="pub-year">({{ paper.year }})</span>
+          <span class="pub-location"></span>
+          <span class="pub-tail">
+            {{ paper.volume }}
+            {% if paper.number %} ({{ paper.number }}) {% endif %}
+            {{ paper.pages}}
+          </span>
+          <span class="pub-links"> 
+            {% if paper.link %}<a href="{{ paper.link }}">pdf</a> {% endif %}
+            <!-- <a href="#">git</a> -->
+          </span>
+        </li>
+        {% endif %}
+        {% endfor %}
+
+      </ol>
+    </div>
+  </div>
+</div>
