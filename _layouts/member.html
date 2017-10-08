@@ -3,22 +3,29 @@ layout: default
 ---
 <div class="container pt-3">
   <div class="row">
-    <div class="col-sm-2 col-md-2">
+    <div class="col-sm-2 col-md-2 profile-pic-frame">
       <img class="profile-pic"  src="{{site.baseurl}}/images/members/{{page.image}}">
     </div>
 
     <div class="col-sm-10 col-md-10 member-profile-header">
+
       <div class="member-name mb-0"> {{ page.name }} </div>
+
       {% for designation in page.designations %}
-      <div class="member-designation mb-1"> {{ designation }} </div>
+        <div class="member-designation mb-1"> {{ designation }} </div>
       {% endfor %}
-      {% for area in page.areas %}
-      <span class="member-research-area"> {{ area }} </span>
-      <span class="separator"> | </span>
-      {% endfor %}
+
       <div class="member-contact mt-1">
-        <img src="/images/contact.png" width="16" />
+        <span class="text-muted pr-2"> Email : </span>
         {{ page.email }}
+      </div>
+
+      <div class="member-areas">
+        <span class="text-muted pr-2"> Research areas : </span>
+        {% for area in page.areas %}
+          <span class="member-research-area"> {{ area }} </span>
+          <span class="separator"> | </span>
+        {% endfor %}
       </div>
     </div>
 

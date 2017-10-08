@@ -150,7 +150,6 @@ a.nav-link {
 
 .separator {
   
-  font-size:1.3em;
   color : #ccc;
   padding: 0 2px;
   }
@@ -184,6 +183,18 @@ footer {
 }
 
 @media (max-width: 768px) {
+   
+    .profile-pic-frame {
+      text-align: center;
+    }
+    .member-profile-header {
+      text-align: center;
+    }
+
+    .member-areas .text-muted {
+      display: block; 
+    }
+
     .profile-pic { width:60%;}
     .navbar-light .navbar-brand {
        padding:0.9rem; 

@@ -13,9 +13,16 @@ include: ['_pages']
 
 collections:
   collections_dir : people
-  permalink: /:collection/:path
+  permalink: /:collection/:path/
   people:
     output: true 
+
+defaults:
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: member
 
 authors:
   denzil:

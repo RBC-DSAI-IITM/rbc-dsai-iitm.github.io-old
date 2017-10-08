@@ -15,7 +15,7 @@ permalink: people
              <div class="card people-card col-sm-4">
                <div class="card-body">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
-                 <h5 class="card-title"><a href="{{member.url | remove: 'yml' | append:'html'}}">{{ member.name }}</a></h5>
+                 <h5 class="card-title"><a href="{{member.url}}">{{ member.name }}</a></h5>
                  {% for designation in member.designations %}
                  <h6 class="card-subtitle mb-2">{{ designation }}</h6>
                  {% endfor %}
