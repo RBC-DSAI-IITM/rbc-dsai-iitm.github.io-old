@@ -35,9 +35,6 @@ body {
 
 
 
-.navbar-nav > li  {
-    margin-left:20px;
-}
 
 .navbar-light .navbar-brand {
     font-weight: bold;
@@ -47,16 +44,21 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
   color :#333;
-  padding: 0.9rem 0.5rem;
+  padding: 0.9rem 1.3rem;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
   color : #111;
+  background-color:#fff0ca;
+  transition: background-color 0.2s ease-out;
 }
  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-    color : rgba(206, 88, 1, 0.9) ;
+    background-color :rgba(237, 122, 37, 0.9) ;
+    color:white;
     font-weight:bold;
+    /*
     border-bottom:3px solid rgba(206, 88, 1, 0.9) ;
+    */
 }
 
 a.nav-link {
@@ -154,6 +156,38 @@ a.nav-link {
   padding: 0 2px;
   }
 
+
+
+.nav-pills {
+  border:1px solid #333; 
+  border-radius:5px;
+}
+
+.nav-pills .nav-link{
+  background-color:#fff;
+  color:#111;
+  font-weight:bold;
+}
+
+.nav-pills .active.nav-link{
+  background-color:#111;
+  color:#fff;
+  border-radius:5px;
+  border:1px solid #333;
+    
+}
+
+
+
+
+
+
+.member-area::after {
+  content: ",";
+  display: inline-block;
+  padding-right: 3px;
+  color:#555;
+}
 
 .member-research-area {
 
