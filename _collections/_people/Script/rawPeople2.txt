@@ -1,0 +1,31 @@
+Anand Raghunathan, Professor of Electrical and Computer Engineering Chair, VLSI and Circuit Design Area, Professor of Computational Brain Research at IIT Madras
+ragunathan@purdue.edu
+Anand Raghunathan received the B. Tech. degree in Electrical and Electronics Engineering from the Indian Institute of Technology, Madras, India, and the M.A. and Ph.D. degrees in Electrical Engineering from Princeton University, Princeton, NJ. Dr. Ragunathan  is a currently a professor in Purdue University. He conducts his research work in Integrated Systems Laboratory in the areas of System-on-chip and Embedded System Design, Domain-specific computing, and Heterogeneous parallel computing.
+
+Ashok Venkitaraman, Ursula Zoellner Professor of Cancer Research; Professor of Oncology; Director of the MRC CU; Co-Director of the Hutchison/MRC Research Centre; and Joint Director of The Cambridge Molecular Therapeutics Programme (CMTP)
+
+Prof. Ashok Venkitaraman is the Ursula Zoellner Professor of Cancer Research at the University of Cambridge, and the Director of the Medical Research Council (MRC) Cancer Unit. He trained in medicine at the Christian Medical College, Vellore, India, before completing his PhD at University College London. Prof. Ashok Venkitaraman was a faculty member at the Medical Research Council’s Laboratory of Molecular Biology in Cambridge, before appointment to the Zoellner Professorship in 1998. Prof. Ashok Venkitaraman is the Bhupat and Jyoti Mehta Chair Professor at the Department of Biotechnology, IIT Madras.
+
+Bhaskar Ramamurthi, Director of IIT, Madras
+
+Prof. Bhaskar Ramamurthi got his B.Tech in Electronics from IIT Madras in 1980, and his M.S. and Ph.D is Electrical Engineering from the University of California at Santa Barbara, in 1982 and 1985 respectively. After working at AT&T Bell Laboratories for a couple of years, he joined the faculty of IIT Madras, his alma mater, in 1986. He took over as Director, IIT Madras in September 2011. His areas of specialisation are Communications and Signal Processing. His research work is in Wireless Networks, Modulation, Wireless Data, and Audio and Video Compression. He was awarded the University of California Regents Fellowship during his doctoral studies. He is a founding member of the TeNeT group of IIT Madras, active in developing telecom and networking technologies, and incubating companies to develop and market products based on these.
+
+Jessica Seddon, Senior Fellow at the Centre for Technology and Policy and Adjunct Faculty at Department of Humanities
+
+Dr. Jessica Seddon is a Senior Fellow at the Centre for Technology and Policy and Adjunct Faculty at Department of Humanities, IIT-Madras. Her research and consulting focus on the interaction of institutions with the information ecology and their joint effect on group behaviour. She has worked in development social science and institutional design for over a decade and a half, with employers and clients ranging from the multilateral development bank research departments to a start-up university in Bangalore and national government committees in India. Dr. Seddon earned her Ph.D. from Stanford University Graduate School of Business and her B.A. from Harvard University.
+
+GS Madhusudan, Technology/Management Consultant, Principal Scientist at IIT Madras
+
+Technology Entrepreneur with 30+ years of global experience in creating start-ups, engineering diverse SW and HW products, managing R&D labs, marketing strategy development and managing sales networks. 
+
+BS Murthy, Professor, Depart of Civil Engineering, IIT Madras
+bsm@iitm.ac.in			
+I am interested in working on the classical problems of open channel flows such as critical depth, end depth, and gradually varied water surface profiles.  I have developed computationally efficient algorithms for GVF computation in tree type and also looped open channel networks. I have worked on computation of open channel flows with shocks, such as dam break flows and supercritical flows. Two-dimensional shallow water equations are solved for this purpose. I have also developed computational methods for analysis of open-channel flows with non-hydrostatic pressure distribution. We looked at the movement of a dam break wave, impact of surges on inclined walls (forces and run up heights), and analysis of open channel flows with multiple free surfaces. A variant of GENSMAC method along with VOF technique was used for this purpose.
+
+Ramasuri Narayanam, Research Scientist IBM Research, India
+
+Ramasuri Narayanam is a Research Scientist at IBM Research, India. Prior to joining IBM Research,  He has been received  his masters degree and Ph.D. degree in computer science, in 2006 and 2010 respectively, from the Department of Computer Science and Automation, Indian Institute of Science, Bangalore, India.His  research interests are social network analysis, game theory, mechanism design, and electronic commerce. I am a recipient of Microsoft Research India Ph.D. fellowship for the duration of 3 years from 2007-2010 and he  also received an honorable mention award for his  PhD proposal from Yahoo! Labs Key Scientific Challenges, 2010.He has been  received the "Best Ph.D. Thesis" award from Computer Society of India (CSI), 2012.
+
+Srinivasan Parthasarathy, Professor at Dept. of Computer Science and Engineering and Department of Biomedical Informatics The Ohio State University 
+srini@cse.ohio-state.edu
+Srinivasan parthasarathy  is a professor in Dept. of Computer Science and Engineering and Department of Biomedical Informatics.His area of intrest are data mining, Bioinformatics and Clinical Informatics (BIO), High Performance Computing (HPC), Network Science (NS) , Database Systems.He has been awarded Google Research Award, in the year 2012 and best faculty award from IBM in the year 2010
