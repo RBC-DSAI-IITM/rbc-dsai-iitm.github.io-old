@@ -17,12 +17,6 @@ collections:
   people:
     output: true 
 
-defaults:
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: member
 
 authors:
   denzil:

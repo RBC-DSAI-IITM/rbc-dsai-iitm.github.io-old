@@ -31,7 +31,10 @@ permalink: publications
             {% for paper in site.data.ilds %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
-                <span class="pub-authors">{{ paper.author }}</span>
+                <span class="pub-authors">
+                {% assign authors= paper.author | split: "and" %}
+                {% for author in authors %} {{ author | split: "," | reverse | join: " "|append:", " }} {% endfor %}
+                </span>
                 <span class="pub-journal">{{ paper.journal }}</span>
                 <span class="pub-publisher">{{ paper.publisher }}</span>
                 <span class="pub-year">({{ paper.year }})</span>
