@@ -37,14 +37,14 @@ layout: default
     </div>
 
     <!-- News and Spotlight Events  --> 
-    <div class="container news">
+    <div class="container">
 
       <div class="row">
 
         <div class="col-sm-8 news">
           <h3 class="section-title pl-0"> News </h3>
 
-          <div class="card"> 
+          <div class="card drop-shadow"> 
             <div class="row no-gutters ">
             <div class="col-2">
             <img  class="member-img img-responsive center-block" src="images/news/Kamakoti.jpg" alt="Card image cap" >
@@ -59,7 +59,7 @@ layout: default
             </div>
           </div>
 
-          <div class="card"> 
+          <div class="card drop-shadow"> 
             <div class="row no-gutters">
             <div class="col-2">
             <img  class="member-img center-block" src="images/news/preksha.jpg" alt="Card image cap" >
@@ -103,7 +103,50 @@ layout: default
 
         </div>
 
+        <div class="row">
+            <div class="col-12">
+            <h3 class="section-title pl-0 mb-0"> Recent Publications </h3>
+            <div>
+          
+        </div>
+
+        <div class="row">
+          <div class="col-12">
+            <ol class="col-8 publications list">
+            {% assign recent_papers = site.data.ilds | sort:"year" | reverse %}
+            {% for paper in recent_papers  limit:2 %}
+              <li>
+                <span class="pub-title">{{ paper.title}} </span> 
+                <span class="pub-authors">
+                {% assign authors= paper.author | split: "and" %}
+                {% for author in authors %} {{ author | split: "," | reverse | join: " "|append:", " }} {% endfor %}
+                </span>
+                <span class="pub-journal">{{ paper.journal }}</span>
+                <span class="pub-year">({{ paper.year }})</span>
+                <span class="pub-location"></span>
+                <span class="pub-tail">
+                  {{ paper.volume }}
+                  {% if paper.number %} ({{ paper.number }}) {% endif %}
+                  {{ paper.pages}}
+                </span>
+                <span class="pub-links"> 
+                  {% if paper.link %}<a href="{{ paper.link }}">pdf</a> {% endif %}
+                  <!-- <a href="#">git</a> -->
+                </span>
+              </li>
+              {% endfor %}
+
+            </ol>
+
+            <div> 
+               <a class="btn btn-primary btn-sm btn-view-more" role="button" href="publications/"> 
+                +  View More Publications
+               </a>
+            </div>
+          </div>
+        </div>
     </div>
+
     <!--
     <div class="container collab-section">
       <h3 class="section-title"> Government / Industry Relations </h3> 

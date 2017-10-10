@@ -4,6 +4,7 @@ title: People
 permalink: people
 ---
       <div class="container">
+      <!--
           <div class="row justify-content-center mb-4"> 
             <div class="col-auto">
               <ul class="nav nav-pills mt-4 ">
@@ -13,18 +14,17 @@ permalink: people
               </ul> 
             </div>
           </div>
+          -->
 
-          <!--
           <div class="row"> 
             <h1 class="col section-title">Faculty</h1>
           </div>
-          -->
 
           <div class="row" id="faculty-panel">
            {% for member in site.people %}
              {% if member.type contains "faculty" %}
              <div class="card people-card col-sm-4 ">
-               <div class="card-body">
+               <div class="card-body drop-shadow">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="{{member.url}}">{{ member.name }}</a></h5>
                  {% for designation in member.designations %}
@@ -32,7 +32,7 @@ permalink: people
                  {% endfor %}
                  <p class="card-text">
                    {% for area in member.areas %}
-                      <span class="member-area"> {{ area }} </span>
+                      <span class="member-area"> {{area}}</span>
                    {% endfor %}
                  </p>
                </div>
