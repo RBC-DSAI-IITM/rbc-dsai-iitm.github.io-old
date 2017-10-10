@@ -24,6 +24,57 @@ body {
     padding-left: 2px;
 }
 
+
+.jumbotron {
+  background-color:#fcffc4;  
+}
+
+.jumbotron h1 {
+  font-weight:bold;
+  color: #3f4387;
+}
+
+.jumbotron p.lead {
+  padding:.2rem .3rem;
+  
+}
+
+.jumbotron-tail .subtitle {
+  font-weight: bold;
+}
+
+.jumbotron-tail p {
+  font-size:1.2em;
+
+
+}
+
+
+.vcard {
+  
+}
+
+.vcard > span {
+  display: block;
+  
+}
+.vcard-title{
+  font-weight:600;
+  font-size:1.3em;
+  color: #5b5999;
+}
+
+.vcard-building {
+  font-size:1.2em;
+}
+.vcard-institute {
+  font-size:1.1em;
+}
+.vcard-location{
+  font-size:1.05em;
+  color:#444;
+}
+
 #research-areas-carousel {
     margin-top:8px;
 }
