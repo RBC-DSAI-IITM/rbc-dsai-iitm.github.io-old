@@ -111,8 +111,8 @@ layout: default
         </div>
 
         <div class="row">
-          <div class="col-12">
-            <ol class="col-8 publications list">
+          <div class="col-sm-12">
+            <ol class="col-sm-8 publications list">
             {% assign recent_papers = site.data.ilds | sort:"year" | reverse %}
             {% for paper in recent_papers  limit:2 %}
               <li>

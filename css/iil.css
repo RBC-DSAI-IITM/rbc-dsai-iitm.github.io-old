@@ -1,5 +1,5 @@
 body {
-  margin-top:3.5rem;  
+  margin-top:3.4rem;  
 }
 .bg-light {
  background-color:#fff !important; 
@@ -26,7 +26,60 @@ body {
 
 
 .jumbotron {
+  position:relative;
+  z-index:15;
   background-color:#fdffd4;  
+  padding:4rem 2rem;
+  height:15rem;
+}
+
+.jumbotron-content {
+  position:absolute;
+  z-index:20;
+  height:15rem;
+}
+
+.bg-img {
+  position: absolute;
+  top:0;
+  bottom:0;
+  width:100%;
+}
+
+.bg-img > img {
+  width:100%;
+}
+
+.about-header {
+  height:25rem;
+  padding:0px;
+}
+
+.about-header .jumbotron-content {
+  top:10%;
+  left:10%;
+  right:10%;
+  height:25rem;
+
+}
+.about-header > .bg-img {
+  height:25rem;
+}
+
+.about-header > .bg-img > img {
+  height:25rem;
+}
+
+
+.about-header h1.jumbotron-heading {
+  color:white;
+  text-shadow: 1px 1px #666;
+}
+
+.about-header p.lead {
+  color:#fff;
+  text-shadow: 1px 1px #666;
+  
 }
 
 .jumbotron h1 {
@@ -36,7 +89,6 @@ body {
 
 .jumbotron p.lead {
   padding:.2rem .3rem;
-  
 }
 
 
@@ -283,6 +335,31 @@ footer {
 }
 
 @media (max-width: 768px) {
+
+    .about-header {
+       height:40rem;
+    }
+    .about-header  .jumbotron-content {
+       top:8%;
+       left:8%;
+       height:40rem;
+    }
+
+    .about-header .bg-img {
+      height: 40rem;
+      
+    }
+    .about-header > .bg-img > img {
+      height: 40rem;
+    }
+    .jumbotron h1 {
+      font-size:1.8em;
+    }
+
+    .jumbotron p.lead {
+      font-size:1.2em;
+      
+    }
    
     .profile-pic-frame {
       text-align: center;
