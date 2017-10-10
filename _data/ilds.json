@@ -24,7 +24,7 @@
 
 {'title': 'Entity linking for web search queries', 'booktitle': 'European Conference on Information Retrieval', 'author': 'Deepak, P and Ranu, Sayan and Banerjee, Prithu and Mehta, Sameep', 'ID': 'deepak2015entity', 'pages': '394--399', 'year': '2015', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'journal': 'in the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'author': 'Jain, A., Nasre, R., and Ravindran, B.', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
+{'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'journal': 'in the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'author': 'Jain, A. and Nasre, R. and Ravindran, B.', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
 
 {'author': 'Chandramohan, T. N., and Ravindran, B.', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'journal': 'in the proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017)', 'year': '2017', 'ENTRYTYPE': 'inproceedings', 'address': 'Alghero, Italy', 'ID': 'chandra2017clickstream'},
 
@@ -34,7 +34,7 @@
 
 {'title': 'EPOpt: Learning Robust Neural Network Policies Using Model Ensembles', 'journal': 'arXiv preprint arXiv:1610.01283', 'author': 'Rajeswaran, Aravind and Ghotra, Sarvjeet and Levine, Sergey and Ravindran, Balaraman', 'ID': 'rajeswaran2016epopt', 'year': '2016', 'ENTRYTYPE': 'article'},
 
-{'title': 'Data Driven Strategies for Active Monocular SLAM using Inverse Reinforcement Learning', 'booktitle': 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems', 'author': 'Prasad, Vignesh and Jangir, Rishabh and Balaraman, Ravindran and Krishna, K Madhava', 'ID': 'prasad2017data', 'pages': '1697--1699', 'year': '2017', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+{'title': 'Data Driven Strategies for Active Monocular SLAM using Inverse Reinforcement Learning', 'booktitle': 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems', 'author': 'Prasad, Vignesh and Jangir, Rishabh and Ravindran, Balaraman and Krishna, K Madhava', 'ID': 'prasad2017data', 'pages': '1697--1699', 'year': '2017', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Thresholding Bandits with Augmented UCB', 'journal': 'arXiv preprint arXiv:1704.02281', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ID': 'mukherjee2017thresholding', 'year': '2017', 'ENTRYTYPE': 'article'},
 
