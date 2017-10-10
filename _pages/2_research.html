@@ -131,6 +131,15 @@ permalink: research
 
     <hr class="featurette-divider">
     
+    {% for project in site.project %} 
+    <div class="card people-card col-sm-12">
+     <div class="card-body">
+       <h3 class="card-title">{{ project.title }}</h3>
+       <h4 class="card-subtitle mb-2">{{ project.coordinators }}</h4>
+       <p class="card-text">{{ project.abstract }}</p>
+     </div>
+    </div>
+    {% endfor %}
 
   </div>
 
