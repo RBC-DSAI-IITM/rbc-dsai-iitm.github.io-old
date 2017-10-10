@@ -26,7 +26,7 @@ body {
 
 
 .jumbotron {
-  background-color:#fcffc4;  
+  background-color:#fdffd4;  
 }
 
 .jumbotron h1 {
@@ -39,11 +39,14 @@ body {
   
 }
 
+
 .jumbotron-tail .subtitle {
   font-weight: bold;
+  color: #4c619c;
 }
 
 .jumbotron-tail p {
+
   font-size:1.2em;
 
 
@@ -51,7 +54,7 @@ body {
 
 
 .vcard {
-  
+  padding-top: 3rem;  
 }
 
 .vcard > span {
