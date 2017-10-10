@@ -149,10 +149,14 @@ layout: default
 
     
     <div class="container collab-section">
-      <h3 class="section-title"> Government / Industry Relations </h3> 
+      <div class="row">
+        <div class="col-12">
+          <h3 class="section-title"> Government / Industry Relations </h3> 
+        </div>
+      </div>
       <div class="row">
       {% for collaborator in site.data.collaborators  %}
-        <div class="card">
+        <div class="card col-2 drop-shadow industry-card">
              <img class="card-img-top" src="images/industrial/{{ collaborator.image }}"> 
         </div>
       {% endfor %}
