@@ -1,0 +1,51 @@
+---
+layout: default
+title: Education
+permalink: education
+---
+
+<section class="jumbotron text-center">
+  <div class="container">
+    <h1 class="jumbotron-heading">Education</h1>
+    <p class="lead  text-muted">
+       Here is a list of various courses offered by the faculty associated with RBC-DSAI.
+    </p>
+  </div>
+</section>
+
+
+<div class="container">  
+
+  <!-- <hr class="featurette-divider"> -->
+
+  <h2>NPTEL courses</h2>
+  <hr>
+
+  {% for course in site.nptel %} 
+    <div class="card people-card col-sm-12">
+     <div class="card-body">
+       <h3 class="card-title"><a href="{{ course.link }}">{{ course.title }}</a></h3>
+       <h4 class="card-subtitle mb-2">{{ course.instructor }}</h4>
+       <p class="card-text">{{ course.description }}</p>
+     </div>
+   </div>
+  {% endfor %}
+
+  <hr class="featurette-divider">
+
+  <h2>IITM Electives</h2>
+  <hr>
+
+  {% for course in site.data.iitm_electives %} 
+    <div class="card people-card col-sm-12">
+     <div class="card-body">
+       <h4 class="card-title">{{ course.num }} : {{ course.title }}</h4>
+       <h4 class="card-subtitle mb-2">{{ course.instructor }}</h4>
+     </div>
+   </div>
+  {% endfor %}
+
+  <!-- <hr class="featurette-divider"> -->
+
+</div>
+
