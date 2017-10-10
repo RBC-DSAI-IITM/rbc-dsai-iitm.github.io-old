@@ -1,0 +1,10 @@
+---
+title: Simultaneous role analysis and community detection with application in churn prediction and study of network dynamics.
+coordinators:
+Funding agency:
+students:
+project staff:
+category: others
+sub domain:
+abstract: Community detection and structural role detection are two distinct but closely-related perspectives in network analytic. From the aspect of telecom consumer behavior analytics, community detection finds subgroups of users that are in frequent communication with one another, and structural role detection identifies users of various functionalities (for example, bridge, hub, periphery, etc.) in the network. Prior work has revealed the effectiveness using community/role detection in network science, and we will investigate the utility of such behavioral analytical tools in telecom industry applications such as churn prediction and influence propagation modeling.
+--- 

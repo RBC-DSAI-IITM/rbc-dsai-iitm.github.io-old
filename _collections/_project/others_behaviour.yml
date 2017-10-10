@@ -1,0 +1,10 @@
+---
+title: Consumer Behavior modeling using multi-modal data fusion.
+coordinators: B. Ravindran, Sayan Ranu, Srinivasan Parthasarathy 
+Funding agency: Ericsson Global Research.
+students:
+project staff:
+category: others
+sub domain:
+abstract: A business has a competitive edge if one can predict “customer event” before it happens and provide proactive assistance to an aggrieved customer. A variety of information is available for building such predictive model. The key difficulty is to be able to do the information integration in the few seconds, or at worst a minute, from a customer’s call to a representative answering the call. This would require some amount of judicious pre-processing of data and a good predictive model of when such calls would come in.
+---

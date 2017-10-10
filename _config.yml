@@ -9,13 +9,13 @@ description: >
   
 baseurl: ""
 url    : "localhost:4000"
-include: ['_pages', '_collections']
+include: ['_pages']
 
 collections:
-  collections_dir : people
-  permalink: /:collection/:path/
+  nptel:
   people:
-    output: true 
+    permalink: /:collection/:path/
+    output: true
 
 
 authors:
