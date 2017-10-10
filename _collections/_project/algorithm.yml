@@ -1,17 +1,17 @@
-
-- layout: default
-  title: Developing parallel libraries for network analytics on Spark
-  coordinators: Ravindran B, Kamakoti, V
-  funding agency:
-  students: Prashant Tatan, Madhur Charkha, Akash Jain, Ashish Bhayana
-  project staff: Tania Khan, Thulasi Bai
-  category: algorithm
-  sub domain:
-  abstract: One of the common theme underlying much of the work in the group is that of network analytics. In diverse areas such as   transportation and systems biology the data is typically associated with a network of interacting entities. Analyzing the effects on a node in isolation is often not fructuous and we need to look at the network of entities as a whole. This leads to additional challenges in map-reduce style parallelism. We look to leverage the availability of several graph abstractions on Spark, such as Graphx and pregel, in order to develop efficient libraries for several common and specialized network related tasks. These libraries will be available to the campus community at large and would be deployed on our compute cluster.
+---
+layout: default
+title: Developing parallel libraries for network analytics on Spark
+coordinators:Ravindran B, Kamakoti, V
+funding agency:
+students: Prashant Tatan, Madhur Charkha, Akash Jain, Ashish Bhayana
+project staff: Tania Khan, Thulasi Bai
+category: algorithm
+sub domain:
+abstract: One of the common theme underlying much of the work in the group is that of network analytics. In diverse areas such as transportation and systems biology the data is typically associated with a network of interacting entities. Analyzing the effects on a node in isolation is often not fructuous and we need to look at the network of entities as a whole. This leads to additional challenges in map-reduce style parallelism. We look to leverage the availability of several graph abstractions on Spark, such as Graphx and pregel, in order to develop efficient libraries for several common and specialized network related tasks. These libraries will be available to the campus community at large and would be deployed on our compute cluster.
 
 - title: Multiplex Network:Models, Algorithms, and Applications
   coordinators: B. Ravindran, Venkatesh Ramaiyan, Ramasuri Narayanam (IBM-IRL)
-  funding Agency: Partly supported by IBM-IRL
+  Funding Agency: Partly supported by IBM-IRL
   students:
   project staff:
   category: algorithm
@@ -22,136 +22,5 @@ In particular, we wish to conduct basic research in this topic along two directi
   - We explore the construction of hypergraphs for attribute descriptions of data and the use of multiplex hypergraph networks in collective 		learning setting.
 
 In particular we work on developing applications on bibliographic network analysis using multiplex hypergraph models and develop algorithms that are relevant to the bibliographic domain and possibly relevant elsewhere. Given a seed paper or a set of query phrases, trace the relevant papers for the query. This is done through an interactive process where in a combination of the content of the papers as well as the network structure is used to narrow down on a set of useful papers to cite/read.
+---
 
-- title: Biological Networks & Data Analysis 
-  coordinators: Karthik Raman, B. Ravindran, Sayan Ranu, Raghunathan Rengasamy
-  funding agency:
-  students: Karthik A, Malvika Sudhakar, Pallavi Gudipati, Beethika Tripathy
-  project staff:
-  collaborator: Ashok Venkitaraman (Cambridge)
-  category: biological network
-  sub domain:
-  abstract: ILDS also works on a variety of problems related to biological networks/data analysis, such as predicting protein essentiality from protein interaction networks, mining biochemical reaction rules from complex reaction networks, identifying synthetic lethals in metabolic networks as well as learning protein function from protein interaction networks. We are also looking at integrating biological data from different levels of biological organisation, such as genomic, proteomic, transcriptiomic and phosphoproteomics data.
-
-- title: Intelligent Budgeting in Design of Experiments
-  coordinators: NandanSudarsanam,B.Ravindran
-  funding agency:
-  students: Balaji. P and Shubhojyothi Mukherjee.
-  project staff: 
-  category: Financial analysis
-  abstract: Statistical experimentation, or Design of Experiments in conventional usage, is the science of conducting tests on systems to understand and improve them. It involves making systematic and purposeful changes to factors (input variables) and observing their effects on the response (output variable). Traditional statistical experimentation has focused on model building in offline settings. However, there are a multitude of real-world systems that cannot be taken offline, partly or wholly. Also, in many cases the motivation to experiment could by process improvement rather than gaining knowledge of the system through mathematical models. The machine learning field of reinforcement learning, deals with similar problems through the multi-armed bandit settings and their extensions.This research seeks to apply the concepts from bandit problems to designed experiments, which focus primarily on multiple input variables, and specifically the experiments ability to exploit the interactive effects that might exist between the input variables. Concepts from Active learning, Stochastic optimization and game theory will also be leveraged in order to create effective algorithms.
-
-- title: Consumer Behaviour Data Analysis.
-  coordinators:
-  funding agency:
-  students:
-  project staff:
-  category: others
-  sub domain:
-  abstract: We propose to explore several problems in the space of consumer behaviour analytic. We will endeavour to develop solutions that are deployable in a cloud or virtual environment. This is to enable integration with other Ericsson projects and tools if required. The intent is to develop scalable algorithms deployable on the cloud as well as on traditional high performance computing platforms leveraging our prior expertise in high performance data mining and machine learning.
-
-
-- title: Simultaneous role analysis and community detection with application in churn prediction and study of network dynamics.
-  coordinators:
-  funding agency:
-  students:
-  project staff:
-  category: others
-  sub domain:
-  abstract: Community detection and structural role detection are two distinct but closely-related perspectives in network analytic. From the aspect of telecom consumer behavior analytics, community detection finds subgroups of users that are in frequent communication with one another, and structural role detection identifies users of various functionalities (for example, bridge, hub, periphery, etc.) in the network. Prior work has revealed the effectiveness using community/role detection in network science, and we will investigate the utility of such behavioral analytical tools in telecom industry applications such as churn prediction and influence propagation modeling.
-
-- title: Temporal motif analysis across temporal partitions of social networks.
-  coordinators:
-  funding agency:
-  students:
-  project staff:
-  category: others
-  sub domain:
-  abstract: Network motifs are statistically significant subgraphs, which occur frequently in the original network as compared to randomized networks. Quantifying the significance of motifs varies from application to application. Nonetheless, mining network motifs forms the backbone of various applications such as analyzing human interactions in call graph network, network classification, spam detection, protein-protein link prediction, prediction of susceptibility to cancer, and study of brain networks. These studies are done on static networks but real word communication networks are dynamic in nature. The goal of the work would be to develop our work on temporal motif mining to detecting significant temporal signatures indicating interesting events happening in the communication network. We will validate this work on telecom call graphs and other interaction networks and look to correlate to external events of interest.
-
-- title: Consumer Behavior modeling using multi-modal data fusion..
-  coordinators: B. Ravindran, Sayan Ranu, Srinivasan Parthasarathy 
-  funding agency: Ericsson Global Research.
-  students:
-  project staff:
-  category: others
-  sub domain:
-  abstract: A business has a competitive edge if one can predict “customer event” before it happens and provide proactive assistance to an aggrieved customer. A variety of information is available for building such predictive model. The key difficulty is to be able to do the information integration in the few seconds, or at worst a minute, from a customer’s call to a representative answering the call. This would require some amount of judicious pre-processing of data and a good predictive model of when such calls would come in.
-
-- title: Statistical estimation of electromagnetic radiation using large data analysis of cellphone signal levels
-  coordinators: Bhaskar Ramamurthy,  Radhakrishna Ganti,  Krishna Jagannathan,  B. Ravindran, P.R.Goundan, Babu Narayanan
-  funding agency: Department of Science and Technology, Govt. of India.
-  students:
-  project staff:
-  category: past project
-  sub domain: pollution
-  abstract: The issue of Electromagnetic Radiation emitted from cell-phone towers and mobile handsets in the non-ionizing band has got considerable attention in recent times. Though there are several studies and measurement exercises undertaken to get an understanding of the situation, they have not been able to give a complete picture of the scenario. This project will employ a novel approach in order to get insight into the Electromagnetic emissions experienced by the public.  It will make use of considerable amount of data available from the existing handsets and base stations which are deployed and used across the country. This data include the signal power seen at a particular location from different operators in the vicinity. Very reliable statistical distributions will be arrived at by collecting electromagnetic levels seen by the millions of handsets and performing a big data analysis of the same. This will help in arriving at patterns of electromagnetic radiation in a geographical region which can in turn help in classifying areas and identifying any alarm zones. The analysis thus done will be augmented by simulation studies and measurements in the field.
-
-
-- title: Smart Grids Data Analytics for Cyber Attack and Fault Detection
-  Coordinators: Ramkrishna Pasumarthy, Nirav Bhatt
-  funding agency:
-  Students: Jayadev Pappu
-  Project Staff:
-  Category: Smart cities
-  Subdomain: power
-  abstract: The demand for electrical energy is increasing twice as fast as it is being used. This necessities the need for generating electricity from many sources, transmitting and distributing with augmented efficiency and conserving through optimal usage. With the advent of Smart Grid technologies, meeting the energy demands of the future seems very much possible.
-Even though the reach of Smart Grid technologies is limited at present, a large amount of data, pertaining to variables like voltage, current, power, etc. on an hourly or half hourly basis, is being generated from the smart meters. The data can be analyzed to improve and expanding Smart grid technologies for Indian markets.
-The project envisages the analysis of Smart Grid Data with an aim to achieve the following objectives:
-  - Reconstruction of the underlying network topology accurately, even in the presence of noise or missing data.
-  - Developing models to validate the data. This is important given the possibilities of cyber-attacks on the Smart Grid, which is also an   	     example of cyber-physical systems.
-  - Developing effective and efficient ways of Fault prediction and Theft detection.
-  - Evaluation of the proposed methods and models through real data collected from an existing grid.
-  - Forecasting the demand utilizations based on historical data.
-
-- title: Deep learning for automotive applications
-  Coordinators: B. Ravindran, Kaushik Mitra
-  funding agency:
-  Students:
-  Project Staff:
-  Category: smart cities
-  Subdomain: transportation
-  abstract: With the increased success of Deep Learning techniques in visual systems, there has been Deep Learning works specific to the areas of interest for Autonomous Driver Assist Systems (ADAS). These include vehicle detection, vehicle tracking, pedestrian detection, lane detection, semantic segmentation etc. In the project we explore the use of convolutional neural networks in detection, classification and semantic segmentation in the context of ADAS. We propose to extend image based algorithms to videos and eventually look to explore efficient implementations on DSP processors.
-
-- title: Data mining and algorithms using Intelligent Transportation Systems data
-  Coordinators: Karthik K. Srinivasan, Gitakrishnan Ramadurai, B. Ravindran, Sayan Ranu
-  funding agency:
- Students: Deepak Mittal, Nandani Garg
- Project Staff: Thulasi Bai
- Category: Smart Cities
- Subdomain: Transportation
- abstract: Rich real-time traffic data is being obtained using advanced sensors such as Video and GPS as well as communication technologies at a data centre in the Intelligent Transportation Systems laboratory. This data offers tremendous scope to investigate empirical patterns and use these insights to operate and manage the transportation system towards desired objectives including reduced congestion, improved reliability and safety, better fuel efficiency and decrease in environmental pollution. The focus of this work will be to mine this data to derive empirical understanding and develop models towards this broad goal. Specific focus areas include:quantification of the ITS data to investigate the role of various sources that affect system performance (demand, incidents, weather, construction, special events, control devices etc.) and applying this knowledge towards the development of algorithms for optimizing and improving system performance.
-Illustrative applications could include:
-  - Algorithms based on data fusion from various real-time data sources
-  - Traffic control state prediction from real-time data
-  - Quantification of system performance for mixed traffic using vehicle trajectory level data
-
-- title: Development of a Dynamic Traffic Congestion Prediction System for Indian Cities
-  Coordinators: Dr. Lelitha Devi,Dr. Gitakrishnan Ramadurai,Dr.C.S.Shankar Ram,Dr. Ravindran B,Dr.Sayan Ranu,Dr.Kaushik Mitra
-  Coordinators of TCS: 
-  - Dr. Venkatesh Sarangan, Principal Scientist, TCS Innovation Labs, Chennai
-  - Rajesh Jayaprakash, Innovation Manager, TCS Innovation Labs, Chennai
-  - Arvind Ramanujam, Scientist, TCS Innovation Labs, Chennai
-  - Dr. Avinash Achar, Scientist, TCS Innovation Labs, Chennai
-  funding agency: TCS
-  Students: Amritha, Anna, Hima, Dhivya, Nandani, Deepak, Ashutosh
-  Project Staff: Raji, Badhrudeen, Poornima, Divya, Deepan
-  Category: Smart Cities
-  Subdomain: Transportation
-  abstract: Traffic congestion is one of the major challenges faced by traffic engineers all over the world. Solutions ranging from major infrastructure development to smaller traffic management measures such as reversible lanes and one way roads are being tried out to address this problem. One such solution to alleviate congestion, with minimal infrastructure, is to manage the traffic in real time using advanced technologies and methodologies. Such solutions are part of the general area of Intelligent Transportation Systems (ITS). These solutions are required to be developed as an integral part of the smart city initiatives by the Government of India.
-The basic requirement for a congestion prediction system is to identify effective methods for quantifying congestion. Density, which is the number of vehicles over a length of roadway, is one of the most widely used congestion indicators. Travel time is another traffic variable that can indicate the congestion. However, due to the spatial nature of these variables, it is difficult to measure them directly from the field. Hence, it is usually estimated from point measurements of variables such as flow or speed. However, these variables have limitations in capturing the spatial variations. A data fusion approach, where data collected from more than one source, can be adopted under such scenarios for better accuracy. In the proposed study, quantification and prediction of traffic congestion will be attempted using location based and spatial data independently as well as based on a fusion approach. This would be done with the help of data obtained from location based sensors such as using video cameras and spatial data (mainly travel time) obtained using Global Positioning System (GPS) tracking devices and smart phone based crowd sourcing, in addition to traffic related information collected from other sources such as blue tooth devices, social media, etc
- 
-- title: Control and operation of urban water distribution network(WDN)
-  Principal Coordinator: Sridharakumar Narasimhan
-  Co-coordinators: Shankar Narasimhan,B.S. Murty,
-  students: Varghese Kurien, Saravanan
-  project staff: M Prasanna, R Gowsaliya
-  category: smart cities
-  subdomain: water distribution network
-  abstract: There has been an alarming decrease in the availability of fresh water supplies in recent years. This has led to increased focus on the generation, conservation, reuse and equitable distribution of this scarce resource. Urban water distribution networks in India are fairly old, poorly instrumented and not maintained properly leading to significant leakage. Municipalities in India officially report that 30-35% water is lost in leakages. Furthermore, due to insufficient water availability, the water supply is intermittent and is not equitably distributed. Advances in instrumentation, automation and information technology can be exploited to significantly reduce leakages, improve and guarantee water quality and also distribute the available water in a just and equitable manner. These technological advances have also provided the tools to optimize the design and operation of existing as well as new facilities.
-The main objective of this project is to develop automated strategies for effective control and optimization of Water Distribution Networks (WDNs) and water treatment facilities. It is proposed to achieve this objective by suitable instrumentation of the water treatment plants and the distribution networks, online acquisition and transmission of the information to a network management system, and developing control methods that can deal with large scale complex urban water distribution networks.The specific problems that will be addressed as part of this proposal are
-  - Development of control strategies to prevent wastage of water when it is available in excess and for equitably supplying it during     	    periods of water deficient conditions.
-  - Development of optimal operating and scheduling strategies for both directly pumped WDNs and WDNs with local storage facilities (sumps    	and overhead tanks) for ensuring 24×7 water supply.
-  - Design and fabrication of a scaled down table-top reconfigurable model of a complex pipeline network for demonstrating and validating the proposed methods.
-  - Evaluation of the proposed methods through numerical simulations and the experimental set-up.
- Demonstration of proposed methods in situ in the IIT Madras network.
