@@ -1,0 +1,10 @@
+---
+title: Temporal motif analysis across temporal partitions of social networks.
+coordinators:
+Funding agency:
+students:
+project staff:
+category: others
+sub domain:
+abstract: Network motifs are statistically significant subgraphs, which occur frequently in the original network as compared to randomized networks. Quantifying the significance of motifs varies from application to application. Nonetheless, mining network motifs forms the backbone of various applications such as analyzing human interactions in call graph network, network classification, spam detection, protein-protein link prediction, prediction of susceptibility to cancer, and study of brain networks. These studies are done on static networks but real word communication networks are dynamic in nature. The goal of the work would be to develop our work on temporal motif mining to detecting significant temporal signatures indicating interesting events happening in the communication network. We will validate this work on telecom call graphs and other interaction networks and look to correlate to external events of interest.
+---
