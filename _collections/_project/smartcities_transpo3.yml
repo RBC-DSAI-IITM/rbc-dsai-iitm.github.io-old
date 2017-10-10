@@ -1,0 +1,17 @@
+---
+layout: default
+Title: Development of a Dynamic Traffic Congestion Prediction System for Indian Cities
+Coordinators: Dr. Lelitha Devi,Dr. Gitakrishnan Ramadurai,Dr.C.S.Shankar Ram,Dr. Ravindran B,Dr.Sayan Ranu,Dr.Kaushik Mitra
+Coordinators of TCS: 
+  - Dr. Venkatesh Sarangan, Principal Scientist, TCS Innovation Labs, Chennai
+  - Rajesh Jayaprakash, Innovation Manager, TCS Innovation Labs, Chennai
+  - Arvind Ramanujam, Scientist, TCS Innovation Labs, Chennai
+  - Dr. Avinash Achar, Scientist, TCS Innovation Labs, Chennai
+funding agency: TCS
+Students: Amritha, Anna, Hima, Dhivya, Nandani, Deepak, Ashutosh
+Project Staff: Raji, Badhrudeen, Poornima, Divya, Deepan
+Category: Smart Cities
+Subdomain: Transportation
+abstract: Traffic congestion is one of the major challenges faced by traffic engineers all over the world. Solutions ranging from major infrastructure development to smaller traffic management measures such as reversible lanes and one way roads are being tried out to address this problem. One such solution to alleviate congestion, with minimal infrastructure, is to manage the traffic in real time using advanced technologies and methodologies. Such solutions are part of the general area of Intelligent Transportation Systems (ITS). These solutions are required to be developed as an integral part of the smart city initiatives by the Government of India.
+The basic requirement for a congestion prediction system is to identify effective methods for quantifying congestion. Density, which is the number of vehicles over a length of roadway, is one of the most widely used congestion indicators. Travel time is another traffic variable that can indicate the congestion. However, due to the spatial nature of these variables, it is difficult to measure them directly from the field. Hence, it is usually estimated from point measurements of variables such as flow or speed. However, these variables have limitations in capturing the spatial variations. A data fusion approach, where data collected from more than one source, can be adopted under such scenarios for better accuracy. In the proposed study, quantification and prediction of traffic congestion will be attempted using location based and spatial data independently as well as based on a fusion approach. This would be done with the help of data obtained from location based sensors such as using video cameras and spatial data (mainly travel time) obtained using Global Positioning System (GPS) tracking devices and smart phone based crowd sourcing, in addition to traffic related information collected from other sources such as blue tooth devices, social media, etc
+---

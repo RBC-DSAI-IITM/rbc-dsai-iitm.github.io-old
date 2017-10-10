@@ -1,0 +1,18 @@
+---
+title: Smart Grids Data Analytics for Cyber Attack and Fault Detection
+Coordinators: Ramkrishna Pasumarthy, Nirav Bhatt
+funding agency:
+Students: Jayadev Pappu
+Project Staff:
+Category: Smart cities
+Subdomain: power
+abstract: The demand for electrical energy is increasing twice as fast as it is being used. This necessities the need for generating electricity from many sources, transmitting and distributing with augmented efficiency and conserving through optimal usage. With the advent of Smart Grid technologies, meeting the energy demands of the future seems very much possible.
+Even though the reach of Smart Grid technologies is limited at present, a large amount of data, pertaining to variables like voltage, current, power, etc. on an hourly or half hourly basis, is being generated from the smart meters. The data can be analyzed to improve and expanding Smart grid technologies for Indian markets.
+The project envisages the analysis of Smart Grid Data with an aim to achieve the following objectives:
+  - Reconstruction of the underlying network topology accurately, even in the presence of noise or missing data.
+  - Developing models to validate the data. This is important given the possibilities of cyber-attacks on the Smart Grid, which is also an   	     example of cyber-physical systems.
+  - Developing effective and efficient ways of Fault prediction and Theft detection.
+  - Evaluation of the proposed methods and models through real data collected from an existing grid.
+  - Forecasting the demand utilizations based on historical data.
+---
+

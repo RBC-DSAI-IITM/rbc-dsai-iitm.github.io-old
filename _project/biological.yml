@@ -1,0 +1,12 @@
+---
+layout: default
+title: Biological Networks & Data Analysis 
+coordinators: Karthik Raman, B. Ravindran, Sayan Ranu, Raghunathan Rengasamy
+funding agency:
+students: Karthik A, Malvika Sudhakar, Pallavi Gudipati, Beethika Tripathy
+project staff:
+Collaborator: Ashok Venkitaraman (Cambridge)
+category: biological network
+sub domain:
+abstract: ILDS also works on a variety of problems related to biological networks/data analysis, such as predicting protein essentiality from protein interaction networks, mining biochemical reaction rules from complex reaction networks, identifying synthetic lethals in metabolic networks as well as learning protein function from protein interaction networks. We are also looking at integrating biological data from different levels of biological organisation, such as genomic, proteomic, transcriptiomic and phosphoproteomics data.
+---

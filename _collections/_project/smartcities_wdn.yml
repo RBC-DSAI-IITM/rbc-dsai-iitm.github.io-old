@@ -1,0 +1,17 @@
+--- 
+layout:default
+title: Control and operation of urban water distribution network(WDN)
+Principal Coordinator: Sridharakumar Narasimhan
+Co-coordinators: Shankar Narasimhan,B.S. Murty,
+students: Varghese Kurien, Saravanan
+project staff: M Prasanna, R Gowsaliya
+category:s mart cities
+subdomain: water distribution network
+abstract: There has been an alarming decrease in the availability of fresh water supplies in recent years. This has led to increased focus on the generation, conservation, reuse and equitable distribution of this scarce resource. Urban water distribution networks in India are fairly old, poorly instrumented and not maintained properly leading to significant leakage. Municipalities in India officially report that 30-35% water is lost in leakages. Furthermore, due to insufficient water availability, the water supply is intermittent and is not equitably distributed. Advances in instrumentation, automation and information technology can be exploited to significantly reduce leakages, improve and guarantee water quality and also distribute the available water in a just and equitable manner. These technological advances have also provided the tools to optimize the design and operation of existing as well as new facilities.
+The main objective of this project is to develop automated strategies for effective control and optimization of Water Distribution Networks (WDNs) and water treatment facilities. It is proposed to achieve this objective by suitable instrumentation of the water treatment plants and the distribution networks, online acquisition and transmission of the information to a network management system, and developing control methods that can deal with large scale complex urban water distribution networks.The specific problems that will be addressed as part of this proposal are:
+  - Development of control strategies to prevent wastage of water when it is available in excess and for equitably supplying it during     	    periods of water deficient conditions.
+  - Development of optimal operating and scheduling strategies for both directly pumped WDNs and WDNs with local storage facilities (sumps    	and overhead tanks) for ensuring 24×7 water supply.
+  - Design and fabrication of a scaled down table-top reconfigurable model of a complex pipeline network for demonstrating and validating the proposed methods.
+  - Evaluation of the proposed methods through numerical simulations and the experimental set-up.
+    Demonstration of proposed methods in situ in the IIT Madras network.
+---
