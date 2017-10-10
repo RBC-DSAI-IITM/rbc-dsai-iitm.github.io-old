@@ -19,6 +19,12 @@ ol.publications > li {
   display:block;
 }
 
+.pub-journal {
+  font-style: italic;
+  font-size:1.2em;
+  /*display:block;*/
+}
+
 
 /*
 .pub-title::before, .pub-title::after{

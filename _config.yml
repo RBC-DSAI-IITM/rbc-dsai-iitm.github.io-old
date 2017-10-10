@@ -9,7 +9,7 @@ description: >
   
 baseurl: ""
 url    : "localhost:4000"
-include: ['_pages']
+include: ['_pages', '_collections']
 
 collections:
   collections_dir : people
