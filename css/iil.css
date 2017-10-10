@@ -60,6 +60,7 @@ body {
     background-color :rgba(237, 122, 37, 0.9) ;
     color:white;
     font-weight:bold;
+    outline:none;
     /*
     border-bottom:3px solid rgba(206, 88, 1, 0.9) ;
     */
@@ -67,6 +68,7 @@ body {
 
 a.nav-link {
   text-transform: capitalize;
+  outline:none;
 }
 
 .carousel-indicators li {
