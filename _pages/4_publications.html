@@ -36,7 +36,6 @@ permalink: publications
                 {% for author in authors %} {{ author | split: "," | reverse | join: " "|append:", " }} {% endfor %}
                 </span>
                 <span class="pub-journal">{{ paper.journal }}</span>
-                <span class="pub-publisher">{{ paper.publisher }}</span>
                 <span class="pub-year">({{ paper.year }})</span>
                 <span class="pub-location"></span>
                 <span class="pub-tail">
