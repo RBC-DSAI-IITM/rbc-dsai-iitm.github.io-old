@@ -1,0 +1,105 @@
+[
+
+{'publisher': 'Elsevier', 'title': 'Sensor network design for contaminant detection and identification in water distribution networks', 'journal': 'Computers & Chemical Engineering', 'author': 'Palleti, Venkata Reddy and Narasimhan, Shankar and Rengaswamy, Raghunathan and Teja, Ravi and Bhallamudi, S Murty', 'ID': 'palleti2016sensor', 'volume': '87', 'pages': '246--256', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'IEEE', 'title': 'Identification and Multivariable Gain-Scheduling Control for Cloud Computing Systems', 'journal': 'IEEE Transactions on Control Systems Technology', 'author': 'Saikrishna, Penamakuri Sesha and Pasumarthy, Ramkrishna and Bhatt, Nirav P', 'number': '3', 'ID': 'saikrishna2017identification', 'volume': '25', 'pages': '792--807', 'year': '2017', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'ACM', 'title': 'Falcon: a graph manipulation language for heterogeneous systems', 'journal': 'ACM Transactions on Architecture and Code Optimization (TACO)', 'author': 'Nasre, Rupesh and Srikant, YN and others', 'number': '4', 'ID': 'nasre2016falcon', 'volume': '12', 'pages': '54', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Public Library of Science', 'title': 'Statistical analysis of bus networks in India', 'journal': 'PloS one', 'author': 'Chatterjee, Atanu and Manohar, Manju and Ramadurai, Gitakrishnan', 'number': '12', 'ID': 'chatterjee2016statistical', 'volume': '11', 'pages': 'e0168478', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Elsevier', 'title': 'Deconstructing principal component analysis using a data reconciliation perspective', 'journal': 'Computers & Chemical Engineering', 'author': 'Narasimhan, Shankar and Bhatt, Nirav', 'ID': 'narasimhan2015deconstructing', 'volume': '77', 'pages': '74--84', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Elsevier', 'title': 'Optimal control of water distribution networks with storage facilities', 'journal': 'Journal of Process Control', 'author': 'Sankar, Gokul Siva and Kumar, S Mohan and Narasimhan, Sridharakumar and Narasimhan, Shankar and Bhallamudi, S Murty', 'ID': 'sankar2015optimal', 'volume': '32', 'pages': '127--137', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Oxford University Press', 'title': 'Fast-SL: an efficient algorithm to identify synthetic lethal sets in metabolic networks', 'journal': 'Bioinformatics', 'author': 'Pratapa, Aditya and Balachandran, Shankar and Raman, Karthik', 'number': '20', 'ID': 'pratapa2015fast', 'volume': '31', 'pages': '3299--3305', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'MIT Press', 'title': 'Correlational neural networks', 'journal': 'Neural computation', 'author': 'Chandar, Sarath and Khapra, Mitesh M and Larochelle, Hugo and Ravindran, Balaraman', 'ENTRYTYPE': 'article', 'year': '2016', 'ID': 'chandar2016correlational'},
+
+{'publisher': 'Springer', 'title': 'Hierarchical activity recognition for dementia care using Markov Logic Network', 'journal': 'Personal and Ubiquitous Computing', 'author': 'Gayathri, KS and Elias, Susan and Ravindran, Balaraman', 'number': '2', 'ID': 'gayathri2015hierarchical', 'volume': '19', 'pages': '271--285', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'title': 'Scalable Positional Analysis for Studying Evolution of Nodes in Networks', 'journal': 'arXiv preprint arXiv:1402.3797', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman', 'ID': 'gupte2014scalable', 'year': '2014', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Frontiers Media SA', 'title': 'An extended reinforcement learning model of basal ganglia to understand the contributions of serotonin and dopamine in risk-based decision making, reward prediction, and punishment learning', 'journal': 'Frontiers in computational neuroscience', 'author': 'Balasubramani, Pragathi P and Chakravarthy, V Srinivasa and Ravindran, Balaraman and Moustafa, Ahmed A', 'ENTRYTYPE': 'article', 'volume': '8', 'year': '2014', 'ID': 'balasubramani2014extended'},
+
+{'title': 'Entity linking for web search queries', 'booktitle': 'European Conference on Information Retrieval', 'author': 'Deepak, P and Ranu, Sayan and Banerjee, Prithu and Mehta, Sameep', 'ID': 'deepak2015entity', 'pages': '394--399', 'year': '2015', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'journal': 'in the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'author': 'Jain, A. and Nasre, R. and Ravindran, B.', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
+
+{'author': 'Chandramohan, T. N., and Ravindran, B.', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'journal': 'in the proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017)', 'year': '2017', 'ENTRYTYPE': 'inproceedings', 'address': 'Alghero, Italy', 'ID': 'chandra2017clickstream'},
+
+{'title': 'Class Imbalance Learning', 'series': '1', 'journal': 'Advanced Computing and Communications', 'author': 'Santhiappan, S., and Ravindran, B.', 'ENTRYTYPE': 'article', 'volume': '1', 'year': '2017', 'ID': 'santhiappan2017imbalance'},
+
+{'title': 'Learning to repeat: Fine grained action repetition for deep reinforcement learning', 'journal': 'arXiv preprint arXiv:1702.06054', 'author': 'Sharma, Sahil and Lakshminarayanan, Aravind S and Ravindran, Balaraman', 'ID': 'sharma2017learning', 'year': '2017', 'ENTRYTYPE': 'article'},
+
+{'title': 'EPOpt: Learning Robust Neural Network Policies Using Model Ensembles', 'journal': 'arXiv preprint arXiv:1610.01283', 'author': 'Rajeswaran, Aravind and Ghotra, Sarvjeet and Levine, Sergey and Ravindran, Balaraman', 'ID': 'rajeswaran2016epopt', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Data Driven Strategies for Active Monocular SLAM using Inverse Reinforcement Learning', 'booktitle': 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems', 'author': 'Prasad, Vignesh and Jangir, Rishabh and Ravindran, Balaraman and Krishna, K Madhava', 'ID': 'prasad2017data', 'pages': '1697--1699', 'year': '2017', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Thresholding Bandits with Augmented UCB', 'journal': 'arXiv preprint arXiv:1704.02281', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ID': 'mukherjee2017thresholding', 'year': '2017', 'ENTRYTYPE': 'article'},
+
+{'title': 'Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy', 'booktitle': 'Data Engineering (ICDE), 2017 IEEE 33rd International Conference on', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan', 'ID': 'gupte2017role', 'pages': '771--782', 'year': '2017', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': '$ A\\^{} 2T $: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'author': 'Preksha Nema and Mitesh M. Khapra and Anirban Laha and Balaraman Ravindran', 'timestamp': 'Wed, 07 Jun 2017 14:40:10 +0200', 'journal': 'To appear in the Proceedings of the Fifty-Fifth Annual Meeting of the Association of Computational Linguistics (ACL 2017)', 'title': 'Diversity driven Attention Model for Query-based Abstractive Summarization', 'ENTRYTYPE': 'article', 'link': 'http://arxiv.org/abs/1704.08300', 'year': '2017', 'ID': 'DBLP:journals/corr/NemaKLR17'},
+
+{'title': 'Dynamic Action Repetition for Deep Reinforcement Learning.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'AAAI', 'author': 'Lakshminarayanan, Aravind S and Sharma, Sahil and Ravindran, Balaraman', 'ID': 'lakshminarayanan2017dynamic', 'year': '2017', 'pages': '2133--2139'},
+
+{'title': 'Dynamic frame skip deep q network', 'journal': 'arXiv preprint arXiv:1605.05365', 'author': 'Lakshminarayanan, Aravind S and Sharma, Sahil and Ravindran, Balaraman', 'ID': 'lakshminarayanan2016dynamic', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'HEMI: Hyperedge Majority Influence Maximization', 'journal': 'arXiv preprint arXiv:1606.05065', 'author': 'Gangal, Varun and Ravindran, Balaraman and Narayanam, Ramasuri', 'ID': 'gangal2016hemi', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'A new method for reconstructing network topology from flux measurements', 'journal': 'arXiv preprint arXiv:1506.00438', 'author': 'Rajeswaran, Aravind and Narasimhan, Shankar', 'ID': 'rajeswaran2015new', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'title': 'A novel approach for phase identification in smart grids using Graph Theory and Principal Component Analysis', 'booktitle': 'American Control Conference (ACC), 2016', 'author': 'Rajeswaran, Aravind and Bhatt, Nirav P and Pasumarthy, Ramkrishna and others', 'ID': 'rajeswaran2016novel', 'pages': '5026--5031', 'year': '2016', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'A correlational encoder decoder architecture for pivot based sequence generation', 'journal': 'arXiv preprint arXiv:1606.04754', 'author': 'Saha, Amrita and Khapra, Mitesh M and Chandar, Sarath and Rajendran, Janarthanan and Cho, Kyunghyun', 'ID': 'saha2016correlational', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Maximizing profit of cloud brokers under quantized billing cycles: a dynamic pricing strategy based on ski-rental problem', 'booktitle': 'Communication, Control, and Computing (Allerton), 2015 53rd Annual Allerton Conference on', 'author': 'Saha, Gourav and Pasumarthy, Ramkrishna', 'ID': 'saha2015maximizing', 'pages': '1000--1007', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Nonparametric Poisson Factorization Machine', 'booktitle': 'Data Mining (ICDM), 2015 IEEE International Conference on', 'author': 'Saha, Avijit and Acharya, Ayan and Ravindran, Balaraman and Ghosh, Joydeep', 'ID': 'saha2015nonparametric', 'pages': '967--972', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'Springer', 'title': 'Parallelization of game theoretic centrality algorithms', 'journal': 'Sadhana', 'author': 'Sankar, M Vishnu and Ravindran, Balaraman', 'number': '6', 'ID': 'sankar2015parallelization', 'volume': '40', 'pages': '1821--1843', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'title': 'Measuring network centrality using hypergraphs', 'booktitle': 'Proceedings of the Second ACM IKDD Conference on Data Sciences', 'author': 'Roy, Sanjukta and Ravindran, Balaraman', 'ID': 'roy2015measuring', 'pages': '59--68', 'year': '2015', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Trajectory aware macro-cell planning for mobile users', 'booktitle': 'Computer Communications (INFOCOM), 2015 IEEE Conference on', 'author': 'Mitra, Shubhadip and Ranu, Sayan and Kolar, Vinay and Telang, Aditya and Bhattacharya, Arnab and Kokku, Ravi and Raghavan, Sriram', 'ID': 'mitra2015trajectory', 'pages': '792--800', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Indexing and matching trajectories under inconsistent sampling rates', 'booktitle': 'Data Engineering (ICDE), 2015 IEEE 31st International Conference on', 'author': 'Ranu, Sayan and Deepak, P and Telang, Aditya D and Deshpande, Prasad and Raghavan, Sriram', 'ID': 'ranu2015indexing', 'pages': '999--1010', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Near optimal strategies for targeted marketing in social networks', 'booktitle': 'Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems', 'author': 'Pasumarthi, Ramakumar and Narayanam, Ramasuri and Ravindran, Balaraman', 'ID': 'pasumarthi2015near', 'pages': '1679--1680', 'year': '2015', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Commit: A scalable approach to mining communication motifs from dynamic networks', 'booktitle': 'Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data', 'author': 'Gurukar, Saket and Ranu, Sayan and Ravindran, Balaraman', 'ID': 'gurukar2015commit', 'pages': '475--489', 'year': '2015', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Extended Discriminative Random Walk: A Hypergraph Approach to Multi-View Multi-Relational Transductive Learning.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'IJCAI', 'author': 'Satchidanand, Sai Nageswar and Ananthapadmanaban, Harini and Ravindran, Balaraman', 'ID': 'satchidanand2015extended', 'year': '2015', 'pages': '3791--3797'},
+
+{'title': 'CEIL: a scalable, resolution limit free approach for detecting communities in large networks', 'booktitle': 'Twenty-Fourth International Joint Conference on Artificial Intelligence', 'author': 'Sankar, Vishnu and Ravindran, Balaraman and Shivashankar, S', 'ID': 'sankar2015ceil', 'year': '2015', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Show Me Your Evidence-an Automatic Method for Context Dependent Evidence Detection.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'EMNLP', 'author': 'Rinott, Ruty and Dankin, Lena and Perez, Carlos Alzate and Khapra, Mitesh M and Aharoni, Ehud and Slonim, Noam', 'ID': 'rinott2015show', 'year': '2015', 'pages': '440--450'},
+
+{'title': 'An LPV approach to performance modeling of a web server on a private cloud', 'booktitle': 'American Control Conference (ACC), 2015', 'author': 'Saikrishna, PS and Bhatt, Nirav P and Pasumarthy, Ramkrishna', 'ID': 'saikrishna2015lpv', 'pages': '1519--1524', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'When Transliteration Met Crowdsourcing: An Empirical Study of Transliteration via Crowdsourcing using Efficient, Non-redundant and Fair Quality Control.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'LREC', 'author': 'Khapra, Mitesh M and Ramanathan, Ananthakrishnan and Kunchukuttan, Anoop and Visweswariah, Karthik and Bhattacharyya, Pushpak', 'ID': 'khapra2014transliteration', 'year': '2014', 'pages': '196--202'},
+
+{'title': 'An autoencoder approach to learning bilingual word representations', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'Advances in Neural Information Processing Systems', 'author': 'AP, Sarath Chandar and Lauly, Stanislas and Larochelle, Hugo and Khapra, Mitesh and Ravindran, Balaraman and Raykar, Vikas C and Saha, Amrita', 'ID': 'ap2014autoencoder', 'year': '2014', 'pages': '1853--1861'},
+
+{'title': 'Answering top-k representative queries on graph databases', 'booktitle': 'Proceedings of the 2014 ACM SIGMOD international conference on Management of data', 'author': 'Ranu, Sayan and Hoang, Minh and Singh, Ambuj', 'ID': 'ranu2014answering', 'pages': '1163--1174', 'year': '2014', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Multi-label collective classification in multi-attribute multi-relational network data', 'booktitle': 'Advances in Social Networks Analysis and Mining (ASONAM), 2014 IEEE/ACM International Conference on', 'author': 'Vijayan, Priyesh and Subramanian, Shivashankar and Ravindran, Balaraman', 'ID': 'vijayan2014multi', 'pages': '509--514', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Temporal analysis of telecom call graphs', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2014 Sixth International Conference on', 'author': 'Gurukar, Saket and Ravindran, Balaraman', 'ID': 'gurukar2014temporal', 'pages': '1--6', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Activity recognition for natural human robot interaction', 'booktitle': 'International Conference on Social Robotics', 'author': 'Chrungoo, Addwiteey and Manimaran, SS and Ravindran, Balaraman', 'ID': 'chrungoo2014activity', 'pages': '84--94', 'year': '2014', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'RRTPI: Policy iteration on continuous domains using rapidly-exploring random trees', 'booktitle': 'Robotics and Automation (ICRA), 2014 IEEE International Conference on', 'author': 'Sivamurugan, Manimaran Sivasamy and Ravindran, Balaraman', 'ID': 'sivamurugan2014rrtpi', 'pages': '4362--4367', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Studying Indian Railways Network using hypergraphs', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2014 Sixth International Conference on', 'author': 'Satchidanand, Sai Nageswar and Jain, Siddharth Kumar and Maurya, Amit and Ravindran, Balaraman', 'ID': 'satchidanand2014studying', 'pages': '1--6', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'People in motion: Spatio-temporal analytics on call detail records', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2014 Sixth International Conference on', 'author': 'Kolar, Vinay and Ranu, Sayan and Subramainan, Anand Prabhu and Shrinivasan, Yedendra and Telang, Aditya and Kokku, Ravi and Raghavan, Sriram', 'ID': 'kolar2014people', 'pages': '1--4', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Inferring uncertain trajectories from partial observations', 'booktitle': 'Data Mining (ICDM), 2014 IEEE International Conference on', 'author': 'Banerjee, Prithu and Ranu, Sayan and Raghavan, Sriram', 'ID': 'banerjee2014inferring', 'pages': '30--39', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Bridge correlational neural networks for multilingual multimodal representation learning', 'journal': 'arXiv preprint arXiv:1510.03519', 'author': 'Rajendran, Janarthanan and Khapra, Mitesh M and Chandar, Sarath and Ravindran, Balaraman', 'ID': 'rajendran2015bridge', 'year': '2015', 'ENTRYTYPE': 'article'}
+
+]

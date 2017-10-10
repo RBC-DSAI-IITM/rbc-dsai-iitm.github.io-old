@@ -113,7 +113,7 @@ layout: default
         <div class="row">
           <div class="col-12">
             <ol class="col-8 publications list">
-            {% assign recent_papers = site.data.ilds | sort:"year" | reverse %}
+            {% assign recent_papers = site.data.publications | sort:"year" | reverse %}
             {% for paper in recent_papers  limit:2 %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
