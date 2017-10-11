@@ -43,7 +43,7 @@ layout: default
     <div class="col-12">
       <h2 class="member-title"> Publications </h2>
       <ol class="col-12 publications list">
-      {% assign sorted_pubs = site.data.ilds | sort: 'year' | reverse %}
+      {% assign sorted_pubs = site.data.publications | sort: 'year' | reverse %}
       {%  for paper in sorted_pubs %}
       {%  if paper.author contains 'Ravindran' %}
         <li>
