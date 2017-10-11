@@ -111,15 +111,9 @@ layout: default
         </div>
 
         <div class="row">
-<<<<<<< HEAD
           <div class="col-sm-12">
             <ol class="col-sm-8 publications list">
             {% assign recent_papers = site.data.ilds | sort:"year" | reverse %}
-=======
-          <div class="col-12">
-            <ol class="col-8 publications list">
-            {% assign recent_papers = site.data.publications | sort:"year" | reverse %}
->>>>>>> 274019c73316940249255a1025944bc339212098
             {% for paper in recent_papers  limit:2 %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
