@@ -370,6 +370,11 @@ a.btn-view-more {
   
 }
 
+#research-content-box .featurette-image {
+  margin-top: 4rem;
+
+}
+
 .sidenav {
   font-size:0.95em;
   margin-left:-15px;
