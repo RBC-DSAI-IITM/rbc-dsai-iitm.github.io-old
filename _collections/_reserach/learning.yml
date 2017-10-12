@@ -1,0 +1,6 @@
+---
+layout: default
+title: Learning with Limited and Partial Data
+content: When data science solutions are deployed in practice, seldom do the conditions on the ground match the theoretical assumptions of the algorithms. In this project, we look at algorithms and approaches that can operate with very limited data, with only a partial description available either due to design or systemic issues. We will also tackle several issues such as learning with partial trajectory (or temporal) data, learning with systematic label noise, and learning requiring active exploration of the data space.
+type: basic
+---
