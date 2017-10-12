@@ -70,7 +70,7 @@ permalink: research
 
   <div class="container" id="rs-topic-deep">
     <div class="row">
-      <h1  class="col" >Basic Research </h1>
+      <h1  class="col" >1. Basic Research </h1>
     </div>
     <div class="row featurette">
       <div class="col-md-7">
@@ -121,7 +121,7 @@ permalink: research
 
     <hr class="featurette-divider" id="rs-topic-applied">
     
-    <h1 class="mt-4">Applied Research</h1>
+    <h1 class="mt-4">2. Applied Research</h1>
 
 
 
@@ -174,19 +174,26 @@ permalink: research
     <hr class="featurette-divider" id="rs-topic-projects">
 
 
-    <hr class="featurette-divider " >
-    <h1>Projects </h1>
 
+    <hr class="featurette-divider " >
+
+    <div class="row">
+      <div class="col">
+         <h1>3. Projects </h1>
+    </div>
+
+     <div class="row">
     
     {% for project in site.project %} 
-    <div class="card col-sm-12  project-card drop-shadow mb-5">
-     <div class="card-body">
+    <div class="card col-sm-6  project-card  mb-5">
+     <div class="card-body drop-shadow">
        <h3 class="card-title">{{ project.title }}</h3>
        <h4 class="card-subtitle mb-3">{{ project.coordinators }}</h4>
        <p class="card-text">{{ project.abstract }}</p>
      </div>
     </div>
     {% endfor %}
+    </div>
 
   </div>
 
