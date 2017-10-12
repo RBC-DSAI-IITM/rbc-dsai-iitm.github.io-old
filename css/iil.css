@@ -388,6 +388,23 @@ hr {
 
 }
 
+.elective-card{
+  padding:0em 1em;
+  border:1px solid #eee;
+  background-color:#fafafa;
+}
+.elective-card .card-title {
+  font-weight:bold;
+  font-size:1.1rem;
+  color:#222;
+  
+}
+
+.elective-card .card-subtitle {
+  color:#666;
+  font-size:1em; 
+}
+
 .project-card .card-title {
   font-weight:bold;
   font-size:1.5rem;

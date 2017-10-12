@@ -17,12 +17,12 @@ permalink: education
 <div class="container">  
 
   <!-- <hr class="featurette-divider"> -->
+  <div class="row">
 
-  <h2>NPTEL courses</h2>
-  <hr>
-
+  <div class="col-sm-7">
+  <h2 class="section-title">NPTEL courses</h2>  
   {% for course in site.nptel %} 
-    <div class="card people-card col-sm-12">
+    <div class="card project-card drop-shadow col-sm-12 mb-5">
      <div class="card-body">
        <h3 class="card-title"><a href="{{ course.link }}">{{ course.title }}</a></h3>
        <h4 class="card-subtitle mb-2">{{ course.instructor }}</h4>
@@ -30,22 +30,22 @@ permalink: education
      </div>
    </div>
   {% endfor %}
+  </div>
 
-  <hr class="featurette-divider">
-
-  <h2>IITM Electives</h2>
-  <hr>
+  <div class="col-sm-5 ">
+  <h2 class="section-title">IITM Electives</h2>
 
   {% for course in site.data.iitm_electives %} 
-    <div class="card people-card col-sm-12">
+    <div class="card elective-card  col-sm-12 mb-1">
      <div class="card-body">
        <h4 class="card-title">{{ course.num }} : {{ course.title }}</h4>
        <h4 class="card-subtitle mb-2">{{ course.instructor }}</h4>
      </div>
    </div>
   {% endfor %}
+  </div>
 
-  <!-- <hr class="featurette-divider"> -->
 
+  </div>
 </div>
 
