@@ -371,6 +371,7 @@ a.btn-view-more {
 }
 
 .sidenav {
+  font-size:0.95em;
   margin-left:-15px;
   position: fixed;
   top:5rem;
@@ -381,11 +382,12 @@ a.btn-view-more {
 }
 
 .sidenav .nav-link {
-  color: #777;
+  color: #999;
 }
 
 .sidenav .nav-link.active {
-  color: #333;
+  color: #111;
+  border-right:2px solid #555;
 }
 
 .sub-nav {
