@@ -402,12 +402,21 @@ footer {
   border-top:1px solid #ccc;
 }
 
+@media(max-width:968px) {
+#research-content-box {
+   justify-content:flex-start !important;
 
+}
+  .sidenav {
+  margin-left:-25px;
+    }
+}
 @media (max-width: 576px) {
   #sidenav-container {
     display:none;
   
   }
+
 
 }
 @media (max-width: 768px) {
