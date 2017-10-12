@@ -409,10 +409,10 @@ hr {
   margin-left:-15px;
   position: fixed;
   top:5rem;
-  border-left:1px solid #eee;
   z-index:25;
   box-shadow:0px 4px 5px -1px #ccc;
   background-color:white;
+  border:1px solid #ddd;
 }
 
 .sidenav .nav-link {
