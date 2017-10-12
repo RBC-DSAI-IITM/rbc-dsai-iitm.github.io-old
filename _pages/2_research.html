@@ -121,12 +121,11 @@ permalink: research
 
     <hr class="featurette-divider" id="rs-topic-applied">
     
-    <h1 >Applied Research</h1>
-
-    <hr class="featurette-divider" id="rs-topic-scity">
+    <h1 class="mt-4">Applied Research</h1>
 
 
-    <div class="row featurette">
+
+    <div class="row featurette" id="rs-topic-scity">
       <div class="col-md-7">
         <h2 class="featurette-heading" >Smart Cities <span class="text-muted"></span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
@@ -172,19 +171,18 @@ permalink: research
       </div>
     </div>
 
-    <hr class="featurette-divider">
+    <hr class="featurette-divider" id="rs-topic-projects">
 
 
-    <h1>Projects
-    </h1>
+    <hr class="featurette-divider " >
+    <h1>Projects </h1>
 
-    <hr class="featurette-divider " id="rs-topic-projects">
     
     {% for project in site.project %} 
-    <div class="card people-card col-sm-12">
+    <div class="card col-sm-12  project-card drop-shadow mb-5">
      <div class="card-body">
        <h3 class="card-title">{{ project.title }}</h3>
-       <h4 class="card-subtitle mb-2">{{ project.coordinators }}</h4>
+       <h4 class="card-subtitle mb-3">{{ project.coordinators }}</h4>
        <p class="card-text">{{ project.abstract }}</p>
      </div>
     </div>

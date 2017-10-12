@@ -371,10 +371,39 @@ a.btn-view-more {
 }
 
 #research-content-box .featurette-image {
-  margin-top: 4rem;
+  margin-top: 6rem;
+}
+
+#research-content-box h1 {
+  border-bottom:1px solid #ccc;
+  padding-bottom:1.3rem;
+  margin-bottom:1.3rem;
+  color:#d18164;
+  font-weight:bold;
+}
+
+hr {
+  border:none;
+  margin:3rem 0;
 
 }
 
+.project-card .card-title {
+  font-weight:bold;
+  font-size:1.5rem;
+  color:#0f2984;
+}
+
+.project-card .card-subtitle {
+  font-size:1.2rem;
+  color:#222;
+  border-bottom:1px dashed #ddd;
+  padding-bottom:17px;
+}
+
+.project-card .card-text {
+  color:#333;
+}
 .sidenav {
   font-size:0.95em;
   margin-left:-15px;
