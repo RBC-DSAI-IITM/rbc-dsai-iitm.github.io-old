@@ -1,5 +1,4 @@
 .people-card {
-  padding:0;
   padding-right:1.3rem;
   margin-bottom:1.3rem;
   border:none;
@@ -17,6 +16,7 @@
 
 .people-card > .card-body {
   padding: 2rem 1rem 2rem 2rem;
+  background-color:white;
   text-align: left;
 }
 .people-card > .card-body > .card-title > a {

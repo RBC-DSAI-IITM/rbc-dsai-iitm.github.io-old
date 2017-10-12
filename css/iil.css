@@ -327,6 +327,49 @@ a.btn-view-more {
   border-radius:10px;
 }
 
+
+
+.nav-tabs .nav-link {
+  font-size:1.2em;
+  padding:0.6rem 2rem;
+  margin-right:10px;
+  color:#888;
+  border:none;
+  border-radius :5px 5px 0px 0px;
+}
+
+.nav-tabs .nav-link.active {
+  border:none;
+  border-top: 1px solid #f2f2f2;
+  border-left: 1px solid #f2f2f2;
+  border-right: 1px solid #f2f2f2;
+  background-color: #fcfcfc;
+  color:#111;
+
+}
+
+.nav-tabs .nav-link:hover {
+  color: #555;
+}
+
+.nav-tabs {
+  border-top: 1px solid #fafafa;
+  border-bottom:none;
+}
+
+
+.tab-content{
+  border-top: 1px solid #f2f2f2;
+  background-color:#fcfcfc; 
+}
+
+
+.tab-pane .people-card {
+  background-color:#fcfcfc;
+  
+}
+
+
 footer {
   font-size:0.9em;
   padding-top:1rem;

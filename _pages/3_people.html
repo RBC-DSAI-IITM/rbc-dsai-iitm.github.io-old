@@ -4,21 +4,39 @@ title: People
 permalink: people
 ---
       <div class="container">
-      <!--
-          <div class="row justify-content-center mb-4"> 
-            <div class="col-auto">
-              <ul class="nav nav-pills mt-4 ">
-                <li class="nav-item"><a class="nav-link active" href="#faculty-panel"> Faculty</a></li>
-                <li class="nav-item" ><a class="nav-link" href="#collaborators-panel"> Collaborators </a></li>
-                <li class="nav-item"><a class="nav-link" href="#students-panel"> Student </a></li>
-              </ul> 
-            </div>
-          </div>
-          -->
+        <div class="row">
+          <div class="col">
 
+
+          <ul class="nav nav-tabs mt-5 flex-column flex-sm-row " id="people-tabs">
+            <li class="nav-item">
+              <a class="nav-link active flex-sm-fill" href="#faculty-panel"> 
+                Faculty
+              </a>
+              </li>
+            <li class="nav-item" >
+              <a class="nav-link flex-sm-fill" href="#collab-panel">
+                Collaborators 
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link flex-sm-fill" href="#student-panel"> 
+                Students 
+              </a>
+            </li>
+          </ul> 
+
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content  pt-5 " >
+      <div class="container tab-pane fade show active" id="faculty-panel">
+         <!--
           <div class="row"> 
             <h1 class="col section-title">Faculty</h1>
           </div>
+          -->
 
           <div class="row" id="faculty-panel">
            {% for member in site.people %}
@@ -44,16 +62,19 @@ permalink: people
      </div>
 
 
-     <div class="container">
+     <div class="container tab-pane fade" id="collab-panel">
+
+           <!--
           <div class="row"> 
             <h1 class="col section-title ">Collaborators</h1>
           </div>
+          -->
           <div class="row">
 
            {% for member in site.people %}
             {% if member.type contains "collaborator" %}
              <div class="card people-card col-sm-4">
-               <div class="card-body">
+               <div class="card-body drop-shadow ">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  {% for designation in member.designations %}
@@ -68,17 +89,19 @@ permalink: people
      </div>
 
 
-     <div class="container">
+     <div class="container tab-pane fade " id="student-panel">
+           <!--
           <div class="row"> 
             <h1 class="col section-title ">Students</h1>
           </div>
+          -->
           
           <div class="row">
 
            {% for member in site.people %}
             {% if member.type contains "student" %}
-             <div class="card people-card col-sm-3">
-               <div class="card-body">
+             <div class="card people-card col-sm-3 ">
+               <div class="card-body drop-shadow ">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
@@ -88,4 +111,6 @@ permalink: people
            {% endfor %}
           
           </div>
+    </div>
+
     </div>
