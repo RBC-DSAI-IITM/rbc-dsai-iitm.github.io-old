@@ -138,7 +138,7 @@ body {
 
 #research-header .jumbotron-content {
   top:20%;
-  left:23%;
+  left:7%;
   right:10%;
   height:15rem;
 }
@@ -473,15 +473,21 @@ hr {
 .project-card .card-text {
   color:#333;
 }
+
 .sidenav {
   font-size:0.95em;
   margin-left:-15px;
-  position: fixed;
-  top:5rem;
+  position: relative;
   z-index:25;
   box-shadow:0px 4px 5px -1px #ccc;
   background-color:white;
   border:1px solid #ddd;
+}
+
+.affix-top {
+  position: fixed;
+  top : 4.2em;
+  
 }
 
 .sidenav .nav-link {

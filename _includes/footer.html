@@ -33,7 +33,18 @@
 
 {% if page.title == "Research" %}
 <script type="text/javascript">
+
   $('body').scrollspy({target: '#research-sidenav', offset: 83});
-  
+
+  $(window).on('scroll', function (event) {
+     var SIDENAV_OFFSET = 280;
+     var scroll_pos = $(window).scrollTop();
+
+     if (scroll_pos > SIDENAV_OFFSET ) 
+        $("#research-sidenav").addClass('affix-top');
+     else
+        $("#research-sidenav").removeClass('affix-top');
+     
+  });  
 </script>
 {% endif %}
