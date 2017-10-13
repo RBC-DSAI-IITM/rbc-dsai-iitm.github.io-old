@@ -15,7 +15,7 @@ body {
  -webkit-box-shadow: 0 6px 6px -6px #bbb;
  -moz-box-shadow: 0 6px 6px -6px #bbb;
   box-shadow: 0 6px 6px -6px #bbb;
-  opacity: 0.95;
+  opacity: 0.98;
 }
 
 /* logo tail de-highlight */
@@ -253,6 +253,9 @@ a.nav-link {
 .drop-shadow {
   box-shadow: 0px 1px 2px  #bbb;
 }
+.drop-shadow-mild {
+  box-shadow: 0px 1px 2px  #ddd;
+}
 
 a.btn-view-more {
   color:white !important;
@@ -383,27 +386,26 @@ a.btn-view-more {
   font-size:1.2em;
   padding:0.6rem 2rem;
   margin-right:10px;
-  color:#888;
-  border:none;
-  border-radius :5px 5px 0px 0px;
+  color:white;
+  background-color:#bbb;
+  border-bottom:1px solid #eee;
 }
 
-.nav-tabs .nav-link.active {
+.nav-tabs .nav-link.active, .nav-tabs .nav-link.active:hover  {
   border:none;
-  border-top: 1px solid #f2f2f2;
-  border-left: 1px solid #f2f2f2;
-  border-right: 1px solid #f2f2f2;
+  border-bottom:1px solid white;
   background-color: #fcfcfc;
   color:#111;
 
 }
 
 .nav-tabs .nav-link:hover {
-  color: #555;
+  background-color: #eee ;
+  color:#333;
+  transition:all 0.3s ease-in-out;
 }
 
 .nav-tabs {
-  border-top: 1px solid #fafafa;
   border-bottom:none;
 }
 

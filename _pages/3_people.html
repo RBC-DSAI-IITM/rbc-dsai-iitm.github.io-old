@@ -3,12 +3,10 @@ layout: default
 title: People
 permalink: people
 ---
-      <div class="container">
+      <div class="container-flex " id="people-tab-container">
         <div class="row">
-          <div class="col">
-
-
-          <ul class="nav nav-tabs mt-5 flex-column flex-sm-row " id="people-tabs">
+          <div class="col-auto mx-auto ">
+          <ul class="nav nav-tabs  flex-column flex-sm-row " id="people-tabs">
             <li class="nav-item">
               <a class="nav-link active flex-sm-fill" href="#faculty-panel"> 
                 Faculty
@@ -42,7 +40,7 @@ permalink: people
            {% for member in site.people %}
              {% if member.type contains "faculty" %}
              <div class="card people-card col-sm-3 ">
-               <div class="card-body drop-shadow">
+               <div class="card-body drop-shadow-mild">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
                  {% for designation in member.designations %}
@@ -74,7 +72,7 @@ permalink: people
            {% for member in site.people %}
             {% if member.type contains "collaborator" %}
              <div class="card people-card col-sm-3">
-               <div class="card-body drop-shadow ">
+               <div class="card-body drop-shadow-mild ">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  {% for designation in member.designations %}
@@ -101,7 +99,7 @@ permalink: people
            {% for member in site.people %}
             {% if member.type contains "student" %}
              <div class="card people-card col-sm-3 ">
-               <div class="card-body drop-shadow ">
+               <div class="card-body drop-shadow-mild ">
                <img class="card-img-top  center-block" src="http://localhost:4000/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
