@@ -131,6 +131,31 @@ body {
 
 }
 
+#research-header {
+  padding:0px;
+  height: 15rem;
+}
+
+#research-header .jumbotron-content {
+  top:20%;
+  left:23%;
+  right:10%;
+  height:15rem;
+}
+#research-header h1{
+  color: white;
+  text-shadow:1px 1px #555;
+}
+ 
+#research-header p.lead {
+  color:white;
+  text-shadow:1px 1px #555;
+
+}
+#research-header > .bg-img,  
+#research-header > .bg-img > img {
+  height:15rem;
+}
 
 .vcard {
   padding-top: 3rem;  
@@ -299,11 +324,9 @@ a.btn-view-more {
 }
 
 .separator {
-  
   color : #ccc;
   padding: 0 2px;
-  }
-
+}
 
 
 .nav-pills {
@@ -343,7 +366,7 @@ a.btn-view-more {
 
 .member-title {
   color:#d18164;
-  font-size:1.3em;
+  font-size:1.4em;
   font-weight:bold;
   padding:1.1em 0 0.2em 0;
   
@@ -497,6 +520,9 @@ footer {
 
 }
 @media (max-width: 768px) {
+#research-header .jumbotron-content {
+    left:5%;
+  }
 
     .about-header {
        height:40rem;
@@ -557,7 +583,7 @@ footer {
 width: 100%;
     }
 
-    .section-title{
+    .member-title, .section-title{
       text-align:center;
     
     }

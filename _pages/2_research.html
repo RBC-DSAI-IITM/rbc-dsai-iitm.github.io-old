@@ -4,7 +4,10 @@ title: Research
 permalink: research
 ---
 
-<section class="jumbotron ">
+<section class="jumbotron" id="research-header">
+  <div class="bg-img">
+    <img src="images/carousel2_bg.jpg" />
+  </div>
   <div class="container">
     <div class="row ">
 <div class="col-sm-2 d-sm-none d-md-none d-lg-block d-xl-block " id="sidenav-container">
@@ -51,7 +54,7 @@ permalink: research
     
   </ul>
 </div>
-      <div class="col-10 pl-4">
+      <div class="col-10 pl-4 jumbotron-content">
         <h1 class="jumbotron-heading">Research</h1>
         <p class="lead" >
           The research conducted at RBC-DSAI spans a plethora of fields and has a wide impact.  
@@ -185,7 +188,7 @@ permalink: research
      <div class="row">
     
     {% for project in site.project %} 
-    <div class="card col-sm-6  project-card  mb-5">
+    <div class="card col-sm-12  project-card  mb-5">
      <div class="card-body drop-shadow">
        <h3 class="card-title">{{ project.title }}</h3>
        <h4 class="card-subtitle mb-3">{{ project.coordinators }}</h4>
