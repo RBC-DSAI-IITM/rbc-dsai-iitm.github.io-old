@@ -37,7 +37,8 @@ permalink: people
           -->
 
           <div class="row" id="faculty-panel">
-           {% for member in site.people %}
+           {% assign faculty = site.people %}
+           {% for member in faculty %}
              {% if member.type contains "faculty" %}
              <div class="card people-card col-sm-3 ">
                <div class="card-body drop-shadow-mild">
