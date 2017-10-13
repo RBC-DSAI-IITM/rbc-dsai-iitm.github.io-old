@@ -51,7 +51,8 @@ body {
   width:100%;
 }
 
-.about-header {
+
+.about-header  {
   height:25rem;
   padding:0px;
 }
@@ -80,7 +81,32 @@ body {
 .about-header p.lead {
   color:#fff;
   text-shadow: 1px 1px #666;
-  
+}
+
+#education-header {
+  padding:0px;
+  height: 15rem;
+}
+
+#education-header .jumbotron-content {
+  top:20%;
+  left:10%;
+  right:10%;
+  height:15rem;
+}
+#education-header h1{
+  color: #feb374;
+  text-shadow:1px 1px #555;
+}
+ 
+#education-header p.lead {
+  color:white;
+  text-shadow:1px 1px #555;
+
+}
+#education-header > .bg-img,  
+#education-header > .bg-img > img {
+  height:15rem;
 }
 
 .jumbotron h1 {
@@ -532,6 +558,7 @@ width: 100%;
     }
 
     .section-title{
+      text-align:center;
     
     }
 

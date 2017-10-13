@@ -1,24 +1,20 @@
 .people-card {
-  padding-right:1.3rem;
+  padding-right:1rem;
   margin-bottom:1.3rem;
   border:none;
 }
 
 .people-card .card-img-top {
-  margin-bottom:1rem;
-  width:45%;
-  /*
-  width:50%;
-  padding:8px;
-  border:1px solid #eee;
-  */
+  margin-bottom:1.2rem;
+  width:100%;
 }
 
 .people-card > .card-body {
-  padding: 2rem 1rem 2rem 2rem;
+  padding:1.3rem ;
   background-color:white;
   text-align: left;
 }
+
 .people-card > .card-body > .card-title > a {
   font-size:1em;
   font-weight:bold;
@@ -27,11 +23,11 @@
 
 .people-card > .card-body > .card-subtitle {
   font-weight:bold;
-  font-size:0.9em;
   margin-top:0px;
 }
 .people-card > .card-body > .card-text {
   font-size:0.9em;
+  color:#666;
 }
 
 
