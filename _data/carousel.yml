@@ -6,12 +6,12 @@
     cutting across disciplines, are targeted and solved.
   link: about.html 
 
-# - title: Network Representation Learning 
-#   image: carousel3_bg.jpg
-#   message: >
-#     We learn distributed vector representations of the vertices in 
-#     large-scale networks that preserve structural and semantic 
-#     similarity of the vertices in the embedding space 
+- title: MS/PhD Admissions Open Now!
+  image: carousel3_bg.jpg
+  message: >
+    MS / PhD applications are now being accepted, for both the January and July semesters. Admissions are
+    also open for the Interdisciplinary MS / PhD programmes in data sciences.
+  link: Open Positions
 
 # - title: Reinforcement Learning 
 #   image: carousel2_bg.jpg
