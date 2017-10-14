@@ -32,6 +32,12 @@ ol.publications > li {
 }
 */
 
+@media (max-width:756px) {
+  #pub-container p {
+    text-align: center;
+  }
+}
+
 .pub-journal {
   color:#444;
   font-size:0.95em;
