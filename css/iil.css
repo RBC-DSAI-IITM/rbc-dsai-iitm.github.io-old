@@ -1,6 +1,7 @@
 body {
   margin-top:3.4rem;  
   position:relative;
+  overflow-y:scroll;
 }
 .bg-light {
  background-color:#fff !important; 
@@ -138,8 +139,7 @@ body {
 
 #research-header .jumbotron-content {
   top:20%;
-  left:7%;
-  right:10%;
+  left:9%;
   height:15rem;
 }
 #research-header h1{
