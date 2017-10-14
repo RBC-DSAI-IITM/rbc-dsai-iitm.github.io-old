@@ -106,13 +106,19 @@ layout: default
         <div class="row">
           <div class="col-sm-12">
             <ol class="col-sm-8 publications list">
-            {% assign recent_papers = site.data.ilds | sort:"year" | reverse %}
+            {% assign recent_papers = site.data.publications | sort:"year" | reverse %}
             {% for paper in recent_papers  limit:2 %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
                 <span class="pub-authors">
-                {% assign authors= paper.author | split: "and" %}
-                {% for author in authors %} {{ author | split: "," | reverse | join: " "|append:", " }} {% endfor %}
+                {% assign authors = paper.author | split: " and " %}
+                {% assign str = "" %}
+                {% for author in authors %} 
+                  {% assign curr_str =  author | split: "," | reverse | join: " "| append:", " %}
+                  {% assign str = str | append: curr_str %} 
+                {% endfor %}
+                {% assign len = str | size | minus:2 %}
+                {{ str | slice:0, len }}
                 </span>
                 <span class="pub-journal">{{ paper.journal }}</span>
                 <span class="pub-year">({{ paper.year }})</span>
