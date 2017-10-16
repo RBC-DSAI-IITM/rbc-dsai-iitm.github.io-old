@@ -13,7 +13,7 @@
 <script src="js/marquee.js" ></script>
 
 <script type="text/javascript">
-  $('.collab-section marquee').marquee('pointer').mouseover(function () {
+  var collab = $('.collab-section marquee').marquee('pointer').mouseover(function () {
     $(this).trigger('stop');
 }).mouseout(function () {
     $(this).trigger('start');
@@ -25,7 +25,12 @@
     $(this).data('drag', true).data('x', event.clientX).data('scrollX', this.scrollLeft);
 }).mouseup(function () {
     $(this).data('drag', false);
+}).on('jumpstart', function(event) {
+ this.scrollLeft = 1000;
 });
+
+ collab.trigger('jumpstart');
+
 </script>
 
 {% if page.title == "Publications" %}
