@@ -28,8 +28,6 @@
   image: nocil.png
 - name: police
   image: police.jpg
-- name: startup
-  image: startup.png
 - name: tcs
   image: tcs.jpg
 - name: tnhsp

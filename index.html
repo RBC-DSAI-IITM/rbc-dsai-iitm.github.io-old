@@ -7,7 +7,6 @@ layout: default
       <ol class="carousel-indicators">
         <li data-target="#research-areas-carousel" data-slide-to="0" class="active"></li>
          <li data-target="#research-areas-carousel" data-slide-to="1"></li>
-        <!-- <li data-target="#research-areas-carousel" data-slide-to="2"></li> -->
       </ol>
 
       <div class="carousel-inner">
@@ -59,23 +58,11 @@ layout: default
             </div>
           </div>
 
-          <div class="card drop-shadow"> 
-            <div class="row no-gutters">
-            <div class="col-2">
-            <img  class="member-img center-block" src="images/news/preksha.jpg" alt="Card image cap" >
-            </div>
-            <div class="card-body col-10">
-              <a class="card-title" href="#">Preksha Nema (CS15D201) has been selected for Google India PhD Fellowship</a>
-              <h6 class="card-subtitle mb-2">12 July 2017</h6>
-              <p class="card-text">
-                 Preksha Nema (CS15D201) who is a PhD scholar at the CSE dept has been selected for Google India PhD Fellowship.
-              </p>
-            </div>
-            </div>
-          </div>
 
         </div>
+
         <div class="col-sm-4 events">
+
           <h3 class="section-title pl-0"> Events </h3> 
 
           <div class="card event-card"> 
@@ -86,26 +73,25 @@ layout: default
           </div>
 
           <div class="card event-card"> 
-              <a class="card-title" href="#">Seminar on Knowledge Representation and Reasoning with Deep Neural Networks, by Arvind Neelakantan, UMass Amherst</a>
+              <a class="card-title" href="#">
+                 Seminar on Knowledge Representation and Reasoning 
+                 with Deep Neural Networks, by Arvind Neelakantan, UMass Amherst
+              </a>
               <div class="card-subtitle"> 
                 4:30 pm, 21 Sep | Alan M. Turing Hall
               </div>
           </div>
 
-          </div>
 
+
+         </div>
         </div>
 
         <div class="row">
-            <div class="col-12">
-            <h3 class="section-title pl-0 mb-0"> Recent Publications </h3>
-            <div>
-          
-        </div>
-
-        <div class="row">
-          <div class="col-sm-12">
-            <ol class="col-sm-8 publications list">
+        <div class="col-12 " >
+          <div class="pub-container">
+          <h3 class="section-title mt-4" > Recent Publications </h3>
+          <ol class="px-0 mx-0 publications list">
             {% assign recent_papers = site.data.publications | sort:"year" | reverse %}
             {% for paper in recent_papers  limit:2 %}
               <li>
@@ -134,31 +120,28 @@ layout: default
                 </span>
               </li>
               {% endfor %}
+              <li class="border-0">
+               <a class="btn btn-primary btn-sm btn-view-more" role="button" href="publications"> <strong> + </strong>  View More Publications </a>
+              </li>
 
             </ol>
-
-            <div> 
-               <a class="btn btn-primary btn-sm btn-view-more" role="button" href="publications"> 
-                +  View More Publications
-               </a>
             </div>
-          </div>
-        </div>
+            </div>
+            </div>
+
     </div>
 
-    
-    <div class="container collab-section">
+    <div class="container mt-3" >
       <div class="row">
-        <div class="col-12">
-          <h3 class="section-title"> Government / Industry Relations </h3> 
+        <div class="col-12 collab-section" >
+        <div >
+        <h3 class="section-title"> Government and Industry Collaborators </h3>
+        <marquee behaviour="scroll" loop="1" scrollamount="2" direction="left" >
+            {% for collaborator in site.data.collaborators  %}
+                 <img  width="75" class="my-2 mx-3" src="images/industrial/{{ collaborator.image }}"> 
+            {% endfor %}
+        </marquee>
         </div>
-      </div>
-      <div class="row">
-      {% for collaborator in site.data.collaborators  %}
-        <div class="card col-2 industry-card align-middle">
-             <img class="card-img-top align-middle" src="images/industrial/{{ collaborator.image }}"> 
         </div>
-      {% endfor %}
-    
       </div>
     </div>

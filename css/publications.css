@@ -1,6 +1,7 @@
 ol.publications {
   line-height:1.5em;
   list-style-type:none;
+  border:1px solid #eee;
 }
 
 ol.publications > li {

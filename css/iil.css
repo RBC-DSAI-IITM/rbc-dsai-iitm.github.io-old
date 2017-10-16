@@ -192,6 +192,10 @@ body {
 }
 
 
+.pub-container ol.publications li {
+  padding: 1.2rem ;
+  
+}
 
 
 .navbar-light .navbar-brand {
@@ -290,13 +294,19 @@ a.btn-view-more {
   padding :0 1.5rem;
 }
 
+
 .event-card {
-  margin-bottom:1.2rem;
+  border-bottom:1px solid #eee;
+  padding:0.5rem 0;
 }
 .events a.card-title {
   font-size:1em;
   font-style:sans-serif;
   margin-bottom:0.2rem;
+}
+
+.events a.card-title:hover {
+  text-decoration:none;
 }
 .events .card-subtitle{
   font-size:0.9rem;
@@ -305,11 +315,13 @@ a.btn-view-more {
   color:#444;
 }
 
-.collab-section {
-  margin-top: 2rem;
+.collab-section{
+  
 }
 
-
+.inset-shadow {
+  box-shadow:inset -3px 3px 5px #eee;
+}
 .profile-pic {
   width:100%;
   padding:5px;
@@ -503,6 +515,18 @@ hr {
   margin-left:1em;
   
 }
+
+
+.btn-primary, 
+.btn-primary:hover,
+.btn-primary:focus, 
+.btn-primary:link { 
+  background-color: #e6834d;
+  border:1px solid #e6834d;
+  color:white;
+  
+}
+
 
 footer {
   font-size:0.9em;
