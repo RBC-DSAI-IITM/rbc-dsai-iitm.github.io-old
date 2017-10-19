@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Deep learning for automotive applications
-coordinators: B. Ravindran, Kaushik Mitra
+title: Data mining and algorithms using Intelligent Transportation Systems data
+coordinators: Karthik K. Srinivasan, Gitakrishnan Ramadurai, B. Ravindran, Sayan Ranu
 funding agency:
-Students:
-project staff:
-category: smart cities
-subdomain: transportation
-abstract: With the increased success of Deep Learning techniques in visual systems, there has been Deep Learning works specific to the areas of interest for Autonomous Driver Assist Systems (ADAS). These include vehicle detection, vehicle tracking, pedestrian detection, lane detection, semantic segmentation etc. In the project we explore the use of convolutional neural networks in detection, classification and semantic segmentation in the context of ADAS. We propose to extend image based algorithms to videos and eventually look to explore efficient implementations on DSP processors.
+students: Deepak Mittal, Nandani Garg
+project staff: Thulasi Bai
+category: Smart Cities
+subdomain: Transportation
+abstract: Rich real-time traffic data is being obtained using advanced sensors such as Video and GPS as well as communication technologies at a data centre in the Intelligent Transportation Systems laboratory. This data offers tremendous scope to investigate empirical patterns and use these insights to operate and manage the transportation system towards desired objectives including reduced congestion, improved reliability and safety, better fuel efficiency and decrease in environmental pollution. The focus of this work will be to mine this data to derive empirical understanding and develop models towards this broad goal. Specific focus areas include quantification of the ITS data to investigate the role of various sources that affect system performance (demand, incidents, weather, construction, special events, control devices etc.) and applying this knowledge towards the development of algorithms for optimizing and improving system performance.
+details: Illustrative applications could include -
+  - Algorithms based on data fusion from various real-time data sources
+  - Traffic control state prediction from real-time data
+  - Quantification of system performance for mixed traffic using vehicle trajectory level data
 ---
