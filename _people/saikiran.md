@@ -6,5 +6,5 @@ designation: Project Associate
 area:
 bio:
 email:
-type: student
+type: staff
 ---
