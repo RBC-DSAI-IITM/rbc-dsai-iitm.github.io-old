@@ -54,9 +54,21 @@ permalink: people
                <div class="card-body drop-shadow-mild">
                <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
-                 {% for designation in member.designations %}
-                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                 {% assign designation_count = member.designations.size %} 
+                 {% for designation in member.designations limit:1 %}
+                  <h6 class="card-subtitle mb-2">{{ designation }}
+                   {% if designation_count > 1 %}
+                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more designations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} designations </a>
+                   {% endif %}
+                  </h6>
                  {% endfor %}
+                 {% if designation_count > 1 %}
+                   <div class="collapse" id="{{member.name | slugify }}" >
+                   {% for designation in member.designations offset:1 %}
+                    <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                   {% endfor %}
+                   </div>
+                 {% endif %}
                  <p class="card-text">
                    {% for area in member.areas %}
                       <span class="member-area"> {{area}}</span>
@@ -70,7 +82,7 @@ permalink: people
           </div>
      </div>
 
-      <div class="container tab-pane fade show active" id="staff-panel">
+      <div class="container tab-pane fade show " id="staff-panel">
 
           <div class="row" id="staff-panel">
            {% assign faculty = site.people %}
@@ -96,7 +108,7 @@ permalink: people
           </div>
      </div>
 
-      <div class="container tab-pane fade show active" id="alumni-panel">
+      <div class="container tab-pane fade show" id="alumni-panel">
 
           <div class="row" id="alumni-panel">
            {% assign faculty = site.people %}
@@ -137,9 +149,22 @@ permalink: people
                <div class="card-body drop-shadow-mild ">
                <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
-                 {% for designation in member.designations %}
-                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                 {% assign designation_count = member.designations.size %} 
+                 {% assign hidden_desg = designation_count - 1 %} 
+                 {% for designation in member.designations limit:1 %}
+                  <h6 class="card-subtitle mb-2">{{ designation }}
+                   {% if designation_count > 1 %}
+                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more designations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} designations </a>
+                   {% endif %}
+                  </h6>
                  {% endfor %}
+                 {% if designation_count > 1 %}
+                   <div class="collapse" id="{{member.name | slugify }}" >
+                   {% for designation in member.designations offset:1 %}
+                    <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                   {% endfor %}
+                   </div>
+                 {% endif %}
                </div>
              </div>
             {% endif %}

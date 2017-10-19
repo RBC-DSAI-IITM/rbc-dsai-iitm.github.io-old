@@ -26,7 +26,31 @@
   color : #0162cb;
 } 
 
-.people-card > .card-body > .card-subtitle {
+.people-card .toggle-btn {
+  color: #d14f4f;
+  text-decoration: none;
+  font-size:0.8em;
+  background-color:#f9ffc4;
+  border-radius: 5px;
+  padding:5px;
+  margin:5px 2px;
+  display:block;
+  width:55%;
+
+}
+
+.people-card .toggle-btn:before {
+  content: "+ ";
+  display: inline-block;
+}
+
+.people-card .toggle-btn[aria-expanded="true"]:before {
+  content: "- ";
+  display: inline-block;
+
+}
+.people-card > .card-body > .card-subtitle,
+.people-card > .card-body > div >  .card-subtitle {
   font-weight:bold;
   margin-top:0px;
 }
