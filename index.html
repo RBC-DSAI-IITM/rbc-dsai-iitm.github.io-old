@@ -39,7 +39,7 @@ layout: default
 
       <div class="row">
 
-        <div class="col-sm-8 news">
+        <div class="col-sm-7 news">
           <h3 class="section-title pl-0"> News </h3>
 
           {% for post in site.categories["news"] %}
@@ -63,18 +63,35 @@ layout: default
 
         </div>
 
-        <div class="col-sm-4 events">
+        <div class="col-sm-5 events">
 
           <h3 class="section-title pl-0"> Events </h3> 
 
           {% for post in site.categories["events"] %}
-          <div class="card event-card"> 
+          <div class="card event-card drop-shadow"> 
+             <div class="container">
+             <div class="row ">
+             <div class="col-9">
               <a class="card-title" href="{{ post.url | absolute_url }}">
                 {{ post.title }} 
               </a>
-              <div class="card-subtitle"> 
-              {{ post.date | date: "%l:%M %P, %d %b %y" }} | {{ post.venue }}
+              <div class="card-speaker"> 
+                 {{post.speaker}}
               </div>
+              <div class="card-subtitle"> 
+                {{ post.venue }}
+              </div>
+             </div>
+             <div class="col-3 text-right " style="margin-left:-15px">
+               <div class="cal-box">
+                 <div class="cal-day">{{ post.date | date: "%d %b" }} </div>
+                 <div class="cal-time">{{ post.date | date: "%l:%M %P" }} </div>
+               </div>
+               
+            </div>
+            </div>
+            </div>
+              
           </div>
           {% endfor %}
 

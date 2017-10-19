@@ -326,12 +326,38 @@ a.btn-view-more {
 }
 
 
+.cal-box {
+  border:1px solid #ddd;
+  text-align: center;
+  border-radius: 5px;
+  font-size:0.8em;
+}
+
+.cal-box div {
+  padding:0.3rem 0;
+  font-weight:bold;
+}
+
+.cal-day {
+  font-size:1.2em;
+  background-color: #689f48;
+  color:white;
+  border-radius: 5px 5px 0px 0px ;
+}
+.cal-time {
+  font-size:1.2em;
+  background-color: #fafafa;
+  border-radius: 0px 0px 5px 5px;
+  
+}
+
 .event-card {
   border-bottom:1px solid #eee;
-  padding:0.5rem 0;
+  padding:0.5rem 0rem ;
+  margin-bottom:1rem;
+  border-left:1px solid #eee;
 }
 .events a.card-title {
-  font-size:1em;
   font-style:sans-serif;
   margin-bottom:0.2rem;
 }
@@ -339,11 +365,16 @@ a.btn-view-more {
 .events a.card-title:hover {
   text-decoration:none;
 }
+
+.events .card-speaker {
+  font-size:1rem;
+  color: #222;
+}
+
 .events .card-subtitle{
   font-size:0.9rem;
-  font-weight:bold;
   margin-top:0px;
-  color:#444;
+  color:#666;
 }
 
 .collab-section{

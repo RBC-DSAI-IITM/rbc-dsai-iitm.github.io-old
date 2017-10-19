@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >
-  Prof V Kamakoti to chair GoI Task Force on AI for 
-  Development across various fields
+title: Prof V Kamakoti to chair GoI Task Force for AI
 date: 26 August 2017
 img: /assets/kamakoti.jpg 
 categories: news
