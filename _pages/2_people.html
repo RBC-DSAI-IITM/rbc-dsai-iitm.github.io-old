@@ -150,7 +150,6 @@ permalink: people
                <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
                  {% assign designation_count = member.designations.size %} 
-                 {% assign hidden_desg = designation_count - 1 %} 
                  {% for designation in member.designations limit:1 %}
                   <h6 class="card-subtitle mb-2">{{ designation }}
                    {% if designation_count > 1 %}
