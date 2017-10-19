@@ -33,9 +33,10 @@
   background-color:#f9ffc4;
   border-radius: 5px;
   padding:5px;
-  margin:5px 2px;
+  margin:8px 0px ;
   display:block;
   width:55%;
+  
 
 }
 
@@ -44,10 +45,10 @@
   display: inline-block;
 }
 
+
 .people-card .toggle-btn[aria-expanded="true"]:before {
   content: "- ";
   display: inline-block;
-
 }
 .people-card > .card-body > .card-subtitle,
 .people-card > .card-body > div >  .card-subtitle {
