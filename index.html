@@ -43,21 +43,24 @@ layout: default
         <div class="col-sm-8 news">
           <h3 class="section-title pl-0"> News </h3>
 
+          {% for post in site.categories["news"] %}
           <div class="card drop-shadow"> 
             <div class="row no-gutters ">
             <div class="col-2">
-            <img  class="member-img img-responsive center-block" src="images/news/Kamakoti.jpg" alt="Card image cap" >
+            <img  class="member-img img-responsive center-block" src="{{post.img}}" alt="Card image cap" >
             </div>
             <div class="card-body col-10">
-              <a class="card-title" href="#">Prof. V. Kamakoti to chair GoI Task Force on AI for Development across various fields.</a>
-              <h6 class="card-subtitle mb-2 ">26 August 2017</h6>
+              <a class="card-title" href="{{ post.url | absolute_url }}">
+                {{ post.title }}
+              </a>
+              <h6 class="card-subtitle mb-2 "> {{ post.date | date: "%d %B %Y" }} </h6>
               <p class="card-text">
-                 Commerce and Industry Minister Nirmala Sitharaman has constituted a Task Force chaired by V. Kamakoti of IIT Madras to explore possibilities to leverage Artificial Intelligence (AI) for development across various fields
+                {{ post.excerpt | remove: '<p>' | remove: '</p>'  }}
               </p>
             </div>
             </div>
           </div>
-
+        {% endfor %}
 
         </div>
 
@@ -65,23 +68,16 @@ layout: default
 
           <h3 class="section-title pl-0"> Events </h3> 
 
+          {% for post in site.categories["events"] %}
           <div class="card event-card"> 
-              <a class="card-title" href="#">Seminar on Content Optimization</a>
-              <div class="card-subtitle"> 
-               4:00 pm, 27 Sep | Alan M. Turing Hall
-              </div>
-          </div>
-
-          <div class="card event-card"> 
-              <a class="card-title" href="#">
-                 Seminar on Knowledge Representation and Reasoning 
-                 with Deep Neural Networks, by Arvind Neelakantan, UMass Amherst
+              <a class="card-title" href="{{ post.url | absolute_url }}">
+                {{ post.title }} 
               </a>
               <div class="card-subtitle"> 
-                4:30 pm, 21 Sep | Alan M. Turing Hall
+              {{ post.date | date: "%l:%M %P, %d %b %y" }} | {{ post.venue }}
               </div>
           </div>
-
+          {% endfor %}
 
 
          </div>

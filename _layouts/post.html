@@ -2,7 +2,23 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+<div class="container"> 
+  <div class="row"> 
+    <div class="col-md-8  col-sm-12 col-xs-12"> 
 
-{{ content }}
+      <div class="post">
+        <h2 class="post-title">{{ page.title }}</h2>
+
+        <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+
+        <p class="mt-3 post-content" >
+         {% if page.img %}
+          <img src="{{ page.img }}" width="100" class="mr-3 mb-3" style="float:left"/>
+         {% endif %}
+         {{ content | remove: '<p>' | remove: '</p>' }}
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>

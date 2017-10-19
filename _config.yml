@@ -6,12 +6,16 @@ description: >
   This research initiative seeks to advance and implement practices 
   for gathering, processing and analysing data across different 
   engineering and social branches. 
+
+timezone: "Asia/Kolkata"
   
 baseurl: ""
 url    : "localhost:4000"
 include: ['_pages']
 
 collections:
+  news:
+  events:
   nptel:
   project:
   people:

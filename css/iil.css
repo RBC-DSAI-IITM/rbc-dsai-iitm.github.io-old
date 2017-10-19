@@ -241,6 +241,28 @@ a.nav-link {
 
 }
 
+.post time {
+  font-size: 0.9em;
+  color:#444;
+}
+
+.post-title {
+  padding:0px;
+  color: #d18164;
+  font-weight: bold;
+  font-size: 1.3em;
+  margin:0;
+  margin-top:1.5rem;
+  margin-bottom:0.5rem;
+} 
+
+.post-content {
+  padding:1em;
+  padding-bottom:3em;
+  background-color: #f2f7ff;
+  color : #111;
+}
+
 .section-title {
   padding:0px;
   color: #d18164;
