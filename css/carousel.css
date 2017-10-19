@@ -20,6 +20,9 @@ body {
 .carousel .btn-lg {
     font-size:1.1rem;
     padding:.3rem .8rem;
+    border-radius: 0;
+    border:2px solid white;
+    color:white;
 }
 
 .carousel h1 {
@@ -30,9 +33,9 @@ body {
 }
 
 .carousel p {
-  width:80%
-margin-bottom:1.1rem;
-text-align:center;
+  width:80%;
+  margin-bottom:1.1rem;
+  text-align:center;
 }
 
 
@@ -42,7 +45,8 @@ text-align:center;
 .carousel-caption {
   z-index: 10;
   top: 3rem;
-  left:11.5%;
+  left:10%;
+  right:10%;
 }
 
 /* Declare heights because of positioning of img element */
@@ -103,6 +107,13 @@ text-align:center;
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+@media (max-width: 576px) {
+  .carousel-caption  {
+    top:1rem;
+
+  }
+  
+}
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
