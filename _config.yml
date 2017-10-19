@@ -10,7 +10,7 @@ description: >
 timezone: "Asia/Kolkata"
   
 baseurl: ""
-url    : "localhost:4000"
+url    : "https://rbc-dsai.iitm.ac.in"
 include: ['_pages']
 
 collections:
