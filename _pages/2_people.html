@@ -55,19 +55,28 @@ permalink: people
                <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
                  {% assign designation_count = member.designations.size %} 
-                 {% for designation in member.designations limit:1 %}
-                  <h6 class="card-subtitle mb-2">{{ designation }}
-                   {% if designation_count > 1 %}
-                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more designations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} designations </a>
-                   {% endif %}
-                  </h6>
-                 {% endfor %}
-                 {% if designation_count > 1 %}
-                   <div class="collapse" id="{{member.name | slugify }}" >
-                   {% for designation in member.designations offset:1 %}
-                    <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+
+                 {% if forloop.first == true %}
+
+                   {% for designation in member.designations %}
+                   <h6 class="card-subtitle mb-2">{{ designation }} </h6>
                    {% endfor %}
-                   </div>
+
+                 {% else %}
+
+                   {% for designation in member.designations limit:1 %}
+                    <h6 class="card-subtitle mb-2">{{ designation }}
+                    </h6>
+                   {% endfor %}
+                   {% if designation_count > 1 %}
+                     <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more affiliations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} affiliations </a>
+                     <div class="collapse" id="{{member.name | slugify }}" >
+                     {% for designation in member.designations offset:1 %}
+                      <h6 class="card-subtitle mb-2">{{ designation }}</h6>
+                     {% endfor %}
+                     </div>
+                   {% endif %}
+
                  {% endif %}
                  <p class="card-text">
                    {% for area in member.areas %}
@@ -153,7 +162,7 @@ permalink: people
                  {% for designation in member.designations limit:1 %}
                   <h6 class="card-subtitle mb-2">{{ designation }}
                    {% if designation_count > 1 %}
-                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more designations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} designations </a>
+                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more affiliations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} affiliations </a>
                    {% endif %}
                   </h6>
                  {% endfor %}
