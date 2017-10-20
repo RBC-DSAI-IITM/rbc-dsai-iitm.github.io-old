@@ -3,35 +3,29 @@ layout: default
 title: People
 permalink: people
 ---
+     {% assign member_type = "faculty, staff, collaborator, student, alumni" | split: ", " %} 
+     {% assign tab_headers = "faculty, staff, collaborators, students, alumni" | split: ", " %} 
+
+
       <div class="container-flex " id="people-tab-container">
         <div class="row">
           <div class="col-auto mx-auto ">
           <ul class="nav nav-tabs  flex-column flex-sm-row " id="people-tabs">
-            <li class="nav-item">
-              <a class="nav-link active flex-sm-fill" href="#faculty-panel"> 
-                Faculty
+
+            {% for tab in tab_headers %}
+
+              <li class="nav-item">
+
+              {% if forloop.first == true %}              
+                <a class="nav-link active flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}">
+              {% else %}
+                <a class="nav-link  flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}">
+              {% endif %}
+                 {{ tab }}
               </a>
               </li>
-            <li class="nav-item" >
-              <a class="nav-link flex-sm-fill" href="#staff-panel">
-                Staff 
-              </a>
-            </li>
-            <li class="nav-item" >
-              <a class="nav-link flex-sm-fill" href="#collab-panel">
-                Collaborators 
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link flex-sm-fill" href="#student-panel"> 
-                Students 
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link flex-sm-fill" href="#alumni-panel"> 
-                Alumni 
-              </a>
-            </li>
+
+            {% endfor %}
           </ul> 
 
           </div>
@@ -39,24 +33,27 @@ permalink: people
       </div>
 
       <div class="tab-content  pt-5 " >
-      <div class="container tab-pane fade show active" id="faculty-panel">
-         <!--
-          <div class="row"> 
-            <h1 class="col section-title">Faculty</h1>
-          </div>
-          -->
+      {% for tab in tab_headers %}
 
-          <div class="row" id="faculty-panel">
-           {% assign faculty = site.people %}
-           {% for member in faculty %}
-             {% if member.type contains "faculty" %}
+        {% if forloop.first == true %}
+          <div class="container tab-pane fade show active" id="{{ tab | append: '-panel'}}">
+        {% else %}
+          <div class="container tab-pane fade show " id="{{ tab | append: '-panel'}}">
+        {% endif %}
+
+          <div class="row" >
+
+           {% assign tab_index = forloop.index0 %}
+
+           {% for member in site.people %}
+             {% if member.type contains member_type[tab_index]  %}
              <div class="card people-card col-sm-3 ">
                <div class="card-body drop-shadow-mild">
                <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
                  <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
                  {% assign designation_count = member.designations.size %} 
 
-                 {% if forloop.first == true %}
+                 {% if forloop.first == true and tab_index == 0 %}
 
                    {% for designation in member.designations %}
                    <h6 class="card-subtitle mb-2">{{ designation }} </h6>
@@ -90,120 +87,7 @@ permalink: people
 
           </div>
      </div>
+    {% endfor %}
 
-      <div class="container tab-pane fade show " id="staff-panel">
-
-          <div class="row" id="staff-panel">
-           {% assign faculty = site.people %}
-           {% for member in faculty %}
-             {% if member.type contains "staff" %}
-             <div class="card people-card col-sm-3 ">
-               <div class="card-body drop-shadow-mild">
-               <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
-                 <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
-                 {% for designation in member.designations %}
-                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
-                 {% endfor %}
-                 <p class="card-text">
-                   {% for area in member.areas %}
-                      <span class="member-area"> {{area}}</span>
-                   {% endfor %}
-                 </p>
-               </div>
-             </div>
-             {% endif %}
-           {% endfor %}
-
-          </div>
-     </div>
-
-      <div class="container tab-pane fade show" id="alumni-panel">
-
-          <div class="row" id="alumni-panel">
-           {% assign faculty = site.people %}
-           {% for member in faculty %}
-             {% if member.type contains "alumni" %}
-             <div class="card people-card col-sm-3 ">
-               <div class="card-body drop-shadow-mild">
-               <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
-                 <h5 class="card-title "><a href="{{member.url}}">{{ member.name }}</a></h5>
-                 {% for designation in member.designations %}
-                 <h6 class="card-subtitle mb-2">{{ designation }}</h6>
-                 {% endfor %}
-                 <p class="card-text">
-                   {% for area in member.areas %}
-                      <span class="member-area"> {{area}}</span>
-                   {% endfor %}
-                 </p>
-               </div>
-             </div>
-             {% endif %}
-           {% endfor %}
-
-          </div>
-     </div>
-
-     <div class="container tab-pane fade" id="collab-panel">
-
-           <!--
-          <div class="row"> 
-            <h1 class="col section-title ">Collaborators</h1>
-          </div>
-          -->
-          <div class="row">
-
-           {% for member in site.people %}
-            {% if member.type contains "collaborator" %}
-             <div class="card people-card col-sm-3">
-               <div class="card-body drop-shadow-mild ">
-               <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
-                 <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
-                 {% assign designation_count = member.designations.size %} 
-                 {% for designation in member.designations limit:1 %}
-                  <h6 class="card-subtitle mb-2">{{ designation }}
-                   {% if designation_count > 1 %}
-                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more affiliations"  data-toggle="collapse" > {{ designation_count | minus: 1 }} affiliations </a>
-                   {% endif %}
-                  </h6>
-                 {% endfor %}
-                 {% if designation_count > 1 %}
-                   <div class="collapse" id="{{member.name | slugify }}" >
-                   {% for designation in member.designations offset:1 %}
-                    <h6 class="card-subtitle mb-2">{{ designation }}</h6>
-                   {% endfor %}
-                   </div>
-                 {% endif %}
-               </div>
-             </div>
-            {% endif %}
-           {% endfor %}
-
-          </div>
-     </div>
-
-
-     <div class="container tab-pane fade " id="student-panel">
-           <!--
-          <div class="row"> 
-            <h1 class="col section-title ">Students</h1>
-          </div>
-          -->
-          
-          <div class="row">
-
-           {% for member in site.people %}
-            {% if member.type contains "student" %}
-             <div class="card people-card col-sm-3 ">
-               <div class="card-body drop-shadow-mild ">
-               <img class="card-img-top  center-block" src="/images/members/{{ member.image }}" alt="{{ member.name }}">
-                 <h5 class="card-title"><a href="">{{ member.name }}</a></h5>
-                 <h6 class="card-subtitle mb-2">{{ member.designation }}</h6>
-               </div>
-             </div>
-            {% endif %}
-           {% endfor %}
-          
-          </div>
-    </div>
 
     </div>
