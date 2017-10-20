@@ -1,9 +1,9 @@
 ---
-name: Sanjan T. P
+name: Sai Kiran
 image: default.jpg
-degree: B.Tech
+degree: Dual Degree
 designation:
-graduated year: 2015
+graduated year: 2017
 bio:
 type: alumni
 ---

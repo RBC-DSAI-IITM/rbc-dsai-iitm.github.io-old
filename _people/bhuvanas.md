@@ -1,9 +1,9 @@
 ---
-name: Sanjan T. P
+name: Bhuvaneswari S
 image: default.jpg
-degree: B.Tech
+degree: M.Tech
 designation:
-graduated year: 2015
+graduated year: 2017
 bio:
 type: alumni
 ---

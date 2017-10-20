@@ -1,8 +1,8 @@
 ---
-name: Sanjan T. P
+name: Harini A
 image: default.jpg
-degree: B.Tech
-designation:
+degree: M.Tech 
+designation: Google Bengaluru
 graduated year: 2015
 bio:
 type: alumni

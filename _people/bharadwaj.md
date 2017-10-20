@@ -1,8 +1,8 @@
 ---
-name: Sanjan T. P
+name: Bharadwaj J
 image: default.jpg
-degree: B.Tech
-designation:
+degree: M.Tech
+designation: VISA Banglore
 graduated year: 2015
 bio:
 type: alumni
