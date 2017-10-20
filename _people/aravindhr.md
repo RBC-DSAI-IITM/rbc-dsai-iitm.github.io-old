@@ -1,6 +1,6 @@
 ---
 name: Aravindh Rajeswaran
-image: default.png
+image: aravind.png
 degree: 
 designation: Project Associate
 graduated year:
