@@ -1,6 +1,6 @@
 ---
 name: Prathik Gupte 
-image: default.jpg
+image: default.png
 degree: M.S
 designation: NetraDyne Bengaluru
 graduated year: 2015

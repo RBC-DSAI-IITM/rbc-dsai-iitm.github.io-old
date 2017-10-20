@@ -1,6 +1,6 @@
 ---
 name: Varun Gangal
-image: default.jpg
+image: default.png
 degree: Dual Degree
 designation: Ph.D CMU
 graduated year: 2016

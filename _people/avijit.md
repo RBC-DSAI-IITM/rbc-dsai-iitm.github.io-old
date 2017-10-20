@@ -1,6 +1,6 @@
 ---
 name: Avijit saha
-image: default.jpg
+image: default.png
 degree: M. s
 designation: Flipkart, Bengaluru
 graduated year: 2016

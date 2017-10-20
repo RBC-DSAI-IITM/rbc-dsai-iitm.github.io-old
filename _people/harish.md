@@ -1,6 +1,6 @@
 ---
 name: Harish Kumar
-image: default.jpg
+image: default.png
 degree: B.Tech 
 designation: Amazon Hyderabad
 graduated year: 2016

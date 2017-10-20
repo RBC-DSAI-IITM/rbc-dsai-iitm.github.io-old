@@ -1,6 +1,6 @@
 ---
 name: Sanjay Ganapathy
-image: default.jpg
+image: default.png
 degree: B.tech
 designation: Google Hyderabad
 graduated year: 2016

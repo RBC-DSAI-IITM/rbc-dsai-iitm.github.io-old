@@ -1,6 +1,6 @@
 ---
 name: Bharadwaj J
-image: default.jpg
+image: default.png
 degree: M.Tech
 designation: VISA Banglore
 graduated year: 2015

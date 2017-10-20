@@ -1,6 +1,6 @@
 ---
 name: R. Janarthanan
-image: default.jpg
+image: default.png
 degree: Dual Degree
 designation: Ph.D University of Michigan Ann Arbor
 graduated year: 2016

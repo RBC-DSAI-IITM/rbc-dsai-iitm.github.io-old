@@ -1,6 +1,6 @@
 ---
 name: Saipraveen 
-image: default.jpg
+image: default.png
 degree: B.Tech
 designation: M.S CMU
 graduated year: 2017

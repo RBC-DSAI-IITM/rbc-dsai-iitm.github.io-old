@@ -1,6 +1,6 @@
 ---
 name: Bhuvaneswari S
-image: default.jpg
+image: default.png
 degree: M.Tech
 designation:
 graduated year: 2017

@@ -1,6 +1,6 @@
 ---
 name: Spandana raj B
-image: default.jpg
+image: default.png
 degree: M.Tech
 designation: Google Mountain View
 graduated year: 2015

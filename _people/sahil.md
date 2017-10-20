@@ -1,6 +1,6 @@
 ---
 name: Sahil Sharma
-image: default.jpg
+image: default.png
 degree: Dual Degree
 designation: Google Bengaluru
 graduated year: 2017

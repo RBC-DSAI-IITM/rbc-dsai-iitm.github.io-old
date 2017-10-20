@@ -1,6 +1,6 @@
 ---
 name: Parthasarathy G.
-image: default.jpg
+image: default.png
 degree: Dual Degree
 designation: Epic Systems Wisconsin
 graduated year: 2015

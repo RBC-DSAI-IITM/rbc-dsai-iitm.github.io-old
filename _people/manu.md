@@ -1,6 +1,6 @@
 ---
 name: Manu S. H
-image: default.jpg
+image: default.png
 degree: B.Tech
 designation:
 graduated year: 2017

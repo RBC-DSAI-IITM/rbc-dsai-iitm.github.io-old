@@ -1,6 +1,6 @@
 ---
 name: Harini A
-image: default.jpg
+image: default.png
 degree: M.Tech 
 designation: Google Bengaluru
 graduated year: 2015

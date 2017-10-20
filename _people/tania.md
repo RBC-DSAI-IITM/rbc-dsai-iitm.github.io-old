@@ -1,6 +1,6 @@
 ---
 name: Tania Khan
-image: default.jpg
+image: default.png
 degree: 
 designation: Project Associate
 graduated year:

@@ -1,6 +1,6 @@
 ---
 name: Ramanadan K
-image: default.jpg
+image: default.png
 degree: Dual Degree
 designation: 
 graduated year: 2016

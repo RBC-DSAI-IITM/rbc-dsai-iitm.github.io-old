@@ -1,6 +1,6 @@
 ---
 name: Aishwarya Padmakumar
-image: default.jpg
+image: default.png
 degree: B.Tech
 designation: Ph.D UT Austin
 graduated year: 2015
