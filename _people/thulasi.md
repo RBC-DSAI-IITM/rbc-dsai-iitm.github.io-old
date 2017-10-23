@@ -1,7 +1,8 @@
 ---
+layout: member
 name: Thulasibai U
 image: default.png
-desginations: Project Associate
+desgination: Project Associate
 area:
 bio:
 email:
