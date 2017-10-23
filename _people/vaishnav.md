@@ -2,7 +2,7 @@
 name: Vaishnav Nagarajan
 image: default.png
 degree: B.Tech
-designation: 
+designations: 
   - Ph.D CMU
 graduated year: 2015
 bio:

@@ -2,7 +2,7 @@
 name: Dhavin Mehta
 image: default.png
 degree: Dual Degree
-designation:
+designations:
   - Ph.D, University of Michigan, Ann Arbor
 graduated year: 2015
 bio:
