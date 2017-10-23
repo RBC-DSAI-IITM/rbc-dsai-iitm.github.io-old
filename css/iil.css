@@ -434,6 +434,10 @@ a.btn-view-more {
   color:#555;
 }
 
+.member-area.last::after {
+  content: "";
+}
+
 
 .member-research-area {
 

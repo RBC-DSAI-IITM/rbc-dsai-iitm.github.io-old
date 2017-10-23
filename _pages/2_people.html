@@ -75,7 +75,11 @@ permalink: people
                  {% endif %}
                  <p class="card-text">
                    {% for area in member.areas %}
-                      <span class="member-area"> {{area}}</span>
+                      {% if forloop.last == true %}
+                        <span class="member-area last"> {{area}}</span>
+                      {% else %}
+                        <span class="member-area"> {{area}}</span>
+                      {% endif %}
                    {% endfor %}
                  </p>
                </div>
