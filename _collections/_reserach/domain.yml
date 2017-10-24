@@ -1,6 +1,0 @@
----
-layout: default
-title: Domain Agnostic Methods for Integration of Prior Knowledge in Learning Algorithms
-content: While data analysis tools are used across various problem areas, the question of importance of domain knowledge in improving the performance of these algorithms has not been addressed sufficiently. In this project, we will explore approaches for hybridisation of domain knowledge with data analysis methods. To ensure that the ideas developed through this project are domain agnostic, we will abstract domain knowledge into generic forms network structure, spatial relationships, to name a few.
-type: basic
----

@@ -26,39 +26,17 @@ permalink: research
     <li class="nav-item">
       <a class="nav-link active text-uppercase" href="#rs-topic-basic" >Basic Research </a>
       <ul class="nav  flex-column mb-3">
-      <li class="nav-item">
-        <a class="nav-link " href="#rs-topic-deep"> Deep Learning</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#rs-topic-network">Network Analytics</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#rs-topic-ai">Interpretable AI</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#rs-topic-domain-ai">Domain aware AI</a>
-      </li>
+      {% for topic in site.research %}
+        {% if topic.type contains "basic" %}
+          <li class="nav-item">
+            <a class="nav-link " href="{{ topic.title | slugify| prepend: '#'}}"> {{ topic.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
       </ul>
     </li>
     <li class="nav-item">
       <a class="nav-link text-uppercase" href="#rs-topic-applied">Applied Research</a>
-      <!--
-      <ul class="nav  flex-column mb-3">
-      <li class="nav-item">
-        <a class="nav-link " href="#rs-topic-scity">Smart Cities</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#rs-topic-manufacture">Manufacturing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#rs-topic-financial">Financial</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#rs-topic-bio">System Biology</a>
-
-      </li>
-      </ul>
-      -->
     </li>
     <li class="nav-item">
       <a class="nav-link  text-uppercase" href="#rs-topic-projects">Projects</a>
@@ -70,108 +48,73 @@ permalink: research
   
   <!-- <hr class="featurette-divider"> -->
 
-  <div class="container" id="rs-topic-deep">
+  <div class="container">
     <div class="row">
       <h1  class="col" >Basic Research </h1>
     </div>
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" >Deep Learning <span class="text-muted"></span></h2>
-        <p class="lead">Learning deep representations from raw input data has revolutionised the field of Machine Learning in the past few years. While <em>deep representation learning</em> has been extremely successful in computer vision and natural language processing, there have been very few studies involving representation learning on network data (for example, social network data). We propose to develop a theory of network representation learning, along the lines of the very popular and successful methods for text representation. </p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto " src="images/research/r_1.png" alt="DeepLearning_img">
-      </div>
-    </div>
 
-    <hr class="featurette-divider" id="rs-topic-network">
+    {% for topic in site.research %}
+      {% if topic.type contains "basic" %}
 
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading" >Network Analytics <span class="text-muted"></span></h2>
-        <p class="lead"></p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_2.png" alt="Networks_img">
-      </div>
-    </div>
+        {% assign content_order = forloop.index0 | modulo: 2 | plus:1  %}
+        {% assign image_order   = content_order | modulo:2 | plus:1  %}
 
-    <hr class="featurette-divider" id="rs-topic-ai">
+        {% if forloop.first == true  %}
+          <hr class="featurette-divider first" id="{{topic.title | slugify }}">
+        {% else %}
+          <hr class="featurette-divider" id="{{topic.title | slugify }}">
+        {% endif %}
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">{{ topic.title }}</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 {{content_order | prepend: 'order-md-'}}  ">
+            <p class="lead">{{ topic.description }}</p>
+          </div>
+          <div class="col-md-5 {{image_order | prepend: 'order-md-'}} ">
+            <img class="featurette-image img-fluid mx-auto " src="{{topic.image}}" alt="{{ topic.title}}">
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
 
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" >Interpretable AI <span class="text-muted"></span></h2>
-        <p class="lead"></p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_3.png" alt="InterpretableML_img">
-      </div>
-    </div>
 
-    <hr class="featurette-divider" id="rs-topic-domain-ai">
-
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading" >Domain-aware AI <span class="text-muted"></span></h2>
-        <p class="lead"></p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_4.png" alt="Domain-aware_img">
-      </div>
-    </div>
 
 
     <hr class="featurette-divider" id="rs-topic-applied">
     
     <h1 class="mt-4"> Applied Research</h1>
 
+    {% for topic in site.research %}
+      {% if topic.type contains "applied" %}
+
+        {% assign content_order = forloop.index | modulo: 2 | add:1 | prepend: 'order-md-' %}
+        {% assign image_order   = content_order | add: 1 | modulo:2 | add:1 | prepend: 'order-md-' %}
+
+        {% if forloop.first == true  %}
+          <hr class="featurette-divider first" id="{{topic.title | slugify }}">
+        {% else %}
+          <hr class="featurette-divider" id="{{topic.title | slugify }}">
+        {% endif %}
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">{{ topic.title }}</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 {{content_order}}  ">
+            <p class="lead">{{ topic.description }}</p>
+          </div>
+          <div class="col-md-5 {{image_order}} ">
+            <img class="featurette-image img-fluid mx-auto " src="{{topic.image}}" alt="{{ topic.title}}">
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
 
 
-    <div class="row featurette" id="rs-topic-scity">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" >Smart Cities <span class="text-muted"></span></h2>
-        <p class="lead">The centre carries out research in many aspects of Smart Cities. We work closely with the Centre of Excellence in Urban Transportation in developing solutions for smart mobility, traffic modelling and analysis. We work on several aspects of smart power grids from analysing PMU data to looking at learning efficient strategies for next day power markets. Smart water distribution in urban areas is another active area of study. </p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_ap_2.png" alt="SmartCities_img">
-      </div>
-    </div>
-
-    <hr class="featurette-divider" id="rs-topic-manufacture">
-
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading" >Manufacturing <span class="text-muted"></span></h2>
-        <p class="lead">Traditionally, manufacturing facilities (particularly chemical manufacturing) have been in the forefront in terms of using advanced computational techniques in their process operations. While manufacturing has been receptive to data analytic techniques for a long time now, the volume and variety of data available have undergone a tremendous growth. This necessitates new research that can integrate the traditional computational approaches with large-scale data analytics. The goal of the activities in the centre is the development of a first-of-its-kind manufacturing data analytics platform that could be used all over the world.</p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_ap_1.png" alt="Manufacturing_img">
-      </div>
-    </div>
-
-    <hr class="featurette-divider" id="rs-topic-financial">
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" >Financial <span class="text-muted"></span></h2>
-        <p class="lead">There is an active collaboration between the faculty and financial service providers who work in previously underserved areas. Research is being actively carried out in understanding, predicting and modelling customer behaviour; credit scoring; understanding and creating customer profiles; NPA prediction in retail banking; BFSI data analytics stack etc.</p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_ap_3.png" alt="Financial_img">
-      </div>
-    </div>
-
-    <hr class="featurette-divider" id="rs-topic-bio">
-
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading" >Systems Biology and Healthcare <span class="text-muted"></span></h2>
-        <p class="lead">In the domain of systems biology, the centre works closely with the <a href="https://web.iitm.ac.in/ibse/">Initiative for Biological Systems Engineering (IBSE)</a>. We work primarily on cancer genomics and biological network analytics. We also undertake collaborative research with medical research foundations on analysing patient data, often to enable semi-automated early screening systems. </p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="featurette-image img-fluid mx-auto" src="images/research/r_ap_4.png" alt="SystemBioHealthcare_img">
-      </div>
-    </div>
 
     <hr class="featurette-divider" id="rs-topic-projects">
 

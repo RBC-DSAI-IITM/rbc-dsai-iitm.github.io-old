@@ -19,6 +19,7 @@ collections:
   events:
   nptel:
   project:
+  research:
   people:
     permalink: /:collection/:path/
     output: true
