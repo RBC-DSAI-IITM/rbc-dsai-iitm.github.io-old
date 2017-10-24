@@ -2,7 +2,7 @@
 layout: member
 name: Girish Raghuvir
 image: default.png
-desginations: 
+designations: 
   - B.Tech
 area:
 bio:

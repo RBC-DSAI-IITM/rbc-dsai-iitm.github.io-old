@@ -2,7 +2,7 @@
 layout: member
 name: Suman Banerjee
 image: suman.jpg
-designation: 
+designations: 
   - MS Scholar
 area:
 bio:
