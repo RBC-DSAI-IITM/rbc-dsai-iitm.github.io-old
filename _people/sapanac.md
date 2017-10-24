@@ -2,7 +2,8 @@
 layout: member
 name: Sapana Chaudhary
 image: sapana.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

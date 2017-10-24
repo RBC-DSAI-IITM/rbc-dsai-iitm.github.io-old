@@ -2,7 +2,8 @@
 layout: member
 name: Nikitha Moghe
 image: nikita.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Shreyas Shetty
 image: shreyas.jpeg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

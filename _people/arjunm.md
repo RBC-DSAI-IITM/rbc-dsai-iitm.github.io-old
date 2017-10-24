@@ -2,7 +2,8 @@
 layout: member
 name: Arjun Manoharan
 image: arjun.jpg
-designation: M. S. Scholar
+designations:
+  - MS Scholar
 area:
 bio:
 email:

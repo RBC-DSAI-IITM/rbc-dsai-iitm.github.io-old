@@ -2,7 +2,8 @@
 layout: member
 name: Deepak Mittal
 image: deepak.jpg
-designation: M. S. Scholars
+designations: 
+  - MS Scholars
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Ishu D Garg
 image: default.png
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

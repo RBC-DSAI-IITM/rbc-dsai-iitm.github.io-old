@@ -2,7 +2,8 @@
 layout: member
 name: Sudarsun S
 image: sudarsun.jpg
-designation: Ph.D. scholar
+designations: 
+  - PhD scholar
 area:
 bio:
 email:

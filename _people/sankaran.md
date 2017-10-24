@@ -2,7 +2,8 @@
 layout: member
 name: Sankaran V
 image: sankaran.jpg
-designation: Project Associate
+designations: 
+  - Project Associate
 area:
 bio:
 email:

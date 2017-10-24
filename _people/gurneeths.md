@@ -2,7 +2,8 @@
 layout: member
 name: gurneeth Singh
 image: default.png
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

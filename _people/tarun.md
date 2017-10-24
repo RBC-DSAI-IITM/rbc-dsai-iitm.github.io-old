@@ -2,7 +2,8 @@
 layout: member
 name: Tarun Kumar
 image: tarun.jpg
-designation: Ph.D. Scholars
+designations: 
+  - PhD Scholars
 area:
 bio:
 email:

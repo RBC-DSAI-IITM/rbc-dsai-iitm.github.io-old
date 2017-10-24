@@ -2,7 +2,8 @@
 layout: member
 name: Privesh V
 image: priyesh.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

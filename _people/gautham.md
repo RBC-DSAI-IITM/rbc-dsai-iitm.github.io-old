@@ -2,7 +2,8 @@
 layout: member
 name: Gautham Muthuravichandran
 image: gautham.jpg
-designation: Ph.D. scholar
+designations: 
+  - PhD Scholar
 area:
 bio:
 email:

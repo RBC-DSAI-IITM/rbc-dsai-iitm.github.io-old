@@ -2,7 +2,8 @@
 layout: member
 name: Pritha Ganguly
 image: pritha.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Manika Agarwal
 image: manika.jpg
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

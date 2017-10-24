@@ -2,7 +2,8 @@
 layout: member
 name: Saikiran N
 image: sai.jpg
-designation: Project Associate
+designations: 
+  - Project Associate
 area:
 bio:
 email:

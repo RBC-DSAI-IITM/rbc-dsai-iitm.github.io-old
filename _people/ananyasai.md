@@ -2,7 +2,8 @@
 layout: member
 name: Ananya Sai
 image: ananya.png
-designation: M.Tech
+designations:
+  - M.Tech
 area:
 bio:
 email:

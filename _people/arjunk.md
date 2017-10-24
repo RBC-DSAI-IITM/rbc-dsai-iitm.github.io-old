@@ -1,8 +1,9 @@
 ---
 layout: member
-name: arjunk.html
+name: Arjun K
 image: default.png
-designation: B.Tech
+designations: 
+  - B.Tech
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Girish Raghuvir
 image: default.png
-desgination: B.Tech
+desginations: 
+  - B.Tech
 area:
 bio:
 type: student

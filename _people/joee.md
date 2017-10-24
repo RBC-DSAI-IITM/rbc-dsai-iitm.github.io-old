@@ -2,7 +2,8 @@
 layout: member
 name: Joe Eappen
 image: joe.jpg
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

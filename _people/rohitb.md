@@ -2,7 +2,8 @@
 layout: member
 name: Rohit Bhandru
 image: rohith.jpg
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

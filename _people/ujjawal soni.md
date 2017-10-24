@@ -2,7 +2,8 @@
 layout: member
 name: Ujjawal soni
 image: ujjawal.png
-designation: Dual degree
+designations: 
+  - Dual degree
 area:
 bio:
 email:

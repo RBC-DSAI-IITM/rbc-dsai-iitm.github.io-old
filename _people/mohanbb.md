@@ -2,7 +2,8 @@
 layout: member
 name: Mohan Bhambhani
 image: mohan.jpg
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

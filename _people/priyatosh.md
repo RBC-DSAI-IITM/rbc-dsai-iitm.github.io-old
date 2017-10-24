@@ -2,7 +2,8 @@
 layout: member
 name: Priyatosh Mishra
 image: priyatosh.jpg
-designation: Ph.D. scholar
+designations: 
+  - PhD Scholar
 area:
 bio:
 email:

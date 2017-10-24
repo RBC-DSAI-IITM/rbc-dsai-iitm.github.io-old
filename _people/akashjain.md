@@ -2,7 +2,8 @@
 layout: member
 name: Akash Jain
 image: akash.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

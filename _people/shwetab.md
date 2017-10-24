@@ -2,7 +2,8 @@
 layout: member
 name: Shweta Bhardwaj
 image: shweta.png
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

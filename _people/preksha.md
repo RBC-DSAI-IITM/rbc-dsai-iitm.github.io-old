@@ -2,7 +2,8 @@
 layout: member
 name: Preksha Nema
 image: preksha.jpeg
-designation: PhD. Scholar
+designations: 
+  - PhD Scholar
 area:
 bio:
 email:

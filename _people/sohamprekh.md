@@ -2,7 +2,8 @@
 layout: member
 name: Soham Parikh
 image: soham.jpg
-designation: Dual Degree
+designations: 
+  - Dual Degree
 area:
 bio:
 email:

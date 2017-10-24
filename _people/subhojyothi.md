@@ -2,7 +2,8 @@
 layout: member
 name: Subhojyothi Mukherjee
 image: subho.JPG
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

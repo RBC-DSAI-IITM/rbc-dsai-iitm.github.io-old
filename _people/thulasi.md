@@ -2,7 +2,8 @@
 layout: member
 name: ThulasiBai U
 image: thulasi.jpg
-designation: Project Associate
+designations: 
+  - Project Associate
 area:
 bio:
 email:

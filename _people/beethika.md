@@ -2,7 +2,8 @@
 layout: member
 name: Beethika Tripathi
 image: beethika.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Ashutosh Jha
 image: ashutosh.jpg
-designation: B.Tech
+designations: 
+  - B.Tech
 area:
 bio:
 type: student

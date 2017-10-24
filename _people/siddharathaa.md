@@ -2,7 +2,8 @@
 layout: member
 name: Siddhartha Arora
 image: siddhartha.jpg
-designation: M. S. Scholar
+designations: 
+  - MS Scholar
 area:
 bio:
 email:

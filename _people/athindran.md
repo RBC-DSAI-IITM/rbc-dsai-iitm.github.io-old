@@ -2,7 +2,8 @@
 layout: member
 name: Athindran R
 image: athindran.jpg
-designation: Project Associate
+designations: 
+  - Project Associate
 area:
 bio:
 email:
