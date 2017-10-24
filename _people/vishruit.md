@@ -1,6 +1,6 @@
 ---
 name: Vishruit Kulshreshta
-image: default.png
+image: vishruitk.jpg
 degree: Dual Degree
 designations:
 graduated year: 2017
