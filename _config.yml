@@ -9,7 +9,7 @@ description: >
 
 timezone: "Asia/Kolkata"
   
-baseurl: ""
+baseurl: "" 
 url    : "https://rbc-dsai.iitm.ac.in"
 
 include: ['_pages']
@@ -20,7 +20,7 @@ collections:
   nptel:
   project:
   research:
-  people:
+  members:
     permalink: /:collection/:path/
     output: true
 

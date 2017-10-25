@@ -49,7 +49,7 @@ layout: default
             <img  class="member-img img-responsive center-block" src="{{post.img}}" alt="Card image cap" >
             </div>
             <div class="card-body col-10">
-              <a class="card-title" href="{{ post.url | absolute_url }}">
+              <a class="card-title" href="{{ post.url }}">
                 {{ post.title }}
               </a>
               <h6 class="card-subtitle mb-2 "> {{ post.date | date: "%d %B %Y" }} </h6>
@@ -72,7 +72,7 @@ layout: default
              <div class="container">
              <div class="row ">
              <div class="col-9">
-              <a class="card-title" href="{{ post.url | absolute_url }}">
+              <a class="card-title" href="{{ post.url }}">
                 {{ post.title }} 
               </a>
               <div class="card-speaker"> 

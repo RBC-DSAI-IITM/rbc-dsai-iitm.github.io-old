@@ -43,7 +43,7 @@ permalink: people
 
            {% assign tab_index = forloop.index0 %}
 
-           {% for member in site.people %}
+           {% for member in site.members %}
              {% if member.type contains member_type[tab_index]  %}
              <div class="card people-card col-sm-3 ">
                <div class="card-body drop-shadow-mild">
