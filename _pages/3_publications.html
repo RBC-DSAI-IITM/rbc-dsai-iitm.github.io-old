@@ -20,7 +20,7 @@ permalink: publications
           </div>
           <div class="row" >
             <ol class="col-12 publications list">
-            {% for paper in site.data.publications %}
+            {% for paper in site.data.publications_sorted %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
                 <span class="pub-authors">
@@ -34,6 +34,7 @@ permalink: publications
                 {{ str | slice:0, len }}
                 </span>
                 <span class="pub-journal">{{ paper.journal }}</span>
+                <span class="pub-journal">{{ paper.booktitle }}</span>
                 <!-- <span class="pub-publisher">{{ paper.publisher }}</span> -->
                 <span class="pub-year">({{ paper.year }})</span>
                 <span class="pub-location"></span>

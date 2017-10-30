@@ -1,6 +1,6 @@
 import bibtexparser
 
-with open('publications.bib') as bibtex_file:
+with open('publications_sorted.bib') as bibtex_file:
     bibtex_str = bibtex_file.read()
 
     bib_database = bibtexparser.loads(bibtex_str)
