@@ -1,24 +1,25 @@
 [
-
 {'title': 'A Novel Topic Modelling Based Weighting Framework for Class Imbalance Learning', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'author': 'Santhiappan, S., and Chelladurai, J., and Ravindran, B.', 'ID': 'Santhiappan2018novel', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'A Neural Attention Based Approach for Clickstream Mining', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'author': 'Chandramohan, T. N and Ravindran, B.', 'ID': 'Chandramohan2018', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Tracking and Stabilization of Mechanical Systems using Reinforcement Learning', 'booktitle': 'Proceedings of the Fourth Indian Control Conference', 'author': 'Bhuvaneswari, S., and Pasumarthy, R., and Ravindran, B., and Mahindrakar, A.', 'ID': 'Bhuvanatracking2018', 'pages': '', 'year': '2018', 'organization': 'ICC', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'A Partial Parameter HMM Based Clustering on Loan Repayment Data: Insights into Financial Behavior and Intent to Repay', 'booktitle': 'Proceedings of the Fifty First Hawaii International Conference on System Sciences', 'author': 'Philip, D., andSudarsanam, N., and Ravindran, B.', 'ID': 'Philip2018partial', 'pages': '', 'year': '2018', 'organization': 'HICSS-51', 'ENTRYTYPE': 'inproceedings'},
+{'title': 'A Partial Parameter HMM Based Clustering on Loan Repayment Data: Insights into Financial Behavior and Intent to Repay', 'booktitle': 'Proceedings of the Fifty First Hawaii International Conference on System Sciences', 'author': 'Philip, D., and Sudarsanam, N., and Ravindran, B.', 'ID': 'Philip2018partial', 'pages': '', 'year': '2018', 'organization': 'HICSS-51', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'journal': 'in the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'author': 'Jain, A. and Nasre, R. and Ravindran, B.', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
+{'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'journal': 'In the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'author': 'Jain, A. and Nasre, R. and Ravindran, B.', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
 
-{'author': 'Chandramohan, T. N. and Ravindran, B.', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'journal': 'in the proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017)', 'year': '2017', 'ENTRYTYPE': 'inproceedings', 'address': 'Alghero, Italy', 'ID': 'chandra2017clickstream'},
+{'author': 'Chandramohan, T. N. and Ravindran, B.', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'journal': 'In the proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017)', 'year': '2017', 'ENTRYTYPE': 'inproceedings', 'address': 'Alghero, Italy', 'ID': 'chandra2017clickstream'},
 
 {'title': 'Class Imbalance Learning', 'series': '1', 'journal': 'Advanced Computing and Communications', 'author': 'Santhiappan, S., and Ravindran, B.', 'ENTRYTYPE': 'article', 'volume': '1', 'year': '2017', 'ID': 'santhiappan2017imbalance'},
 
-{'title': 'Learning to repeat: Fine grained action repetition for deep reinforcement learning', 'journal': 'arXiv preprint arXiv:1702.06054', 'author': 'Sharma, Sahil and Lakshminarayanan, Aravind S and Ravindran, Balaraman', 'ID': 'sharma2017learning', 'year': '2017', 'ENTRYTYPE': 'article'},
+{'title': 'Learning to repeat: Fine grained action repetition for deep reinforcement learning', 'journal': 'ICLR', 'author': 'Sharma, Sahil and Lakshminarayanan, Aravind S and Ravindran, Balaraman', 'ID': 'sharma2017learning', 'year': '2017', 'ENTRYTYPE': 'article'},
 
 {'title': 'Data Driven Strategies for Active Monocular SLAM using Inverse Reinforcement Learning', 'booktitle': 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems', 'author': 'Prasad, Vignesh and Jangir, Rishabh and Balaraman, Ravindran and Krishna, K Madhava', 'ID': 'prasad2017data', 'pages': '1697--1699', 'year': '2017', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'Thresholding Bandits with Augmented UCB', 'journal': 'arXiv preprint arXiv:1704.02281', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ID': 'mukherjee2017thresholding', 'year': '2017', 'ENTRYTYPE': 'article'},
+{'title': 'Attend, Adapt, and Transfer: Attentive Deep Architecture for Adaptive Transfer from Multiple Sources in the Same Domain', 'booktitle': 'To appear in the Proceedings of the Fifth International Conference on Learning Representations', 'author': 'Rajendran, J., Lakshminarayanan, A. S., Khapra, M. M., Parthasarathy, P., and Ravindran, B', 'ID': 'attendrajendran2017', 'pages': '', 'year': '2017', 'organization': 'ICLR', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Thresholding Bandits with Augmented UCB', 'booktitle': 'To appear in the Proceedings of the Twenty Sixth International Joint Conference on Artificial Intelligence', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ID': 'mukherjee2017thresholding', 'year': '{2017}\norganization={IJCAI}', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy', 'booktitle': 'Data Engineering (ICDE), 2017 IEEE 33rd International Conference on', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan', 'ID': 'gupte2017role', 'pages': '771--782', 'year': '2017', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
 
@@ -42,11 +43,13 @@
 
 {'publisher': 'MIT Press', 'title': 'Correlational neural networks', 'journal': 'Neural computation', 'author': 'Chandar, Sarath and Khapra, Mitesh M and Larochelle, Hugo and Ravindran, Balaraman', 'ENTRYTYPE': 'article', 'year': '2016', 'ID': 'chandar2016correlational'},
 
-{'title': 'EPOpt: Learning Robust Neural Network Policies Using Model Ensembles', 'journal': 'arXiv preprint arXiv:1610.01283', 'author': 'Rajeswaran, Aravind and Ghotra, Sarvjeet and Levine, Sergey and Ravindran, Balaraman', 'ID': 'rajeswaran2016epopt', 'year': '2016', 'ENTRYTYPE': 'article'},
+{'title': 'EPOpt: Learning Robust Neural Network Policies Using Model Ensembles', 'journal': 'ICLR', 'author': 'Rajeswaran, Aravind and Ghotra, Sarvjeet and Levine, Sergey and Ravindran, Balaraman', 'ID': 'rajeswaran2016epopt', 'year': '2016', 'ENTRYTYPE': 'article'},
 
 {'title': 'Dynamic frame skip deep q network', 'journal': 'arXiv preprint arXiv:1605.05365', 'author': 'Lakshminarayanan, Aravind S and Sharma, Sahil and Ravindran, Balaraman', 'ID': 'lakshminarayanan2016dynamic', 'year': '2016', 'ENTRYTYPE': 'article'},
 
 {'title': 'HEMI: Hyperedge Majority Influence Maximization', 'journal': 'arXiv preprint arXiv:1606.05065', 'author': 'Gangal, Varun and Ravindran, Balaraman and Narayanam, Ramasuri', 'ID': 'gangal2016hemi', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Trust and distrust across coalitions: shapley value based centrality measures for signed networks', 'booktitle': 'In the Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence', 'author': 'Gangal, V., Narwekar, A., Ravindran, B., and Narayanam, R.', 'ID': 'trust2016gangal', 'pages': '4210-4211', 'year': '2016', 'organization': 'AAAI Press', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'A novel approach for phase identification in smart grids using Graph Theory and Principal Component Analysis', 'booktitle': 'American Control Conference (ACC), 2016', 'author': 'Rajeswaran, Aravind and Bhatt, Nirav P and Pasumarthy, Ramkrishna and others', 'ID': 'rajeswaran2016novel', 'pages': '5026--5031', 'year': '2016', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
 
@@ -88,7 +91,9 @@
 
 {'title': 'An LPV approach to performance modeling of a web server on a private cloud', 'booktitle': 'American Control Conference (ACC), 2015', 'author': 'Saikrishna, PS and Bhatt, Nirav P and Pasumarthy, Ramkrishna', 'ID': 'saikrishna2015lpv', 'pages': '1519--1524', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'Bridge correlational neural networks for multilingual multimodal representation learning', 'journal': 'arXiv preprint arXiv:1510.03519', 'author': 'Rajendran, Janarthanan and Khapra, Mitesh M and Chandar, Sarath and Ravindran, Balaraman', 'ID': 'rajendran2015bridge', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'publisher': 'MIT Press', 'title': 'Correlational Neural Networks', 'journal': 'Neural Computation', 'author': 'Sarath Chandar, A. P., Khapra, M., Larochelle, H., and Ravindran, B.', 'number': '2', 'ID': 'correlation2016', 'volume': '28', 'pages': '257-285', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Bridge correlational neural networks for multilingual multimodal representation learning', 'booktitle': 'In the Proceedings of the Fifteenth Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL:HLT 2016)', 'author': 'Rajendran, Janarthanan and Khapra, Mitesh M and Chandar, Sarath and Ravindran, Balaraman', 'ID': 'rajendran2016bridge', 'year': '2016', 'ENTRYTYPE': 'inproceedings'},
 
 {'priority': '2', 'doi': '10.1039/c5cp04765j', 'posted-at': '2017-10-10 18:03:53', 'keyword': 'folding, networks, protein\\_structures', 'author': 'Gopi, Soundhararajan and Rajasekaran, Nandakumar and Singh, Animesh and Ranu, Sayan and Naganathan, Athi N.', 'journal': 'Phys. Chem. Chem. Phys.', 'publisher': 'The Royal Society of Chemistry', 'number': '41', 'abstract': 'We show that the phosphorylation of {4E}-{BP2} acts as a triggering event to shape its folding-function landscape that is delicately balanced between conflicting favorable energetics and intrinsically unfavorable topological connectivity. We further provide first evidence that the fitness landscapes of proteins at the threshold of disorder can differ considerably from ordered domains.', 'pages': '27264--27269', 'volume': '17', 'link': 'http://dx.doi.org/10.1039/c5cp04765j', 'year': '2015', 'citeulike-linkout-1': 'http://www.rsc.org/Publishing/Journals/article.asp?doi=C5CP04765J', 'title': 'Energetic and topological determinants of a phosphorylation-induced disorder-to-order protein conformational switch', 'ID': 'Gopi2015Energetic', 'citeulike-linkout-0': 'http://dx.doi.org/10.1039/c5cp04765j', 'ENTRYTYPE': 'article', 'citeulike-article-id': '14448360'},
 
