@@ -4,6 +4,7 @@ title: First RBC-DSAI Workshop on Recent Progress in Data Science and AI
 date: 6 November 2017
 img: /assets/workshop.jpeg 
 categories: news
+specialImg: /assets/workshopFlyer.jpeg
 ---
 RBC-DSAI is organizing its first workshop on Recent Progress in Data Science and AI on November 10, 2017.
 <ul>
