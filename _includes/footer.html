@@ -48,21 +48,30 @@
         return ;
 
       var pubs = $("#publication-list li");
-      var index, pub_count, publication;
+      var index, pub_count, publication, yearly_count;
 
       var current_year =parseInt( $(pubs[0]).children("span.pub-year").html().substr(1, 4));
-      $(pubs[0]).before('<li class="year-headers"> '+ current_year +'</li>');
-
+      
+      yearly_count = 1;
+      var successor =  $(pubs[0]);
       for(index=0, pub_count = pubs.length; index < pub_count; index++) {
         var pub = $(pubs[index]);
         var year = parseInt(pub.children("span.pub-year").html().replace(/\(|\)/g, ''));
 
         if (year != current_year) {
+          successor.before('<li class="year-headers"> '+ current_year +'<span class="text-muted small"> ( '+ yearly_count +' publications ) </span></li>');
           current_year = year;
-          pub.before('<li class="year-headers"> '+ current_year +'</li>');
+          successor = pub;
+          yearly_count = 1;
+          
+        }
+        else {
+          yearly_count++;
           
         }
       }
+
+      successor.before('<li class="year-headers"> '+ current_year +'<span class="text-muted small"> ( '+ yearly_count +' publications ) </span></li>');
       
     });
 
