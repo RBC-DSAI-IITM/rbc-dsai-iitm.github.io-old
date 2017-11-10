@@ -26,6 +26,15 @@ ol.publications > li {
   /*display:block;*/
 }
 
+ol.publications > .year-headers {
+  font-weight: bold;
+  font-size: 1.6em;
+  color: #cb6a36;
+  padding: 1em  0;
+  border-bottom:1px solid #ddd;
+  border-top:1px solid #ddd;
+}
+
 
 /*
 .pub-title::before, .pub-title::after{

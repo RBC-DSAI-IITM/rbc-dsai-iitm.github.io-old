@@ -41,8 +41,31 @@
       }
 
     var pubList = new List('pub-container', options);
+    pubList.on("sortComplete",  function(event) {
 
-    
+      var _sortBy = $(".sort.asc, .sort.desc").children("strong").html().trim();
+      if (_sortBy != "Year") 
+        return ;
+
+      var pubs = $("#publication-list li");
+      var index, pub_count, publication;
+
+      var current_year =parseInt( $(pubs[0]).children("span.pub-year").html().substr(1, 4));
+      $(pubs[0]).before('<li class="year-headers"> '+ current_year +'</li>');
+
+      for(index=0, pub_count = pubs.length; index < pub_count; index++) {
+        var pub = $(pubs[index]);
+        var year = parseInt(pub.children("span.pub-year").html().replace(/\(|\)/g, ''));
+
+        if (year != current_year) {
+          current_year = year;
+          pub.before('<li class="year-headers"> '+ current_year +'</li>');
+          
+        }
+      }
+      
+    });
+
 
 </script>
 {% endif %}
