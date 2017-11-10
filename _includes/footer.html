@@ -52,7 +52,7 @@
 
       var current_year =parseInt( $(pubs[0]).children("span.pub-year").html().substr(1, 4));
       
-      yearly_count = 1;
+      yearly_count = 0;
       var successor =  $(pubs[0]);
       for(index=0, pub_count = pubs.length; index < pub_count; index++) {
         var pub = $(pubs[index]);
