@@ -26,9 +26,12 @@ layout: default
           <img src="{{ page.img }}" width="100" class="mr-3 mb-3" style="float:left"/>
          {% endif %}
          {{ content | remove: '<p>' | remove: '</p>' }}
-         {% if page.specialImg %}
-          <img class="special" src="{{ page.specialImg }}"/> 
-         {% endif %}
+         <br>
+         <br>
+         <br>
+         {% for img in page.specialImgs %}
+            <img class="special" src="{{ img }}"/> 
+         {% endfor %}
         </p>
       </div>
 

@@ -4,10 +4,11 @@ title: First RBC-DSAI Workshop on Recent Progress in Data Science and AI
 date: 6 November 2017
 img: /assets/workshop.jpeg 
 categories: news
-specialImg: /assets/workshopFlyer.jpeg
+specialImgs: 
+- /assets/workshop/workshopFlyer.jpeg
 ---
-RBC-DSAI is organizing its first workshop on Recent Progress in Data Science and AI on November 10, 2017.
 <ul class="mx-0 px-0 list">
+RBC-DSAI is organizing its first workshop on *Recent Progress in Data Science and AI* on November 10, 2017.
 	<li>
 		<b>Venues</b> : IIT Madras, Chennai - 600036
 		<ul>
@@ -18,3 +19,6 @@ RBC-DSAI is organizing its first workshop on Recent Progress in Data Science and
 	<li><b>Time</b> : 2pm - 6:30pm </li>
 	<li><b>Date</b> : 10th November (Friday)</li>
 </ul>
+
+<p align="center">Check out the list of posters <a href="{{ site.baseurl }}/assets/workshop/Workshop_posters_list.pdf">here</a>.
+<br>
