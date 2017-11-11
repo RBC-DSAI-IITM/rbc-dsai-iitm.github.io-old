@@ -63,7 +63,7 @@
 
 {'title': 'Entity linking for web search queries', 'booktitle': 'European Conference on Information Retrieval', 'author': 'Deepak, P and Ranu, Sayan and Banerjee, Prithu and Mehta, Sameep', 'ID': 'deepak2015entity', 'pages': '394--399', 'year': '2015', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': '$ A\\^{} 2T $: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'title': 'A2T: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
 
 {'title': 'A new method for reconstructing network topology from flux measurements', 'journal': 'arXiv preprint arXiv:1506.00438', 'author': 'Rajeswaran, Aravind and Narasimhan, Shankar', 'ID': 'rajeswaran2015new', 'year': '2015', 'ENTRYTYPE': 'article'},
 

@@ -26,6 +26,9 @@ body {
     padding-left: 2px;
 }
 
+ul.list {
+  list-style-type: none;
+}
 
 .jumbotron {
   position:relative;
