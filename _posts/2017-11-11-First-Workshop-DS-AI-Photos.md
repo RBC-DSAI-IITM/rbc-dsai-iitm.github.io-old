@@ -14,4 +14,4 @@ specialImgs:
 - /assets/workshop/workshop_7.jpeg
 - /assets/workshop/workshop_8.jpeg
 ---
-Here are some photos from RBC-DSAI's first workshop on Recent Advances in Data Science and AI.
+Here are some photos from RBC-DSAI's first workshop on *Recent Progress in Data Science and AI*.
