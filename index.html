@@ -39,10 +39,10 @@ layout: default
 
       <div class="row">
 
-        <div class="col-sm-7 news">
+        <div class="col-sm-7 news" >
           <h3 class="section-title pl-0"> News </h3>
 
-          {% for post in site.categories["news"] %}
+          {% for post in site.categories["news"] limit:3 %}
           <div class="card drop-shadow"> 
             <div class="row no-gutters ">
             <div class="col-2">
@@ -60,7 +60,6 @@ layout: default
             </div>
           </div>
         {% endfor %}
-
         </div>
 
         <div class="col-sm-5 events">
