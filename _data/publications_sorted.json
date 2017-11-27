@@ -19,7 +19,7 @@
 
 {'title': 'Attend, Adapt, and Transfer: Attentive Deep Architecture for Adaptive Transfer from Multiple Sources in the Same Domain', 'booktitle': 'To appear in the Proceedings of the Fifth International Conference on Learning Representations', 'author': 'Rajendran, J., Lakshminarayanan, A. S., Khapra, M. M., Parthasarathy, P., and Ravindran, B', 'ID': 'attendrajendran2017', 'pages': '', 'year': '2017', 'organization': 'ICLR', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'Thresholding Bandits with Augmented UCB', 'booktitle': 'To appear in the Proceedings of the Twenty Sixth International Joint Conference on Artificial Intelligence', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ID': 'mukherjee2017thresholding', 'year': '{2017}\norganization={IJCAI}', 'ENTRYTYPE': 'inproceedings'},
+{'title': 'Thresholding Bandits with Augmented UCB', 'booktitle': 'To appear in the Proceedings of the Twenty Sixth International Joint Conference on Artificial Intelligence', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Balaraman', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IJCAI', 'ID': 'mukherjee2017thresholding'},
 
 {'title': 'Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy', 'booktitle': 'Data Engineering (ICDE), 2017 IEEE 33rd International Conference on', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan', 'ID': 'gupte2017role', 'pages': '771--782', 'year': '2017', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
 
@@ -63,7 +63,7 @@
 
 {'title': 'Entity linking for web search queries', 'booktitle': 'European Conference on Information Retrieval', 'author': 'Deepak, P and Ranu, Sayan and Banerjee, Prithu and Mehta, Sameep', 'ID': 'deepak2015entity', 'pages': '394--399', 'year': '2015', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': '$ A\\^{} 2T $: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'title': 'A2T: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
 
 {'title': 'A new method for reconstructing network topology from flux measurements', 'journal': 'arXiv preprint arXiv:1506.00438', 'author': 'Rajeswaran, Aravind and Narasimhan, Shankar', 'ID': 'rajeswaran2015new', 'year': '2015', 'ENTRYTYPE': 'article'},
 

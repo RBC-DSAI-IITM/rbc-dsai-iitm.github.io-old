@@ -6,7 +6,7 @@ permalink: research
 
 <section class="jumbotron" id="research-header">
   <div class="bg-img">
-    <img src="images/carousel2_bg.jpg" />
+    <img src="/images/carousel2_bg.jpg" />
   </div>
   <div class="container">
       <div class="jumbotron-content ">
@@ -25,11 +25,11 @@ permalink: research
   <ul data-spy="affix" data-offset-top="53" class=" nav flex-column sidenav" id="research-sidenav">
     <li class="nav-item">
       <a class="nav-link active text-uppercase" href="#rs-topic-basic" >Basic Research </a>
-      <ul class="nav  flex-column mb-3">
+      <ul class="nav flex-column mb-3">
       {% for topic in site.research %}
         {% if topic.type contains "basic" %}
           <li class="nav-item">
-            <a class="nav-link " href="{{ topic.title | slugify| prepend: '#'}}"> {{ topic.title }}</a>
+            <a class="nav-link " href="{{ topic.title | slugify | prepend: '#'}}"> {{ topic.title }}</a>
           </li>
         {% endif %}
       {% endfor %}

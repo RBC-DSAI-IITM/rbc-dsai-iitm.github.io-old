@@ -7,19 +7,19 @@ permalink: publications
       <div class="container" id="pub-container">
           <div class="row">
             <h1 class="col-12 section-title mb-3 pl-3"> Publications </h1>
-            <p class="col-12 mb-3 pl-3"> Browse, filter, sort through our publications  </p>
+            <p class="col-12 mb-3 pl-3"> Sort, filter, and browse through our publications  </p>
           </div>
           
           <div class="row list-controls">
 
                <input class="col-sm-6 search" placeholder="Search By Paper Title or Author or Year" />
                <div class="col-sm-6">
-                 <button class="sort " data-sort="pub-title"> sort by <strong> Title </strong> </button>
+                 <button class="sort " data-sort="pub-title" id="title-sort-cntrl"> sort by <strong> Title </strong> </button>
                  <button class="sort " data-sort="pub-year"> sort by <strong> Year </strong> </button>
                </div>
           </div>
           <div class="row" >
-            <ol class="col-12 publications list">
+            <ol class="col-12 publications list" id="publication-list">
             {% for paper in site.data.publications_sorted %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 

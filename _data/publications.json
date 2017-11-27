@@ -38,7 +38,7 @@
 
 {'title': 'Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy', 'booktitle': 'Data Engineering (ICDE), 2017 IEEE 33rd International Conference on', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan', 'ID': 'gupte2017role', 'pages': '771--782', 'year': '2017', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': '$ A\\^{} 2T $: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'title': 'A2T: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
 
 {'author': 'Preksha Nema and Mitesh M. Khapra and Anirban Laha and Balaraman Ravindran', 'timestamp': 'Wed, 07 Jun 2017 14:40:10 +0200', 'journal': 'To appear in the Proceedings of the Fifty-Fifth Annual Meeting of the Association of Computational Linguistics (ACL 2017)', 'title': 'Diversity driven Attention Model for Query-based Abstractive Summarization', 'ENTRYTYPE': 'article', 'link': 'http://arxiv.org/abs/1704.08300', 'year': '2017', 'ID': 'DBLP:journals/corr/NemaKLR17'},
 

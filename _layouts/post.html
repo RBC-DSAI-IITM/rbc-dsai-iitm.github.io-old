@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="container"> 
   <div class="row"> 
     <div class="col-md-8  col-sm-12 col-xs-12"> 
@@ -16,6 +15,12 @@ layout: default
           <img src="{{ page.img }}" width="100" class="mr-3 mb-3" style="float:left"/>
          {% endif %}
          {{ content | remove: '<p>' | remove: '</p>' }}
+         <br>
+         <br>
+         <br>
+         {% for img in page.specialImgs %}
+          <!--  <img class="special" src="{{ img }}"/>  -->
+         {% endfor %}
         </p>
       </div>
 

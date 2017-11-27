@@ -39,10 +39,10 @@ layout: default
 
       <div class="row">
 
-        <div class="col-sm-7 news">
+        <div class="col-sm-7 news" >
           <h3 class="section-title pl-0"> News </h3>
 
-          {% for post in site.categories["news"] %}
+          {% for post in site.categories["news"] limit:3 %}
           <div class="card drop-shadow"> 
             <div class="row no-gutters ">
             <div class="col-2">
@@ -60,7 +60,6 @@ layout: default
             </div>
           </div>
         {% endfor %}
-
         </div>
 
         <div class="col-sm-5 events">
@@ -150,7 +149,7 @@ layout: default
         <h3 class="section-title"> Government and Industry Collaborators </h3>
         <div class="container">
           <div class="row align-items-center no-gutters">
-            <div class="col-2 text-center right-shadow zindex-sticky py-2">
+             <div class="col-2 text-center right-shadow zindex-sticky py-2">
               <img   class="my-2 pr-3 brand-logo" src="images/bosch.png"> 
             </div>
             <div class="col-10">
