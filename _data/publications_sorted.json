@@ -1,4 +1,8 @@
 [
+{'title': 'Using Linear Stochastic Bandits to Extend Traditional Offline Designed Experiments to Online Settings', 'booktitle': 'To appear in Computers and Industrial Engineering', 'author': 'Sudarsanam, N. and Ravindran, B', 'ID': 'sudarsanam2018', 'pages': '', 'year': '2018', 'organization': 'Elsevier', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Efficient-UCBV: An Almost Optimal Algorithm using Variance Estimates', 'booktitle': 'To appear in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence AAAI-18', 'author': 'Mukherjee, S., Naveen, K. P., Sudarsanam, N., and Ravindran, B', 'ID': 'mukherjee2018', 'pages': '', 'year': '2018', 'organization': 'AAAI', 'ENTRYTYPE': 'inproceedings'},
+
 {'title': 'A Novel Topic Modelling Based Weighting Framework for Class Imbalance Learning', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'author': 'Santhiappan, S., and Chelladurai, J., and Ravindran, B.', 'ID': 'Santhiappan2018novel', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'A Neural Attention Based Approach for Clickstream Mining', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'author': 'Chandramohan, T. N and Ravindran, B.', 'ID': 'Chandramohan2018', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
@@ -63,7 +67,7 @@
 
 {'title': 'Entity linking for web search queries', 'booktitle': 'European Conference on Information Retrieval', 'author': 'Deepak, P and Ranu, Sayan and Banerjee, Prithu and Mehta, Sameep', 'ID': 'deepak2015entity', 'pages': '394--399', 'year': '2015', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'A2T: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'title': '$ A\\^{} 2T $: Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
 
 {'title': 'A new method for reconstructing network topology from flux measurements', 'journal': 'arXiv preprint arXiv:1506.00438', 'author': 'Rajeswaran, Aravind and Narasimhan, Shankar', 'ID': 'rajeswaran2015new', 'year': '2015', 'ENTRYTYPE': 'article'},
 
