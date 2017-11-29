@@ -1,7 +1,7 @@
 [
 {'title': 'Using Linear Stochastic Bandits to Extend Traditional Offline Designed Experiments to Online Settings', 'booktitle': 'To appear in Computers and Industrial Engineering', 'author': 'Sudarsanam, N. and Ravindran, B', 'ID': 'sudarsanam2018', 'pages': '', 'year': '2018', 'organization': 'Elsevier', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'Efficient-UCBV: An Almost Optimal Algorithm using Variance Estimates', 'booktitle': 'To appear in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence AAAI-18', 'author': 'Mukherjee, S., Naveen, K. P., Sudarsanam, N., and Ravindran, B', 'ID': 'mukherjee2018', 'pages': '', 'year': '2018', 'organization': 'AAAI', 'ENTRYTYPE': 'inproceedings'},
+{'title': 'Efficient-UCBV: An Almost Optimal Algorithm using Variance Estimates', 'booktitle': 'To appear in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence', 'author': 'Mukherjee, S., Naveen, K. P., Sudarsanam, N., and Ravindran, B', 'ID': 'mukherjee2018', 'pages': '', 'year': '2018', 'organization': 'AAAI', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'A Novel Topic Modelling Based Weighting Framework for Class Imbalance Learning', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'author': 'Santhiappan, S., and Chelladurai, J., and Ravindran, B.', 'ID': 'Santhiappan2018novel', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
 
