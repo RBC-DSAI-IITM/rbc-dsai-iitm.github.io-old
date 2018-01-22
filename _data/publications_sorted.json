@@ -1,4 +1,8 @@
 [
+{'title': 'Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks', 'booktitle': 'To appear in the Proceedings of the Eighteenth IEEE Winter Conference on Applications of Computer Vision, WACV 2018', 'author': 'Mittal, D., Bhardwaj, S., Khapra, M. M., and Ravindran, B', 'ID': 'deepakd2018', 'pages': '', 'year': '2018', 'organization': 'IEEE Press', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data', 'booktitle': 'In the Proceedings of the Workshop on Intelligent Transportation Systems, COMSNETS 2018', 'author': 'Mittal, D., Ramadurai, G., Mitra, K., and Ravindran, B', 'ID': 'ramadurai2018', 'pages': '', 'year': '2018', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
+
 {'title': 'Using Linear Stochastic Bandits to Extend Traditional Offline Designed Experiments to Online Settings', 'booktitle': 'To appear in Computers and Industrial Engineering', 'author': 'Sudarsanam, N. and Ravindran, B', 'ID': 'sudarsanam2018', 'pages': '', 'year': '2018', 'organization': 'Elsevier', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Efficient-UCBV: An Almost Optimal Algorithm using Variance Estimates', 'booktitle': 'To appear in the Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence', 'author': 'Mukherjee, S., Naveen, K. P., Sudarsanam, N., and Ravindran, B', 'ID': 'mukherjee2018', 'pages': '', 'year': '2018', 'organization': 'AAAI', 'ENTRYTYPE': 'inproceedings'},
