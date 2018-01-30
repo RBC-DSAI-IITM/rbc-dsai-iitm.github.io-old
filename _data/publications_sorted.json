@@ -1,4 +1,8 @@
 [
+{'title': 'Learning to Multi-Task by Active Sampling', 'booktitle': 'To appear in the Proceedings of the Sixth International Conference on Learning Representations', 'author': 'Sharma, S., Jha, A. K., Hegde, P. S., and Ravindran, B', 'ID': 'sharma2018', 'pages': '', 'year': '2018', 'organization': 'ICLR 2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'RAIL: Risk-averse Imitation Learning', 'booktitle': 'To appear in the Proceedings of the Seventeenth International Conference on Autonomous Agents and Multiagent Systems', 'author': 'Santara, A., Naik, A., Ravindran, B., Das, D., Mudigere, D., Avancha, S., and Kaul, B', 'ID': 'santara2018', 'pages': '', 'year': '2018', 'organization': 'AAMAS 2018', 'ENTRYTYPE': 'inproceedings'},
+
 {'title': 'Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks', 'booktitle': 'To appear in the Proceedings of the Eighteenth IEEE Winter Conference on Applications of Computer Vision, WACV 2018', 'author': 'Mittal, D., Bhardwaj, S., Khapra, M. M., and Ravindran, B', 'ID': 'deepakd2018', 'pages': '', 'year': '2018', 'organization': 'IEEE Press', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data', 'booktitle': 'In the Proceedings of the Workshop on Intelligent Transportation Systems, COMSNETS 2018', 'author': 'Mittal, D., Ramadurai, G., Mitra, K., and Ravindran, B', 'ID': 'ramadurai2018', 'pages': '', 'year': '2018', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
