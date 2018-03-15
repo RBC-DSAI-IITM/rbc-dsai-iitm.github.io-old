@@ -1,5 +1,8 @@
 #people-tab-container {
   background: url('../images/carousel2_bg.jpg');  
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;   
 }
 
 #people-header > h1 {
