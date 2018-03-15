@@ -3,7 +3,7 @@ layout: member
 name: Joseph hosanna Raj
 image: joseph.jpg
 designations: 
-  - PhD scholar
+  - Ph_D scholar
 area:
 bio:
 email:
