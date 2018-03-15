@@ -7,5 +7,5 @@ designations:
 area:
 bio:
 email:
-type: student
+type: stu_dent
 ---
