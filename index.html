@@ -103,8 +103,7 @@ layout: default
           <div class="pub-container">
           <h3 class="section-title mt-4" > Recent Publications </h3>
           <ol class="px-0 mx-0 publications list">
-            {% assign recent_papers = site.data.publications | sort:"year" | reverse %}
-            {% for paper in recent_papers  limit:2 %}
+            {% for paper in site.data.publications_sorted limit:2 %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
                 <span class="pub-authors">
@@ -117,7 +116,7 @@ layout: default
                 {% assign len = str | size | minus:2 %}
                 {{ str | slice:0, len }}
                 </span>
-                <span class="pub-journal">{{ paper.journal }}</span>
+                <span class="pub-journal">{{ paper.booktitle }}</span>
                 <span class="pub-year">({{ paper.year }})</span>
                 <span class="pub-location"></span>
                 <span class="pub-tail">
@@ -130,7 +129,7 @@ layout: default
                   <!-- <a href="#">git</a> -->
                 </span>
               </li>
-              {% endfor %}
+             {% endfor %}
               <li class="border-0">
                <a class="btn btn-primary btn-sm btn-view-more ripple" role="button" href="publications"> <strong> + </strong>  View More Publications </a>
               </li>

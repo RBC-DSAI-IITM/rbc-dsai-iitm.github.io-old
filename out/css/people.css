@@ -1,0 +1,74 @@
+#people-tab-container {
+  background: url('../images/carousel_bg.png');  
+}
+
+#people-header > h1 {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin: 1.2em;
+}
+
+.people-card {
+  padding-right:0.5rem;
+  margin-bottom:1.3rem;
+  border:none;
+}
+
+.people-card .card-img-top {
+  margin-bottom:1.2rem;
+  width:100%;
+}
+
+.people-card > .card-body {
+  padding:1.3rem ;
+  background-color:white;
+  text-align: left;
+}
+
+.people-card > .card-body > .card-title > a {
+  font-size:1em;
+  font-weight:bold;
+  color : #0162cb;
+} 
+
+.people-card .toggle-btn {
+  color: #d14f4f;
+  text-decoration: none;
+  font-size:0.8em;
+  background-color:#f9ffc4;
+  border-radius: 5px;
+  padding:5px;
+  margin:8px 0px ;
+  display:block;
+  width:55%;
+  
+
+}
+
+.people-card .toggle-btn:before {
+  content: "+ ";
+  display: inline-block;
+}
+
+
+.people-card .toggle-btn[aria-expanded="true"]:before {
+  content: "- ";
+  display: inline-block;
+}
+.people-card > .card-body > .card-subtitle,
+.people-card > .card-body > div >  .card-subtitle {
+  font-weight:bold;
+  margin-top:0px;
+}
+.people-card > .card-body > .card-text {
+  font-size:0.9em;
+  color:#666;
+}
+
+
+@media (max-width: 768px) {
+  .people-card .card-body{
+    text-align:center;
+  }
+}

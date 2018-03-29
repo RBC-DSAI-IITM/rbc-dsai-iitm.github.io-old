@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Denzil Francis Crasta">
+
+    <title> Research | Robert Bosch Center for Data Science and Artificial Intelligence</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous"> 
+
+    <!-- Custom styles for this template -->
+    <link href="/css/carousel.css" rel="stylesheet">
+    <link href="/css/iil.css" rel="stylesheet">
+    <link href="/css/people.css" rel="stylesheet">
+    <link href="/css/publications.css" rel="stylesheet">
+  </head>
+
+
+<body >
+
+      <nav class="navbar with-shadow navbar-expand-sm navbar-light fixed-top bg-light">
+
+    <div class="container">
+      <!-- Logo Section -->
+      <a class="navbar-brand" href="http://localhost:4000">
+      <!--  <img src="/images/logo.png" width=50 class="mr-2" /> -->
+       <span class="navbar-brand-expanded hidden-md-down">RBC DSAI</span>
+       <span class="logotext-tail"> IITM </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navigation Links -->
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav ml-auto">
+          
+            
+              
+                <li class="nav-item active">
+              
+                <a class="nav-link" href="/research"> Research </a>
+              </li>
+            
+          
+            
+              
+                <li class="nav-item">
+              
+                <a class="nav-link" href="/People"> People </a>
+              </li>
+            
+          
+            
+              
+                <li class="nav-item">
+              
+                <a class="nav-link" href="/publications"> Publications </a>
+              </li>
+            
+          
+            
+              
+                <li class="nav-item">
+              
+                <a class="nav-link" href="/teaching"> Teaching </a>
+              </li>
+            
+          
+            
+              
+                <li class="nav-item">
+              
+                <a class="nav-link" href="/Join Us"> Join Us </a>
+              </li>
+            
+          
+            
+              
+                <li class="nav-item">
+              
+                <a class="nav-link" href="/about"> About </a>
+              </li>
+            
+          
+            
+          
+        </ul>
+      </div>
+    </div>
+    </nav>
+
+
+  <section class="jumbotron" id="research-header">
+  <div class="bg-img">
+    <img src="/images/carousel2_bg.jpg" />
+  </div>
+  <div class="container">
+      <div class="jumbotron-content ">
+        <h1 class="jumbotron-heading mb-4"  >Research</h1>
+        <p class="lead" >
+          The research conducted at RBC-DSAI spans both basic research, addressing fundamental challenges in AI, as well as applied research projects in various fields ranging from finance to health care.
+        </p>
+      </div>
+  </div>
+</section>
+
+
+<div class="container" id="rs-topic-basic" >
+<div class="row justify-content-end" id="research-content-box">
+<div class="col-sm-2 d-sm-none d-md-none d-lg-block d-xl-block " id="sidenav-container">
+  <ul data-spy="affix" data-offset-top="53" class=" nav flex-column sidenav" id="research-sidenav">
+    <li class="nav-item">
+      <a class="nav-link active text-uppercase" href="#rs-topic-basic" >Basic Research </a>
+      <ul class="nav flex-column mb-3">
+      
+        
+          <li class="nav-item">
+            <a class="nav-link " href="#attention-mechanisms-in-deep-neural-networks"> Attention Mechanisms in Deep Neural Networks</a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link " href="#domain-agnostic-methods-for-integration-of-prior-knowledge-in-learning-algorithms"> Domain Agnostic Methods for Integration of Prior Knowledge in Learning Algorithms</a>
+          </li>
+        
+      
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link " href="#learning-with-limited-and-partial-data"> Learning with Limited and Partial Data</a>
+          </li>
+        
+      
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link " href="#network-representation-learning"> Network Representation Learning</a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link " href="#safety-and-stability-preserving-reinforcement-learning"> Safety and Stability Preserving Reinforcement Learning</a>
+          </li>
+        
+      
+        
+      
+        
+      
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-uppercase" href="#rs-topic-applied">Applied Research</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link  text-uppercase" href="#rs-topic-projects">Projects</a>
+    </li>
+    
+  </ul>
+</div>
+<div class="col-sm-10" >
+  
+  <!-- <hr class="featurette-divider"> -->
+
+  <div class="container">
+    <div class="row">
+      <h1  class="col" >Basic Research </h1>
+    </div>
+
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider first" id="attention-mechanisms-in-deep-neural-networks">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Attention Mechanisms in Deep Neural Networks</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-1  ">
+            <p class="lead">Recently the Deep Learning community has shown great interest in attention mechanisms to train neural networks – the network pays attention to only certain parts of the input or to certain parts of the network structure to learn at a given instant. However, to make this work well, we need to develop efficient algorithms for jointly learning the network parameters as well as the attention mechanism.  The main work in the proposal will be three-fold. Better algorithms for attention, possibly based on reinforcement learning; transfer learning using attention; and more efficient implementations of attention mechanisms.</p>
+          </div>
+          <div class="col-md-5 order-md-2 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/dnn.png" alt="Attention Mechanisms in Deep Neural Networks">
+          </div>
+        </div>
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="domain-agnostic-methods-for-integration-of-prior-knowledge-in-learning-algorithms">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Domain Agnostic Methods for Integration of Prior Knowledge in Learning Algorithms</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-2  ">
+            <p class="lead">While data analysis tools are used across various problem areas, the question of importance of domain knowledge in improving the performance of these algorithms has not been addressed sufficiently. In this project, we will explore approaches for hybridisation of domain knowledge with data analysis methods. To ensure that the ideas developed through this project are domain agnostic, we will abstract domain knowledge into generic forms network structure, spatial relationships, to name a few.</p>
+          </div>
+          <div class="col-md-5 order-md-1 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/prior.jpg" alt="Domain Agnostic Methods for Integration of Prior Knowledge in Learning Algorithms">
+          </div>
+        </div>
+      
+    
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="learning-with-limited-and-partial-data">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Learning with Limited and Partial Data</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-2  ">
+            <p class="lead">When data science solutions are deployed in practice, seldom do the conditions on the ground match the theoretical assumptions of the algorithms. In this project, we look at algorithms and approaches that can operate with very limited data, with only a partial description available either due to design or systemic issues. We will also tackle several issues such as learning with partial trajectory (or temporal) data, learning with systematic label noise, and learning requiring active exploration of the data space.</p>
+          </div>
+          <div class="col-md-5 order-md-1 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/puzzle.jpg" alt="Learning with Limited and Partial Data">
+          </div>
+        </div>
+      
+    
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="network-representation-learning">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Network Representation Learning</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-2  ">
+            <p class="lead">Learning deep representations from raw input data has revolutionised the field of Machine Learning in the past few years. While deep representation learning has been extremely successful in computer vision and natural language processing, there have been very few studies involving representation learning on network data (for example, social network data). We propose to develop a theory of network representation learning, along the lines of the very popular and successful methods for text representation. The theory should be able to represent network features at different levels of granularity (node level, edge level, path level, etc.), as well as handle different kinds of networks (directed, weighted, temporal, multiplex, etc.).</p>
+          </div>
+          <div class="col-md-5 order-md-1 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/networks.png" alt="Network Representation Learning">
+          </div>
+        </div>
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="safety-and-stability-preserving-reinforcement-learning">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Safety and Stability Preserving Reinforcement Learning</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-1  ">
+            <p class="lead">While reinforcement algorithms have achieved notable successes recently, the use of such approaches in controlling real physical systems is not really prevalent. The primary reason for this is the lack guarantees regarding safety and stability of the physical system in classical RL algorithms. In this project, we will explore ideas from classical control theory as well as more recent advances in deep learning to develop more robust algorithms deployable on physical systems.</p>
+          </div>
+          <div class="col-md-5 order-md-2 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/safe.jpg" alt="Safety and Stability Preserving Reinforcement Learning">
+          </div>
+        </div>
+      
+    
+      
+    
+      
+    
+
+
+
+
+    <hr class="featurette-divider" id="rs-topic-applied">
+    
+    <h1 class="mt-4"> Applied Research</h1>
+
+    
+      
+    
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="financial-analytics">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Financial Analytics</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-1  ">
+            <p class="lead">There is an active collaboration between the faculty and financial service providers who work in previously underserved areas. Research is being actively carried out in understanding, predicting and modelling customer behaviour; credit scoring; understanding and creating customer profiles; NPA prediction in retail banking; BFSI data analytics stack; etc.</p>
+          </div>
+          <div class="col-md-5 order-md-0 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/r_ap_3.png" alt="Financial Analytics">
+          </div>
+        </div>
+      
+    
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="manufacturing-analytics">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Manufacturing Analytics</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-1  ">
+            <p class="lead">Traditionally, manufacturing facilities (particularly chemical manufacturing) have been in the forefront in terms of using advanced computational techniques in their process operations. While manufacturing has been receptive to data analytic techniques for a long time now, the volume and variety of data available have undergone a tremendous growth. This necessitates new research that can integrate the traditional computational approaches with large-scale data analytics. The goal of the activities in the centre is the development of a first-of-its-kind manufacturing data analytics platform that could be used all over the world.</p>
+          </div>
+          <div class="col-md-5 order-md-0 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/r_ap_1.png" alt="Manufacturing Analytics">
+          </div>
+        </div>
+      
+    
+      
+    
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="smart-cities">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Smart Cities</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-0  ">
+            <p class="lead">The centre carries out research in many aspects of Smart Cities. We work closely with the Centre of Excellence in Urban Transportation in developing solutions for smart mobility, traffic modelling and analysis. We work on several aspects of smart power grids from analysing PMU data to looking at learning efficient strategies for next day power markets. Smart water distribution in urban areas is another active area of study.</p>
+          </div>
+          <div class="col-md-5 order-md-0 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/r_ap_2.png" alt="Smart Cities">
+          </div>
+        </div>
+      
+    
+      
+
+        
+        
+
+        
+          <hr class="featurette-divider" id="systems-biology-and-health-care">
+        
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Systems Biology and Health Care</h2>
+          </div>
+        </div>
+        <div class="row featurette">
+          <div class="col-md-7 order-md-1  ">
+            <p class="lead">In the domain of systems biology, the centre functions closely with the Initiative for Biological Systems Engineering (IBSE). We work primarily on cancer genomics and biological network analytics. We also undertake collaborative research with medical research foundations on analysing patient data, often to enable semi-automated early screening systems.</p>
+          </div>
+          <div class="col-md-5 order-md-0 ">
+            <img class="featurette-image img-fluid mx-auto " src="/images/research/r_ap_4.png" alt="Systems Biology and Health Care">
+          </div>
+        </div>
+      
+    
+
+
+
+    <hr class="featurette-divider" id="rs-topic-projects">
+
+
+
+    <hr class="featurette-divider " >
+
+    <div class="row">
+      <div class="col">
+         <h1> Projects </h1>
+    </div>
+
+     <div class="row">
+    
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Multiplex Network - Models, Algorithms, and Applications</h3>
+       <h4 class="card-subtitle mb-3">B. Ravindran, Venkatesh Ramaiyan, Mitesh M. Khapra</h4>
+       <p class="card-text">Learning deep representations from raw input data has revolutionized the field of Machine Learning in the past few years. While deep representation learning has been extremely successful in computer vision and natural language processing, there have been very few studies involving representation learning on network data (for example, social network data). For many problems in social network analysis, bioinformatics, knowledge representation, etc., one encounters relational data where the properties (features, labels, etc.) of different data-points are correlated. For example, people connected to each other have a higher chance of belonging to the same community, or of having a similar opinion. Intuitively, for such problems, representation learning algorithms which incorporate the relational information as a network are expected to perform better than traditional IID-based machine learning algorithms which treat each data point independently. In this project, we propose to build a theory of network representation learning along the lines of language modelling for textual data.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Developing parallel libraries for network analytics on Spark</h3>
+       <h4 class="card-subtitle mb-3">Ravindran B, Rupesh Nasre</h4>
+       <p class="card-text">One of the common theme underlying much of the work in the group is that of network analytics. In diverse areas such as transportation and systems biology the data is typically associated with a network of interacting entities. Analyzing the effects on a node in isolation is often not fructuous and we need to look at the network of entities as a whole. This leads to additional challenges in map-reduce style parallelism. We look to leverage the availability of several graph abstractions on Spark, such as Graphx and pregel, in order to develop efficient libraries for several common and specialized network related tasks. These libraries will be available to the campus community at large and would be deployed on our compute cluster.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Biological Networks & Data Analysis</h3>
+       <h4 class="card-subtitle mb-3">Karthik Raman, B. Ravindran, Himanshu sinha, Raghunathan Rengasamy</h4>
+       <p class="card-text">ILDS also works on a variety of problems related to biological networks/data analysis, such as predicting protein essentiality from protein interaction networks, mining biochemical reaction rules from complex reaction networks, identifying synthetic lethals in metabolic networks as well as learning protein function from protein interaction networks. We are also looking at integrating biological data from different levels of biological organisation, such as genomic, proteomic, transcriptiomic and phosphoproteomics data.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Intelligent Budgeting in Design of Experiments</h3>
+       <h4 class="card-subtitle mb-3">NandanSudarsanam, B.Ravindran</h4>
+       <p class="card-text">Statistical experimentation, or Design of Experiments in conventional usage, is the science of conducting tests on systems to understand and improve them. It involves making systematic and purposeful changes to factors (input variables) and observing their effects on the response (output variable). Traditional statistical experimentation has focused on model building in offline settings. However, there are a multitude of real-world systems that cannot be taken offline, partly or wholly. Also, in many cases the motivation to experiment could by process improvement rather than gaining knowledge of the system through mathematical models. The machine learning field of reinforcement learning, deals with similar problems through the multi-armed bandit settings and their extensions.This research seeks to apply the concepts from bandit problems to designed experiments, which focus primarily on multiple input variables, and specifically the experiments ability to exploit the interactive effects that might exist between the input variables. Concepts from Active learning, Stochastic optimization and game theory will also be leveraged in order to create effective algorithms.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Data Science for Aluminum Smelting</h3>
+       <h4 class="card-subtitle mb-3">Prof. Raghunathan Rengaswamy, Prof. Shankar Narasimhan, Dr. Balaraman Ravindran</h4>
+       <p class="card-text">As a part of the Industrial Internet Centre of Excellence at IIT Madras, GE and IITM are collaborating to develop a Digital Twin of an Aluminum Smelter potline using advanced software and data analytics. The digital twin is a live, virtual model of a physical system that is personalized & continuously learning from new data. Physics based models & artificial intelligence technologies, along with domain understanding make this possible,Signed about a year ago, the joint team has made significant progress on first principles physics based models. Going ahead, model predictive control algorithm and process monitoring will also be developed to be integrated for the digital twin.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Smart Grids Data Analytics for Cyber Attack and Fault Detection</h3>
+       <h4 class="card-subtitle mb-3">Ramkrishna Pasumarthy, Nirav Bhatt</h4>
+       <p class="card-text">The demand for electrical energy is increasing twice as fast as it is being used. This necessities the need for generating electricity from many sources, transmitting and distributing with augmented efficiency and conserving through optimal usage. With the advent of Smart Grid technologies, meeting the energy demands of the future seems very much possible. Even though the reach of Smart Grid technologies is limited at present, a large amount of data, pertaining to variables like voltage, current, power, etc. on an hourly or half hourly basis, is being generated from the smart meters. The data can be analyzed to improve and expanding Smart grid technologies for Indian markets.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Data mining and algorithms using Intelligent Transportation Systems data</h3>
+       <h4 class="card-subtitle mb-3">Karthik K. Srinivasan, Gitakrishnan Ramadurai, B. Ravindran, Sayan Ranu</h4>
+       <p class="card-text">Rich real-time traffic data is being obtained using advanced sensors such as Video and GPS as well as communication technologies at a data centre in the Intelligent Transportation Systems laboratory. This data offers tremendous scope to investigate empirical patterns and use these insights to operate and manage the transportation system towards desired objectives including reduced congestion, improved reliability and safety, better fuel efficiency and decrease in environmental pollution. The focus of this work will be to mine this data to derive empirical understanding and develop models towards this broad goal. Specific focus areas include quantification of the ITS data to investigate the role of various sources that affect system performance (demand, incidents, weather, construction, special events, control devices etc.) and applying this knowledge towards the development of algorithms for optimizing and improving system performance.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Development of a Dynamic Traffic Congestion Prediction System for Indian Cities</h3>
+       <h4 class="card-subtitle mb-3">Dr. Lelitha Devi, Dr. Gitakrishnan Ramadurai, Dr.C.S.Shankar Ram, Dr. Ravindran B, Dr.Sayan Ranu, Dr. Kaushik Mitra</h4>
+       <p class="card-text">Traffic congestion is one of the major challenges faced by traffic engineers all over the world. Solutions ranging from major infrastructure development to smaller traffic management measures such as reversible lanes and one way roads are being tried out to address this problem. One such solution to alleviate congestion, with minimal infrastructure, is to manage the traffic in real time using advanced technologies and methodologies. Such solutions are part of the general area of Intelligent Transportation Systems (ITS). These solutions are required to be developed as an integral part of the smart city initiatives by the Government of India.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Deep Architectures for Vehicle tracking</h3>
+       <h4 class="card-subtitle mb-3">B. Ravindran, Gitakrishnan Ramadurai, Kaushik Mitra</h4>
+       <p class="card-text">The primary problem we will explore is that of semantic segmentation of images and videos using deep learning and attention models, with the aim of doing motion prediction.Use of attention has several advantages - it reduces the computation overhead both during training and testing; it reduced the number of parameters required to predict the output for each input so that learning can happen with fewer samples; it is a biologically and cognitively appealing technique. Attention techniques have been deployed widely with architectures such as CNNs, LSTMs, and memory networks. But this has been largely in the domain of images and text.In this project, we  explore the use of attention in videos and we will look for the following from the proposed architecture - - Meaningful semantic segmentation of video frames. The crucial parts of the frame that are essential for tracking activity across frames should be the focus of the approach. - Accurate motion prediction in real scene videos over short horizons. Again, the prediction should focus on objects of interest, and not necessarily on predicting the background. The key challenge is to maintain the definition of the objects across predicted frames. Attention will play a crucial role here. - Efficient computation, first engendered by the attention mechanism, and second by further optimization of the implementation based on the actual computation performed.</p>
+     </div>
+    </div>
+     
+    <div class="card col-sm-12  project-card  mb-5">
+     <div class="card-body drop-shadow">
+       <h3 class="card-title">Control and operation of urban water distribution network(WDN)</h3>
+       <h4 class="card-subtitle mb-3">Sridharakumar Narasimhan, Shankar Narasimhan, B.S. Murty</h4>
+       <p class="card-text">The main objective of this project is to develop automated strategies for effective control and optimization of Water Distribution Networks (WDNs) and water treatment facilities. It is proposed to achieve this objective by suitable instrumentation of the water treatment plants and the distribution networks, online acquisition and transmission of the information to a network management system, and developing control methods that can deal with large scale complex urban water distribution networks.</p>
+     </div>
+    </div>
+    
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+
+</div>
+
+
+
+  <div class="container">
+<footer>
+  <p class="float-right"><a href="#">Back to top</a></p>
+  <p>Robert Bosch Center for Data Science and Artificial Intelligence | IIT Madras &copy; 2017 </p>
+</footer>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+<script src="/js/marquee.js" ></script>
+
+<script type="text/javascript">
+  var collab = $('.collab-section marquee').marquee('pointer').mouseover(function () {
+    $(this).trigger('stop');
+}).mouseout(function () {
+    $(this).trigger('start');
+}).mousemove(function (event) {
+    if ($(this).data('drag') == true) {
+          this.scrollLeft = $(this).data('scrollX') + ($(this).data('x') - event.clientX);
+            }
+}).mousedown(function (event) {
+    $(this).data('drag', true).data('x', event.clientX).data('scrollX', this.scrollLeft);
+}).mouseup(function () {
+    $(this).data('drag', false);
+}).on('jumpstart', function(event) {
+ this.scrollLeft = 1000;
+});
+
+ collab.trigger('jumpstart');
+
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+
+  $('body').scrollspy({target: '#research-sidenav', offset: 83});
+
+  $(window).on('scroll', function (event) {
+     var SIDENAV_OFFSET = 280;
+     var scroll_pos = $(window).scrollTop();
+
+     if (scroll_pos > SIDENAV_OFFSET ) 
+        $("#research-sidenav").addClass('affix-top');
+     else
+        $("#research-sidenav").removeClass('affix-top');
+     
+  });  
+</script>
+
+
+
+</body>
+</html>
+
