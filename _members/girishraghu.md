@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Girish Raghuvir
-image: default.png
+name: Girish Raguvir J
+image: girishrj.jpg
 designations: 
   - B.Tech
 area:
