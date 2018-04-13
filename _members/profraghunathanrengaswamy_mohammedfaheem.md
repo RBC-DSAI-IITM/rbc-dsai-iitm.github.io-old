@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Mohammed Faheem
-image: mohammedfaheem.jpg
+image: mohammed.jpg
 designations: 
   - PhD Scholar
 area:

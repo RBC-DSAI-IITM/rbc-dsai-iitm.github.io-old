@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Shayantan Banerjee 
-image: default.png
+image: shayantan.jpg
 designations: 
   - PhD Scholar
 area:

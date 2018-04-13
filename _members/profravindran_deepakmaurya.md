@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Deepak Maurya
-image: default.png
+image: deepakmaurya.jpg
 designations: 
   - MS Scholar
 area:
