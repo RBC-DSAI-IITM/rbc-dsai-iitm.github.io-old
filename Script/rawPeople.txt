@@ -1,0 +1,80 @@
+Kamakoti Veezhinathan, Professor
+kama@cse.iitm.ac.in
+Dr. Kamakoti Veezhinathan obtained his Ph.D and M.S in Computer Science and Engineering from Indian Institute of Technology Madras. His research interests includes Software for VLSI, Reconfigurable Systems Design, and Computer Architecture.
+Research Interests: Secure Systems Engineering, High Performance Computing, VLSI Design, Computer Architecture.
+
+Karthik Raman, Assistant Professor
+kraman@iitm.ac.in
+Dr. Karthik's Ph.D. at IISc Bangalore involved the computational analysis of metabolic networks and protein-protein interaction networks in Mycobacterium tuberculosis, for the prediction of potential drug targets. Karthik's post-doctoral research at the University of Zurich, Switzerland, involved the analysis of a complex space of signalling circuits in yeast as well as synthetic logic circuits, for their robustness and evolvability. His research interests are in the areas of computational systems biology and synthetic biology. Some pertinent research problems of interest are the reconstruction of complex biological networks from data on metabolites (metabolomics), RNA transcripts/microarrays (transcriptomics) and proteins (proteomics), and the integration of these data into biological network models. Karthik's lab currently works on modelling and analysis of metabolic networks for applications in metabolic engineering.
+Research Interests: Metabolic network analysis, Computational modelling and simulation of biological systems/networks, Systems and synthetic biology, Metabolic engineering (strain improvement through in silico modelling), High-performance GPGPU computing for systems biology 
+
+Karthik K Srinivasan, Professor
+karthikks@iitm.ac.in
+Dr. Karthik K Srinivasan is with the Department of Civil Engineering at Indian Institute of Technology Madras. His fields of interest area are Intelligent Transportation Systems, Traffic data analysis and simulation, Travel demand data analysis and forecasting, Transportation Network Optimization and Simulation.
+Research Interests: 
+
+Kaushik Mitra, Assistant Professor
+kmitra@iitm.ac.in
+Dr. Kaushik Mitra is an Assistant Professor in the department of Electrical Engineering at Indian Institute of Technology Madras, Chennai, India. He was a postdoctoral research associate in the Electrical and Computer Engineering department of Rice University. He earned his Ph.D. in Electrical and Computer Engineering from the University of Maryland, College Park, where his research focus was on the development of statistical models and optimization algorithms for computer vision problems. Currently, his research interests are in computational imaging, computer vision and machine learning.
+Research Interests: Develop theory to explore the performance limits of CI systems, Develop novel CI systems, Explore the promise of data-driven signal models in CI and computer vision.
+
+Krishnan Balasubramanian, .
+balas@iitm.ac.in
+.
+Research Interest: Ultrasonics and Acoustic, Structural Health Monitoring, Micro and Nano Imaging, Nondestructive Evaluation, Materials Characterisation, Wave Propagation.
+
+Krishna Jagannathan, Assistant Professor
+krishnaj@iitm.ac.in
+Krishna Jagannathan obtained his B. Tech. in Electrical Engineering from IIT Madras in 2004, and the S.M. and Ph.D. degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology (MIT) in 2006 and 2010 respectively. During 2010-2011, he was a visiting post-doctoral scholar in Computing and Mathematical Sciences at Caltech, and an off-campus post-doctoral fellow at MIT. Since November 2011, he has been an assistant professor in the Department of Electrical Engineering, IIT Madras. He worked as a consultant at the Mathematical Sciences Research Center, Bell Laboratories, Murray Hill, NJ in 2005, and as an engineering intern at Qualcomm, Campbell, CA in 2007.  His research interests are in Stochastic modeling and analysis of communication networks, Transportation networks, Network control, and Queuing theory.
+Research interests: lie in the stochastic modeling and analysis of communication networks, transportation networks, network control, and queuing theory.
+
+Lelitha Devi Vanajakshi, Associate Professor
+lelitha@ iitm.ac.in
+Dr. Lelitha Devi Vanajakshi is a faculty in the Transportation Engineering Division, Department of Civil Engineering, IIT Madras. She obtained her Ph.D. in Transportation Engineering from Texas A&M University and her current research areas includetraffic flow modeling, Intelligent Transportation Systems (ITS), traffic sensors, traffic data analysis and traffic operations and management.
+Research Interests: Traffic Flow Modeling,Intelligent Transportation Systems, Traffic Operations and Management.
+
+Nirav Bhatt, INSPIRE Fellow
+nirav@chem.iitm.ac.in
+Dr Nirav P Bhatt earned his Bachelor in Chemical Engineering from The M S University of Baroda, Masters in Chemical Engineering from IIT Madras, and Docteur es Science (DSc) from EPFL, Switzerland. Currently, He is INSPIRE Fellow with Systems & Control Group at IIT Madras. His research interests include modeling and identification of biological and chemical systems, and machine learning and data analysis of engineering and financial systems.
+Research Areas: Data analysis, Process systems engineering, kinetic modeling.
+
+Prabhu Rajagopal, .
+prajagopal@iitm.ac.in
+Dr. Prabhu Rajagopal is Associate Professor in the Department of Mechanical Engineering and an Associate of the Centre for Nondestructive Evaluation (NDE) at IIT Madras. A Dual Degree (2003) graduate of IIT Madras, he obtained his PhD in Ultrasonic NDE from Imperial College London, UK in 2007. As a Post-doctoral Research Fellow, he developed advanced computational tools for qualifying welds on a Rolls-Royce funded project, also at Imperial. He is currently Principal or Co-Investigator in BRNS, DST, MHRD-MNPG and MOD sponsored projects, and has contributed over 100 technical articles in peer reviewed journals and conference proceedings. Dr. Rajagopal serves on the editorial board of ISNT Journal of NDE, and engages actively with industry.
+Research Interests: Ultrasonics for Nondestructive Evaluation, Structural Health Monitoring and Process Control, Simulation and analysis of elastic wave propagation and scattering, Robotic and automated inspection, Artificial intelligence in sensing and control.
+
+Radha Krishna Ganti, Assistant Professor
+rganti@ee.iitm.ac.in
+Radha Krishna Ganti  is an Assistant Professor at the Indian Institute of Technology Madras, Chennai, India. He was a Postdoctoral researcher in the Wireless Networking and Communications Group at UT Austin from 2009-11. He received his B. Tech. and M. Tech. in EE from the Indian Institute of Technology, Madras, and a Masters in Applied Mathematics and a Ph.D. in EE from the University of Notre Dame in 2009. His doctoral work focused on the spatial analysis of interference networks using tools from stochastic geometry. He is a co-author of the monograph Interference in Large Wireless Networks (NOW Publishers, 2008). He received the 2014 IEEE Stephen O. Rice Prize,  and the 2014 IEEE Leonard G. Abraham Prize and the 2015  IEEE Communications society young author best paper award.
+Research Interests: Wireless Networks, Communication Systems. 
+
+Rahul R Marathe, Associate Professor
+rrmarathe@iitm.ac.in
+Dr. Rahul R Marathe is a Associate Professor at IIT Madras in the Department of Management Studies. He obtained his Ph.D and M.S from Iowa State University in Industrial Engineering and Statistics, and his B.E in Production Engineering from Mumbai University. His research interests include Decision-making under uncertainty and, Mathematical and Statistical modeling.
+Research Interests: Stochastic Processes Mathematical and Statistical Modeling Data Analytics. 
+
+Ramkrishna Pasumarthy, Assistant Professor
+ramkrishna@ee.iitm.ac.in
+Dr. Ramkrishna Pasumarthy obtained his PhD in systems and control from the University of Twente, The Netherlands. His research interests lie in the area of modeling and control of complex physical systems, control of cyber physical systems in a cloud environment. He has set up a cloud computing lab which currently focuses on building process plant simulators and cluster analysis on big data.
+Research Interests: His lie in the area of systems and control theory. In particular I am interested in modeling and control of complex physical systems in the port-Hamiltonian framework. I also have interests in the area of modeling and control of (cloud) computing systems and data analytics for power and cloud networks.
+Research Interests: 
+
+Rupesh Nasre, Assistant Professor
+rupesh0508@gmail.com
+Rupesh is an Assistant Professor in the CSE department at IIT Madras. He completed PhD from IISc Bangalore and Post-Doctoral Fellowship from the University of Texas at Austin. His research focus is in Compilers and Parallelization. He is a recipient of the Young Faculty Recognition Award at IIT Madras, NVIDIA Special Prize for CodeForScience, a winner of the Yahoo! University Hack Day, and holds five US patents.
+Research Interests: Compilers, Parallelization.
+
+Shankar Narasimhan, M.S. Ananth Institute Chair Professor
+naras@iitm.ac.in
+Shankar Narasimhan is currently the M.S. Ananth Institute Chair Professor in the Department of Chemical Engineering at IIT Madras. He obtained his Bachelor’s degree from IIT Madras in 1982 and his MS and PhD degrees from Northwestern University, Illinois, USA in 1984 and 1987, respectively. Prior to joining IIT Madras, he was an Associate Professor in chemical engineering department at IIT Kanpur. Shankar Narasimhan’s major research interests are in the areas of Data Mining, Process Design and Optimization, Fault Detection and Diagnosis (FDD) and Fault Tolerant Control. Shankar Narasimhan is well known for his work in the area of Data Reconciliation in which he has co-authored several important papers and a book which has received critical appreciation in India and abroad. Along with Engineers India Ltd., Gurgaon he has developed a software package for applying data reconciliation and gross error detection technique to process industries. For this work, he received the Engineers India Research Award instituted at IIT Kanpur in 1994-1995. In collaboration with a colleague from Civil Engineering, he has also developed a software package for leak detection in gas pipeline networks, which has been field tested on a pipeline owned and operated by GAIL. In the area of process design, he has made important and seminal contributions in the design of sensor networks, heat exchanger networks, and water distribution networks. Shankar Narasimhan has been a visiting professor at the Centre for Automatic Control in Nancy, France, Purdue University, Clarkson University and Texas Tech University in USA and the University of Alberta in Canada. He has also spent summer internships at Engineers India Ltd., R&D Centre in Gurgaon, Honeywell Technology Solutions Ltd., R&D Centre at Bangalore, and ABB Global Services Ltd., Bangalore as part of high-level industry-academia interactions. Along with Prof. Raghunathan Rengaswamy of IIT Madras, he co-founded Gyan Data Pvt. Ltd. in 2011, which specializes in providing services and products in data analytics, process modeling and optimization. Shankar Narasimhan was elected as a Fellow of the Indian National Academy of Engineering in 2012.
+Research Interests: Data mining, Fault Diagnosis, Process design. 
+
+Sridharakumar Narasimhan, Assistant Professor
+sridharkrn@iitm.ac.in
+Dr. Sridharakumar Narasimhan received his M.Tech (Integrated course) degree in Chemical Engineering from IIT Bombay in 1998. Subsequently, he worked for 2 years as a process engineer in the mineral process group of the R&D division of Larsen and Toubro, Mumbai for 2 years. He then started his graduate studies in Chemical Engineering and obtained his PhD from Clarkson University in 2006. From 2006-2008 he was a post-Doctoral Scholar in the department of Chemical Engineering, NTNU, Trondheim, Norway. He joined the department of chemical engineering at IIT Madras in 2008. He has visited Texas Tech University, TU Delft and RWTH Aachen. His research interests are in process operations (control, fault diagnosis), system identification and optimization. One of the major goals of his research is to arrive at designs for control structures, water networks, sensor networks, heat exchanger networks, experiments with guaranteed performance specifications. A common thread in these problems is the application of convexity theory to arrive at tractable optimization problems. He is also interested in the application of systems theory in biology, medicine and infrastructure.
+Research Interests: Fault Diagnosis, Process Control, Optimization, System Identification, Systems biology.
+
+Venkatesh Ramaiyan, Professor
+rvenkat@ece.iisc.ernet.in
+My research interests include performance modelling and analysis of wired and wireless networks (MAC,network, application and cross-layer), resource allocation and optimization in constrained networks, stochastic control, algorithm and protocol design, information theory and network coding. My current focus are in performance optimization in wireless sensor networks, modelling and analysis of distributed medium access protocols and performance analysis and provisioning of wireless access networks.
+Research Interests: 
