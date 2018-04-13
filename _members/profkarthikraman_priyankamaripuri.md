@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Tarun Kumar
-image: tarun.jpg
+name: Priyanka Maripuri
+image: priyanka.png
 designations: 
-  - PhD Scholars
+  - Project Associate
 area:
 bio:
 email:

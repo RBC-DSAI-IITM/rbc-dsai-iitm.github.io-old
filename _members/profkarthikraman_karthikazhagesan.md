@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Privesh V
-image: priyesh.jpg
+name: Karthik Azhagesan
+image: karthikazhagesan.png
 designations: 
   - MS Scholar
 area:
