@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Sudarsun S
+name: Sudarsun Santhiappan
 image: sudarsun.jpg
 designations: 
   - PhD scholar

@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Beethika Tripathi
+name: Beethika Tripathy
 image: beethika.jpg
 designations: 
   - MS Scholar
