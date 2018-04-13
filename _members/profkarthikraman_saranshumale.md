@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Saransh Umale
-image: saranshumale.png
+image: saranshumale.jpg
 designations: 
   - Dual Degree
 area:
