@@ -16,4 +16,27 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
 	</li>
 	<li><b>Time</b> : 1400-1830</li>
 	<li><b>Date</b> : 18th April (Wednesday)</li>
+
 </ul>
+
+<h2 class="post-title text-center"> Poster Titles </h2>
+<ol class="publications">
+  <li> 
+     <span class="pub-title">
+       Evaluation of Clustering Algorithms for the Prediction of
+       Trends in Bus Travel Time
+     </span>
+     <span class="pub-authors">
+       Hima Elsa Shaji, Arun K. Tangirala and Lelitha Devi Vanajakshi
+     </span>
+  </li>
+  <li> 
+     <span class="pub-title">
+       Identification of Reaction Systems using Spectroscopic
+       Measurements and Micro-reactors
+     </span>
+     <span class="pub-authors">
+      Manokaran V, Sridharakumar Narasimhan, Nirav P Bhatt
+     </span>
+  </li>
+</ol>
