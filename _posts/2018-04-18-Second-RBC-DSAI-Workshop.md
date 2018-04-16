@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second RBC-DSAI Workshop on Recent Progress in Data Science and AI
-date: 2018-04-18 14:00:00 +0530
+date: 2018-04-18 15:00:00 +0530
 venue: ICSR
 categories: events
 ---
