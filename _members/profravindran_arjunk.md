@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Arjun K
-image: default.png
+name: Arjun Krishna
+image: arjunk.png
 designations: 
   - B.Tech
 area:

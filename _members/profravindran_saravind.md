@@ -1,7 +1,7 @@
 ---
 layout: member
-name: S Aravind
-image: default.png
+name: Aravind Suresh
+image: aravindsuresh.png
 designations: 
   - B.Tech
 area:
