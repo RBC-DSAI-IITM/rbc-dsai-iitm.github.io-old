@@ -1,6 +1,6 @@
 ---
 layout: member
-name: 	likith Reddy
+name: 	Likith Reddy
 image: likithreddy.jpg
 designations: 
   - PhD Scholar
