@@ -1,7 +1,7 @@
 ---
 layout: member
 name: 	likith Reddy
-image: default.png
+image: likithreddy.jpg
 designations: 
   - PhD Scholar
 area:

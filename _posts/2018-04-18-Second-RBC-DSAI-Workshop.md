@@ -303,4 +303,20 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
       Patanjali SLPSK, Milan Patnaik, Seetal Potluri and Kamakoti.V
      </span>
   </li>
+  <li> 
+     <span class="pub-title">
+       What is the Right Sample Size for Fixed Horizon Online Experiments?
+     </span>
+     <span class="pub-authors">
+      Balaji Pitchaikannu and Nandan Sudarsanam
+     </span>
+  </li>
+  <li> 
+     <span class="pub-title">
+       Improved Insights on Financial Health Using Auto Regressive Hidden Markov Models
+     </span>
+     <span class="pub-authors">
+      Dibu John Philip and Nandan Sudarsanam
+     </span>
+  </li>
 </ol>
