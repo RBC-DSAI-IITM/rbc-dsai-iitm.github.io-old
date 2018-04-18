@@ -153,14 +153,6 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
   </li>
   <li> 
      <span class="pub-title">
-       HOPF: A higher order propagation for deep collective classification
-     </span>
-     <span class="pub-authors">
-      V. Priyesh, Mitesh Khapra, B. Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
        Towards a Better Metric for Evaluating Question Generation Systems
      </span>
      <span class="pub-authors">
