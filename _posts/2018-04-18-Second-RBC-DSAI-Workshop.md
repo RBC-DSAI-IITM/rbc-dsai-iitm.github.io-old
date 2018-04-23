@@ -57,14 +57,6 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
   </li>
   <li> 
      <span class="pub-title">
-       Identification and analysis of synthetic lethals of evolved metabolic networks
-     </span>
-     <span class="pub-authors">
-      Gayathri S, Karthik Raman
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
        Classification and identification of tumour suppressor genes and oncogenes
      </span>
      <span class="pub-authors">
@@ -93,14 +85,6 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
      </span>
      <span class="pub-authors">
       Vivek Shankar Pinnamaraju, Arun K. Tangirala
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Learning to Multi-Task by Active Sampling
-     </span>
-     <span class="pub-authors">
-      P. S. Hegde, A. K. Jha, S. Sharma, B. Ravindran
      </span>
   </li>
   <li> 
@@ -289,14 +273,6 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
   </li>
   <li> 
      <span class="pub-title">
-       MLTimer: Leakage Power Minimization in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis
-     </span>
-     <span class="pub-authors">
-      Patanjali SLPSK, Milan Patnaik, Seetal Potluri and Kamakoti.V
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
        What is the Right Sample Size for Fixed Horizon Online Experiments?
      </span>
      <span class="pub-authors">
@@ -309,6 +285,30 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
      </span>
      <span class="pub-authors">
       Dibu John Philip and Nandan Sudarsanam
+     </span>
+  </li>
+  <li> 
+     <span class="pub-title">
+       An Experimental Study for Leak detection by in intermittent Water Distribution Networks
+     </span>
+     <span class="pub-authors">
+      Prasanna Mohan Das, Murthy B.S, Shankar Narasimhan, Sridhar kumar Narasimhan
+     </span>
+  </li>
+  <li> 
+     <span class="pub-title">
+       Eliminet : A model for eliminating options for reading comprehension with MCQs 
+     </span>
+     <span class="pub-authors">
+      Ananya Sai, Preksha Nema, Mitesh Khapra, Soham Parikh
+     </span>
+  </li>
+  <li> 
+     <span class="pub-title">
+       Natural Language Generation from Structured Data 
+     </span>
+     <span class="pub-authors">
+      Shreyas Shetty, Preksha Nema, Parag Jain, Anirban Laha, Karthik Sankara Narayanan, Mitesh Khapra
      </span>
   </li>
 </ol>
