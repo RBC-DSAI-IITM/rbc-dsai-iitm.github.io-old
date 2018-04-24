@@ -44,14 +44,14 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  top: 3rem;
+  top: 1rem;
   left:10%;
   right:10%;
 }
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 25rem;
+  height: 20rem;
   background-color: #777;
   text-shadow: 1px 1px #333;
 }
