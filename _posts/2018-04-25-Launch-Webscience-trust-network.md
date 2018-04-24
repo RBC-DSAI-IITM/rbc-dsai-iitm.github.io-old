@@ -5,15 +5,12 @@ venue: ICSR
 categories: events
 ---
 <ul>
-	<li>
-		<b>Venue</b> : Conference Room, Second Floor, ICSR, IIT Madras
-	</li>
-	<li><b>Time</b> : 14:00 </li>
-	<li><b>Date</b> : 25th April (Wednesday)</li>
-
+	<li><b>Venue</b> : Conference Room, Second Floor, ICSR, IIT Madras </li>
+	 <li><b>Time</b> : 14:00 </li>
+	 <li><b>Date</b> : 25th April (Wednesday)</li>
 </ul>
 
-<h2 class="post-title text-center"> Program Agenda </h2>
+<h2 class="post-title text-center"> Agenda </h2>
 <ol class="publications">
   <li> 
      <span class="pub-authors">
