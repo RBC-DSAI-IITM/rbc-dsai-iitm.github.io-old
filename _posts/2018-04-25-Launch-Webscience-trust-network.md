@@ -1,20 +1,14 @@
 ---
 layout: post
 title: Launch of the Web Science Trust Network in IIT Madras
-date: 2018-04-25 14:00:00 +0530
 venue: ICSR
 categories: events
 ---
-
-RBCDSAI invites Launch of the Web Science Trust Network in IIT Madras on April 25, 2018.
 <ul>
 	<li>
-		<b>Venue</b> : IIT Madras, Chennai - 600036
-		<ul>
-			<li> <i>Spot</i>: ICSR 2nd-floor Conference Room </li>
-		</ul>
+		<b>Venue</b> : Conference Room, Second Floor, ICSR, IIT Madras
 	</li>
-	<li><b>Time</b> : 14:00-13:30</li>
+	<li><b>Time</b> : 14:00 </li>
 	<li><b>Date</b> : 25th April (Wednesday)</li>
 
 </ul>
@@ -44,7 +38,7 @@ RBCDSAI invites Launch of the Web Science Trust Network in IIT Madras on April 2
        15:10 to 15:15    Address by Prof. R. Nagarajan, Dean International and Alumni Relations (5 minutes)
      </span>
      <span class="pub-authors">
-       15:15 to 15:25   "Inaugurating" a Web Science activities @RBC-DSAI webpage
+       15:15 to 15:25   Inaugurating a Web Science activities @RBC-DSAI webpage
      </span>
   </li>
 </ol>
