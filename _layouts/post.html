@@ -8,9 +8,9 @@ layout: default
       <div class="post">
         <h2 class="post-title">{{ page.title }}</h2>
 
-        <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+       <!-- <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>-->
 
-        <p class="mt-3 post-content" >
+        <p class="mt-1 post-content" >
          {% if page.img %}
           <img src="{{ page.img }}" width="100" class="mr-3 mb-3" style="float:left"/>
          {% endif %}
