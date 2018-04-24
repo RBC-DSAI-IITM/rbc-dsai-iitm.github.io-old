@@ -2,6 +2,7 @@
 layout: post
 title: Launch of the Web Science Trust Network in IIT Madras
 venue: ICSR
+date: 2018-04-25 14:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
