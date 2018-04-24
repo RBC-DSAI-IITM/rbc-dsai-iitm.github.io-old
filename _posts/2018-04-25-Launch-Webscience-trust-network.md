@@ -63,7 +63,7 @@ categories: events
      <span class="col-2 text-center">
        15:15 
        </span> <span class="col-10">
-       Inaugurating a Web Science activities @RBC-DSAI webpage
+       Inaugurating Web Science activities @RBC-DSAI webpage
      </span>
   </li>
 </ol>
