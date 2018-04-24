@@ -6,12 +6,12 @@ venue: ICSR
 categories: events
 ---
 
-Launch of the Web Science Trust Network in IIT Madras on April 18, 2018.
+RBCDSAI invites Launch of the Web Science Trust Network in IIT Madras on April 18, 2018.
 <ul>
 	<li>
 		<b>Venues</b> : IIT Madras, Chennai - 600036
 		<ul>
-			<li> <i>Posters</i>: ICSR AC Dining Hall </li>
+			<li> <i>Posters</i>: ICSR 2nd-floor Conference Room </li>
 		</ul>
 	</li>
 	<li><b>Time</b> : 14:00-13:30</li>
@@ -19,15 +19,11 @@ Launch of the Web Science Trust Network in IIT Madras on April 18, 2018.
 
 </ul>
 
-<h2 class="post-title text-center"> Poster Titles </h2>
+<h2 class="post-title text-center"> Program Agenda </h2>
 <ol class="publications">
   <li> 
      <span class="pub-title">
-       Evaluation of Clustering Algorithms for the Prediction of
-       Trends in Bus Travel Time
-     </span>
-     <span class="pub-authors">
-       Hima Elsa Shaji, Arun K. Tangirala and Lelitha Devi Vanajakshi
+       14:00 to 14:05   Welcome by Prof. B. Ravindran, Head Robert Bosch Centre for Data Science and AI, IIT Madras 
      </span>
   </li>
 </ol>
