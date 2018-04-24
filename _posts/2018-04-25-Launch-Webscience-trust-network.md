@@ -6,7 +6,7 @@ venue: ICSR
 categories: events
 ---
 
-RBCDSAI invites Launch of the Web Science Trust Network in IIT Madras on April 18, 2018.
+RBCDSAI invites Launch of the Web Science Trust Network in IIT Madras on April 25, 2018.
 <ul>
 	<li>
 		<b>Venue</b> : IIT Madras, Chennai - 600036
