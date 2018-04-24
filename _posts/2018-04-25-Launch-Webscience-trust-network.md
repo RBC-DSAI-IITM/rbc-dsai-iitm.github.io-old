@@ -18,7 +18,9 @@ categories: events
   </li>
   <li class="row"> 
      <span class="col-3 text-center">
-       14:00 to 14:05     Welcome by Prof. B. Ravindran, Head Robert Bosch Centre for Data Science and AI, IIT Madras 
+       14:00 to 14:05 
+       </span>
+       <span class="col-9"> Welcome by Prof. B. Ravindran, Head Robert Bosch Centre for Data Science and AI, IIT Madras 
      </span>
   </li> <li class="row">
      <span class="col-3 text-center">

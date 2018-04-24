@@ -262,9 +262,11 @@ a.nav-link {
 
 .post-content {
   padding:1em;
+  /*
   padding-bottom:3em;
   background-color: #f2f7ff;
   color : #111;
+  */
 }
 
 .section-title {
