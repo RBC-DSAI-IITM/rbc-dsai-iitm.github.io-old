@@ -70,6 +70,6 @@ categories: events
 </ol>
 
 
- width="800" height="330" controls>
+<video width="800" height="330" controls>
   <source src="/images/Dame.mp4" type="video/mp4">
   </video>
