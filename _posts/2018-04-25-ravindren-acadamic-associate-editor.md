@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Academic Editor for PLOS ONE and an Associate Editor for the Machine Learning and Artificial Intelligence
+title: RBC DSAI @ Editorial Board of world leading DS and AI Magazines
 img: /assets/ravi.jpg
 categories: news
 ---
