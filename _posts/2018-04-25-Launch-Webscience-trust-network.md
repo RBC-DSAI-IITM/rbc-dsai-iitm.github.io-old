@@ -36,6 +36,9 @@ categories: events
        14:15 
        </span> <span class="col-10">  Address by Dame Wendy Hall, Executive Director and Co-founder Web Science Trust 
      </span>
+     <video width="640" height="300" controls>
+     <source src="/images/Dame.mp4" type="video/mp4">
+     </video>
   </li> <li class="row">
      <span class="col-2 text-center">
        14:25 
@@ -69,6 +72,4 @@ categories: events
   </li>
 </ol>
 
-<video width="640" height="300" controls>
-  <source src="/images/Dame.mp4" type="video/mp4">
-</video>
+
