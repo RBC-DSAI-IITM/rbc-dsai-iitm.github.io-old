@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RBC DSAI @ Editorial Board of world leading DS and AI Magazines
+title: RBC DSAI @ Editorial Board of world leading DS and AI Journals
 img: /assets/ravi.jpg
 categories: news
 ---
