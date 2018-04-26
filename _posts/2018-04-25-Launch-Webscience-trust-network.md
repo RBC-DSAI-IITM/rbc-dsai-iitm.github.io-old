@@ -68,7 +68,7 @@ categories: events
      </span>
   </li>
 </ol>
-
+<!--
 <video width="800" height="330" controls>
   <source src="/images/Dame.mp4" type="video/mp4">  
 </video>
@@ -77,5 +77,18 @@ categories: events
   <source src="/images/s.mp4" type="video/mp4">
 </video>
 <h2>HTML Image</h2>
-<img src="/images/1.jpg" alt="Fjords" width="300" height="200">
+<img src="/images/1.jpg" width="300" height="200">
+<img src="/images/2.jpg" width="300" height="200">
+<img src="/images/3.jpg" width="300" height="200">
+<img src="/images/4.jpg" width="300" height="200">
+<img src="/images/5.jpg" width="300" height="200">
+<img src="/images/6.jpg" width="300" height="200">
+<img src="/images/7.jpg" width="300" height="200">
+<img src="/images/8.jpg" width="300" height="200">
+<img src="/images/9.jpg" width="300" height="200">
+<img src="/images/10.jpg" width="300" height="200">
+<img src="/images/11.jpg" width="300" height="200">
+<img src="/images/12.jpg" width="300" height="200">
+<img src="/images/13.jpg" width="300" height="200">
+-->
 
