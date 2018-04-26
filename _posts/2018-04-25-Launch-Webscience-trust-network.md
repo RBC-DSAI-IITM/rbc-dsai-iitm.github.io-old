@@ -77,29 +77,6 @@ categories: events
   <source src="/images/s.mp4" type="video/mp4">
 </video
 
-<style>
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
 
-div.gallery:hover {
-    border: 1px solid #777;
-}
+ <img src="/images/1.jpg" alt="Fjords" width="300" height="200">
 
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-</style>
-
-<div class="gallery">
-    <img src="/images/1.jpg" alt="Fjords" width="300" height="200">
-</div>
