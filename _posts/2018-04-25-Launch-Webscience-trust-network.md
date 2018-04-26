@@ -74,5 +74,5 @@ categories: events
 </video>
 
 <video width="800" height="330" controls>
-  <source src="/images/s.mov" type="video/mov">
+  <source src="/images/s.mp4" type="video/mp4">
 </video
