@@ -101,8 +101,8 @@ div.desc {
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="/images/1.jpg">
-    <img src="fjords.jpg" alt="Fjords" width="300" height="200">
+  <a target="_blank" href="1.jpg">
+    <img src="/images/1.jpg" alt="Fjords" width="300" height="200">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
