@@ -76,7 +76,5 @@ categories: events
 <video width="800" height="330" controls>
   <source src="/images/s.mp4" type="video/mp4">
 </video
-
-
- <img src="/images/1.jpg" alt="Fjords" width="300" height="200">
+<img src="/images/1.jpg" alt="Fjords" width="300" height="200">
 
