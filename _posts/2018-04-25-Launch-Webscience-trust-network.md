@@ -70,5 +70,5 @@ categories: events
 </ol>
 
 <video width="800" height="330" controls>
-  <source src="/images/Dame.mp4" type="video/mp4">
+  <source src="/images/Dame.mp4" type="video/mp4">  <source src="/images/s.mov" type="video/mov">
 </video>
