@@ -2,7 +2,8 @@
 layout: member
 name: Karthik Raman
 image: ckarthik.jpg
-designations: BT
+designations: 
+  - BT
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Prof. V. Kamakoti
 image: pkamakoti.jpg
-designations: IIT Madras
+designations: 
+  - IIT Madras
 area:
 bio:
 email:

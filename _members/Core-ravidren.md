@@ -2,7 +2,8 @@
 layout: member
 name: Balaraman Ravindran
 image: cravindran.jpg
-designations: CSE
+designations: 
+  - CSE
 area:
 bio:
 email:

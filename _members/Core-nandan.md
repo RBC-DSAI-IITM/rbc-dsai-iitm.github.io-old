@@ -2,7 +2,8 @@
 layout: member
 name: Nandan Sudarsanam 
 image: cnandan.jpg
-designations: DoMS
+designations: 
+  - DoMS
 area:
 bio:
 email:

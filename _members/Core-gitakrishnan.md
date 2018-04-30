@@ -2,7 +2,8 @@
 layout: member
 name: Gitakrishnan Ramadurai  
 image: cgitakrishnan.jpg
-designations: CE
+designations: 
+  - CE
 area:
 bio:
 email:

@@ -2,7 +2,8 @@
 layout: member
 name: Dame Wendy Hall
 image: Dame.jpg
-designations: University of Southampton
+designations: 
+  - University of Southampton
 area:
 bio:
 email:

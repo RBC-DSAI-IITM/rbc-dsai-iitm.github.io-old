@@ -2,7 +2,8 @@
 layout: member
 name: Dr. Vijendran Venkoparao
 image: 1vijendran.jpg
-designations: Representative from Bosch
+designations: 
+  - Representative from Bosch
 area:
 bio:
 email:

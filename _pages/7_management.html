@@ -13,14 +13,14 @@ permalink: management
             <h1> Management  </h1>
             <p> </p>
           </div>
-          <div class="col-auto mx-auto ">
+          <div class="col-auto mx-auto " id="management-tabs">
             <ul class="nav nav-tabs  flex-column flex-sm-row " id="people-tabs">
-              {% for tab in tab_headers %}
+              {% for tab in member_type %}
                 <li class="nav-item">
                 {% if forloop.first == true %}              
-                  <a class="nav-link active flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}"> {{ tab }} </a>
+                  <a class="nav-link active flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}"> {{ tab | replace: '-', ' ' }} </a>
                 {% else %}
-                  <a class="nav-link  flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}"> {{ tab }} </a>
+                  <a class="nav-link  flex-sm-fill" href="{{ tab | prepend: '#' | append: '-panel'}}"> {{ tab | replace: '-', ' ' }} </a>
                 {% endif %}
                 </li>
               {% endfor %}
@@ -30,7 +30,7 @@ permalink: management
       </div>
 
       <div class="tab-content  pt-5 " >
-      {% for tab in tab_headers %}
+      {% for tab in member_type %}
 
         {% if forloop.first == true %}
           <div class="container tab-pane fade show active" id="{{ tab | append: '-panel'}}">
