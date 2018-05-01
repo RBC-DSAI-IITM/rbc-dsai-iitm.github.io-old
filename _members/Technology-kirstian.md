@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof. Kristian Kersting
-image: kristian.jpg
+image: kristian.png
 designations: 
   - TU Darmstadt
 area:
