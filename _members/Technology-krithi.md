@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof. Krithi Ramamritham
-image: krithi1.png
+image: krithi2.png
 designations: 
   - IIT Bombay
 area:
