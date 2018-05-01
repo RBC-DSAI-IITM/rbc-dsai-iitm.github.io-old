@@ -1,4 +1,4 @@
----
+i---
 layout: member
 name: Prof. V. Kamakoti
 image: pkamakoti.jpg
@@ -7,5 +7,5 @@ designations:
 area:
 bio:
 email:
-type: Technology-Review-board
+type: Technology-Review-Board
 ---
