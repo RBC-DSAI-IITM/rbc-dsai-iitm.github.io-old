@@ -3,7 +3,7 @@ layout: member
 name: Balaraman Ravindran
 image: cravindran.jpg
 designations: 
-  - CSE
+  - Professor, Department of Computer Science and Engineering, IIT Madras.
 area:
 bio:
 email:

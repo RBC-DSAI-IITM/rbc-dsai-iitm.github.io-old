@@ -3,7 +3,7 @@ layout: member
 name: Gitakrishnan Ramadurai  
 image: cgitakrishnan.jpg
 designations: 
-  - CE
+  - Associate Professor, Department of Civil Engineering, IIT Madras.
 area:
 bio:
 email:
