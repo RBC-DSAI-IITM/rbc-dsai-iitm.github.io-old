@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof. Bhaskar Ramamurthi
-image: director.jpg
+image: director.png
 designations:  
  - Director - IIT Madras 
  - Ex-Offcio - Chair of the Council
