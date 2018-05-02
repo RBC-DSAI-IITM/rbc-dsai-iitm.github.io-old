@@ -3,7 +3,8 @@ layout: member
 name: Dr. Vijendran Venkoparao
 image: vijendran.jpg
 designations: 
- - Head, Technology Strategy and Innovation,  Robert Bosch Engineering and Business Solutions Ltd
+ - Senior General Manager, Robert Bosch Engineering India.
+ - Member
 area:
 bio:
 email:
