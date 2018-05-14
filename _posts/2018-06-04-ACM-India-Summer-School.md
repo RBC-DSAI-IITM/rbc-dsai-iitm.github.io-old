@@ -11,83 +11,21 @@ categories: events
 </ul>
 
 <h2 class="post-title text-center"> Course Contents </h2>
-<ol class="publications container mt-4">
-  <li class="row">
-    <span class="col-2 text-center"><strong> Time </strong> </span>
-    <span class="col-10 text-center"><strong> Details</strong> </span>
-  </li>
-  <li class="row"> 
-     <span class="col-2 text-center">
-       14:00  
-       </span>
-       <span class="col-10"> Welcome by Prof. B. Ravindran, Head Robert Bosch Centre for Data Science and AI, IIT Madras 
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       14:05 
-       </span> 
-       <span class="col-10">
-         An introduction to WSTNet by Prof. Steffen Staab, Coordinator. Web Science Trust
-
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       14:15 
-       </span> <span class="col-10">  Address by Dame Wendy Hall, Executive Director and Co-founder Web Science Trust 
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       14:25 
-       </span> <span class="col-10">
-       Summary of Natural Language Processing/Generation work. Dr. Mitesh Khapra, RBCDSAI  
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       14:40 
-       </span> <span class="col-10">
-       Summary of Network Science work. Prof. B. Ravindran, RBCDSAI  
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       14:55 
-       </span> <span class="col-10">
-       Address by Prof. Noshir Contractor, DAA of IIT Madras, and Director Web Science Trust 
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       15:10 
-       </span> <span class="col-10">
-       Address by Prof. R. Nagarajan, Dean International and Alumni Relations 
-     </span>
-  </li> <li class="row">
-     <span class="col-2 text-center">
-       15:15 
-       </span> <span class="col-10">
-       Inaugurating Web Science activities @RBC-DSAI webpage
-     </span>
-  </li>
-</ol>
-<!--
-<video width="800" height="330" controls>
-  <source src="/images/Dame.mp4" type="video/mp4">  
-</video>
-
-<video width="800" height="330" controls>
-  <source src="/images/s.mp4" type="video/mp4">
-</video>
-<h2>HTML Image</h2>
-<img src="/images/1.jpg" width="300" height="200">
-<img src="/images/2.jpg" width="300" height="200">
-<img src="/images/3.jpg" width="300" height="200">
-<img src="/images/4.jpg" width="300" height="200">
-<img src="/images/5.jpg" width="300" height="200">
-<img src="/images/6.jpg" width="300" height="200">
-<img src="/images/7.jpg" width="300" height="200">
-<img src="/images/8.jpg" width="300" height="200">
-<img src="/images/9.jpg" width="300" height="200">
-<img src="/images/10.jpg" width="300" height="200">
-<img src="/images/11.jpg" width="300" height="200">
-<img src="/images/12.jpg" width="300" height="200">
-<img src="/images/13.jpg" width="300" height="200">
--->
-
+<p class="detail">Mathematical foundation, basic statistical analysis and data visualization: Matrix Algebra, Probability and random processes, inferential statistics, optimization for data science and data visualization; </p>
+   <p class="detail">Elements of machine learning: Supervised learning (methods: linear and logistic regression, K-NN, LDA, Tree based methods, SVMs, ANNs. Concepts: Bias-Variance tradeoff, regularization, dimensionality reduction), unsupervised learning (clustering and ARM); (iii) Advanced topics: Reinforcement Learning, Deep Learning, Topics in Big Data and Learning Theory. </p>
+<h2 class="post-title text-center"> Partial Faculty List (more to be added): </h2>
+    <p class="detail">Sahely Bhadra - IIT Palakkad </p>
+    <p class="detail">Sourangshu Bhattachrya, IIT Kharagpur</p>
+<p class="detail">Anirban Dasgupta, IIT Gandhinagar</p>
+<p class="detail">Piyush Rai, IIT Kanpur</p>
+<p class="detail">Mitesh Khapra, IIT Madras</p>
+<p class="detail">Raghunathan Rengaswamy, IIT Madras</p>
+<p class="detail">Harish Guruprasad, IIT Madras</p>
+<p class="detail">Balaraman Ravindran, IIT Madras</p>
+<p class="detail">Nandan Sudarsanam, IIT Madras</p>
+<h2 class="post-title text-center"> Prerequisites:</h2>
+<p class="detail">The course requires an understanding of algebra, calculus, and proficiency in programing.</p>
+<h2 class="post-title text-center">Course coordinators: </h2>
+<p class="detail">Nandan Sudarsanam, IIT Madrass</p>
+<p class="detail">Harish Guruprasad, IIT Madras</p>
+<p class="detail">Balaraman Ravindran, IIT Madras</p>
