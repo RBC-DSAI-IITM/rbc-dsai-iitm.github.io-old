@@ -10,12 +10,12 @@ categories: events
 	 <li><b>Date</b> : June 4 to June 15,2018 </li>
 </ul>
 
-<h2 class="post-title text-center"> Course Contents </h2>
+<h2 class="post-title text-first"> Course Contents: </h2>
 <p class="detail">Mathematical foundation, basic statistical analysis and data visualization: Matrix Algebra, Probability and random processes, inferential statistics, optimization for data science and data visualization; </p>
    <p class="detail">Elements of machine learning: Supervised learning (methods: linear and logistic regression, K-NN, LDA, Tree based methods, SVMs, ANNs. Concepts: Bias-Variance tradeoff, regularization, dimensionality reduction), unsupervised learning (clustering and ARM); (iii) Advanced topics: Reinforcement Learning, Deep Learning, Topics in Big Data and Learning Theory. </p>
-<h2 class="post-title text-center"> Partial Faculty List (more to be added): </h2>
-    <p class="detail">Sahely Bhadra - IIT Palakkad </p>
-    <p class="detail">Sourangshu Bhattachrya, IIT Kharagpur</p>
+<h2 class="post-title text-first"> Partial Faculty List (more to be added): </h2>
+<p class="detail">Sahely Bhadra - IIT Palakkad </p>
+<p class="detail">Sourangshu Bhattachrya, IIT Kharagpur</p>
 <p class="detail">Anirban Dasgupta, IIT Gandhinagar</p>
 <p class="detail">Piyush Rai, IIT Kanpur</p>
 <p class="detail">Mitesh Khapra, IIT Madras</p>
@@ -23,9 +23,9 @@ categories: events
 <p class="detail">Harish Guruprasad, IIT Madras</p>
 <p class="detail">Balaraman Ravindran, IIT Madras</p>
 <p class="detail">Nandan Sudarsanam, IIT Madras</p>
-<h2 class="post-title text-center"> Prerequisites:</h2>
+<h2 class="post-title text-first"> Prerequisites:</h2>
 <p class="detail">The course requires an understanding of algebra, calculus, and proficiency in programing.</p>
-<h2 class="post-title text-center">Course coordinators: </h2>
+<h2 class="post-title text-first">Course coordinators: </h2>
 <p class="detail">Nandan Sudarsanam, IIT Madrass</p>
 <p class="detail">Harish Guruprasad, IIT Madras</p>
 <p class="detail">Balaraman Ravindran, IIT Madras</p>
