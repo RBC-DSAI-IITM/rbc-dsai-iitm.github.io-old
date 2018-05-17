@@ -312,7 +312,7 @@ RBC-DSAI is organizing its second workshop on Recent Progress in Data Science an
      </span>
   </li>
 </ol>
-
+<!--
 <style>
 body {
   font-family: Verdana, sans-serif;
@@ -1042,4 +1042,4 @@ function showSlides(n) {
 </body>
 
 
-
+-->
