@@ -21,8 +21,8 @@ ul.b {
 </style>
 <h2>Course Contents:</h2>
 <ul class="a">
- <p class="detail"><li> Mathematical foundation, basic statistical analysis and data visualization: Matrix Algebra, Probability and random processes, inferential statistics, optimization for data science and data visualization;</li> 
-   <p class="detail"><li>Elements of machine learning: Supervised learning (methods: linear and logistic regression, K-NN, LDA, Tree based methods, SVMs, ANNs. Concepts: Bias-Variance tradeoff, regularization, dimensionality reduction), unsupervised learning (clustering and ARM); (iii) Advanced topics: Reinforcement Learning, Deep Learning, Topics in Big Data and Learning Theory.</li> </p>
+<li> <p class="detail">Mathematical foundation, basic statistical analysis and data visualization: Matrix Algebra, Probability and random processes, inferential statistics, optimization for data science and data visualization;</li> 
+  <li> <p class="detail">Elements of machine learning: Supervised learning (methods: linear and logistic regression, K-NN, LDA, Tree based methods, SVMs, ANNs. Concepts: Bias-Variance tradeoff, regularization, dimensionality reduction), unsupervised learning (clustering and ARM); (iii) Advanced topics: Reinforcement Learning, Deep Learning, Topics in Big Data and Learning Theory.</li> </p>
 </ul>
 <h2>Partial Faculty List (more to be added):</h2>
 <ul class="a">
