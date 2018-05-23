@@ -2,7 +2,7 @@
 layout: post
 title: ACM India Summer School 2018
 venue: Goa University, Goa
-date: 2018-06-04 to 2018-06-15 
+date: 
 categories: events
 ---
 <ul class="mb-5" >
