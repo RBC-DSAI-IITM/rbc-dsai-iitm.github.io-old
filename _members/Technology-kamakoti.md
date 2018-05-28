@@ -1,4 +1,4 @@
-i---
+---
 layout: member
 name: Prof. V. Kamakoti
 image: pkamakoti.jpg
