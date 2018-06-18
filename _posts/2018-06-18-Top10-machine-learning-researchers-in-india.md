@@ -2,7 +2,6 @@
 layout: post
 title: Top 10  Indian AI researchers in India - Analytics India Magazine
 img: /assets/ravi.jpg
-homepage: https://analyticsindiamag.com/top-10-machine-learning-researchers-in-india/
 categories: news
 ---
 Professor Balaraman Ravindran of IIT Madras is one of the top Indian AI researchers in India and foremost reinforcement learning expert. He also heads Robert Bosch Centre for Data Science and Artificial Intelligence at IIT Madras. Ravindran did his PhD research from the University of Massachusetts. According to his Google Scholar profile, his academic work, which spans over two decades, has produced 170 research papers.
@@ -11,4 +10,4 @@ Ravindran’s AI journey began in the late 1980s when he was doing his undergrad
 
 Ravindran is also a co-organiser of several noted data science and AI-focused conferences, seminars and workshops in India.
 
-
+<p><a href="https://analyticsindiamag.com/top-10-machine-learning-researchers-in-india/">Read More</a></p>
