@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wizard of AI: Meet India’s foremost reinforcement learning expert
+title: <a href="https://factordaily.com/balaraman-ravindran-reinforcement-learning/">Meet India’s foremost reinforcement learning expert</a>
 img: /assets/factor.jpg
 categories: news
 ---
