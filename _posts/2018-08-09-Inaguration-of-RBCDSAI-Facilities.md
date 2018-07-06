@@ -2,7 +2,7 @@
 layout: post
 title: Inaguration of RBCDSAI facilities
 venue: ICSR Auditorium, IIT Madras
-date: 2018-08-09
+date: 2018-08-09 08:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
