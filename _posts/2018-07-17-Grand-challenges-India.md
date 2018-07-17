@@ -7,7 +7,7 @@ categories: news
 <html>
 <body>
 <details>
-  <summary>Grand Challenges India and the Program Management Unit at BIRAC (PMU-BIRAC) are pleased to announce the launch of a call on ‘ki Data Challenge for Maternal and Child Health’, a program directed at addressing key knowledge gaps in our understanding of how nutrition, prenatal and antenatal care, maternal support, and environmental and social factors contribute to an elevated risk of poor maternal and childhood health outcomes..</summary>
+  <summary> ‘ki Data Challenge for Maternal and Child Health’ </summary>
  <p> Grand Challenges India and the Program Management Unit at BIRAC (PMU-BIRAC) are pleased to announce the launch of a call on ‘ki Data Challenge for Maternal and Child Health’, a program directed at addressing key knowledge gaps in our understanding of how nutrition, prenatal and antenatal care, maternal support, and environmental and social factors contribute to an elevated risk of poor maternal and childhood health outcomes.
 Grand Challenges India is a partnership of Department of Biotechnology, Government of India, BIRAC and the Bill & Melinda Gates Foundation.
 The call aims at encouraging the development of innovative data analytics solutions by analyzing existing data arising from multiple sources in India and formulating public health recommendations that are data-driven and cost-effective, results from which shall be used to inform policy decisions related to maternal and child health.
