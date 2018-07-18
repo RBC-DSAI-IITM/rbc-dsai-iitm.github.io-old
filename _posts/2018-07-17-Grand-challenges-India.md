@@ -15,5 +15,6 @@ Interested researchers are required to submit a proposal online by 17th August, 
 <p>Please be advised that the entire application process is strictly online.</p>
 <p> For a complete understanding of the scope, please visit microsite <a href="www.birac.nic.in/grandchallengesindia">www.birac.nic.in/grandchallengesindia</a> </p>
 </details>
+<img src="/assets/BIRAC_banner1.png"  width="600" height="400">
 </body>
 </html>
