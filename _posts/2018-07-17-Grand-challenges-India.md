@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grand Challenges India, PMU-BIRAC Outreach Event at IITM  
-img: /assets/BIRAC_banner1.png
+img: /assets/b.jpeg
 categories: news
 ---
 <html>
@@ -12,8 +12,8 @@ categories: news
 Grand Challenges India is a partnership of Department of Biotechnology, Government of India, BIRAC and the Bill & Melinda Gates Foundation.
 The call aims at encouraging the development of innovative data analytics solutions by analyzing existing data arising from multiple sources in India and formulating public health recommendations that are data-driven and cost-effective, results from which shall be used to inform policy decisions related to maternal and child health.
 Interested researchers are required to submit a proposal online by 17th August, 2018, 2:00 P.M. IST. If selected, proposals may be supported for up to 18 months, funded at up to $100,000 USD per project. These awards are meant to provide an opportunity to develop, refine, and rigorously test novel approaches to the outlined challenge as well as develop data science capacity in India.
-<br>Please be advised that the entire application process is strictly online.
-<br> For a complete understanding of the scope, please visit microsite <a href="www.birac.nic.in/grandchallengesindia">www.birac.nic.in/grandchallengesindia</a> 
+<br><br>Please be advised that the entire application process is strictly online.
+<br> <br><br>For a complete understanding of the scope, please visit microsite <br><a href="www.birac.nic.in/grandchallengesindia">www.birac.nic.in/grandchallengesindia</a> 
 </details>
 <br><br><img src="/assets/BIRAC_banner1.png"  width="600" height="400">
 </body>
