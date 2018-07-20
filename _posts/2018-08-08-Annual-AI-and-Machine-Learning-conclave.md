@@ -1,13 +1,13 @@
 ---
 layout: post
-title: <a href="assets/ai.pdf">Artificial Intelligence & Machine Learning Conclave</a>
+title: <a href="assets/AI-Conclave.pdf">Artificial Intelligence & Machine Learning Conclave</a>
 venue: ICSR Auditorium, IIT Madras
-date: 2018-08-08 09:30:00 +0530
+date: 2018-08-08 10:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
 	<li><b>Venue</b> : ICSR Auditorium, IIT Madras </li>
-	 <li><b>Date</b> : Aug 8th,Wednesday, 2018 9.30 AM to 5.30 PM </li>
+	 <li><b>Date</b> : Aug 8th,Wednesday, 2018 10.00 AM to 5.00 PM </li>
 </ul>
 
 <style>
