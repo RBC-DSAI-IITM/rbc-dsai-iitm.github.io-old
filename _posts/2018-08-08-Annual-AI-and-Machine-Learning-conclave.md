@@ -20,5 +20,5 @@ ul.b {
 }
 </style>
 
-<embed src="assets/AI-Conclave.pdf#toolbar=0" width="500" height="375"> 
+<embed href="assets/AI-Conclave.pdf#toolbar=0" width="500" height="375">india</embed>
 <a href="assets/AI & ML Conclave.pdf">AI & ML Conclave</a>
