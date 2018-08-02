@@ -1,7 +1,6 @@
-s---
+---
 layout: post
 title: <a href="assets/annual-conference.jpg">First Annual Conference of Robert Bosch Centre for Data Science and Artificial Intelligence</a>
-
 venue: BioTech Seminar Hall & ICSR Auditorium
 date: 2018-08-09 9:00:00 +0530
 categories: events
