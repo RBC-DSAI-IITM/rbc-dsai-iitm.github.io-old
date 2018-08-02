@@ -9,7 +9,6 @@ categories: events
         <li><b>Venue</b> - ICSR Auditorium, IIT Madras
          <li><b>Time</b> - 11.00 AM to 12.45 PM </li>
          <li><b>Date</b> - 9th August (Thursday)</li>
-</ul>
 
 <h2 class="post-title text-center"> Agenda </h2>
 <ol class="publications container mt-4">
