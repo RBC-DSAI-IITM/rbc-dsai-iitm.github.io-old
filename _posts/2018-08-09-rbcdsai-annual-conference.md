@@ -6,9 +6,10 @@ date: 2018-08-09 9:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
-        <li><b>Venue</b> : Forenoon: BioTech Seminar Hall & Afternoon: ICSR Auditorium </li>
-         <li><b>Time</b> : 09.00 am to 05.00 pm </li>
-         <li><b>Date</b> : 9th August (Thursday)</li>
+        <li><b>Venue</b> - Forenoon : BioTech Seminar Hall  &  
+                           Afternoon: ICSR Auditorium </li>
+         <li><b>Time</b> - 09.00 AM to 05.00 PM </li>
+         <li><b>Date</b> - 9th August (Thursday)</li>
 </ul>
 
 <h2 class="post-title text-center"> Agenda </h2>
