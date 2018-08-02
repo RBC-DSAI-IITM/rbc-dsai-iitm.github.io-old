@@ -97,6 +97,6 @@ Moderator: Gitakrishnan Ramadurai, IITM/RBCDSAI.
        </span> <span class="col-10">
        Talk by Prof. Ashok Venkitaraman, Cambridge University
    </span>
- < </li>
+  </li>
 </ol>
 
