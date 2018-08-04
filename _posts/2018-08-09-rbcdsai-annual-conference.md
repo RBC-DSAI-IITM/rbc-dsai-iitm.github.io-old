@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="assets/annual-conference.jpg">First Annual Conference on Recent Advances in Data Science and AI</a>
+title: <a href="https://www.latentview.com/first-annual-conference/">First Annual Conference on Recent Advances in Data Science and AI</a>
 venue: BioTech Seminar Hall & ICSR Auditorium
 date: 2018-08-09 9:00:00 +0530
 categories: events
