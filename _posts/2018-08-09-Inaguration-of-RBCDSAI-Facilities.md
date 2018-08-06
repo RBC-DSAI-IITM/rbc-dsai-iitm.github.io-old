@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <a href="assets/rbcdsai-inauguration.jpg">Inauguration of the Robert Bosch Centre for Data Science and Artificial Intelligence</a>
-venue: ICSR Auditorium, IIT Madras
+title: <a href="assets/rbcdsai-inauguration.pdf">Inauguration of the Robert Bosch Centre for Data Science and Artificial Intelligence</a>
+venue: BioTech Seminar Hall, IIT Madras
 date: 2018-08-09 11:30:00 +0530
 categories: events
 ---
