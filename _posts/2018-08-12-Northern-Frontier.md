@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://www.youtube.com/watch?v=67NOtMdT95I&t=180s">Northern Frontier: In conversation with Prof. Balaraman Ravindran</a>
+title: <iframe width="420" height="345" src="https://www.youtube.com/watch?v=67NOtMdT95I&t=180s">Northern Frontier: In conversation with Prof. Balaraman Ravindran</iframe>
 img: /assets/youtube.jpg
 
 categories: news
