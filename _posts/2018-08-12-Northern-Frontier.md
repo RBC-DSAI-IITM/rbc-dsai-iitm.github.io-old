@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Northern Frontier: In conversation with Prof. Balaraman Ravindran
+title: <a href="https://www.youtube.com/watch?v=67NOtMdT95I&t=180s">Northern Frontier: In conversation with Prof. Balaraman Ravindran</a>
 img: /assets/youtube.jpg
 categories: news
 ---
