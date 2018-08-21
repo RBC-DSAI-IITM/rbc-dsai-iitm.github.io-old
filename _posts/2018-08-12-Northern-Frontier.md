@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Northern Frontier: In conversation with Prof. Balaraman Ravindran
+title: Northern Frontier In conversation with Prof. Balaraman Ravindran
 img: /assets/youtube.jpg
 categories: news
 ---
