@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Ramya Chandran
-image: default.png
+name: Ramya 
+image: ramya.jpg
 designations: 
   - PhD Scholar
 area:

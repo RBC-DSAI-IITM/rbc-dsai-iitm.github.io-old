@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Pitchaikannu Balaji
-image: default.png
+name: Balaji P
+image: pbalaji.jpg
 designations: 
   - PhD Scholar
 area:
