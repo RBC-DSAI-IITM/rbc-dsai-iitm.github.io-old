@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Debomita Chakraborty
+image: debomita.jpg
 designations: 
-  - MS Scholar
+  - PhD Scholar
 area:
 bio:
 email:

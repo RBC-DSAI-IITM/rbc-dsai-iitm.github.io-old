@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Siddhant Yogesh Bhat 
+image: siddhantyogesh.jpg
 designations: 
-  - MS Scholar
+  - M Tech
 area:
 bio:
 email:

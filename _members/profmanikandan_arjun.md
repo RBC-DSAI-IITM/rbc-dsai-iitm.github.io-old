@@ -1,7 +1,7 @@
 ---
 layout: member
-name: Priyanka Maripuri
-image: priyanka.png
+name: Arjun Sarathi 
+image: arjunsarathi.jpg
 designations: 
   - Project Associate
 area:

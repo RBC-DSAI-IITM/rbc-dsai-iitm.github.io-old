@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Manas Ranjan Sahoo
+image: manas.jpg
 designations: 
-  - MS Scholar
+  - M Tech
 area:
 bio:
 email:

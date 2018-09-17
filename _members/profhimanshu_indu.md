@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Indu Gangwar
+image: indu.jpg
 designations: 
-  - MS Scholar
+  - Post Doctoral Research Fellow
 area:
 bio:
 email:

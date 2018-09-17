@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Priyan bhattacharya
+image: priyan.png
 designations: 
-  - MS Scholar
+  - PhD Scholar
 area:
 bio:
 email:

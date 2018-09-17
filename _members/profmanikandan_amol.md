@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Amol Dumrewal
+image: amol.jpg
 designations: 
-  - MS Scholar
+  - Dual degree
 area:
 bio:
 email:

@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Gaurav Bilolikar
+image: gaurav.jpg
 designations: 
-  - MS Scholar
+  - Dual degree
 area:
 bio:
 email:

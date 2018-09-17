@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: Vishnu Narayan
+image: vishnu.jpg
 designations: 
-  - MS Scholar
+  - Dual degree
 area:
 bio:
 email:

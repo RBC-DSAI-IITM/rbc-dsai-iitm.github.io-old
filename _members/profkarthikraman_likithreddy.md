@@ -3,7 +3,7 @@ layout: member
 name: 	Likith Reddy
 image: likithreddy.jpg
 designations: 
-  - PhD Scholar
+  - Junior Research Fellow
 area:
 bio:
 email:

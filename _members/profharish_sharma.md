@@ -1,9 +1,9 @@
 ---
 layout: member
-name: Shayantan Banerjee 
-image: shayantan.jpg
+name: sharma mukesh
+image: sharma.jpg
 designations: 
-  - MS Scholar
+  - M Tech
 area:
 bio:
 email:
