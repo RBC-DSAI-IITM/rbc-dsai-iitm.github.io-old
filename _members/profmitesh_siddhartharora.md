@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Siddharth Arora
-image: siddhartharora.jpg
+image: siddhartha.png
 designations: 
   - MS Scholar
 area:
