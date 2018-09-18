@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Depen Morwani
-image: morwani.jpg
+image: morwani.png
 designations: 
   - Project Associate
 area:

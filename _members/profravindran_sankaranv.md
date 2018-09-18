@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sankaran V
-image: sankaran.jpg
+image: sankaran.png
 designations: 
   - Project Associate
 area:

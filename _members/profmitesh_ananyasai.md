@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ananya Sai
-image: ananyasai.jpg
+image: ananya.png
 designations: 
   - M.Tech
 area:

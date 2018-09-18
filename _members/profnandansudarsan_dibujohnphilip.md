@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Dibu John Philip
-image: dibu.jpg
+image: dibu.png
 designations: 
   - PhD Scholar
 area:

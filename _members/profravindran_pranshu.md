@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Pranshu Malviya
-image: pranshu.jpg
+image: pranshu.png
 designations: 
   - Project Associate
 area:

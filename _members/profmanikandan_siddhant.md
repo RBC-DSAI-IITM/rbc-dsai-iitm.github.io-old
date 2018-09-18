@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Siddhant Yogesh Bhat 
-image: siddhantyogesh.jpg
+image: siddhantyogesh.png
 designations: 
   - M Tech
 area:

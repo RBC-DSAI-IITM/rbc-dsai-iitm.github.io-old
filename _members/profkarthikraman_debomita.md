@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Debomita Chakraborty
-image: debomita.jpg
+image: debomita.png
 designations: 
   - PhD Scholar
 area:

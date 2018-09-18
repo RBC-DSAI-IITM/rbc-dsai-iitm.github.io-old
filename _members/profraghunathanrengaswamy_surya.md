@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Suryanarayanan
-image: surya.jpg
+image: surya.png
 designations: 
   - PhD Scholar
 area:

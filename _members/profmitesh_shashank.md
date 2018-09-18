@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Shashank Srivastava 
-image: shashank.jpg
+image: shashank.png
 designations: 
   - MS Scholar
 area:

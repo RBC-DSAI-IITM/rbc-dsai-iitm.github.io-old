@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Manikandan
-image: manikandan.jpg
+image: manikandan.png
 designations: 
   - PhD Scholar
 area:

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Venkataraman
-image: venkataraman1.jpg
+image: venkatraman.png
 designations: 
   - PhD Scholar
 area:

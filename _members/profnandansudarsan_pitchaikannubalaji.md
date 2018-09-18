@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Balaji P
-image: pbalaji.jpg
+image: balaji.png
 designations: 
   - PhD Scholar
 area:

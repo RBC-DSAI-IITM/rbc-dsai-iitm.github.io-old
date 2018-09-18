@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Arjun Manoharan
-image: arjun.jpg
+image: arjunm.png
 designations:
   - MS Scholar
 area:

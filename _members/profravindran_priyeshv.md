@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Priyesh V
-image: priyesh.jpg
+image: priyesh.png
 designations: 
   - MS Scholar
 area:

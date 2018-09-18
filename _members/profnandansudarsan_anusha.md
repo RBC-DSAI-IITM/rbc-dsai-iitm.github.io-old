@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Anusha
-image: anusha.jpg
+image: anusha.png
 designations: 
   - MS Scholar
 area:
