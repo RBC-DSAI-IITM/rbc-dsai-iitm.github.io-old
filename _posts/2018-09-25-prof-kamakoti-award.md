@@ -4,7 +4,8 @@ title: Prof. Kamakoti to be accoladed the 'ACCS-CDAC Foundation Award' for 2018
 img: /assets/kama.jpg
 categories: news
 ---
-<br><br><br><br><br><br><br><br><br>ACCS, the Advanced Computing and Communications Society,  announced  Prof. V. Kamakoti of the Indian Institute of Technology Madras as the winner of the prestigious ACCS-CDAC Foundation award for 2018. 
+ACCS, the Advanced Computing and Communications Society,  announced  Prof. V. Kamakoti of the Indian Institute of Technology Madras as the winner of the prestigious ACCS-CDAC Foundation award for 2018. 
+
 <br><br>
 The Award recognizes<b> Prof. Kamakoti</b> Veezhinathan for his contributions in the fields of VLSI design and computer architecture resulting in the development of India’s first RISC-V family of processors.<br><br>
 The ACCS-CDAC Foundation Award carries a cash prize of Rs. 100,000/-, and a citation, presented at the inaugural session of the annual Advanced Computing and Communications Conference (ADCOM 2018) at The International Institute of Information Technology Bangalore (IIITB) on 21st September 2018.<br><br>
