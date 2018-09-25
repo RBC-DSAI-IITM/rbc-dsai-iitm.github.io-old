@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prof. Kamakoti to be accoladed the 'ACCS-CDAC Foundation Award' for 2018
+title: Prof. Kamakoti accoladed with 'ACCS-CDAC Foundation Award' 
 img: /assets/kama.jpg
 categories: news
 ---
