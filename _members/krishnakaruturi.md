@@ -1,7 +1,7 @@
 ---
 name: Krishna Karuturi  Ph.D
 image: jackson.jpg
-degree: 23 Aug'18 & 24 Aug'18
+degree: 
 designations: 
   - Director, Computational Sciences
   - The Jackson Laboratory  
