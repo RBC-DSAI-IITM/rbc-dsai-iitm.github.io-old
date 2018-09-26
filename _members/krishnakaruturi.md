@@ -1,5 +1,5 @@
 ---
-name: Krishna Karuturi, Ph.D
+name: Krishna Karuturi  Ph.D
 image: jackson.jpg
 degree: 23 Aug'18 & 24 Aug'18
 designations: 
