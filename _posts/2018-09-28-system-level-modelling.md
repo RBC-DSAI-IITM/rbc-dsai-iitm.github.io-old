@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Systems-Level Modelling of Microbial Communities: Theory and Practice (Focus Computational Biology Series) 1st Edition
+title: Systems-Level Modelling of Microbial Communities(Focus Computational Biology Series) 1st Edition with theory and practice
 img: /assets/book.jpg
 categories: news
 ---
