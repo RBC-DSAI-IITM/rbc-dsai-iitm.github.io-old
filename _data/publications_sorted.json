@@ -115,6 +115,14 @@
 
 {'title': 'Scalable Positional Analysis for Studying Evolution of Nodes in Networks', 'journal': 'arXiv preprint arXiv:1402.3797', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman', 'ID': 'gupte2014scalable', 'year': '2014', 'ENTRYTYPE': 'article'},
 
-{'publisher': 'Frontiers Media SA', 'author': 'Balasubramani, Pragathi P and Chakravarthy, V Srinivasa and Ravindran, Balaraman and Moustafa, Ahmed A', 'journal': 'Frontiers in computational neuroscience', 'title': 'An extended reinforcement learning model of basal ganglia to understand the contributions of serotonin and dopamine in risk-based decision making, reward prediction, and punishment learning', 'ENTRYTYPE': 'article', 'volume': '8', 'year': '2014', 'ID': 'balasubramani2014extended'}
+{'publisher': 'Frontiers Media SA', 'author': 'Balasubramani, Pragathi P and Chakravarthy, V Srinivasa and Ravindran, Balaraman and Moustafa, Ahmed A', 'journal': 'Frontiers in computational neuroscience', 'title': 'An extended reinforcement learning model of basal ganglia to understand the contributions of serotonin and dopamine in risk-based decision making, reward prediction, and punishment learning', 'ENTRYTYPE': 'article', 'volume': '8', 'year': '2014', 'ID': 'balasubramani2014extended'},
+
+{'publisher': 'Oxford University Press', 'author': 'Sambamoorthy, Gayathri and Raman, Karthik', 'journal': 'Bioinformatics', 'title': 'Understanding the evolution of functional redundancy in metabolic networks', 'number': '17', 'ID': 'sambamoorthy2018understanding', 'volume': '34', 'pages': 'i981--i987', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Nature Publishing Group', 'author': 'Ravikrishnan, Aarthi and Nasre, Meghana and Raman, Karthik', 'journal': 'Scientific reports', 'title': 'Enumerating all possible biosynthetic pathways in metabolic networks', 'number': '1', 'ID': 'ravikrishnan2018enumerating', 'volume': '8', 'pages': '9932', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'CRC Press', 'author': 'Ravikrishnan, Aarthi and Raman, Karthik', 'title': 'Systems-Level Modelling of Microbial Communities: Theory and Practice', 'ENTRYTYPE': 'book', 'year': '2018', 'ID': 'ravikrishnan2018systems'},
+
+{'publisher': ' IFAC-PapersOnLine ', 'author': 'Bhattacharya, P Tangirala, A and Raman, Karthik', 'title': 'A generic systems-theoretic framework for the design of biological networks that can achieve robust adaptation', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'bhattacharya2018generic'}
 
 ]
