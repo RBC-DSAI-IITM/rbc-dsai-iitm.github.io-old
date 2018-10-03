@@ -123,6 +123,18 @@
 
 {'publisher': 'CRC Press', 'author': 'Ravikrishnan, Aarthi and Raman, Karthik', 'title': 'Systems-Level Modelling of Microbial Communities: Theory and Practice', 'ENTRYTYPE': 'book', 'year': '2018', 'ID': 'ravikrishnan2018systems'},
 
-{'publisher': ' IFAC-PapersOnLine ', 'author': 'Bhattacharya, P Tangirala, A and Raman, Karthik', 'title': 'A generic systems-theoretic framework for the design of biological networks that can achieve robust adaptation', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'bhattacharya2018generic'}
+{'publisher': ' IFAC-PapersOnLine ', 'author': 'Bhattacharya, P Tangirala, A and Raman, Karthik', 'title': 'A generic systems-theoretic framework for the design of biological networks that can achieve robust adaptation', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'bhattacharya2018generic'},
+
+{'publisher': ' Engineering Applications of Artificial Intelligence ', 'author': 'Sivadurgaprasad, Chinta Abhishek, Sivaram and Rengaswamy, Raghunathan', 'title': 'Prediction error-based clustering approach for multiple-model learning using statistical testing', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sivadurgaprasad2018prediction'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Modeling and Control of Battery Systems. Part II: A Model Predictive Controller for Optimal Charging', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018modeling'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Modeling and Control of Battery Systems. Part I: Revisiting Butler-Volmer Equations to Model Non-linear Coupling of Various Capacity Fade Mechanisms', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018modeling'},
+
+{'publisher': 'Elsevier', 'author': 'Das, Laya and Kumar, Gaurav and Rengaswamy, Raghunathan and Srinivasan, Babji', 'journal': 'ISA transactions', 'title': 'A novel approach for benchmarking and assessing the performance of state estimators', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'das2018novel'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Sankaran, Ganesh and Joopudi, Sreeram and Choudhury, Suman Roy and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Journal of Process Control', 'title': 'Optimal power distribution control for a network of fuel cell stacks', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018optimal'},
+
+{'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Kurian, Varghese and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Actuator network design to mitigate contamination effects in Water Distribution Networks', 'ID': 'palleti2018actuator', 'volume': '108', 'pages': '194--205', 'year': '2018', 'ENTRYTYPE': 'article'}
 
 ]
