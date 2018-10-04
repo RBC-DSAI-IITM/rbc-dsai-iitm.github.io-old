@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Systems-Level Modelling of Microbial Communities(Focus Computational Biology Series) 1st Edition With theory and practice 
-img: /assets/book.jpg
+title: Systems-Level Modelling of Microbial Communities (Focus Computational Biology Series)
+img: /assets/iamges/news/book.jpg
 categories: news
 ---
 by Aarthi Ravikrishnan and Karthik Raman
