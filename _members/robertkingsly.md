@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Robert Kingsly S
-image: robert.jpg
+image: robert.png
 designations: 
   - Web administrator
 area:
