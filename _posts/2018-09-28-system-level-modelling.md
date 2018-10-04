@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systems-Level Modelling of Microbial Communities (Focus Computational Biology Series)
-img: /assets/iamges/news/book.jpg
+img: /assets/images/news/book.jpg
 categories: news
 ---
 by Aarthi Ravikrishnan and Karthik Raman
