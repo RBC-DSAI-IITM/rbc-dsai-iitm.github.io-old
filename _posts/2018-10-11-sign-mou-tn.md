@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="https://www.business-standard.com/article/pti-stories/iit-madras-sign-mou-with-tn-e-governance-agency-118100900725_1.html">IIT Madras sign MoU with TN e-Governance agency</a>
-img: /assets/tamil.jpg
+img: /assets/tamil1.png
 
 categories: news
 ---
