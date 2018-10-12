@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Tarun Kumar
-image: tarun.jpg
+image: tarun.png
 designations: 
   - PhD Scholar
 area:
