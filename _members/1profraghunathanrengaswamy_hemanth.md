@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Dr. Hemanth Bilahall
-image: hemanth.jpg
+image: hemanth.png
 designations: 
   - Post Doctoral Research Fellow
 area:
