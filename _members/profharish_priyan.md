@@ -3,7 +3,7 @@ layout: member
 name: Priyan bhattacharya
 image: priyan.png
 designations: 
-  - PhD Scholar
+  - MS Scholar
 area:
 bio:
 email:
