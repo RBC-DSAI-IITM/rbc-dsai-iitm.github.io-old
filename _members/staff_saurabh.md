@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Saurabh Desai
-image: saurabh.jpg
+image: saurabh.png
 designations: 
   - Project Associate
 area:
