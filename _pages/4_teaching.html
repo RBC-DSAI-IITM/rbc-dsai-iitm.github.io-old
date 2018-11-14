@@ -21,6 +21,7 @@ div.transbox {
   border: 5px solid white;
   opacity: 1.8;
   filter: alpha(opacity=60); /* For IE8 and earlier */
+  box-shadow: 5px 5px white, 10px 10px olive, 15px 15px grey;
 }
 
 div.transbox p {
@@ -29,8 +30,14 @@ div.transbox p {
   color: #000000;
 }
 </style>
+<style>
+p {
+    text-shadow: 2px 2px 5px grey;
+}
+</style>
 <div class="background">
   <div class="transbox">
+<p>
     
 <strong>
 <marquee
