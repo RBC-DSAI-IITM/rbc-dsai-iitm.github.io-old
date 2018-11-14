@@ -137,6 +137,6 @@
 
 {'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Kurian, Varghese and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Actuator network design to mitigate contamination effects in Water Distribution Networks', 'ID': 'palleti2018actuator', 'volume': '108', 'pages': '194--205', 'year': '2018', 'ENTRYTYPE': 'article'},
 
-{'publisher': 'NCBI', 'author': 'Sahoo S, Kumar R and Ranjith, Nicolay B and Mohite O, Sivaraman K, Khetan V, Rishi P,  Ganesan S, Subramanian K,  Raman K, Miles W, Elchuri SV', 'journal': 'aheadofprint', 'title': 'Metabolite systems profiling identifies exploitable weaknesses in Retinoblastoma.', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sahoo2018Metabolite'}
+{'publisher': 'FEBS Letters', 'author': 'Sahoo S and Ranjith Kumar R and Nicolay, B and Mohite, O and Sivaraman, K and Khetan, V and Rishi, P and Ganesan, S and Subramanian, K and Karthik Raman and Miles, W and Elchuri, SV', 'journal': 'FEBS Letters', 'title': 'Metabolite systems profiling identifies exploitable weaknesses in Retinoblastoma', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sahoo2018Metabolite'}
 
 ]
