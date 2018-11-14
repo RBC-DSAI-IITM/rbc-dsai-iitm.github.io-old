@@ -135,6 +135,8 @@
 
 {'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Sankaran, Ganesh and Joopudi, Sreeram and Choudhury, Suman Roy and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Journal of Process Control', 'title': 'Optimal power distribution control for a network of fuel cell stacks', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018optimal'},
 
-{'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Kurian, Varghese and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Actuator network design to mitigate contamination effects in Water Distribution Networks', 'ID': 'palleti2018actuator', 'volume': '108', 'pages': '194--205', 'year': '2018', 'ENTRYTYPE': 'article'}
+{'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Kurian, Varghese and Narasimhan, Shankar and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Actuator network design to mitigate contamination effects in Water Distribution Networks', 'ID': 'palleti2018actuator', 'volume': '108', 'pages': '194--205', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'NCBI', 'author': 'Sahoo S, Kumar R and Ranjith, Nicolay B and Mohite O, Sivaraman K, Khetan V, Rishi P,  Ganesan S, Subramanian K,  Raman K, Miles W, Elchuri SV', 'journal': 'aheadofprint', 'title': 'Metabolite systems profiling identifies exploitable weaknesses in Retinoblastoma.', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sahoo2018Metabolite'}
 
 ]
