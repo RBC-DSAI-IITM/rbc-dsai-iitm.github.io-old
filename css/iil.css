@@ -608,7 +608,7 @@ hr {
 .affix-top {
   position: fixed;
   top : 4.2em;
-  width:14%;
+  width: 150px;
 }
 
 .sidenav .nav-link {
