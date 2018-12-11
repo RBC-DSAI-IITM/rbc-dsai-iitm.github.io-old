@@ -15,6 +15,7 @@ body {
 
 /* Carousel base class */
 .carousel {
+ line-height: 2px;
 }
 
 .carousel .btn-lg {
