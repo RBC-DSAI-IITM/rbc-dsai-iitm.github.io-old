@@ -23,6 +23,7 @@ body {
     border-radius: 0;
     border:2px solid white;
     color:white;
+    bottom: 25%;
 }
 
 .carousel h1 {
@@ -59,7 +60,6 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  bottom: 25%;
   min-width: 100%;
   height: 25rem;
 }
