@@ -8,7 +8,7 @@ body {
 }
 
 .navbar{
-  padding:0px;
+  padding:25px;
 }
 
 /* dropshadow for the fixed top navbar */
@@ -62,7 +62,7 @@ ul.list {
 }
 
 .about-header .jumbotron-content {
-  top:20%;
+  top:10%;
   left:10%;
   right:10%;
   height:25rem;
