@@ -66,7 +66,7 @@ body {
 
 .carousel-indicators > li {
   cursor:pointer;
-
+  margin-top: 10px;
 }
 
 .carousel-control-next, .carousel-control-prev {
