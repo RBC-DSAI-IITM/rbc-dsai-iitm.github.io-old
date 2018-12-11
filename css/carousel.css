@@ -20,7 +20,7 @@ body {
 .carousel .btn-lg {
     font-size:1.1rem;
     padding:.3rem .8rem;
-    border-radius: 0;
+    border-radius: 10;
     border:2px solid white;
     color:white;
 }
