@@ -20,7 +20,7 @@ body {
 .carousel .btn-lg {
     font-size:1.1rem;
     padding:.3rem .8rem;
-    border-radius: 10;
+    border-radius: 0;
     border:2px solid white;
     color:white;
 }
@@ -44,7 +44,7 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  top: 1rem;
+  top: 15rem;
   left:10%;
   right:10%;
 }
