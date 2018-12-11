@@ -15,7 +15,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-    margin-top: 5%;
+    margin: 10%;
 }
 
 .carousel .btn-lg {
