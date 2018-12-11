@@ -9,7 +9,7 @@ body {
 
 .navbar{
   padding:0px;
-  height: 50px;
+  height: 100%;
 }
 
 /* dropshadow for the fixed top navbar */
