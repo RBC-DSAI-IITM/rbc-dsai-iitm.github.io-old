@@ -3,6 +3,7 @@ layout: member
 name: Gaurav Bilolikar
 image: gaurav.jpg
 email: gbilolikar@gmail.com
+homepage: https://www.linkedin.com/in/gbilolikar/
 designations: 
   - Dual degree
 areas:
