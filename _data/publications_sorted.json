@@ -145,7 +145,7 @@
 
 {'title': 'On Controllable Sparse Alternatives to Softmax', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'Advances in Neural Information Processing Systems', 'author': 'Laha, Anirban and Chemmengath, Saneem Ahmed and Agrawal, Priyanka and Khapra, Mitesh and Sankaranarayanan, Karthik and Ramaswamy, Harish G', 'ID': 'laha2018controllable', 'year': '2018', 'pages': '6421--6431'},
 
-{'title': 'Consistent algorithms for multiclass classification with a reject option', 'journal': 'arXiv preprint arXiv:1505.04137', 'author': 'Ramaswamy, Harish G and Tewari, Ambuj and Agarwal, Shivani', 'ID': 'ramaswamy2015consistent', 'year': '2015', 'ENTRYTYPE': 'article'},
+{'title': 'Consistent algorithms for multiclass classification with a reject option', 'journal': 'arXiv preprint arXiv:1505.04137', 'author': 'Ramaswamy, Harish G and Tewari, Ambuj and Agarwal, Shivani', 'ID': 'ramaswamy2015consistent', 'year': '2018', 'ENTRYTYPE': 'article'},
 
 {'publisher': 'Public Library of Science', 'author': 'Azhagesan, Karthik and Ravindran, Balaraman and Raman, Karthik', 'journal': 'PloS one', 'title': 'Network-based features enable prediction of essential genes across diverse organisms', 'number': '12', 'ID': 'azhagesan2018network', 'volume': '13', 'pages': 'e0208722', 'year': '2018', 'ENTRYTYPE': 'article'},
 
