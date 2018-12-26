@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Anjana A S
-image: anjana.png
+image: anjana.jpg
 email: anjanaanilkumar1289@gmail.com
 designations: 
   - Project Associate

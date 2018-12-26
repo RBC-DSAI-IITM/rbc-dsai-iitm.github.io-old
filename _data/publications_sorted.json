@@ -161,7 +161,7 @@
 
 {'title': 'Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing', 'journal': 'To appear in the Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2019)', 'author': 'Kumar, Athindran Ramesh and Ravindran, Balaraman and Raghunathan, Anand', 'ID': 'kumar2018pack', 'year': '2019', 'ENTRYTYPE': 'article'},
 
-{'author': 'AnanyasaiR., Midun Das, Gupta., and Srinivasan, Mukundhan., Mitesh, M M', 'booktitle': 'In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019), Honolulu, Hawaii, USA', 'title': 'Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses', 'ID': 'ananyasai2019', 'pages': '', 'year': '2019', 'organization': 'AAAI 2019', 'ENTRYTYPE': 'inproceedings'},
+{'author': 'Ananyasai., Midun Das, Gupta., and Srinivasan, Mukundhan., Mitesh, M M', 'booktitle': 'In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019), Honolulu, Hawaii, USA', 'title': 'Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses', 'ID': 'ananyasai2019', 'pages': '', 'year': '2019', 'organization': 'AAAI 2019', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Towards a Better Metric for Evaluating Question Generation Systems', 'journal': 'arXiv preprint arXiv:1808.10192', 'author': 'Nema, Preksha and Khapra, Mitesh M', 'ID': 'nema2018towards', 'year': '2018', 'ENTRYTYPE': 'article'},
 
@@ -169,6 +169,14 @@
 
 {'title': 'A Dataset for Building Code-Mixed Goal Oriented Conversation Systems', 'journal': 'arXiv preprint arXiv:1806.05997', 'author': 'Banerjee, Suman and Moghe, Nikita and Arora, Siddhartha and Khapra, Mitesh M', 'ID': 'banerjee2018dataset', 'year': '2018', 'ENTRYTYPE': 'article'},
 
-{'ENTRYTYPE': 'article', 'title': 'ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions', 'year': '2018', 'ID': 'parikh2018eliminet', 'author': 'Parikh, Soham and Sai, Ananya and Nema, Preksha and Khapra, Mitesh M'}
+{'ENTRYTYPE': 'article', 'title': 'ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions', 'year': '2018', 'ID': 'parikh2018eliminet', 'author': 'Parikh, Soham and Sai, Ananya and Nema, Preksha and Khapra, Mitesh M'},
+
+{'publisher': 'ACS Publications', 'author': 'Maurya, Deepak and Tangirala, Arun K and Narasimhan, Shankar', 'journal': 'Industrial \\& Engineering Chemistry Research', 'title': 'Identification of Errors-in-Variables Models Using Dynamic Iterative Principal Component Analysis', 'number': '35', 'ID': 'maurya2018identification', 'volume': '57', 'pages': '11939--11954', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Springer', 'author': 'Arneson, Douglas and Zhang, Yong and Yang, Xia and Narayanan, Manikandan', 'journal': 'Journal of genetics', 'title': 'Shared mechanisms among neurodegenerative diseases: from genetic factors to gene networks', 'number': '3', 'ID': 'arneson2018shared', 'volume': '97', 'pages': '795--806', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Singh Moirangthem, Sailash., Pasumarthy, Ramakrishna., and Viswanath, Talasila.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'Time Series Analysis of Surface EMG Signal - Linear, Non Linear and Chaotic Approaches', 'ID': 'sailash2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'}
 
 ]
