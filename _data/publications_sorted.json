@@ -139,6 +139,36 @@
 
 {'publisher': 'NCBI', 'author': 'Sahoo S, Kumar R and Ranjith, Nicolay B and Mohite O, Sivaraman K, Khetan V, Rishi P,  Ganesan S, Subramanian K,  Raman K, Miles W, Elchuri SV', 'journal': 'aheadofprint', 'title': 'Metabolite systems profiling identifies exploitable weaknesses in Retinoblastoma.', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sahoo2018Metabolite'},
 
-{'publisher': 'IEEE', 'author': 'Pappu, Satya Jayadev and Bhatt, Nirav and Pasumarthy, Ramkrishna and Rajeswaran, Aravind', 'journal': 'IEEE Transactions on Smart Grid', 'title': 'Identifying Topology of Low Voltage Distribution Networks Based on Smart Meter Data', 'number': '5', 'ID': 'pappu2018identifying', 'volume': '9', 'pages': '5113--5122', 'year': '2018', 'ENTRYTYPE': 'article'}
+{'publisher': 'IEEE', 'author': 'Pappu, Satya Jayadev and Bhatt, Nirav and Pasumarthy, Ramkrishna and Rajeswaran, Aravind', 'journal': 'IEEE Transactions on Smart Grid', 'title': 'Identifying Topology of Low Voltage Distribution Networks Based on Smart Meter Data', 'number': '5', 'ID': 'pappu2018identifying', 'volume': '9', 'pages': '5113--5122', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'On the primal-dual dynamics of Support Vector Machines', 'journal': 'arXiv preprint arXiv:1805.00699', 'author': 'Kosaraju, Krishna Chaitanya and Mohan, Shravan and Pasumarthy, Ramkrishna', 'ID': 'kosaraju2018primal', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'On Controllable Sparse Alternatives to Softmax', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'Advances in Neural Information Processing Systems', 'author': 'Laha, Anirban and Chemmengath, Saneem Ahmed and Agrawal, Priyanka and Khapra, Mitesh and Sankaranarayanan, Karthik and Ramaswamy, Harish G', 'ID': 'laha2018controllable', 'year': '2018', 'pages': '6421--6431'},
+
+{'title': 'Consistent algorithms for multiclass classification with a reject option', 'journal': 'arXiv preprint arXiv:1505.04137', 'author': 'Ramaswamy, Harish G and Tewari, Ambuj and Agarwal, Shivani', 'ID': 'ramaswamy2015consistent', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Public Library of Science', 'author': 'Azhagesan, Karthik and Ravindran, Balaraman and Raman, Karthik', 'journal': 'PloS one', 'title': 'Network-based features enable prediction of essential genes across diverse organisms', 'number': '12', 'ID': 'azhagesan2018network', 'volume': '13', 'pages': 'e0208722', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'Learning to prevent Monocular SLAM failure using Reinforcement Learning', 'journal': 'To appear in the Proceedings of the Eleventh Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2018). ACM ICPS.', 'author': 'Prasad, V and Yadav, K, Singh, S., Daga, S., Pareekutty, N., Krishna, K. M., Ravindran, B., and Bhowmick, B.', 'ID': 'prasad2018Learning', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'ACM', 'author': 'Philip, Dibu John and Sudarsanam, Nandan and Ravindran, Balaraman', 'journal': 'ACM SIGMIS Database: the DATABASE for Advances in Information Systems', 'title': 'Improved Insights on Financial Health through Partially Constrained Hidden Markov Model Clustering on Loan Repayment Data', 'number': '3', 'ID': 'philip2018improved', 'volume': '49', 'pages': '98--113', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Kaushik, Meha and Prasad, Vignesh and Krishna, K Madhava and Ravindran, Balaraman', 'booktitle': '2018 IEEE Intelligent Vehicles Symposium (IV)', 'title': 'Overtaking Maneuvers in Simulated Highway Driving using Deep Reinforcement Learning', 'ID': 'kaushik2018overtaking', 'pages': '1885--1890', 'year': '2018', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Reddy, R., Chandar, S., and Ravindran, B', 'booktitle': 'To appear in the proceedings of the SIAM International Conference on Data Mining', 'title': 'Edge Replacement Grammars: A Formal Language Approach for Generating Graphs', 'ID': 'reddy2019', 'pages': '', 'year': '2019', 'organization': 'SDM19', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Studying the Plasticity in Deep Convolutional Neural Networks using Random Pruning', 'journal': 'To appear in the Journal of Machine Vision and Applications. Springer.', 'author': 'Mittal, Deepak and Bhardwaj, Shweta and Khapra, Mitesh M and Ravindran, Balaraman', 'ID': 'mittal2019recovering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing', 'journal': 'To appear in the Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2019)', 'author': 'Kumar, Athindran Ramesh and Ravindran, Balaraman and Raghunathan, Anand', 'ID': 'kumar2018pack', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'author': 'AnanyasaiR., Midun Das, Gupta., and Srinivasan, Mukundhan., Mitesh, M M', 'booktitle': 'In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019), Honolulu, Hawaii, USA', 'title': 'Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses', 'ID': 'ananyasai2019', 'pages': '', 'year': '2019', 'organization': 'AAAI 2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Towards a Better Metric for Evaluating Question Generation Systems', 'journal': 'arXiv preprint arXiv:1808.10192', 'author': 'Nema, Preksha and Khapra, Mitesh M', 'ID': 'nema2018towards', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'Towards Exploiting Background Knowledge for Building Conversation Systems', 'journal': 'arXiv preprint arXiv:1809.08205', 'author': 'Moghe, Nikita and Arora, Siddhartha and Banerjee, Suman and Khapra, Mitesh M', 'ID': 'moghe2018towards', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'A Dataset for Building Code-Mixed Goal Oriented Conversation Systems', 'journal': 'arXiv preprint arXiv:1806.05997', 'author': 'Banerjee, Suman and Moghe, Nikita and Arora, Siddhartha and Khapra, Mitesh M', 'ID': 'banerjee2018dataset', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'ENTRYTYPE': 'article', 'title': 'ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions', 'year': '2018', 'ID': 'parikh2018eliminet', 'author': 'Parikh, Soham and Sai, Ananya and Nema, Preksha and Khapra, Mitesh M'}
 
 ]
