@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Anjana A S
+name: Darwin
 image: darwin.jpg
 email: darwinreddy [at] gmail [dot] com
 designations: 

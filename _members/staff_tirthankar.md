@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Tirthankar
+name: Tirthankar Sengupta
 image: tirthankar.png
 email: 006905@imail.iitm.ac.in
 designations: 
