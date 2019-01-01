@@ -42,7 +42,6 @@ div.transbox {
   border: 2px solid white;
   opacity: 1.8;
   filter: alpha(opacity=60); /* For IE8 and earlier */
-  box-shadow: 5px 5px grey, 10px 10px black, 15px 15px red;
 }
 
 div.transbox p {
@@ -53,7 +52,7 @@ div.transbox p {
 </style>
 <style>
 p {
-    text-shadow: 2px 2px 5px white;
+    text-shadow: 0px 0px 0px white;
 }
 </style>
 <div class="background">
@@ -88,7 +87,7 @@ p {
 }
 @-webkit-keyframes scroll-left {
  0%   { -webkit-transform: translateX(100%); }
- 100% { -webkit-transform: translateX(-100%); }
+ 75% { -webkit-transform: translateX(-100%); }
 }
 @keyframes scroll-left {
  0%   {
