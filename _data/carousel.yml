@@ -6,12 +6,11 @@
     cutting across disciplines, are targeted and solved.
   link: about.html 
 
-- title: MS/PhD Admissions Open Now!
+- title: Announcement
   image: carousel2_bg.jpg
   message: >
-    MS / PhD applications are now being accepted, for both the January and July semesters. Admissions are
-    also open for the Interdisciplinary MS / PhD programmes in data science.
-  link: Join Us
+    We are excited to announce the release of v1.0.0 of DCEIL, the first distributed community detection algorithm based on the state-of-the-art CEIL scoring function.
+  link: https://github.com/RBC-DSAI-IITM/DCEIL
 
 # - title: Reinforcement Learning 
 #   image: carousel2_bg.jpg
