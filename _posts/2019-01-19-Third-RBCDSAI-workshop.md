@@ -19,13 +19,13 @@ categories: events
   </li>
   <li class="row"> 
      <span class="col-2 text-center">
-       09:00AM-10.00AM  
+       09:00AM 
        </span>
        <span class="col-10"> Prof. Harish Guruprasad (CS), "Complex tasks in machine learning"
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
-       10:00AM-10.35AM 
+       10:00AM
        </span> 
        <span class="col-10">
          Priyesh Vijayan (CS), "Designing better Graph Convolutional Networks"
@@ -33,56 +33,36 @@ categories: events
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
-       10:35AM-10.45AM
+       10:35AM
        </span> <span class="col-10">  Tea/Coffee Break
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
-       10:45AM-11.20AM 
+       10:45AM
        </span> <span class="col-10">
         Prasan Shedligeri (EE), "Solving computer vision tasks with event sensor based data"  
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
-       11:20AM-11.55AM 
+       11:20AM 
        </span> <span class="col-10">
        Ramya Chandran (DoMS) & Depen Morwani(CS), "Modeling taxi driver decision-making with information sharing platforms"
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
-       11:55AM-12.30PM 
+       11:55AM
        </span> <span class="col-10">
        Varghese Kurian (CH), "Comparison of discrete and continuous control in flow networks"
      </span>
   </li>
+ </li> <li class="row">
+     <span class="col-2 text-center">
+       12:30PM
+       </span> <span class="col-10">
+       Convene to closed session
+     </span>
+  </li>
+
 </ol>
 <ul>
-<table style="width:99%">
-<col width=80%>
-<col width=10%>
-<col width=10%>
-<tr><div style="height:0px">
-        <td><li>09:00AM - 10.00AM </li></td>
-        <td><p>Prof. Harish Guruprasad (CS), "Complex tasks in machine learning" </p></td></div></tr>
-<tr><div style="height:0px">
-        <td><li>10:00AM - 10.35AM</li></td>
-        <td><p>Priyesh Vijayan (CS), "Designing better Graph Convolutional Networks" </p></td>
-        </div></tr>
-<tr><div style="height:0px">
-        <td><li>10:35AM - 10.45AM </li></td>
-        <td><p>Tea/Coffee Break </p></td>
-        </div></tr>
-<tr><div style="height:0px">
-        <td><li>10:45AM - 11.20AM </li></td>
-        <td><p>Prasan Shedligeri (EE), "Solving computer vision tasks with event sensor based data" </p></td>
-        </div></tr>
-<tr><div style="height:0px">
-        <td><li>11:20AM - 11.55AM </li></td>
-        <td><p>Ramya Chandran (DoMS) & Depen Morwani(CS), "Modeling taxi driver decision-making with information sharing platforms" </p></td>
-        </div></tr>
-<tr><div style="height:0px">
-        <td><li>11:55AM - 12.30PM </li></td>
-        <td><p>Varghese Kurian (CH), "Comparison of discrete and continuous control in flow networks" </p></td>
-        </div></tr>
-</table>
-</ul>
+
