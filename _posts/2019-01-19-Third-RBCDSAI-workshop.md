@@ -55,7 +55,7 @@ categories: events
        Varghese Kurian (CH), "Comparison of discrete and continuous control in flow networks"
      </span>
   </li>
- </li> <li class="row">
+ <li class="row">
      <span class="col-2 text-center">
        12:30PM
        </span> <span class="col-10">
