@@ -12,8 +12,9 @@ The mission of Shaastra AI Challenge is to create solutions and initiatives in A
 <br>
 <br>
 <br>
-<video width="500" controls>
+<p align="justify">
+<video width="500" controls autoplay>
   <source src="/images/ai_shastra1.mp4" type="video/mp4">
   <source src="/images/ai_shastra1.webm" type="video/webm" />
-</video>
+</video></p>
 
