@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Manufacturing Analytics
-description: Traditionally, manufacturing facilities (particularly chemical manufacturing) have been in the forefront in terms of using advanced computational techniques in their process operations. While manufacturing has been receptive to data analytic techniques for a long time now, the volume and variety of data available have undergone a tremendous growth. This necessitates new research that can integrate the traditional computational approaches with large-scale data analytics. The goal of the activities in the centre is the development of a first-of-its-kind manufacturing data analytics platform that could be used all over the world.
+description: <p align="justify"> Traditionally, manufacturing facilities (particularly chemical manufacturing) have been in the forefront in terms of using advanced computational techniques in their process operations. While manufacturing has been receptive to data analytic techniques for a long time now, the volume and variety of data available have undergone a tremendous growth. This necessitates new research that can integrate the traditional computational approaches with large-scale data analytics. The goal of the activities in the centre is the development of a first-of-its-kind manufacturing data analytics platform that could be used all over the world.</p>
 image: /images/research/r_ap_1.png
 type: applied
 ---
