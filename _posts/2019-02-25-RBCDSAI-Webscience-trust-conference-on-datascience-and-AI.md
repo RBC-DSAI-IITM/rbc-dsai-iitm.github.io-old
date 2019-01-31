@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RBCDSAI-Web Science Trust Conference on Data Sciecne and AI
+title: RBCDSAI - Web Science Trust Conference on Data Science and AI
 venue: ICSR Auditorium
 date: 2019-02-25 09:00:00 +0530
 categories: events
