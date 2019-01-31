@@ -12,18 +12,7 @@ categories: events
 </ul>
 
 
-<h2 class="post-title text-center"> Agenda </h2>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: white;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-<body>
+<h2>Agenda</h2>
+<img src="/assets/agenda.png" align="middle" width="100" height="100">
 
-<img src="/assets/agenda.png" class="center" width="100" height="100">
-</body>
 
