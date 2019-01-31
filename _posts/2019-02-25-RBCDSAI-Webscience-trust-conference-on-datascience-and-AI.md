@@ -12,7 +12,7 @@ categories: events
 </ul>
 
 
-<h2>Agenda</h2>
+<h5>Agenda</h5>
 <img src="/assets/agenda.png" align="middle" width="100" height="100">
 
 
