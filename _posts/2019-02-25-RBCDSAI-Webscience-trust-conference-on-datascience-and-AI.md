@@ -10,6 +10,7 @@ categories: events
 	 <li><b>Time</b> : 09:00 </li>
 	 <li><b>Date</b> : 25 & 26th Feburary 2019</li>
 </ul>
+<h2 class="post-title text-center"> Agenda </h2>
 
-<img src="/assets/agenda.png" width="100" height="100">
+<img src="/assets/agenda.png" align="middle" width="100" height="100">
       
