@@ -1,4 +1,8 @@
 [
+{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, Balaraman', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
+
+{'publisher': 'Springer', 'author': 'Sudarsanam, Nandan and Balaji, Pitchai Kannu and D.Frey, Daniel', 'booktitle': 'To appear in Research in Engineering Design', 'title': 'Optimal replicates for Designed Experiments under the on-line framework', 'ENTRYTYPE': 'inproceedings', 'year': '2019', 'ID': 'balaji2019optimal'},
+
 {'author': 'Nema, Preksha and Shetty M, Shreyas and Jain, Parag and Laha, Anirban and Sankaranarayanan, Karthik and M.Khapra, Mitesh', 'booktitle': 'In Proceedings of the North American Chapter of the Association for Computational Linguistics', 'title': 'Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization', 'ID': 'preksha2018', 'pages': '', 'year': '2018', 'organization': 'NAACL 2018', 'ENTRYTYPE': 'inproceedings'},
 
 {'author': 'Sharma, Sahil and Jha, Ashutosh Kumar and Hegde, Parikshit S and Ravindran, Balaraman', 'booktitle': 'To appear in the Proceedings of the Sixth International Conference on Learning Representations', 'title': 'Learning to Multi-Task by Active Sampling', 'ID': 'sharma2018', 'pages': '', 'year': '2018', 'organization': 'ICLR 2018', 'ENTRYTYPE': 'inproceedings'},
@@ -173,10 +177,6 @@
 
 {'author': 'Singh Moirangthem, Sailash., Pasumarthy, Ramakrishna., and Viswanath, Talasila.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'Time Series Analysis of Surface EMG Signal - Linear, Non Linear and Chaotic Approaches', 'ID': 'sailash2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
 
-{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
-
-{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, Balaraman', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
-
-{'publisher': 'Springer', 'author': 'Sudarsanam, Nandan and Balaji, Pitchai Kannu and D.Frey, Daniel', 'booktitle': 'To appear in Research in Engineering Design', 'title': 'Optimal replicates for Designed Experiments under the on-line framework', 'ENTRYTYPE': 'inproceedings', 'year': '2019', 'ID': 'balaji2019optimal'}
+{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'}
 
 ]
