@@ -175,6 +175,8 @@
 
 {'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
 
-{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, Balaraman', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'}
+{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, Balaraman', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
+
+{'publisher': 'Springer', 'author': 'Sudarsanam, Nandan and Balaji, Pitchai Kannu and D.Frey, Daniel', 'booktitle': 'To appear in Research in Engineering Design', 'title': 'Optimal replicates for Designed Experiments under the on-line framework', 'ENTRYTYPE': 'inproceedings', 'year': '2019', 'ID': 'balaji2019optimal'}
 
 ]
