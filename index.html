@@ -186,7 +186,7 @@ p {
           <div class="pub-container">
           <h3 class="section-title mt-4" > Recent Publications </h3>
           <ol class="px-0 mx-0 publications list">
-            {% for paper in site.data.publications_sorted limit:2 %}
+            {% for paper in site.data.publications_sorted limit:5 %}
               <li>
                 <span class="pub-title">{{ paper.title}} </span> 
                 <span class="pub-authors">
