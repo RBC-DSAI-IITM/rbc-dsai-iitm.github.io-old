@@ -173,6 +173,8 @@
 
 {'author': 'Singh Moirangthem, Sailash., Pasumarthy, Ramakrishna., and Viswanath, Talasila.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'Time Series Analysis of Surface EMG Signal - Linear, Non Linear and Chaotic Approaches', 'ID': 'sailash2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
 
-{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'}
+{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, Balaraman', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'}
 
 ]
