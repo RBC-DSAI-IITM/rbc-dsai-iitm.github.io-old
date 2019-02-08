@@ -5,19 +5,19 @@ venue: ICSR Auditorium
 date: 2019-02-25 09:00:00 +0530
 categories: events
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #ffffff;
 }
 
 .topnav a {
@@ -30,13 +30,13 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #ffffff;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #FF0000;
+  color: black;
 }
 </style>
 </head>
@@ -44,7 +44,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Overview</a>
-  <a href="/_pages/">About</a>
+  <a href="#news">About</a>
   <a href="#contact">Agenda</a>
  
 </div>
@@ -56,4 +56,3 @@ body {
 
 </body>
 </html>
-
