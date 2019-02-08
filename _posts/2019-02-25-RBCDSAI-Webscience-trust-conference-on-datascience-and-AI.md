@@ -49,7 +49,7 @@ body {
   <a href="/assets/wst-agenda.html">Agenda</a>
  
 </div>
-</div>
+
 </body>
 </html>
 
