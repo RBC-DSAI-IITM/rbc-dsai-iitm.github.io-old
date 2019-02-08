@@ -22,11 +22,12 @@ body {
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #c0c0c0;
   text-align: center;
-  padding: 14px 16px;
+  padding: 7px 8px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 18px;
+  
 }
 
 .topnav a:hover {
@@ -35,7 +36,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #FF0000;
+  background-color: #ffffff;
   color: black;
 }
 </style>
@@ -45,7 +46,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Overview</a>
   <a href="#news">About</a>
-  <a href="#contact">Agenda</a>
+  <a href="/assets/wst-agenda.html">Agenda</a>
  
 </div>
 
