@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RBCDSAI - Web Science Trust Conference on Data Science and AI
+title: RBCDSAI - Web Science Symposium
 venue: ICSR Auditorium
 date: 2019-02-25 09:00:00 +0530
 categories: events
@@ -45,7 +45,6 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Overview</a>
-  <a href="#news">About</a>
   <a href="/assets/wst-agenda.html">Agenda</a>
  
 </div>
@@ -55,7 +54,7 @@ body {
 
 <div style="padding-left:16px">
 <img src="/assets/wst.jpg" alt="wst-image" style="width:1100px;height:250px;"><br><br>
-  <h4>Region:<strong>TamilNadu</strong></h4><br>
+  
   <h5>Date: <strong>February 25, 2019 - February 26, 2019 </strong></h5><br>
   <h5>Venue: <strong>ICSR Auditorium, IIT Madras</strong><br>
-  <h4><strong>RBCDSAI - Web Science Trust Conference on Data Science and AI </strong></h4>
+  <h4><strong>RBCDSAI Web Science Symposium </strong></h4>
