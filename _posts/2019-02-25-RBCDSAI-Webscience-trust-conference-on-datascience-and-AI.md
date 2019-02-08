@@ -7,6 +7,7 @@ categories: events
 ---
 
 <html>
+<img src="/assets/wst.jpg" alt="wst-image" style="width:250px;height:700px;">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
