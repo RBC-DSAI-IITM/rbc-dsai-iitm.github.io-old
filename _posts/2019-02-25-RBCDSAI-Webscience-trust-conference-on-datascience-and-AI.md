@@ -49,13 +49,13 @@ body {
   <a href="/assets/wst-agenda.html">Agenda</a>
  
 </div>
+</div>
+</body>
+</html>
 
 <div style="padding-left:16px">
-<img src="/assets/wst.jpg" alt="wst-image" style="width:1300px;height:250px;"><br>
+<img src="/assets/wst.jpg" alt="wst-image" style="width:1100px;height:250px;"><br><br>
   <h4>Region:<strong>TamilNadu</strong></h4><br>
   <h5>Date: <strong>February 25, 2019 - February 26, 2019 </strong></h5><br>
   <h5>Venue: <strong>ICSR Auditorium, IIT Madras</strong><br>
   <h4><strong>RBCDSAI - Web Science Trust Conference on Data Science and AI </strong></h4>
-</div>
-</body>
-</html>
