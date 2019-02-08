@@ -45,7 +45,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Overview</a>
-  <a href="/assets/wst-agenda.html">Agenda</a>
+  <a href="#">Agenda</a>
  
 </div>
 
