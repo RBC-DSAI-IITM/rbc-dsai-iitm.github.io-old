@@ -7,7 +7,6 @@ categories: events
 ---
 
 <html>
-<img src="/assets/wst.jpg" alt="wst-image" style="width:250px;height:700px;">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -52,8 +51,11 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
-  <p>Some content..</p>
+<img src="/assets/wst.jpg" alt="wst-image" style="width:800px;height:250px;"><br>
+  <h4>Region:<strong>TamilNadu</h4><br>
+  <h5>Date: <strong>February 25, 2019 - February 26, 2019 </strong></h5><br>
+  <h5>Venue: <strong>ICSR Auditorium, IIT Madras</strong><br>
+  <h4><strong>RBCDSAI - Web Science Trust Conference on Data Science and AI </strong></h4>
 </div>
 
 </body>
