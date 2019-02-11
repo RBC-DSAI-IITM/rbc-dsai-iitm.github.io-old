@@ -76,7 +76,7 @@ body {
 
   background-color: #ffffff;
 
-  color: black;
+  color: red;
 
 }
 
