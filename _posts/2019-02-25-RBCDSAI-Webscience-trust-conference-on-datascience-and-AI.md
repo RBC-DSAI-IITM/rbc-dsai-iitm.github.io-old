@@ -1,111 +1,88 @@
 ---
+
 layout: post
+
 title: RBCDSAI - Web Science Symposium
+
 venue: ICSR Auditorium
+
 date: 2019-02-25 09:00:00 +0530
+
 categories: events
+
 ---
+
+
 
 <html>
 
-
 <head>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
+body {
 
-    <style>
+  margin: 0;
 
+  font-family: "Times New Roman", Times, serif;
 
-        body {
+}
 
 
-            margin: 0;
 
+.topnav {
 
-            font-family: "Times New Roman", Times, serif;
+  overflow: hidden;
 
+  background-color: #ffffff;
 
-        }
+}
 
 
 
+.topnav a {
 
+  float: left;
 
-        .topnav {
+  color: #c0c0c0;
 
+  text-align: center;
 
-            overflow: hidden;
+  padding: 7px 8px;
 
+  text-decoration: none;
 
-            background-color: #ffffff;
+  font-size: 18px;
 
+  
 
-        }
+}
 
 
 
+.topnav a:hover {
 
+  background-color: #ffffff;
 
-            .topnav a {
+  color: black;
 
+}
 
-                float: left;
 
 
-                color: #c0c0c0;
+.topnav a.active {
 
+  background-color: #ffffff;
 
-                text-align: center;
+  color: black;
 
+}
 
-                padding: 7px 8px;
+</style>
 
-
-                text-decoration: none;
-
-
-                font-size: 18px;
-
-
-            }
-
-
-
-
-
-                .topnav a:hover {
-
-
-                    background-color: #ffffff;
-
-
-                    color: black;
-
-
-                }
-
-
-
-
-
-                .topnav a.active {
-
-
-                    background-color: #ffffff;
-
-
-                    color: black;
-
-
-                }
-
-
-    </style>
-
-
-    <script>
+ <script>
 
 
         function makeitactiveonload() {
@@ -149,9 +126,33 @@ categories: events
 
     </script>
 
-
 </head>
-
 
 <body>
 
+
+
+<div class="topnav" onload="makeitactiveonload()">
+
+
+        <a  class="active"  onclick="disableothersonclick('overviewid')">Overview</a>
+
+
+        <a  onclick="disableothersonclick('agendaid')" >Agenda</a>
+
+
+</div>
+
+<div id="dynamiccontent">
+
+
+        <div style="padding-left:16px"><img src="/assets/wst.jpg" alt="wst-image" style="width:1100px;height:250px;"><br><br><h5>Date: <strong>February 25, 2019 - February 26, 2019 </strong></h5><br>Venue: <strong>ICSR Auditorium, IIT Madras</strong><br><h4><strong>RBCDSAI Web Science Symposium </strong></h4></div>
+
+
+</div>
+
+
+
+</body>
+
+</html>
