@@ -1,4 +1,6 @@
 [
+{'title': 'Rate of Change Analysis for Interestingness Measures', 'journal': 'arXiv preprint arXiv:1712.05193', 'author': 'Sudarsanam, Dr.Nandan and Kumar, Nishanth and Sharma, Abhishek and Ravindran, Prof.B', 'ID': 'sudarsanam2017rate', 'year': '2017', 'ENTRYTYPE': 'article'},
+
 {'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, prof.B', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
 
 {'publisher': 'Springer', 'author': 'Sudarsanam, Dr.Nandan and Pitchai kannu, Balaji and D.Frey, Daniel', 'booktitle': 'To appear in Research in Engineering Design', 'title': 'Optimal replicates for Designed Experiments under the on-line framework', 'ENTRYTYPE': 'inproceedings', 'year': '2019', 'ID': 'balaji2019optimal'},
