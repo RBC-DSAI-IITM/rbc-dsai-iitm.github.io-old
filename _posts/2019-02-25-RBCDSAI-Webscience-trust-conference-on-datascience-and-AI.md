@@ -2,7 +2,7 @@
 
 layout: post
 
-title: RBCDSAI - Web Science Symposium
+title: First RBCDSAI - Web Science Symposium
 
 venue: ICSR Auditorium
 
