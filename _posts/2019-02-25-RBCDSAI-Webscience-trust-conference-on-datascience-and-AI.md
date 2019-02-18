@@ -27,7 +27,7 @@ body {
 
   margin: 0;
 
-  font-family:"Calibri (Body)";
+  font-family:"Calibri "Times New Roman", Times, serif";
 
 }
 
