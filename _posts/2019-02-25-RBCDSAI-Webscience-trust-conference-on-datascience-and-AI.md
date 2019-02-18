@@ -21,12 +21,13 @@ categories: events
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+.pointer {cursor: pointer;}
 
 body {
 
   margin: 0;
 
-  font-family: "Times New Roman", Times, serif;
+  font-family:"Calibri (Body)";
 
 }
 
@@ -135,10 +136,10 @@ body {
 <div class="topnav" onload="makeitactiveonload()">
 
 
-        <a  class="active"  onclick="disableothersonclick('overviewid')">Overview</a>
+        <a  class="active"  onclick="disableothersonclick('overviewid')"><p class="pointer">Overview</p></a>
 
 
-        <a  onclick="disableothersonclick('agendaid')" >Agenda</a>
+        <a  onclick="disableothersonclick('agendaid')" ><p class="pointer">Agenda</p></a>
 
 
 </div>
@@ -156,3 +157,4 @@ body {
 </body>
 
 </html>
+
