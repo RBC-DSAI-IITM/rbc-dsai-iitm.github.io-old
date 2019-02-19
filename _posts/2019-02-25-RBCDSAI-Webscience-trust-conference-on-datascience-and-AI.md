@@ -141,10 +141,10 @@ document.getElementById('agendaid').style.color = '#c0c0c0';
 <div class="topnav" onload="makeitactiveonload()">
 
 
-        <a  id="overviewid" class="active"  onclick="disableothersonclick('overviewid')">Overview</a>
+        <a  id="overviewid" class="active"  onclick="disableothersonclick('overviewid')"> <p class="pointer">Overview</p> </a>
 
 
-        <a  id="agendaid" onclick="disableothersonclick('agendaid')">Agenda</a>
+        <a  id="agendaid" onclick="disableothersonclick('agendaid')"> <p class="pointer">Agenda</p></a>
 
 
 </div>
