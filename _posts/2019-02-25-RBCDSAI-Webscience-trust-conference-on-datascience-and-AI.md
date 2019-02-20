@@ -1,16 +1,32 @@
 ---
 
+
+
 layout: post
+
+
 
 title: First RBCDSAI - Web Science Symposium
 
+
+
 venue: ICSR Auditorium
+
+
 
 date: 2019-02-25 09:00:00 +0530
 
+
+
 categories: events
 
+
+
 ---
+
+
+
+
 
 
 
@@ -159,7 +175,7 @@ td {
 
 
     padding-bottom:5px;
-
+    padding-rigft:5%;
 
    
 
@@ -437,6 +453,7 @@ td {
 
 
                 'Talk by <a href="https://researcher.watson.ibm.com/researcher/view.php?person=in-kartsank">Karthik Sankaranarayanan</a>, IBM India Research Lab'+
+                '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Advancing the Frontiers of AI with IBM Project Debater</u></summary></p><p align="justify"><strong>Abstract:</strong>The world is awash with information, misinformation, and superficial thinking. Project Debater is a research technology by IBM that pushes the frontiers of AI to facilitate intelligent debate on complex topics. Going beyond existing research around question-answering and dialog, our goal is to build a natural language system that assists people in building persuasive arguments and evidence-based decisions when there is no clear right or wrong answer. We rely on three pioneering capabilities: data-driven argument construction and delivery, listening comprehension, and the modeling of human dilemmas. This talk will provide a glimpse into some of the advances made in this project and summarize some of the scientific publications that have come out of this research. <a href="https://www.research.ibm.com/artificial-intelligence/project-debater/">https://www.research.ibm.com/artificial-intelligence/project-debater/</a></p></details></li></ul>'+
 
 
                 '</td>'+
@@ -1081,7 +1098,7 @@ td {
                 '<td>'+
 
 
-                '12:15 PM - 12:45 PM'
+                '12:15 PM - 12:45 PM'+
 
 
                 '</td>'+
