@@ -168,7 +168,7 @@ td {
 
     padding-bottom:5px;
 
-    padding-right:5%;
+    padding-right:2%;
 
    
 
@@ -1213,6 +1213,7 @@ td {
 
 
                             'Talk by <a href="http://www.iitkgp.ac.in/department/CS/faculty/cs-niloy">Niloy Ganguly</a>, IIT KGP'+
+                            '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Some Aspects of Computational Journalism</u></summary></p><p align="justify"><strong>Abstract:</strong>Due to the enormous amount of information being carried over online systems today, no user can access all such information. Therefore, to help the users, all major online organizations deploy information retrieval (content recommendation, search or ranking) systems to find important information. Current information retrieval systems have to make certain design choices. For example, news recommendation systems need to decide on the quality of recommended news stories, how much emphasis to give to a story’s long-term importance over its recency or freshness etc. Similarly, retrieval systems over user generated contents (e.g., in social media like Facebook and Twitter) need to take into account the content posted by heterogeneous user groups. However, such design choices can introduce unintended biases in the contents presented to the users. For example, the recommended contents may have poor quality or less news value, or the news discourse may get hijacked by hyper-active demographic groups. In this work, we want to systematically measure the effect of such design choices in the retrieval systems (recommendation systems in particular), and build alternate retrieval systems that mitigate the biases in the recommendation output.</p></details></li></ul>'+
 
 
 
