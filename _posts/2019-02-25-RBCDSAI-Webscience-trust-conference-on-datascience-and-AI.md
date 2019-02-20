@@ -254,7 +254,7 @@ td {
 
 
 
-                           '08:30 AM - 09:15 AM'+
+                           '08:30 AM  09:15 AM'+
 
 
 
@@ -286,7 +286,7 @@ td {
 
 
 
-                '09:15 AM - 09:30 AM'+
+                '09:15 AM  09:30 AM'+
 
 
 
@@ -318,7 +318,7 @@ td {
 
 
 
-                '09:30 AM - 10:15 AM'+
+                '09:30 AM  10:15 AM'+
 
 
 
@@ -358,7 +358,7 @@ td {
 
 
 
-                '10:15 AM - 10:45 AM'+ 
+                '10:15 AM  10:45 AM'+ 
 
 
 
@@ -398,7 +398,7 @@ td {
 
 
 
-                '10:45 AM - 11:15 AM'+
+                '10:45 AM  11:15 AM'+
 
 
 
@@ -430,7 +430,7 @@ td {
 
 
 
-                '11:15 AM - 11:45 AM'+
+                '11:15 AM  11:45 AM'+
 
 
 
@@ -470,7 +470,7 @@ td {
 
 
 
-                '11:45 AM - 12:15 PM'+
+                '11:45 AM  12:15 PM'+
 
 
 
@@ -510,7 +510,7 @@ td {
 
 
 
-                '12:15 PM - 12:45 PM'+
+                '12:15 PM  12:45 PM'+
 
 
 
@@ -548,7 +548,7 @@ td {
 
 
 
-                '12:45 PM - 02:00 PM'+
+                '12:45 PM  02:00 PM'+
 
 
 
@@ -584,7 +584,7 @@ td {
 
 
 
-                '02:00 PM - 02:45 PM'+
+                '02:00 PM  02:45 PM'+
 
 
 
@@ -624,7 +624,7 @@ td {
 
 
 
-                ' 02:45 PM - 03:15 PM'+
+                ' 02:45 PM  03:15 PM'+
 
 
 
@@ -717,10 +717,43 @@ td {
 
 
                 '<td>'+
+                '03:15 PM  04:00 PM'+
 
 
 
-                '04:00 PM - 04:30 PM'+
+                        '</td>'+
+
+
+
+                        '<td>'+
+
+
+
+                        'Posters Spotlights'+
+
+
+
+                        '</td>'+
+
+
+
+                        '</tr>'+
+
+
+
+                        
+
+
+
+                        '<tr>'+
+
+
+
+                        '<td>' +
+
+
+
+                '04:00 PM  04:30 PM'+
 
 
 
@@ -756,7 +789,7 @@ td {
 
 
 
-                        '04:30 PM - 06:00 PM'+
+                        '04:30 PM  06:00 PM'+
 
 
 
@@ -788,7 +821,7 @@ td {
 
 
 
-                        '06:00 PM - 07:00 PM'+
+                        '06:00 PM  07:00 PM'+
 
 
 
@@ -820,7 +853,7 @@ td {
 
 
 
-                        '07:00 PM - 09:00 PM'+
+                        '07:00 PM  09:00 PM'+
 
 
 
@@ -884,7 +917,7 @@ td {
 
 
 
-                        '09:00 AM - 09:45 AM'+
+                        '09:00 AM  09:45 AM'+
 
 
 
@@ -964,7 +997,7 @@ td {
 
 
 
-                            '09:45 AM - 10:15 AM'+
+                            '09:45 AM  10:15 AM'+
 
 
 
@@ -1096,7 +1129,7 @@ td {
 
 
 
-                            '10:15 AM - 10:45 AM' +
+                            '10:15 AM  10:45 AM' +
 
 
 
@@ -1192,38 +1225,7 @@ td {
 
 
 
-                            '<tr>'+
-
-
-
-                            '<td>'+
-
-
-
-                            '10:15 AM - 10:45 AM'+
-
-
-
-                            '</td>'+
-
-
-
-                            '<td>'+
-
-
-
-                            'Talk by <a href="http://www.iitkgp.ac.in/department/CS/faculty/cs-niloy">Niloy Ganguly</a>, IIT KGP'+
-                            '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Some Aspects of Computational Journalism</u></summary></p><p align="justify"><strong>Abstract:</strong>Due to the enormous amount of information being carried over online systems today, no user can access all such information. Therefore, to help the users, all major online organizations deploy information retrieval (content recommendation, search or ranking) systems to find important information. Current information retrieval systems have to make certain design choices. For example, news recommendation systems need to decide on the quality of recommended news stories, how much emphasis to give to a story’s long-term importance over its recency or freshness etc. Similarly, retrieval systems over user generated contents (e.g., in social media like Facebook and Twitter) need to take into account the content posted by heterogeneous user groups. However, such design choices can introduce unintended biases in the contents presented to the users. For example, the recommended contents may have poor quality or less news value, or the news discourse may get hijacked by hyper-active demographic groups. In this work, we want to systematically measure the effect of such design choices in the retrieval systems (recommendation systems in particular), and build alternate retrieval systems that mitigate the biases in the recommendation output.</p></details></li></ul>'+
-
-
-
-                            '</td>'+
-
-
-
-                            '</tr>'+
-
-
+                        
 
                             '<tr>'+
 
@@ -1233,7 +1235,7 @@ td {
 
 
 
-                            '10:45 AM - 11:15 AM' +
+                            '10:45 AM  11:15 AM' +
 
 
 
@@ -1265,7 +1267,7 @@ td {
 
 
 
-                            '11:15 AM - 11:45 AM'+
+                            '11:15 AM  11:45 AM'+
 
 
 
@@ -1353,7 +1355,7 @@ td {
 
 
 
-                                            '11:45 AM - 12:15 PM'+
+                                            '11:45 AM  12:15 PM'+
 
 
 
@@ -1385,7 +1387,7 @@ td {
 
 
 
-                '12:15 PM - 12:45 PM'+
+                '12:15 PM  12:45 PM'+
 
 
 
@@ -1461,7 +1463,7 @@ td {
 
 
 
-                '12:45 PM - 02:00 PM'+
+                '12:45 PM  02:00 PM'+
 
 
 
@@ -1493,7 +1495,7 @@ td {
 
 
 
-                '02:00 PM - 02:45 PM'+
+                '02:00 PM  02:45 PM'+
 
 
 
@@ -1593,7 +1595,7 @@ td {
 
 
 
-                '02:45 PM - 03:15 PM'+
+                '02:45 PM  03:15 PM'+
 
 
 
@@ -1633,7 +1635,7 @@ td {
 
 
 
-                '03:15 PM - 04:00 PM' +
+                '03:15 PM  04:00 PM' +
 
 
 
@@ -1665,7 +1667,7 @@ td {
 
 
 
-                '04:00 PM - 05:00 PM' +
+                '04:00 PM  05:00 PM' +
 
 
 
