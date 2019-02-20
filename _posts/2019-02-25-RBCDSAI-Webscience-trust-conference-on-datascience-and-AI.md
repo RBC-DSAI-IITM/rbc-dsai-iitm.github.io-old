@@ -1,33 +1,16 @@
-
 ---
-
-
 
 layout: post
 
-
-
 title: First RBCDSAI - Web Science Symposium
-
-
 
 venue: ICSR Auditorium
 
-
-
 date: 2019-02-25 09:00:00 +0530
-
-
 
 categories: events
 
-
-
 ---
-
-
-
-
 
 
 
