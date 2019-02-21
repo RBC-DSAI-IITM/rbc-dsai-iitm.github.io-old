@@ -1,14 +1,26 @@
 ---
 
+
+
 layout: post
+
+
 
 title: First RBCDSAI - Web Science Symposium
 
+
+
 venue: ICSR Auditorium
+
+
 
 date: 2019-02-25 09:00:00 +0530
 
+
+
 categories: events
+
+
 
 ---
 
@@ -717,6 +729,7 @@ td {
 
 
                 '<td>'+
+
                 '03:15 PM  04:00 PM'+
 
 
@@ -813,67 +826,11 @@ td {
 
 
 
-                        '<tr>'+
+                       
 
 
 
-                        '<td>'+
-
-
-
-                        '06:00 PM  07:00 PM'+
-
-
-
-                        '</td>'+
-
-
-
-                        '<td>'+
-
-
-
-                        ' Networking'+
-
-
-
-                        '</td>'+
-
-
-
-                        '</tr>'+
-
-
-
-                        '<tr>'+
-
-
-
-                        '<td>'+
-
-
-
-                        '07:00 PM  09:00 PM'+
-
-
-
-                        '</td>'+
-
-
-
-                        '<td>'+
-
-
-
-                        'Dinner, ICSR Dining hall'+
-
-
-
-                        '</td>'+
-
-
-
-                        '</tr>'+
+                    
 
 
 
@@ -1369,7 +1326,7 @@ td {
 
                                             'Talk by <a href="https://www.iiitd.ac.in/pk">Ponnurangam Kumaraguru</a>, IIITD'+
 
-                                             '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Social Media Risk Communication & #Elections2019</u></summary><p align="justify"><strong>Abstract:</strong> Selfies have become a prominent medium for self-portrayal onsocial media. Unfortunately, certain social media users go to extreme lengths to click selfies, which puts their lives at risk. 230+ individuals have died since March 2014 until January 2019 while trying to click selfies. We have been curating selfie deaths, building technologies to nudge users while taking dangerous selfies, e.g. Location Marker Saftie  <a href="https://www.facebook.com/saftiebot/">https://www.facebook.com/saftiebot/</a> and a camera Saftie Camera  <a href="https://play.google.com/store/apps/details?id=org.precog.saftiedetector">http://bit.ly/saftie-cam.</a> We have made all the data and code that we have built public at  <a href="http://labs.precog.iiitd.edu.in/killfie/">http://labs.precog.iiitd.edu.in/killfie/</a> More recently we have started analysing distracted driving using Snapchat and we are in the process of characterising the problem. Will discuss about these risk communication efforts that we are pursuing through the social media content. </p><p align="justify">Social Media, today, is playing a very important role in the politics of almost every nation. In India, there has been a boom in social media political campaigns, which was more marked in the 2014 General Elections. We are building a  portal  <a href="http://labs.precog.iiitd.edu.in/elections-2019/dashboard/analysis">http://bit.ly/elections19</a> to analyze the 2019 data and help see through the data that is getting generated on social media. We are finding some interesting patterns, one of them being sharp raise and fall of the followers  <a href="http://precog.iiitd.edu.in/blog/2019/02/08/twitters-suspect-users-affects-indian-political-handles/">http://precog.iiitd.edu.in/blog/2019/02/08/twitters-suspect-users-affects-indian-political-handles/</a> Will discuss some insights from our analysis until now.</details></li></ul>'+
+                                             '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Social Media Risk Communication & #Elections2019</u></summary><p align="justify"><strong>Abstract:</strong> Selfies have become a prominent medium for self-portrayal onsocial media. Unfortunately, certain social media users go to extreme lengths to click selfies, which puts their lives at risk. 230+ individuals have died since March 2014 until January 2019 while trying to click selfies. We have been curating selfie deaths, building technologies to nudge users while taking dangerous selfies, e.g. Location Marker Saftie  <a href="https://www.facebook.com/saftiebot/">https://www.facebook.com/saftiebot/</a> and a camera Saftie Camera  <a href="https://play.google.com/store/apps/details?id=org.precog.saftiedetector">http://bit.ly/saftie-cam.</a> We have made all the data and code that we have built public at  <a href="http://labs.precog.iiitd.edu.in/killfie/">http://labs.precog.iiitd.edu.in/killfie/</a> More recently we have started analysing distracted driving using Snapchat and we are in the process of characterising the problem. Will discuss about these risk communication efforts that we are pursuing through the social media content. </p><p align="justify">Social Media, today, is playing a very important role in the politics of almost every nation. In India, there has been a boom in social media political campaigns, which was more marked in the 2014 General Elections. We are building a  portal  <a href="http://labs.precog.iiitd.edu.in/elections-2019/dashboard/analysis">http://bit.ly/elections19</a> to analyze the 2019 data and help see through the data that is getting generated on social media. We are finding some interesting patterns, one of them being sharp raise and fall of the followers  <a href="http://precog.iiitd.edu.in/blog/2019/02/08/twitters-suspect-users-affects-indian-political-handles/">http://precog.iiitd.edu.in/blog/2019/02/08/twitters-suspect-users-affects-indian-political-handles/</a> Will discuss some insights from our analysis until now.</p></details></li></ul>'+
 
                                             '</td>'+
 
@@ -1617,7 +1574,7 @@ td {
 
                 '</a>, IITM'+
 
-
+                '<ul style="list-style-type:none;"><li><details><p><summary><strong>Title:</strong><u>Towards Exploiting Background Knowledge for Building Conversation Systems</u></summary><p align="justify"><strong>Abstract:</strong>Humans extensively rely on background knowledge while conversing on various topics of interest. It stands to reason that conversational agents should also be supported by background knowledge to effectively converse with humans in specific domains. Such background knowledge can be derived from various resources already available on the web. However, existing dialog datasets contain only a sequence of utterances and responses without any explicit background knowledge associated with them.This has resulted in the development of models which treat conversation as a sequence-to-sequence generation task i.e, given a sequence of utterances generate the response sequence). This is not only an overly simplistic view of conversation but it is also emphatically different from the way humans converse by heavily relying on theirbackground knowledge about the topic (as opposed to simply relying on the previous sequence of utterances). For example, it is common for humans to (involuntarily) produce utterances which are copied or suitably modified from background articles they have read about the topic. To facilitate the development of such natural conversation models which mimic the human process of conversing, we create a new dataset containing movie chats wherein each response is explicitly generated by copying and/or modifying sentences from unstructured background knowledge such as plots, comments and reviews about the movie freely available on the web. We establishbaseline results on this dataset (90K utterances from 9K conversations) using three different models: (i) pure generation based models which ignore the background knowledge (ii) generation based models which learn to copy information from the background knowledge when required and (iii) span prediction based models which predict the appropriate response span in the background knowledge. </p><p align="justify"><strong>Bio:</strong> Mitesh M. Khapra is an Assistant Professor in the Department of Computer Science and Engineering at IIT Madras. While at IIT Madras he plans to pursue his interests in the areas of Deep Learning, Multimodal Multilingual Processing, Dialog systems and Question Answering. Prior to that he worked as a Researcher at IBM Research India. During the four and half years that he spent at IBM he worked on several interesting problems in the areas of Statistical Machine Translation, Cross Language Learning, Multimodal Learning, Argument Mining and Deep Learning. This work led to publications in top conferences in the areas of Computational Linguistics and Machine Learning. Prior to IBM, he completed his PhD and M.Tech from IIT Bombay in Jan 2012 and July 2008 respectively. His PhD thesis dealt with the important problem of reusing resources for multilingual computation. During his PhD he was a recipient of the IBM PhD Fellowship and the Microsoft Rising Star Award. He is also a recipient of the Google Faculty Research Award, 2018. He has co-founded One Fourth labs with the mission of providing high quality AI courses at affordable prices with a focus on solving problems relevant to India.</p></details></li></ul>'+
 
                 '</td>'+
 
