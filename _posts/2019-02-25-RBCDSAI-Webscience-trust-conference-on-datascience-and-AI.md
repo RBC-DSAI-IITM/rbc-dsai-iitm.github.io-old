@@ -1605,6 +1605,7 @@ td {
 
 
                 'Panel Discussion: <strong>Fostering Web Science Community in India</strong>' +
+                '<p> <a href="http://www.iitkgp.ac.in/department/CS/faculty/cs-niloy">Niloy Ganguly</a>,  <a href="https://research.adobe.com/person/niyati-chhaya/">Niyati Chhaya</a>,     <a href="https://wendy.ecs.soton.ac.uk/">Dame Wendy Hall</a>;</p><li><strong>Moderator:</strong> <a href="https://www.cse.iitm.ac.in/~ravi/">B. Ravindran</a>.</li>'+
 
 
 
