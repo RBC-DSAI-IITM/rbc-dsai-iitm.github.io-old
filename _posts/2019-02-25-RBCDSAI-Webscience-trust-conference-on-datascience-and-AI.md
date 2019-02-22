@@ -887,7 +887,7 @@ td {
 
 
 
-                '<a href="https://sonic.northwestern.edu/people/noshir-contractor/">Noshir Contractor</a>, Northwestern<br />'+
+                '<a href="https://sonic.northwestern.edu/people/noshir-contractor/">Noshir Contractor</a>, Northwestern University<br />'+
 
 
 
