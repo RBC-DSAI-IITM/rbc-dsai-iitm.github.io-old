@@ -875,66 +875,83 @@ td {
 
 
                         '09:00 AM  09:45 AM'+
+                         '</td>'+
 
 
 
-                        '</td>'+
+                       '<td>'+
 
 
 
-                        '<td>'+
+                '<strong>Keynote Address by </strong>'+
 
 
 
-                        '<strong>Keynote Address by </strong><a href="https://www.linkedin.com/in/jprangaswami/?originalSubdomain=in">J.P.Rangaswami</a>, Univeristy of Southampton<br />'+
+                '<a href="https://sonic.northwestern.edu/people/noshir-contractor/">Noshir Contractor</a>, Northwestern<br />'+
 
 
 
-                            '<ul style="list-style-type:none;">'+
+                '<ul style="list-style-type:none;">'+
 
 
 
-                            '<li>'+
+                '<li>'+
 
 
 
-                            '<details>'+
+                '<details>'+
 
 
 
-                            '<p><summary><strong>Title:</strong><u>Why Web Science is more important than ever before</u></summary></p>'+
+                '<p>'+
 
 
 
-                            '<p align="justify">'+
+                '<summary>'+
 
 
 
-                            'In the talk I will explore this topic from the perspective of data over a 40-year career spanning three continents and senior positions'+
+                '<strong>Title:</strong><u>'+
 
 
 
-                            'in a number of the world’s leading companies.'+
+                        'People Analytics: Understanding and Enabling the Future of Work'+
 
 
 
-                            '</p>'+
+                        '</u>'+
 
 
 
-                            '</details>'+
+                        '</summary>' +
 
 
 
-                            '</li>'+
+                        '</p><p align="justify">'+
 
 
 
-                            '</ul>'+
+                '<strong>Abstract:</strong> To bring the performance of people analytics up—and in line with the hype— companies need to do more than analyze data on demographic attributes.  They need to employ relational analytics, which examines data on how people interact, to identify “high potentials,” who has good ideas, who is influential, what teams will get work done on time, and more.Companies can mine their “digital exhaust”—data created by employees every day in their digital transactions, such as e‐mails, chats, “likes,” “follows,”  @mentions, and file collaboration—for insights into their workforce. Drawing from our prior research and consulting work with companies, as well as from a large body of other scholars research, we identify six structural signatures that should form the bedrock of any relational analytics strategy to help companies address challenges they face with issues such as diversity and inclusion, succession planning, team assembly, and post-merger integration.'+
 
 
 
-                            '</td>'+
+                '</p>'+
+
+
+
+                '</details>'+
+
+
+
+                '</li>'+
+
+
+
+                '</ul>'+
+
+
+
+                '</td>'+
 
 
 
@@ -1464,75 +1481,55 @@ td {
 
 
 
-                '<strong>Keynote Address by </strong>'+
+                        '<strong>Keynote Address by </strong><a href="https://www.linkedin.com/in/jprangaswami/?originalSubdomain=in">J.P.Rangaswami</a>, Univeristy of Southampton<br />'+
 
 
 
-                '<a href="https://sonic.northwestern.edu/people/noshir-contractor/">Noshir Contractor</a>, Northwestern<br />'+
+                            '<ul style="list-style-type:none;">'+
 
 
 
-                '<ul style="list-style-type:none;">'+
+                            '<li>'+
 
 
 
-                '<li>'+
+                            '<details>'+
 
 
 
-                '<details>'+
+                            '<p><summary><strong>Title:</strong><u>Why Web Science is more important than ever before</u></summary></p>'+
 
 
 
-                '<p>'+
+                            '<p align="justify">'+
 
 
 
-                '<summary>'+
+                            'In the talk I will explore this topic from the perspective of data over a 40-year career spanning three continents and senior positions'+
 
 
 
-                '<strong>Title:</strong><u>'+
+                            'in a number of the world’s leading companies.'+
 
 
 
-                        'People Analytics: Understanding and Enabling the Future of Work'+
+                            '</p>'+
 
 
 
-                        '</u>'+
+                            '</details>'+
 
 
 
-                        '</summary>' +
+                            '</li>'+
 
 
 
-                        '</p><p align="justify">'+
+                            '</ul>'+
 
 
 
-                '<strong>Abstract:</strong> To bring the performance of people analytics up—and in line with the hype— companies need to do more than analyze data on demographic attributes.  They need to employ relational analytics, which examines data on how people interact, to identify “high potentials,” who has good ideas, who is influential, what teams will get work done on time, and more.Companies can mine their “digital exhaust”—data created by employees every day in their digital transactions, such as e‐mails, chats, “likes,” “follows,”  @mentions, and file collaboration—for insights into their workforce. Drawing from our prior research and consulting work with companies, as well as from a large body of other scholars research, we identify six structural signatures that should form the bedrock of any relational analytics strategy to help companies address challenges they face with issues such as diversity and inclusion, succession planning, team assembly, and post-merger integration.'+
-
-
-
-                '</p>'+
-
-
-
-                '</details>'+
-
-
-
-                '</li>'+
-
-
-
-                '</ul>'+
-
-
-
-                '</td>'+
+                            '</td>'+
 
 
 
@@ -1605,6 +1602,7 @@ td {
 
 
                 'Panel Discussion: <strong>Fostering Web Science Community in India</strong>,' +
+
                 '<p> <a href="http://www.iitkgp.ac.in/department/CS/faculty/cs-niloy">Niloy Ganguly</a>,  <a href="https://research.adobe.com/person/niyati-chhaya/">Niyati Chhaya</a>,     <a href="https://wendy.ecs.soton.ac.uk/">Dame Wendy Hall</a>;</p><ul style="list-style-type:none;"><li><strong>Moderator:</strong> <a href="https://www.cse.iitm.ac.in/~ravi/">B. Ravindran</a>.</li></ul>'+
 
 
