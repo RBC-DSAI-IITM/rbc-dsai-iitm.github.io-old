@@ -33,5 +33,5 @@ The workshop will deal with measurement-based real-time optimization (RTO) strat
 
 <br><br>
 
-This workshop is only for IITM students and registration is Mandatory.  Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFeG8amTBNZhDM7KfNBp0JIqJfdHKmU8q9cCd5aSZBWx4guQ/viewform">here.</a>
+This workshop is only for IITM students and registration is mandatory.  Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFeG8amTBNZhDM7KfNBp0JIqJfdHKmU8q9cCd5aSZBWx4guQ/viewform">here.</a>
       
