@@ -2,7 +2,7 @@
 layout: post
 title: Workshop on Measurement-based Optimization in the Presence of Uncertainty
 venue: RBCDSAI
-date: 2019-01-24 14:00:00 +0530
+date: 2019-03-15 14:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
