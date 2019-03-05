@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Workshop on "Measurement-based Optimization in the Presence of Uncertainty"
-venue: RBCDSAI, 5th floor, Biotech block 2
+title: Workshop on Measurement-based Optimization in the Presence of Uncertainty
+venue: RBCDSAI
 date: 2019-01-24 14:00:00 +0530
 categories: events
 ---
