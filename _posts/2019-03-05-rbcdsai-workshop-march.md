@@ -14,7 +14,7 @@ categories: events
 <p align="justify">The Robert Bosch Center for Data Sciences and Artificial Intelligence will be hosting a 2 day workshop on <strong> "Measurement-based Optimization in the Presence of Uncertainty".</strong></p> 
 <p align="justify">The speakers are 
 
-<li>Prof. Dominique Bonvin, EPFL, Switzerland.<br>currently Cheveron visiting professor in dept. of chemical engineering, IIT Madras.</li>
+<li>Prof. Dominique Bonvin, EPFL, Switzerland.<br>Currently Cheveron visiting professor in dept. of chemical engineering, IIT Madras.</li>
 
 <li>Prof. Shankar Narasimhan and Dr.Sridharakumar Narasimhan,<br>Dept. of Chemical Engineering, IIT Madras.</li></p>
 
