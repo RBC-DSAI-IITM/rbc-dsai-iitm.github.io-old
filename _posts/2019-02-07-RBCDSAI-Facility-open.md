@@ -1,10 +1,10 @@
 ---
 layout: post
-title: <a href="http://vigyanprasar.gov.in/isw/new-centre-for-data-science-and-AI-opens-in-iitmadras.html">Bosch opens AI centre at IIT Madras</a>
+title: <a href="https://www.ndtv.com/education/iit-madras-bosch-opens-center-for-data-science-and-artificial-intelligence-1989244">Center For Data Science And Artificial Intelligence Opened At IIT Madras</a>
 img: /assets/new.jpg
 categories: news
 ---
-<p align="justify">Global technology and services provider Bosch Group on Wednesday inaugurated the Robert Bosch Center for Data Science and Artificial Intelligence (RBC-DSAI) at the Indian Institute of Technology-Madras (IIT-M) with a planned investment of 2.5 million Euros (over Rs 20 crore) over five years.</p>
+<p align="justify">The Robert Bosch Center for Data Science and Artificial Intelligence (RBC-DSAI) was inaugurated at the Indian Institute of Technology (IIT) Madras.</p>
 
 <p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
 
