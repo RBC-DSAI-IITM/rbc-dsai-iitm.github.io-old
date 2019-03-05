@@ -19,7 +19,7 @@ categories: events
 <li>Prof. Shankar Narasimhan and Sridharakumar Narasimhan, Dept. of Chemical Engineering, IIT Madras.</li></strong></p>
 
 
-<p align="justify"><strong><u>Brief Abstract</u></strong>
+<p align="justify"><strong><u>Brief Abstract:</u></strong>
 
 The workshop will deal with measurement-based real-time optimization (RTO) strategies for improving process performance in the presence of uncertainty in the form of plant-model mismatch, drifts and disturbances. RTO typically uses a plant model to compute optimal inputs.<p>
 
@@ -31,7 +31,7 @@ The workshop will deal with measurement-based real-time optimization (RTO) strat
 
 <p align="justify">We will address several important issues such as (i) what can be done off-line prior to process operation, and what should be performed in real time, (ii) how much of the optimization effort is model-based and how much is data-driven, (iii) what to measure, what to adapt, how to adapt?.</p>
 
-<br>
+<br><br>
 <strong>Schedule:</strong>
 
 <li>Session 1 (~3 hours + break) second half on Friday, March 15,2019 </li>
