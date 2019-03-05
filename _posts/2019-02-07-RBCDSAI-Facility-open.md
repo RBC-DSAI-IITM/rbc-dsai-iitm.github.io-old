@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bosch opens AI centre at IIT Madras
+title: <a href="http://vigyanprasar.gov.in/isw/new-centre-for-data-science-and-AI-opens-in-iitmadras.html">Bosch opens AI centre at IIT Madras</a>
 img: /assets/new.jpg
 categories: news
 ---
