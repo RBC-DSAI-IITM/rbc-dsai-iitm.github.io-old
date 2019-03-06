@@ -11,10 +11,10 @@ categories: events
 	 <li><b>Day-2</b> : 09:00 AM to 05:30 PM on 16th March 2019</li>
 </ul>
 
-<p align="justify">The Robert Bosch Center for Data Sciences and Artificial Intelligence will be hosting a 2 day workshop on <strong> "Measurement-based Optimization in the Presence of Uncertainty".</strong></p> 
+<p align="justify">The Robert Bosch Center for Data Sciences and Artificial Intelligence will be hosting a 2-day workshop on <strong> "Measurement-based Optimization in the Presence of Uncertainty".</strong></p> 
 <p align="justify">The speakers are 
 
-<li>Prof. Dominique Bonvin, EPFL, Switzerland.<br>Currently Cheveron visiting professor in dept. of chemical engineering, IIT Madras.</li>
+<li>Prof. Dominique Bonvin, EPFL, Switzerland.<br>Currently Chevron visiting professor in Dept. of Chemical Engineering, IIT Madras.</li>
 
 <li>Prof. Shankar Narasimhan and Dr.Sridharakumar Narasimhan,<br>Dept. of Chemical Engineering, IIT Madras.</li></p>
 
@@ -32,6 +32,5 @@ The workshop will deal with measurement-based real-time optimization (RTO) strat
 <p align="justify">We will address several important issues such as (i) what can be done off-line prior to process operation, and what should be performed in real time, (ii) how much of the optimization effort is model-based and how much is data-driven, (iii) what to measure, what to adapt, how to adapt?.</p>
 
 <br><br>
-
-This workshop is only for IITM students and registration is mandatory.  Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFeG8amTBNZhDM7KfNBp0JIqJfdHKmU8q9cCd5aSZBWx4guQ/viewform">here.</a>
+<p align="justify">Who should attend: Graduate students, senior undergraduate students, researchers interested in optimal control, dynamic optimization, real-time optimization. This workshop is only for IITM students and registration is mandatory.  Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFeG8amTBNZhDM7KfNBp0JIqJfdHKmU8q9cCd5aSZBWx4guQ/viewform">here.</a></p>
       
