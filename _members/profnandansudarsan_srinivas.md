@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Srinivas Sridharan
-image: srinivas.png
+image: srinivas.jpg
 email: srinivas91094@gmail.com
 designations: 
   - Project Associate
