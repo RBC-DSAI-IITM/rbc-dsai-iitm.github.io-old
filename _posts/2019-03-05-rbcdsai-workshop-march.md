@@ -32,5 +32,5 @@ The workshop will deal with measurement-based real-time optimization (RTO) strat
 <p align="justify">We will address several important issues such as (i) what can be done off-line prior to process operation, and what should be performed in real time, (ii) how much of the optimization effort is model-based and how much is data-driven, (iii) what to measure, what to adapt, how to adapt?.</p>
 
 <br><br>
-<p align="justify">Who should attend: Graduate students, senior undergraduate students, researchers interested in optimal control, dynamic optimization, real-time optimization. Registration is mandatory. Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFeG8amTBNZhDM7KfNBp0JIqJfdHKmU8q9cCd5aSZBWx4guQ/viewform">here.</a></p>
+<p align="justify">Who should attend: Graduate students, senior undergraduate students, researchers interested in optimal control, dynamic optimization, real-time optimization. Registration is mandatory. <strong>Thanks for your interest, The registration has been closed for this event</strong></p>
       
