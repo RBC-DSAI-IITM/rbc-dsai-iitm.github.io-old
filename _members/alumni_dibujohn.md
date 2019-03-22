@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Dr. Hemanth Bilihalli
+name: Dibu John Philip
 image: dibu.png
 designations: 
   - Ph.D

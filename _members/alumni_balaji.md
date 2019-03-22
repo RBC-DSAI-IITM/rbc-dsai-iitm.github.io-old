@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Dr. Hemanth Bilihalli
+name: Balaji P
 image: balaji.png
 designations: 
   - Ph.D
