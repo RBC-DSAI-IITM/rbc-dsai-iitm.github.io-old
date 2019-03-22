@@ -1,4 +1,8 @@
 [
+{'title': 'Evolutionary design principles in metabolism', 'journal': 'Proceedings of the Royal Society B: Biological Sciences', 'author': 'Sambamoorthy, Gayathri and Sinha, Himanshu and Raman, Dr.Karthik', 'ID': 'gayathri2019evolutionary', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biological Networks', 'journal': 'Frontiers in Genetics', 'author': 'Beethika, Tripathi and parthasarathy, Srinivasan and Sinha, Himanshu and Raman, Dr.Karthik and Ravindran, Prof.B', 'ID': 'Beethika2019adapting', 'year': '2019', 'ENTRYTYPE': 'article'},
+
 {'title': 'Rate of Change Analysis for Interestingness Measures', 'journal': 'To appear in the Knowledge and Information Systems (KAIS) Journal, Springer.', 'author': 'Sudarsanam, Dr.Nandan and Kumar, Nishanth and Ravindran, Prof.B', 'ID': 'sudarsanam2019rate', 'year': '2019', 'ENTRYTYPE': 'article'},
 
 {'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, prof.B', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
