@@ -121,7 +121,6 @@ p {
 
         <div class="col-sm-7 news" >
            <h3 class="section-title pl-0"> News </h3>
-            <p>Q4-2018 Newsletter <a href="/images/newsletter.pdf">here</a></p>
 
           {% for post in site.categories["news"] limit:15 %}
           <div class="card drop-shadow"> 
@@ -147,6 +146,23 @@ p {
         <!--
           <h3 class="section-title pl-0"> Web Science Research Activities </h3>
           -->
+         <style> 
+
+#box {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+</style>
+</head>
+<body>
+<h3 class="section-title pl-0"> Newsletter </h3>
+<div id="box">
+  <p><p><a href="/images/newsletter.pdf">Q4-2018 Newsletter</a></p></p>
+</div>
+
+</body>
+</html>
           <h3 class="section-title pl-0"> Events </h3> 
 
           {% for post in site.categories["events"] %}
