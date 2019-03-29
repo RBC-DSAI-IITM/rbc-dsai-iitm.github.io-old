@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Devasoth Vijaypal
-image: devasoth.jpg
+image: devasoth.png
 email: ch18m006@smail.iitm.ac.in
 homepage: 
 designations: 
