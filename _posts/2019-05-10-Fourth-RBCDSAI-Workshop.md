@@ -49,7 +49,15 @@ For Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLScRP-HB0urICs
       Pavan Kotha, Sridharakumar Narasimhan
      </span>
   </li>
-  <li> 
+  <li>
+     <span class="pub-title">
+       Feature Selection in unlabelled spectroscopic data
+     </span>
+     <span class="pub-authors">
+      Yadav Ritik Ranjan, Sridharakumar Narasimhan,  Nirav Bhatt.
+     </span>
+  </li>
+   <li> 
      <span class="pub-title">
        IoT enabled smart water network
      </span>
