@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOurth RBC-DSAI Workshop on Recent Progress in Data Science and AI
+title: Fourth RBC-DSAI Workshop on Recent Progress in Data Science and AI
 date: 2019-05-10 15:30:00 +0530
 venue: ICSR
 categories: events
@@ -16,7 +16,7 @@ RBC-DSAI is organizing its fourth workshop on Recent Progress in Data Science an
 	</li>
 	<li><b>Time</b> : 15:30-18:30</li>
 	<li><b>Date</b> : 10th May (Friday)</li>
-        <li>Note:Refreshment will be provided at 4pm</li>
+        <li>*Refreshment at 4pm</li>
 
 </ul>
 For Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLScRP-HB0urICsAez8hyGT_0PIn3pjGLJ3DNYuJcsaS1RyTUhA/viewform?usp=sf_link">Click here</a>
@@ -51,274 +51,114 @@ For Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLScRP-HB0urICs
   </li>
   <li> 
      <span class="pub-title">
-       Systematic comparison of NGS pipelines using five gold standard datasets (HG001 - HG005)
+       IoT enabled smart water network
      </span>
      <span class="pub-authors">
-      Likith Reddy P, Priyanka Maripuri, Karthik Raman
+      Saravanan Chinnusamy, Prasanna Mohandoss, Rohit Raphael, Sridharakumar Narasimhan.
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Classification and identification of tumour suppressor genes and oncogenes
+       MaMiC : Macro and Micro Curriculum for Robotic Reinforcement Learning
      </span>
      <span class="pub-authors">
-      Malvika Sudhakar, Karthik Raman, Raghunathan Rengaswamy
+      Manan Tomar, Akhil Sathuluri, Balaraman Ravindran
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       A systems-theoretic approach towards finding design principles for biological networks capable of adaptation
+       SEEL: Sample Efficient Ensemble learning
      </span>
      <span class="pub-authors">
-      Priyan Bhattacharya, Arun K. Tangirala, Karthik Raman
+      Rohan Saphal, Balaraman Ravindran,Dheevatsa Mudigere, Sasikanth Avancha, Bharat Kaul 
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       RAIL: Risk-averse Imitation Learning
+       Framework for Privacy preserving Deep Learning
      </span>
      <span class="pub-authors">
-      S. Avancha, D. Mudigere, D. Das, B. Ravindran, Abhishek Naik Anirban Santara, B. Kaul
+      Patanjali SLPSK, Harish Reddy, Pratyush Kumar Panda, Chester Rebeiro and Kamakoti. V
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Identification of FIR Models for LTI Multiscale Systems using Sparse Optimization Techniques
+       Developing the India-specific model for estimating gestational age in the first trimester in GARBH-Ini cohort.
      </span>
      <span class="pub-authors">
-      Vivek Shankar Pinnamaraju, Arun K. Tangirala
+      Nikhita Damaraju, Ramya Vijayram, Himanshu Sinha.
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       DCEIL: Distributed Community Detection with the CEIL Score
+       A Web-Based Tool for Optimal Operation of Water Distribution Networks.
      </span>
      <span class="pub-authors">
-      Akash Jain, Rupesh Nasre, B. Ravindran
+      Rohit Bokam, Varghese Kurian, Sridharakumar Narasimhan
      </span>
   </li>
    <li> 
      <span class="pub-title">
-       Sparse Tensor Decomposition for Multiplex Networks
+       Incorporating structural information to improve dialogue response generation.
      </span>
      <span class="pub-authors">
-      Deepak Maurya, Manikandan Narayanan
+      Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran, and Mitesh M. Khapra
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data
+       MATLAB Toolbox for Dynamic Iterative Principal Component Analysis(DIPCA) under Errors-In-Variables(EIV) Framework.
      </span>
      <span class="pub-authors">
-      Deepak Mittal, Avinash Reddy, Gitakrishnan Ramadurai, Kaushik Mitra, Balaraman Ravindran
+      Ranjeet Nagarkar, Sai Krishna Madhav Lella, Lokesh Rajulapati, Shankar Narasimhan, Arun Tangirala
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Network-based Features Enable Prediction of Essential Genes Across Diverse Organisms
+       Identification of Error in Variables Model using Dynamic Iterative PCA for MIMO systems.
      </span>
      <span class="pub-authors">
-      A. Karthik, Karthik Raman, B. Ravindran
+      Shanttam Jain, Shankar Narasimhan
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Towards Exploiting Structured and Unstructured Background Knowledge for Building Conversation Systems
+       Corridor level mobility analysis using Wi-Fi data.
      </span>
      <span class="pub-authors">
-      Nikita Moghe, Siddhartha Arora, Suman Banerjee, Mitesh Khapra
+      Sharmili Banik, V. Lelitha Devi, and Bhargava Rama Chilikuri.
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Affordance Learning: A developmental learning approach
+       Dealing with Heteroscedastic Noise in  Matrix Factorization methods.
      </span>
      <span class="pub-authors">
-      Priyatosh Mishra, B. Ravindran
+      Ashwin V, Shankar Narasimhan
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Towards a Better Metric for Evaluating Question Generation Systems
+       Injury severity prediction model for two-wheeler crashes at midblock road sections.
      </span>
      <span class="pub-authors">
-      Preksha Nema, Mitesh Khapra
+      Anju k Panicker, Gitakrishnan Ramadurai
      </span>
   </li>
   <li> 
      <span class="pub-title">
-       Smoother Imitation with Lipschitz Costs
+       Successor Options: An Option Discovery Framework for Reinforcement Learning:
      </span>
      <span class="pub-authors">
-      Sapana Chaudhary, Akshat Dave, B. Ravindran
+      Rahul Ramesh, Manan Tomar, Balaraman Ravindran.
      </span>
   </li>
-  <li> 
-     <span class="pub-title">
-       Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks
-     </span>
-     <span class="pub-authors">
-      Deepak Mittal, Shweta Bharadwaj, Mitesh Khapra, B. Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Code mixing in goal oriented conversation systems
-     </span>
-     <span class="pub-authors">
-      Suman Banerjee, Nikita Moghe, Siddhartha Arora, Mitesh Khapra
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Representation Learning in Hypergraphs
-     </span>
-     <span class="pub-authors">
-      Tarun Kumar, B. Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       A Novel Topic Modelling Based Weighting Framework for Class Imbalance Learning
-     </span>
-     <span class="pub-authors">
-      S. Santhiappan, J. Chelladurai, B. Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Learning to Mix n-Step Returns: Generalizing lambda-Returns for Deep Reinforcement Learning
-     </span>
-     <span class="pub-authors">
-      Sahil Sharma, Girish Raguvir J, Srivatsan Ramesh, Balaraman Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Edge Replacement Grammars : A Formal Language Approach for Generating Graphs
-     </span>
-     <span class="pub-authors">
-      Revanth Reddy, Balaraman Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Kinetic Modeling of Hyaluronic acid Production based on Experimental Data
-     </span>
-     <span class="pub-authors">
-      Mythili A., Sreeja S. Doss, Guhan Jayamanan, Nirav Bhatt
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Root cause analysis of interacting stable systems
-     </span>
-     <span class="pub-authors">
-      Mohd Faheem Ullah, Raghunathan Rengaswamy
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Model identification for control using historical data
-     </span>
-     <span class="pub-authors">
-      Manikandan S, Raghunathan Rengaswamy
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Input reconstruction using process data and first principles model
-     </span>
-     <span class="pub-authors">
-      Danny Raj M, Venkataraman N V, Raghunathan R
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Optimal Bidding using Reinforcement Learning for Commodity Markets
-     </span>
-     <span class="pub-authors">
-      Satya Jayadev P, Manu SH, Ramkrishna Pasumarthy, Nirav Bhatt
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Target prediction of microRNA miR-34b from TCGA cervical cancer data
-     </span>
-     <span class="pub-authors">
-      Ashley Xavier , Nalini Venkatesan, Himanshu Sinha , Karunagaran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Graph-theoretic and experimental framework to study microbial communities
-     </span>
-     <span class="pub-authors">
-      Aarthi Ravikrishnan, Meghana Nasre, Lars M Blank, Smita Srivastava, Karthik Raman
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Identification of driver genes across tumor samples in a Pan-cancer study
-     </span>
-     <span class="pub-authors">
-      Shayantan Banerjee, Karthik Raman, B. Ravindran
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Designing Modular Gene Circuits
-     </span>
-     <span class="pub-authors">
-      Pradeep Natarajan, Saransh Umale, Karthik Raman, Raghunathan Rengaswamy
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       What is the Right Sample Size for Fixed Horizon Online Experiments?
-     </span>
-     <span class="pub-authors">
-      Balaji Pitchaikannu and Nandan Sudarsanam
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Improved Insights on Financial Health Using Auto Regressive Hidden Markov Models
-     </span>
-     <span class="pub-authors">
-      Dibu John Philip and Nandan Sudarsanam
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       An Experimental Study for Leak detection by in intermittent Water Distribution Networks
-     </span>
-     <span class="pub-authors">
-      Prasanna Mohan Das, Murthy B.S, Shankar Narasimhan, Sridhar kumar Narasimhan
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Eliminet : A model for eliminating options for reading comprehension with MCQs 
-     </span>
-     <span class="pub-authors">
-      Ananya Sai, Preksha Nema, Mitesh Khapra, Soham Parikh
-     </span>
-  </li>
-  <li> 
-     <span class="pub-title">
-       Natural Language Generation from Structured Data 
-     </span>
-     <span class="pub-authors">
-      Shreyas Shetty, Preksha Nema, Parag Jain, Anirban Laha, Karthik Sankara Narayanan, Mitesh Khapra
-     </span>
-  </li>
-</ol>
+ </ol>
 <!--
 <style>
 body {
   font-family: Verdana, sans-serif;
-  margin: 0;
+ margin: 0;
 }
 
 * {
