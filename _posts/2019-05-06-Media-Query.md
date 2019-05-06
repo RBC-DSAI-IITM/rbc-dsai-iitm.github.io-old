@@ -4,7 +4,7 @@ title: <a href="/assets/coverage.pdf">Coverage based on interaction with Prof B.
 img: /assets/career.png
 categories: news
 ---
-<p align="justify">It is being held jointly with Web Science Trust, which fosters web science studies around the world & coordinates a global network of laboratories.</p>
+<p align="justify">The program we have launched is an interdisciplinary dual degree program in data science. The students opt for this program in their 3rd year and will earn a bachelor's degree in their parent discipline (any of the engineering or biosciences degree IITM offers) and a Master's in data science. The goal of this program is to train people with competency in a core discipline to become better data scientists.  </p>
 
 <p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
 
