@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="2019-04-22-Colloquium.md">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
+title: <a href="2019-04-22-Colloquium.html">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
 img: /assets/Colloquium.jpeg
 categories: news
 ---
