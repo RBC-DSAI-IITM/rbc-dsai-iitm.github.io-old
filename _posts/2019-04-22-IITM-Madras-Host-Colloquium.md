@@ -1,10 +1,10 @@
 ---
 layout: post
-title: <a href="/assets/coverage.pdf">Coverage based on interaction with Prof B. Ravindran and Mr. Abhay Anand, Careers360</a>
+title: <a href="">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
 img: /assets/career.png
 categories: news
 ---
-<p align="justify">The program we have launched is an interdisciplinary dual degree program in data science. The students opt for this program in their 3rd year and will earn a bachelor's degree in their parent discipline (any of the engineering or biosciences degree IITM offers) and a Master's in data science. The goal of this program is to train people with competency in a core discipline to become better data scientists.  </p>
+<p align="justify">Indian Institute of Technology Madras Robert Bosch Centre for Data Science and Artificial(RBC DSAI) hosted a Colloquium on 'Artificial Intelligence - A Priority for India' on April 22, 2019, bringing together leading researchers, academics, policymakers and industry leaders in India to understand and deliberate on the state of research and innovation in AI and Machine Learning in the country.It also focused on arriving at actionable programmes for the Indian AI ecosystem to contribute, collaborate and co-create. </p>
 
 <p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
 
