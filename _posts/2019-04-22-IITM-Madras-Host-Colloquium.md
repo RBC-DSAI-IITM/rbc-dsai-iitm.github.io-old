@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
-img: /assets/Colloquium.jpeg
+img: /assets/Colloquium.jpg
 categories: news
 ---
 <p align="justify">Indian Institute of Technology Madras Robert Bosch Centre for Data Science and Artificial(RBC DSAI) hosted a Colloquium on 'Artificial Intelligence - A Priority for India' on April 22, 2019, bringing together leading researchers, academics, policymakers and industry leaders in India to understand and deliberate on the state of research and innovation in AI and Machine Learning in the country.It also focused on arriving at actionable programmes for the Indian AI ecosystem to contribute, collaborate and co-create. </p>
