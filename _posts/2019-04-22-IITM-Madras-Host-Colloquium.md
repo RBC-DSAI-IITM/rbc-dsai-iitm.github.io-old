@@ -1,7 +1,6 @@
 ---
 layout: post
-title: <a href="/root/rbc-dsai-iitm.github.io/_posts
-/2019-04-22-Coloquium.md">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
+title: <a href="">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
 img: /assets/Colloquium.jpeg
 categories: news
 ---
