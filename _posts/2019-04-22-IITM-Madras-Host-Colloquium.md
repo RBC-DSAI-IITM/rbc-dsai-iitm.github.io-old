@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-hosts-colloquium-on-artificial-intelligence-a-priority-for-india-1509223-2019-04-24">IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
+title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-hosts-colloquium-on-artificial-intelligence-a-priority-for-india-1509223-2019-04-24">RBCDSAI, IIT Madras Hosts Colloquium on ‘Artificial Intelligence - A Priority for India’</a>
 img: /assets/Colloquium.jpeg
 categories: news
 ---
