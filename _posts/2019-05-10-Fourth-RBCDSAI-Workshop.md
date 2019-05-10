@@ -19,8 +19,6 @@ RBC-DSAI is organizing its fourth workshop on Recent Progress in Data Science an
         <li>*Refreshment at 4pm</li>
 
 </ul>
-For Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLScRP-HB0urICsAez8hyGT_0PIn3pjGLJ3DNYuJcsaS1RyTUhA/viewform?usp=sf_link">Click here</a>
-
 
 
 <h2 class="post-title text-center"> Poster Titles </h2>
