@@ -7,5 +7,4 @@ designations:
 area:
 bio:
 email:
-type: alumni
 ---
