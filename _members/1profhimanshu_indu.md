@@ -10,5 +10,5 @@ areas:
 bio: "Research: Systems biological perspectives of Adrenocortical Carcinoma
 I have completed my PhD from CSIR-IHBT Palampur HP with specialization in Computational Biology and Bioinformatics
 Also interested in Genetic and metabolic networks modelling of various human diseases "
-type: student
+type: alumni
 ---
