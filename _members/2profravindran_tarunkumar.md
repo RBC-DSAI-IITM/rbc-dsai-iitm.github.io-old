@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Tarun Kumar
-image: tarun.png
+image: tarun.jpg
 email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
 homepage: https://tarunkumariitm.github.io/
 designations: 
