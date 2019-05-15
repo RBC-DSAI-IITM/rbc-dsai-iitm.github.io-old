@@ -10,5 +10,5 @@ areas:
   - Recognition 
   - Translation
 bio: I am Jaya, a Master of Technology Student in Computer Science Department and a part of RBC-DSAI. I am working in the area of scene text detection , recognition and translation of Indian Signboard Images using deep neural network techniques under the guidance of Prof. Mitesh M. Khapra.
-type: student
+type: alumni
 ---
