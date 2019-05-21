@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="http://www.infodea.in/iit-madras-hosts-the-first-rbcdsai-web-science-symposium/">IIT Madras hosts the first RBCDSAI Web Science Symposium</a>
+title: <a href="http://www.infodea.in/campus-talk/iit-madras-hosts-the-first-rbcdsai-web-science-symposium/">IIT Madras hosts the first RBCDSAI Web Science Symposium</a>
 img: /assets/symposium.jpg
 categories: news
 ---
