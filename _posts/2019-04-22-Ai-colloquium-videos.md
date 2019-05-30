@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Northern Frontier In conversation with Prof. Balaraman Ravindran
+title: AI Colloquium Videos
 img: /assets/youtube.jpg
 categories: news
 ---
@@ -11,5 +11,5 @@ Welcome to Northern Frontier, our video interview series that showcases in-depth
 <br>
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/67NOtMdT95I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
