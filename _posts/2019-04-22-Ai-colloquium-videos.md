@@ -11,5 +11,5 @@ Welcome to Northern Frontier, our video interview series that showcases in-depth
 <br>
 <br>
 <br>
-<iframe width="560" height="315" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="250" height="100" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
