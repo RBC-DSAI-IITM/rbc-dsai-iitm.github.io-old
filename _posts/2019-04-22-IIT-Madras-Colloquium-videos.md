@@ -5,7 +5,6 @@ date: 2019-01-19 09:30:00 +0530
 categories:
 ---
 
-<h2 class="post-title text-center"> Colloquium Videos</h2>
 <ol class="publications container mt-4">
   <li class="row">
     <span class="col-5 text-center"><strong> Event </strong> </span>
