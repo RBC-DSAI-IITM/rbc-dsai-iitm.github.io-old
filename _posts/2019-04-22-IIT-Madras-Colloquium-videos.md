@@ -9,13 +9,13 @@ categories:
 <ol class="publications container mt-4">
   <li class="row">
     <span class="col-5 text-center"><strong> Event </strong> </span>
-    <span class="col-10 text-center"><strong> Videos</strong> </span>
+    <span class="col-13 text-center"><strong> Videos</strong> </span>
   </li>
   <li class="row"> 
      <span class="col-5 text-center">
        AI Colloquium - Inaugural address by Director, IIT Madras and Dean IAR, IIT Madras 
        </span>
-       <span class="col-10"> <iframe width="350" height="150" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       <span class="col-13"> <iframe width="350" height="150" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </span>
   </li> <li class="row">
      <span class="col-2 text-center">
