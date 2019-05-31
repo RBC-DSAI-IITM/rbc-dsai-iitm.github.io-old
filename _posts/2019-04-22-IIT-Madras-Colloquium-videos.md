@@ -12,13 +12,13 @@ categories:
   </li>
   <li class="row"> 
      <span class="col-5 text-center">
-       AI Colloquium - Inaugural address by Director, IIT Madras and Dean IAR, IIT Madras 
+      Inauguration and context setting Welcome address 
        </span>
        <span class="col-25"> <iframe width="350" height="150" src="https://player.vimeo.com/video/336771207?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       I Colloquium Conversation between Kris Gopalakrishnan and Prof. Ravindran
+      Conversation between Kris Gopalakrishnan and Prof.B.Ravindran
        </span> 
        <span class="col-25">
          <iframe width="350" height="150" src="https://player.vimeo.com/video/336943666?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -26,19 +26,19 @@ categories:
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       Roundtable Discussion - AI In Engineering
+      AI in Engineering
        </span> <span class="col-25"> 
 <iframe width="350" height="150" src="https://player.vimeo.com/video/336848778?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       Roundtable Discussion - AI and Ethics, Fairness and Explainability
+      AI and Ethics, Fairness and Explainability
        </span> <span class="col-25">
        <iframe width="350" height="150" src="https://player.vimeo.com/video/336953971?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       Roundtable Discussion - AI for the next billion users in India
+       AI for the next billion users in India
        </span> <span class="col-25">
       <iframe width="350" height="150" src="https://player.vimeo.com/video/336956634?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
      </span>
