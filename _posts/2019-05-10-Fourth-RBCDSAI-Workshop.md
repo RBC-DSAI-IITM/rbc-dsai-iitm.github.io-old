@@ -9,7 +9,7 @@ categories: events
 RBC-DSAI is organizing its fourth workshop on Recent Progress in Data Science and AI on May 10, 2019.
 <ul>
 	<li>
-		<b>Venues</b> : IIT Madras, Chennai - 600036
+		<b>Venue</b> : IIT Madras, Chennai - 600036
 		<ul>
 			<li> <i>Posters</i>: ICSR AC Dining Hall </li>
 		</ul>
