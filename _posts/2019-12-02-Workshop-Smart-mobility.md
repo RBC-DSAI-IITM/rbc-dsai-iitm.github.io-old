@@ -2,7 +2,7 @@
 layout: post
 title: Workshop(Smart Mobility – Data-driven Models and Algorithms)
 venue: ICSR
-date: 2019-12-02
+date: 2019-12-02-04
 categories: events
 ---
 <div style="padding-left:16px">
