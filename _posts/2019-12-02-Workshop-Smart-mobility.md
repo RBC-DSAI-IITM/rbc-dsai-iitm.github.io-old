@@ -42,8 +42,8 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 
 Call for papers: Coming Soon! 
 
-<p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and more information.</p><br><br>
+<p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
-<a href="#">Click here for Registeration</a><br>
+<a href="#">Click here for Registration</a><br>
 </div>
 
