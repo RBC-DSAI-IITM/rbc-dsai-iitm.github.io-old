@@ -10,7 +10,7 @@ categories: events
 <ul>
         <li><b>Venue</b> : IIT Madras, Chennai - 600036</li>
         <li><b>Time</b> : </li>
-        <li><b>Date</b> : 02--12-2019 to 04-12-2019</li>
+        <li><b>Date</b> : 02-12-2019 <b>to</b> 04-12-2019</li>
 </ul>
 
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras Sreenivas Gollapudi, Google Research</p><br>
