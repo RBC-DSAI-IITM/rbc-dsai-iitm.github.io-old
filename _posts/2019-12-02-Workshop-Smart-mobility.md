@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop on Smart Mobility (Data-driven Models and Algorithms)
-venue: ICSR
+venue: ICSR Auditorium, IIT Madras
 date: 2019-12-02 09:00:00 +0530
 categories: events
 ---
@@ -13,7 +13,7 @@ categories: events
         <li><b>Time</b> : 09:00 AM to 05:00PM </li>
 </ul>
 
-<br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras Sreenivas Gollapudi, Google Research</p><br>
+<br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras &nbsp;&nbsp;&nbsp;&nbsp; Sreenivas Gollapudi, Google Research</p><br>
 <p align="justify"> Transportation, particularly within cities, has undergone an immense transformation over the past decade. Availability of accurate real-time information and the emergence of transportation network companies have truly redefined how we plan, optimize, and manage our daily travel. The coming decade could completely redefine urban transport. Emerging technologies with 2-3 letter abbreviations - 5G, IoT, EV, AV, TNC - have the potential to disrupt urban mobility as we have known it for the past century. </p><br>
 
 <p align="justify"> A key factor behind the disruption is also the emergence of Big Data and ML algorithms that can leverage the above technologies and deliver value to commuters. Data-driven models and algorithms are the fuel that drives the technologically advanced smart mobility of the future. While the widespread use of these technologies may be a decade away, the timeline could shift earlier or later based on the pace of advance in data-driven models and algorithms for mobility. Just as vehicles sans fuels will not run on the roads, TNCs, EVs, and AVs sans data-driven models and algorithms will be a non-starter!</p><br>
