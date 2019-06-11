@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Workshop(Smart Mobility – Data-driven Models and Algorithms)
+title: Workshop on Smart Mobility (Data-driven Models and Algorithms)
 venue: ICSR
-date: 2019-12-02 00:00:00 +0530
+date: 2019-12-02 09:00:00 +0530
 categories: events
 ---
 <div style="padding-left:16px">
 
 <ul>
-        <li><b>Venue</b> : IIT Madras, Chennai - 600036</li>
-        <li><b>Time</b> : </li>
-        <li><b>Date</b> : 02-12-2019 <b>to</b> 04-12-2019</li>
+        <li><b>Venue</b> : ICSR Auditorium, IIT Madras</li>
+        <li><b>Date</b> : 02-12-2019 to 04-12-2019</li>
+        <li><b>Time</b> : 09:00 AM to 05:00PM </li>
 </ul>
 
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras Sreenivas Gollapudi, Google Research</p><br>
@@ -42,8 +42,8 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 
 Call for papers: Coming Soon! 
 
-<p align="justify"> E-mail: gitakrishnan@iitm.ac.in or sgollapu@google.com for more information and sponsorship opportunities.</p><br>
+<p align="justify"> E-mail: gitakrishnan@iitm.ac.in or sgollapu@google.com for sponsorship opportunities and more informations.</p><br>
 
-<a href="#">Click here for more details</a><br>
+<a href="#">Click here for Registeration</a><br>
 </div>
 
