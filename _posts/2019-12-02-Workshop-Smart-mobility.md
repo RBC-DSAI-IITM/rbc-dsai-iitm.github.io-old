@@ -15,7 +15,7 @@ categories: events
 <p align="justify"> The workshop will include a series of invited talks, invited presentations in thematic sessions,
 tutorials, panel discussions, and poster presentations on state-of-the-art and -practice, running as a single track, that will provide an opportunity for all to listen and discuss in a single room.</p><br>
 
-<strong><p align="justify">Tentative topics and sessions would include:</p></strong><br><br>
+<strong><p align="justify">Tentative topics and sessions would include:</p></strong><br>
 
 <p align="justify">
 
