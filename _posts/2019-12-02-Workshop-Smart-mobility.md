@@ -30,12 +30,12 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Travel demand modelling with Big Data <br>
 *Data-driven sustainable transport planning and operations <br>
 *Safety in future mobility <br>
-*Privacy and Fairness in Urban Mobility <br></p>
+*Privacy and Fairness in Urban Mobility <br></p><br>
 
 Call for papers: Coming Soon! 
 
 <p align="justify"> E-mail: gitakrishnan@iitm.ac.in or sgollapu@google.com for more information and sponsorship opportunities.</p><br>
 
-<a href="https://alumni.iitm.ac.in/ai-colloquium/">Click here for more details</a><br>
+<a href="#">Click here for more details</a><br>
 </div>
 
