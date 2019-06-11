@@ -2,7 +2,7 @@
 layout: post
 title: IIT Madras Colloquium Videos
 date: 2019-01-19 09:30:00 +0530
-categories:
+categories:news
 ---
 
 <ol class="publications container mt-4">
