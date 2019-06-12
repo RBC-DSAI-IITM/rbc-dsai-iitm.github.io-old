@@ -7,7 +7,7 @@ categories: events
 ---
 <div style="padding-left:16px">
 
-<ul>
+<ul class="mb-5">
         <li><b>Venue</b> : ICSR Auditorium, IIT Madras</li>
         <li><b>Date</b> : 02-12-2019 to 04-12-2019</li>
         <li><b>Time</b> : 09:00 AM to 05:00 PM </li>
