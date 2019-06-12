@@ -9,8 +9,8 @@ categories: events
 
 <ul class="mb-5">
         <li><b>Venue</b> : ICSR Auditorium, IIT Madras</li>
-        <li><b>Date</b> : 02-12-2019 to 04-12-2019</li>
-        <li><b>Time</b> : 09:00 AM to 05:00 PM </li>
+        <li><b>Date</b>  : 02-12-2019 to 04-12-2019</li>
+        <li><b>Time</b>  : 09:00 AM to 05:00 PM </li>
 </ul>
 
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p><br>
