@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Workshop on Smart Mobility (Data-driven Models and Algorithms)
-venue: ICSR Auditorium, IIT Madras
+venue: ICSR
 date: 2019-12-02 09:00:00 +0530
 categories: events
 ---
 <div style="padding-left:16px">
 
 <ul class="mb-5">
-        <li><b>Venue</b> : ICSR Auditorium, IIT Madras</li>
+        <li><b>Venue</b> : ICSR</li>
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 02-12-2019 to 04-12-2019</li>
         <li><b>Time</b>&nbsp;&nbsp; : 09:00 AM to 05:00 PM </li>
 </ul>
