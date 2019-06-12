@@ -12,6 +12,11 @@ categories: events
         <li><b>Date</b>  : 02-12-2019 to 04-12-2019</li>
         <li><b>Time</b>  : 09:00 AM to 05:00 PM </li>
 </ul>
+<ul class="mb-5" >
+        <li><b>Venue</b>  : RBCDSAI, 5th floor, Biotechnology Building 2.</li>
+         <li><b>Day-1</b> : 02:00 PM to 05:30 PM on 15th March 2019 </li>
+         <li><b>Day-2</b> : 09:00 AM to 05:30 PM on 16th March 2019</li>
+</ul>
 
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p><br>
 <p align="justify"> Transportation, particularly within cities, has undergone an immense transformation over the past decade. Availability of accurate real-time information and the emergence of transportation network companies have redefined how we plan, optimize, and manage our daily travel. The coming decade could completely reshape urban transport. Emerging technologies with 2-3 letter abbreviations - 5G, IoT, EV, AV, TNC - have the potential to disrupt urban mobility as we have known it for the past century. </p><br>
