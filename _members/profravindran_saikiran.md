@@ -8,5 +8,5 @@ designations:
 areas:
   - Deep Reinforcement Learning
 bio: I am a Project Associate under Profs. Balaraman Ravindran and Nandan Sudarsanam working on Deep Reinforcement Learning. I have worked on Model Based RL/Planning, Exploration, Hierarchical RL, Transfer/Multi Task RL, with applications to Robotics, OR and news article recommendation.
-type: staff
+type: 
 ---
