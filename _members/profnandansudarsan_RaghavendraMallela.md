@@ -4,7 +4,7 @@ name: Raghavendra Mallela
 image: RaghavendraMallela.jpg
 designations: 
   - Project Associate
-area: 
+areas: 
   - Reinforcement Learning
   - Stochastic Modeling
 bio:
