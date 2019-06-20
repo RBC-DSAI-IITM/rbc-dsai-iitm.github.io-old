@@ -6,6 +6,6 @@ designations:
   - Web administrator
 area:
 bio:
-email:Agastin14pcs837@gmail.com
+email:
 type: staff
 ---
