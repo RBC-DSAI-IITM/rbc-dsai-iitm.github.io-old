@@ -9,5 +9,5 @@ areas:
   - Stochastic Modeling
 bio:
 email: raghavendraiitkgp2010@gmail.com
-type: student
+type: staff
 ---
