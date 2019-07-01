@@ -8,5 +8,5 @@ designations:
 areas:
   - Dialogue Systems
 bio: Currently working on exploiting background knowledge for Dialogue Generation.
-type: alumni
+type: student
 ---
