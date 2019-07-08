@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sundari Ramji
-image: SundariRamji.jpg
+image: SundariRamji1.jpg
 email: sundari.ramji@gmail.com
 designations: 
   - Postdoctoral Fellow

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Siddharth Nishtala
-image: SiddharthNishtala.jpg
+image: SiddharthNishtala1.jpg
 email: siddharth.nishtala@gmail.com
 homepage: 
 designations: 
