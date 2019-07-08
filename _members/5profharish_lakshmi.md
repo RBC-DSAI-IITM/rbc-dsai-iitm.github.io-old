@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Lakshmi Narayan Pandey
-image: Lakshmi_Narayan1.jpg
+image: Lakshmi.jpg
 designations: 
   - Ms Scholar
 area:

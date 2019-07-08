@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Brintha V P 
-image: Brinthavp1.jpg
+image: brinthavp.jpg
 email: cs18d017@smail.iitm.ac.in
 designations: 
   - PhD Scholar
