@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Manoj Bharadhwaj
-image: ManojBharadhwaj.jpg
+image: ManojBharadhwaj1.jpg
 email: bharadhwajm@gmail.com
 homepage: 
 designations: 
