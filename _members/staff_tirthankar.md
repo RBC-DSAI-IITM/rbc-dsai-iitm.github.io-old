@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Tirthankar Sengupta
-image: tirthankar.png
+image: tirthankar1.png
 email: 006905@imail.iitm.ac.in
 designations: 
   - Post Doctoral Fellow  

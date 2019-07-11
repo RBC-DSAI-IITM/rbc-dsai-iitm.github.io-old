@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Agastin Francis 
-image: Agastin.jpg
+image: Agastin1.jpg
 designations: 
   - Web administrator
 area:

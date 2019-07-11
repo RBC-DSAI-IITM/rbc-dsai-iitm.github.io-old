@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Darwin
-image: darwin.jpg
+image: darwin1.jpg
 email: darwinreddy [at] gmail [dot] com
 designations: 
   - Project Associate
