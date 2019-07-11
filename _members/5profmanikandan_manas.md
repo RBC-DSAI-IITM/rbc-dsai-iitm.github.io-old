@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Manas Ranjan Sahoo
-image: manas.png
+image: manas1.png
 email: manas.ms.sahoo@gmail.com
 designations: 
   - M Tech

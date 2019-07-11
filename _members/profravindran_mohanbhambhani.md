@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Mohan Bhambhani
-image: mohan.jpg
+image: mohan1.jpg
 designations: 
   - Dual Degree
 area:

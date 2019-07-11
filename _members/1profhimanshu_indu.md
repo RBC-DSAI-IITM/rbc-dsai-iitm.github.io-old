@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Indu Gangwar
-image: indu.png
+image: indu1.png
 email: indu07gangwar[at]gmail[dot]com
 designations: 
   - Post Doctoral Research Fellow

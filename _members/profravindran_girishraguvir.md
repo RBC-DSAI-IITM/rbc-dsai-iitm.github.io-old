@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Girish Raguvir J
-image: girishrj.jpg
+image: girishrj1.jpg
 designations: 
   - B.Tech
 area:

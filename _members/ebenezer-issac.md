@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ebenezer R.H.P. Isaac
-image: ebenezer.jpg
+image: ebenezer1.jpg
 email: ebeisaac 'at' ieee 'dot' org
 designations: 
   - Postdoctoral Research Fellow

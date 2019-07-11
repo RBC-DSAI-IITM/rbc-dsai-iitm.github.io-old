@@ -1,7 +1,7 @@
 ---
 layout: member
 name: sharma mukesh
-image: sharma.png
+image: sharma1.png
 designations: 
   - M Tech
 area:

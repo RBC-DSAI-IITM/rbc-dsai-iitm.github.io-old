@@ -2,7 +2,7 @@
 layout: member
 name: Priyesh V
 email: priyeshvellore@gmail.com
-image: priyesh.png
+image: priyesh1.png
 homepage: https://priyeshv.github.io/
 designations: 
   - MS Scholar

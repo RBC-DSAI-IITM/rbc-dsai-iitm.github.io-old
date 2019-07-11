@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Denzil Francis Crasta
-image: denzil.jpg
+image: denzil1.jpg
 designations: 
   - M.Tech
 area:

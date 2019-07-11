@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Vishnu Narayan
-image: vishnu.png
+image: vishnu1.png
 designations: 
   - Dual degree
 area:

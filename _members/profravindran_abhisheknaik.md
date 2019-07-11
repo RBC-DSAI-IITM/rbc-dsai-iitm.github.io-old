@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Abhishek Naik
-image: abhishek.jpg
+image: abhishek1.jpg
 designations: 
   - Dual Degree
 area:

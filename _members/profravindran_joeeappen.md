@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Joe Eappen
-image: joe.jpg
+image: joe1.jpg
 designations: 
   - Dual Degree
 area:

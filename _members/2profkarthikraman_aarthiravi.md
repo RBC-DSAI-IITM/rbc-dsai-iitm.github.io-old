@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Aarthi Ravikrishnan
-image: aarthiravi.png
+image: aarthiravi1.png
 designations: 
   - PhD Scholar
 area:

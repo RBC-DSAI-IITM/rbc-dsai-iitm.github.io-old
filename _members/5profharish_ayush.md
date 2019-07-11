@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ayush Ranjan Sharma
-image: ayush.png
+image: ayush1.png
 designations: 
   - M Tech
 area:

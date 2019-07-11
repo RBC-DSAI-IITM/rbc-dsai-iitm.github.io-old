@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Arjun Krishna
-image: arjunk.png
+image: arjunk1.png
 designations: 
   - B.Tech
 area:

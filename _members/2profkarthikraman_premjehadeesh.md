@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prem Jagadeesan
-image: premjehadeesh.jpg
+image: premjehadeesh1.jpg
 designations: 
   - PhD Scholar
 area:
