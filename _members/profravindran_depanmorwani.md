@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Depen Morwani
-image: morwani.png
+image: morwani1.png
 email: depenmorwani@gmail.com
 designations: 
   - Project Associate

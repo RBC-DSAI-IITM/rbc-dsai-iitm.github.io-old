@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Raghavendra Mallela
-image: RaghavendraMallela.jpg
+image: RaghavendraMallela1.jpg
 designations: 
   - Project Associate
 areas: 

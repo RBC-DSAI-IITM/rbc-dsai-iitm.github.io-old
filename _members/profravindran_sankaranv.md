@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sankaran Vaidyanathan
-image: sankaran.png
+image: sankaran1.png
 email: sankaranv8@gmail.com
 homepage: https://sankaranv.github.io
 designations: 

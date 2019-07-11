@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Dhivya Karthic
-image: divyakarthic.jpg
+image: divyakarthic1.jpg
 designations: 
   - Project Officer
 area:
