@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Anusha
-image: anusha.png
+image: anusha1.png
 email: ms18s005 [at] smail [dot] iitm [dot] ac [dot] in
 designations: 
   - MS Scholar

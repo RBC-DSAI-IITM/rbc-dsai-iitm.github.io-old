@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Arjun Manoharan
-image: arjunm.png
+image: arjunm1.png
 email: arjunmanoharan2811@gmail.com
 homepage: https://arjunmanoharan.github.io/
 designations:
