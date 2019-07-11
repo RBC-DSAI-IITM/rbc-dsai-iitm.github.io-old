@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Manikandan
-image: manikandan.png
+image: manikandan1.png
 email: manikan7@yahoo.com
 designations: 
   - PhD Scholar

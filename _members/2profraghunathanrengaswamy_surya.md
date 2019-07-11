@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Suryanarayanan
-image: surya.png
+image: surya1.png
 email: ee18d300[at]smail[dot]iitm[dot]ac[dot]in; gsurya4[at]hotmail[dot]com
 designations: 
   - PhD Scholar

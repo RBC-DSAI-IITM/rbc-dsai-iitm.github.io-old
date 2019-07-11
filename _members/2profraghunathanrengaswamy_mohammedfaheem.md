@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Mohammed Faheem
-image: mohammed.jpg
+image: mohammed1.jpg
 email: ch14d405@smail.iitm.ac.in
 designations: 
   - PhD Scholar

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Rahul vashisht
-image: rahul.jpg
+image: rahul1.jpg
 designations: 
   - PhD
 area:

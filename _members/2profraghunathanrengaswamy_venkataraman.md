@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Venkataraman
-image: venkatraman.png
+image: venkatraman1.png
 email: venkatvignu@gmail.com
 designations: 
   - PhD Scholar

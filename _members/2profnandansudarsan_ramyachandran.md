@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ramya 
-image: ramya.png
+image: ramya1.png
 designations: 
   - PhD Scholar
 area:

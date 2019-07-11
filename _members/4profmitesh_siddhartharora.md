@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Siddharth Arora
-image: siddhartha.png
+image: siddhartha1.png
 email: sidarora1990@gmail.com
 designations: 
   - MS Scholar
