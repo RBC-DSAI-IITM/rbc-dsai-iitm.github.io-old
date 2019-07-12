@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sridhar R
-image: sridhar.jpg
+image: sridhar1.jpg
 designations: 
   - Chief Operating Officer
 area:
