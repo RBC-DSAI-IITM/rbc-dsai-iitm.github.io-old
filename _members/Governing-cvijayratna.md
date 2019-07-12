@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Mr.Vijay Ratna Parkhe
-image: vijay.png
+image: vijay1.png
 designations: 
   - President and Managing Director, Robert Bosch  Engineering India.
   - Member

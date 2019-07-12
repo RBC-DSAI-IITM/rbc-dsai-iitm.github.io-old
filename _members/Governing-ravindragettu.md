@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof. Ravindra Gettu
-image: ravindrangettu.png
+image: ravindrangettu1.png
 designations: 
 - Dean -IC & SR IIT Madras 
 - Ex-Officio - Member 
