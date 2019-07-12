@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Karthik Raman
-image: ckarthik.png
+image: ckarthik1.png
 designations: 
   - Assistant Professor, Department of Biotechnology, IIT Madras.
 area:
