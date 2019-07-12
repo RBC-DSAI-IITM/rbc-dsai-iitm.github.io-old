@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof. B. Ravindran
-image: pravindran.png
+image: governingravi1.png
 designations: 
   - Ex-officio
   - Head RBC-DSAI
