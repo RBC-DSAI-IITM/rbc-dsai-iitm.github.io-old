@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Raghunathan Rengaswamy 
-image: craghunathan.png
+image: raghur.png
 designations: Professor, Department of Chemical Engineering, IIT Madras.
 area:
 bio:

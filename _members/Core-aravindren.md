@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Balaraman Ravindran
-image: cravindran.jpg
+image: ravi.jpg
 designations: 
   - Professor, Department of Computer Science and Engineering, IIT Madras.
 area:
