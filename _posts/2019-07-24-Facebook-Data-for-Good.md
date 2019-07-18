@@ -2,7 +2,7 @@
 layout: post
 title: Facebook Data for Good
 venue: ICSR
-date: 2019-07-24 03:30:00 +0530
+date: 2019-07-24 15:30:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
