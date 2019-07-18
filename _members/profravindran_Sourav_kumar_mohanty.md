@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Sourav Kumar MOhanty
+name: Sourav Kumar Mohanty
 image: default.png
 email: souravmohanty07@gmail.com
 designations: 
