@@ -10,6 +10,7 @@ categories: events
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 24-07-2019</li>
         <li><b>Time</b>&nbsp;&nbsp; : 03:30PM to 07.30PM</li>
 </ul>
+<p><a href="https://bit.ly/2Sg2E5F"></a>Click Here For Registration</p>
 
 <h2 class="post-title text-center"> Agenda </h2>
 <ol class="publications container mt-4">
@@ -65,7 +66,7 @@ Chemical Engineering
   </li>
 <li class="row">
      <span class="col-5 text-center">
-       07.00PM onwards
+       07.00PM Onwards
        </span> <span class="col-25">
       Networking & High Tea
      </span>
