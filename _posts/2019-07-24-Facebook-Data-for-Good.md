@@ -28,13 +28,13 @@ categories: events
       04:00PM–04.15PM
        </span> 
        <span class="col-25">
-         Welcome Note by Facebook Policy/ team and Prof. Ravindran
+         Welcome Note by Facebook Policy/<br> team and Prof. Ravindran
 
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
        04.35PM–04.55PM
-       </span> <span class="col-25">  Case Study by Dr. Sridharakumar Narasimhan, Associate Professor
+       </span> <span class="col-25">  Case Study by Dr. Sridharakumar Narasimhan,<br> Associate Professor
 Chemical Engineering
      </span>
   </li> <li class="row">
