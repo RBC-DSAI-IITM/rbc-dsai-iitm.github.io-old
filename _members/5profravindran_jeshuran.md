@@ -5,7 +5,7 @@ image: jeshuran.jpg
 email: jeshurench [at] gmail [dot] com
 homepage: https://www.linkedin.com/in/jeshuren/
 designations: 
-  - M.Tech
+  - PhD Scholar
 areas:
   - Deep Learning for Natural Language Processing
   - Knowledge Graphs

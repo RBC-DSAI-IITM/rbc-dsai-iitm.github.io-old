@@ -4,7 +4,7 @@ name: Ananya Sai
 image: ananya.png
 email: ananyasb followed by [at] cse [dot] iitm [dot] ac [dot] in
 designations: 
-  - M.Tech
+  - PhD Scholar
 areas:
   - NLP
   - Deep learning
