@@ -6,9 +6,9 @@ date: 2019-07-24 03:30:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
-	<li><b>Venue</b> : Hall 3, ICSR </li>
-	 <li><b>Date</b> : 24-07-2019</li>
-         <li><b>Time</b> : 03:30PM to 07.30PM </li>
+        <li><b>Venue</b> : Hall 3, ICSR</li>
+        <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 24-07-2019</li>
+        <li><b>Time</b>&nbsp;&nbsp; : 03:30PM to 07.30PM</li>
 </ul>
 
 <h2 class="post-title text-center"> Agenda </h2>
