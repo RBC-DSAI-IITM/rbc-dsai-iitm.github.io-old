@@ -41,7 +41,7 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Safety in future mobility <br>
 *Privacy and Fairness in Urban Mobility <br></p><br>
 
-<img src="assets/CFP_WSM2019.pdf">Call for papers<br>
+<a href="/images/CFP_WSM2019.pdf">Call for Papers</a><br>
 
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
