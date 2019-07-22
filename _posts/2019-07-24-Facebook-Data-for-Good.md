@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook Data for Good
+title: RBCDSAI - Facebook Symposium on Data for Good Initiative
 venue: ICSR
 date: 2019-07-24 15:30:00 +0530
 categories: events
@@ -29,13 +29,13 @@ categories: events
       04:00 PM–04.15 PM
        </span> 
        <span class="col-25">
-         Welcome Note by Facebook Policy/<br> team and Prof. Ravindran
+         Welcome Note by Facebook Policy/<br> team and Prof. B. Ravindran, Head of RBCDSAI, IIT Madras
 
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
        04.35 PM–04.55 PM
-       </span> <span class="col-25">  Case Study by Dr. Sridharakumar Narasimhan,<br> Associate Professor
+       </span> <span class="col-25">  Case Study by Dr. Sridharakumar Narasimhan,<br> Associate Professor, Chemical Engineering, IIT Madras
 Chemical Engineering
      </span>
   </li> <li class="row">
