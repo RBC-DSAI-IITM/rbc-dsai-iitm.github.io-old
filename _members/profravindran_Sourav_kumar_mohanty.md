@@ -7,6 +7,6 @@ designations:
   - Project Associate
 areas:
   - Machine Learning
-bio:  am passionate about studying and implementing the intricacies in Artificial Intelligence. Currently, I am working on understanding different ways of embedding the representation of the networks. 
+bio: I am passionate about studying and implementing the intricacies in Artificial Intelligence. Currently, I am working on understanding different ways of embedding the representation of the networks. 
 type: staff
 ---
