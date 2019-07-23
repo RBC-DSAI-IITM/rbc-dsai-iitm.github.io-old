@@ -6,5 +6,5 @@ designations:
   - Ph.D, UC Berkeley
 graduated year: 2017
 bio:
-type: alumni
+type:
 ---

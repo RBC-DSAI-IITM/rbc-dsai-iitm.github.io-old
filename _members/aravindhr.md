@@ -6,5 +6,5 @@ designations:
   - Project Associate
 graduated year:
 bio:
-type: alumni
+type: 
 ---
