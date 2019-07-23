@@ -6,5 +6,5 @@ designations:
   - NetraDyne Bengaluru
 graduated year: 2015
 bio:
-type: alumni
+type:
 ---

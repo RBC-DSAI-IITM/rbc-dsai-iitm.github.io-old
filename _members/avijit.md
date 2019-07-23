@@ -6,5 +6,5 @@ designations:
   - Flipkart, Bengaluru
 graduated year: 2016
 bio:
-type: alumni
+type: 
 ---

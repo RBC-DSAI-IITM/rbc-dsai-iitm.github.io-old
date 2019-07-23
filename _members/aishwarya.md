@@ -6,5 +6,5 @@ designations:
   - Ph.D UT Austin
 graduated year: 2015
 bio:
-type: alumni
+type:
 ---

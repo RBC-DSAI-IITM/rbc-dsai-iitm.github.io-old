@@ -5,5 +5,5 @@ degree: Dual Degree
 designations: 
 graduated year: 2016
 bio:
-type: alumni
+type: 
 ---

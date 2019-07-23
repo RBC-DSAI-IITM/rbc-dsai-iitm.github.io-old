@@ -6,5 +6,5 @@ designations:
   - IBM-IRL Banglore
 graduated year: 2017
 bio:
-type: alumni
+type: 
 ---

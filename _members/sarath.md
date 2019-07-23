@@ -6,5 +6,5 @@ designations:
   - Ph.D University of Montreal, Canada
 graduated year: 2015
 bio:
-type: alumni
+type:
 ---

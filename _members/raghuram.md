@@ -5,5 +5,5 @@ degree: M.Tech
 designations:
 graduated year: 2017
 bio:
-type: alumni
+type: 
 ---

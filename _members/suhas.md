@@ -6,5 +6,5 @@ designations:
   - Microsoft Research Bengaluru
 graduated year: 2017
 bio:
-type: alumni
+type: 
 ---

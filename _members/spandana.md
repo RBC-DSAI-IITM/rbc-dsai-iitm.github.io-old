@@ -6,5 +6,5 @@ designations:
   - Google Mountain View
 graduated year: 2015
 bio:
-type: alumni
+type: 
 ---

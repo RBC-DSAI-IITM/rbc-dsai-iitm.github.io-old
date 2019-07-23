@@ -6,5 +6,5 @@ designations:
   - Amazon, Chennai
 graduated year: 2015
 bio:
-type: alumni
+type: 
 ---
