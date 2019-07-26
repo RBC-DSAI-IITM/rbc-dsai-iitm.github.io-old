@@ -11,6 +11,6 @@ categories: events
 	 <li><b>Date</b>&nbsp;&nbsp; : 29th August 2019 (Thursday)</li>
 </ul>
 
-<h2 class="post-title text-center"> Coming Soon.. </h2>
+<h2 class="post-title text-center">Program details... coming Soon </h2>
 
 

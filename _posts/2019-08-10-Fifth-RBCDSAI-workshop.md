@@ -11,6 +11,6 @@ categories: events
 	 <li><b>Date</b>&nbsp;&nbsp; : 10th August 2019 (Saturday)</li>
 </ul>
 
-<h2 class="post-title text-center"> Coming Soon.. </h2>
+<h2 class="post-title text-center"> Program details... coming Soon</h2>
 
 
