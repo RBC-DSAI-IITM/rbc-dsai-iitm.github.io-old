@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fourth RBC-DSAI Workshop on Recent Progress in Data Science and AI
+title: Fourth RBCDSAI Workshop on Recent Progress in Data Science and AI
 date: 2019-05-10 15:30:00 +0530
 venue: ICSR
 categories: events
