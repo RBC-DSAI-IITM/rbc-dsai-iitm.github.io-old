@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5th RBCDSAI Workshop on Recent Progress in Data Science and AI
+title: Fifth RBCDSAI Workshop on Recent Progress in Data Science and AI
 venue: Aryabhatta Hall (CS 25)
 date: 2019-08-10 09:00:00 +0530
 categories: events
@@ -12,8 +12,5 @@ categories: events
 </ul>
 
 <h2 class="post-title text-center"> Coming Soon.. </h2>
-<ol class="publications container mt-4">
- 
-</ol>
-<ul>
+
 
