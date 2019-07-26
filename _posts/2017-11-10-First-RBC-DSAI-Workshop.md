@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First RBC-DSAI Workshop on Recent Progress in Data Science and AI
+title: First RBCDSAI Workshop on Recent Progress in Data Science and AI
 speaker: Various speakers
 date: 2017-11-10 14:00:00 +0530
 venue: ICSR, MSB
