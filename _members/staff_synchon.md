@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Synchon Mandal
-image: synchon.jpg1
+image: synchon1.jpg
 designations: 
   - Project Associate
 area:

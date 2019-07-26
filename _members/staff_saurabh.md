@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Saurabh Desai
-image: saurabh.png1
+image: saurabh1.png
 email: saketd403@gmail.com
 designations: 
   - Project Associate
