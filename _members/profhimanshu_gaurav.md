@@ -13,5 +13,5 @@ areas:
   - Synthetic Biology
 
 bio: I am a Project Associate, IBSE, RBCDSAI. Completed Bachelor & Master of Technology in Biological Engineering, IIT Madras and Working on data analysis of transcriptome in mammalian tissues "
-type: student
+type: alumni
 ---
