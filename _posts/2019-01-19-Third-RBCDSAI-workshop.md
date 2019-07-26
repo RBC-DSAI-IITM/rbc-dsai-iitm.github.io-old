@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 3rd RBCDSAI Workshop on Recent Progress in Data Science and AI
-venue: Aryabhatta Hall (CDB 25)
+venue: Aryabhatta Hall (CS 25)
 date: 2019-01-19 09:00:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
-	<li><b>Venue</b> : Aryabhatta Hall (CDB 25), Computer Science Department, IIT Madras, Chennai 600036 </li>
+	<li><b>Venue</b> : Aryabhatta Hall (CS 25), Computer Science Department, IIT Madras, Chennai 600036 </li>
 	 <li><b>Time</b> : 09:00AM to 12.30PM </li>
 	 <li><b>Date</b> : 19th January 2019 (Saturday)</li>
 </ul>
