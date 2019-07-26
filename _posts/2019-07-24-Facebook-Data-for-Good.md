@@ -8,7 +8,7 @@ categories: events
 <ul class="mb-5" >
         <li><b>Venue</b> : Hall 3, ICSR</li>
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 24-07-2019</li>
-        <li><b>Time</b>&nbsp;&nbsp; : 03:30 PM to 07.30 PM</li>
+        <li><b>Time</b>&nbsp;&nbsp; : 03:30 PM to 07:30 PM</li>
         
 </ul>
 <a href="https://bit.ly/2Sg2E5F">Click here for Registration</a>
