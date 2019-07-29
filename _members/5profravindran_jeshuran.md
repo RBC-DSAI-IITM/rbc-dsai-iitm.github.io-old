@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Jeshuran Chelladurai
+name: Jeshuren Chelladurai
 image: jeshuran.jpg
 email: jeshurench [at] gmail [dot] com
 homepage: https://www.linkedin.com/in/jeshuren/
@@ -9,6 +9,6 @@ designations:
 areas:
   - Deep Learning for Natural Language Processing
   - Knowledge Graphs
-bio: I am Jeshuren, a second year Master's student working with Prof. Balaraman Ravindran. My research interests include Deep Learning for NLP and Knowledge Graphs. I am currently working on reconciling knowledge graphs and generating descriptions.
+bio: Jeshuren is a third-year M.Tech and PhD dual Degree scholar working along with Prof.Ravindran.He is working on creating a Knowledge graph for medical domain and use it in the process of clinical documentation improvement in the healthcare industry.He likes to read quora answers and play chess in the free time.
 type: student
 ---
