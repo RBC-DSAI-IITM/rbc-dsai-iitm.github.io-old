@@ -7,8 +7,8 @@ designations:
   - PhD Scholar
 areas:
   - Model Predictive controllers
-  - System identification
+  - Process control
   - Reinforcement learning
-bio: I am a research scholar interested in various branches of science. Data science, Biochemistry, Machine learning, Control. Currently working on data science and control related projects.
+bio: Worked in various areas of ML in GE project. Worked as Senior engineer in CPCL, Manali,Chennai-6yrs.Intrested in Biochemical applications of data science.
 type: student
 ---
