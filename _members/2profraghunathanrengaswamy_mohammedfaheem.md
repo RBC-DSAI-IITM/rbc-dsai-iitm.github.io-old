@@ -2,13 +2,13 @@
 layout: member
 name: Mohammed Faheem
 image: mohammed1.jpg
-email: ch14d405@smail.iitm.ac.in
+email: khanmfaheem2012@gmail.com
 designations: 
   - PhD Scholar
 homepage: https://fhmkhan932.wixsite.com/mysite
 areas:
-  - Oscillation detection
-  - Stiction diagnosis and root cause analysis
-bio: I am currently working, as a Doctoral research scholar in the Department of Chemical Engineering, IIT Madras. I am graduated in Instrumentation and Control Engineering from APJ Abdul Kalam Azad University, Lucknow. 
+  - Controller Performance Assessment (using data science techniques)
+
+bio: My passion for research has created intrest in developing sophisticated algorithms that can be used for performance assessments of controllers using data science techniques. I am very much intrested in team work, Outside work,I like to meet people & love to bring them to their comfort zone.
 type: student
 ---
