@@ -7,6 +7,7 @@ designations:
   - MS Scholar
 areas:
   - Cancer Bioinformatics
-bio: I am interested in using machine learning techniques to explore cancer genomic data. I am pursuing my masters in Computational Biology and hope to answer the biggest questions puzzling cancer researchers today.
+  - Computational Biology
+bio: I am working in the area of cancer bioinformatics. I apply ML algorithms to cancer sequencing data to study mutation.
 type: student
 ---
