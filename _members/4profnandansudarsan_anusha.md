@@ -9,6 +9,6 @@ areas:
   - Operations Research
   - Data Analytics
   - Machine Learning
-bio: Have background of Computer Science and Engineering. Currently working in areas of data analytics and machine learning 
+bio: Anusha is a research scholar in the Depeartment of management studies, Working in Data Analytics, Machine Learning and Operations Research. 
 type: student
 ---
