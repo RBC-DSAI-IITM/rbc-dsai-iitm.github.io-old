@@ -6,9 +6,8 @@ email: venkatvignu@gmail.com
 designations: 
   - PhD Scholar
 areas:
-  - Systems and control
-  - Machine learning
+  - Manufacturing Analystics
   - Reinforcement learning
-bio: Ardent researcher that is inclined towards solving socially relevant problems. 
+bio: Ardent researcher that is inclined towards solving socially relevant problems.Area of research Manufacturing Analytics, Process systems, Reinforcement Learning
 type: student
 ---

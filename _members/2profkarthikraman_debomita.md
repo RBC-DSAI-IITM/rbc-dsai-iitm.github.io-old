@@ -6,7 +6,8 @@ email: bt18d301 [at] iitm [dot] ac [dot] in
 designations: 
   - PhD Scholar
 areas:
-  - Computational Biology
-bio: I am pursuing PhD in the domain of computational studies to design reliable biological circuits. I am interested in interdisciplinary studies where I can mix and match skills to find novel solutions. Besides research, I like to read, watch movies and travel.
+  - Computational System Biology
+  - Biological Circuit Design
+bio: I am pursuing PhD in the domain of computational biology my research is about designing reliable genetic circuits by combining biology, Electronics and system design principles.
 type: student
 ---

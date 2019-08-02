@@ -7,6 +7,7 @@ designations:
   - Project Associate
 areas:
   - Reinforcement Learning
-bio: I am a 2016 IITB CSE graduate with a minor in Mathematics. I have a 2 years experience in Goldman Sachs as a Financial Analyst. I am interested in the fields of Reinforcement Learning and Probabilistic modelling and am currently working on modelling the decision making behavior of a Taxi Driver, under the guidance of Prof B.Ravindran and Prof Nandan Sudarsanam.
+  - Theoretical Deep Learning
+bio: I have completed my B.tech in CSE from IITB in 2016. I have two years work experience in goldman sachs as a financial analyst, Following which i joined RBCDSAI as a project associate in the RL group under Prof. Nandhan sudarsanam & Prof. Ravindran Balaraman. Recently I have converted to a M.s. Scholar under Prof. Harish Guruprasad, Working in the area of theoretical Deep Learning.
 type: staff
 ---
