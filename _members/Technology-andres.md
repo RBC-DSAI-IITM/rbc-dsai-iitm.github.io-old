@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Prof.Dr.Bjoern Andres
-image: yasser.jpg
+image: andres.jpg
 designations: 
   - Global Head of AI Research, Bosch
 area:
