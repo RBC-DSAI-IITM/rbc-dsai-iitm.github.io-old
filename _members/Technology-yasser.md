@@ -7,5 +7,5 @@ designations:
 area:
 bio:
 email:
-type: Technology-Review-Board
+type:
 ---
