@@ -19,10 +19,10 @@ categories: events
     <span class="col-25 text-center"><strong> Details</strong> </span>
   </li>
   <li class="row">
-     <span class="col-5 text-center">
+     <span class="col-10 text-center">
        09:30 AM-10.15 AM
        </span>
-       <span class="col-25"> 
+       <span class="col-35"> 
 Prof. Raghunathan Rengasamy (ChE):<br> Data-driven Digital Twin for<br> Industrial Processes: My Experiences    </span>
   </li> <li class="row">
      <span class="col-5 text-center">
