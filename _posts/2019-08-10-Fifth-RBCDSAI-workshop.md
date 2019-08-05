@@ -2,12 +2,12 @@
 layout: post
 title: Fifth RBCDSAI Workshop on Recent Progress in Data Science and AI
 venue: Aryabhatta Hall (CS25)
-date: 2019-08-10 09:00:00 +0530
+date: 2019-08-10 09:30:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
 	<li><b>Venue</b> : Aryabhatta Hall (CS25), Computer Science Department, IIT Madras, Chennai 600036 </li>
-	 <li><b>Time</b>&nbsp;&nbsp; : 09:00 AM</li>
+	 <li><b>Time</b>&nbsp;&nbsp; : 09:30 AM</li>
 	 <li><b>Date</b>&nbsp;&nbsp; : 10th August 2019 (Saturday)</li>
 </ul>
 
@@ -23,7 +23,7 @@ categories: events
        09:30 AM-10.15 AM
        </span>
        <span class="col-25"> 
-Prof. Raghunathan Rengasamy (ChE):<br> Data driven Digital Twin for<br> Industrial Processes- My Experiences    </span>
+Prof. Raghunathan Rengasamy (ChE):<br>Digital Twin for Industrial Process </span>
   </li> <li class="row">
      <span class="col-5 text-center">
       10:15 AM–10.35 AM
