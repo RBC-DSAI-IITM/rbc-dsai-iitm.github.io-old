@@ -11,7 +11,7 @@ categories: events
 	 <li><b>Date</b>&nbsp;&nbsp; : 10th August 2019 (Saturday)</li>
 </ul>
 
-<a href="">Click here for Registration</a>
+<a href="https://forms.gle/wGqnfbP1rFTyTTzp8">Click here for Registration</a>
 <h2 class="post-title text-center"> Agenda </h2>
 <ol class="publications container mt-4">
   <li class="row">
