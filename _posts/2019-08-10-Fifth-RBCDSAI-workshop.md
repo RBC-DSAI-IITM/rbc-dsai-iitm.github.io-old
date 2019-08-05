@@ -29,7 +29,7 @@ Prof. Raghunathan Rengasamy (ChE):<br> Data-driven Digital Twin for<br> Industri
       10:15 AM–10.35 AM
        </span>
        <span class="col-25">
-        Mr. Ashley Xavier (BT):<br> Predicting Gestational Diabetes from GARBH-Ini data: Challenges
+        Mr. Ashley Xavier (BT):<br> Predicting Gestational Diabetes from <br> GARBH-Ini data: Challenges
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
@@ -53,7 +53,7 @@ Mr. Sudhakar Kathari (ChE): <br>Data-Driven Causality Analysis and<br> Graphical
      <span class="col-5 text-center">
        11.50 AM–12.20 PM
        </span> <span class="col-25">
-     Mr. Prasanna M. (ChE): <br>Leak Detection in Intermittently Operated Water Distribution Networks
+     Mr. Prasanna M. (ChE): <br>Leak Detection in Intermittently<br> Operated Water Distribution Networks
      </span>
   </li>
  </ol>
