@@ -47,7 +47,7 @@ Mr. Sudhakar Kathari (ChE): <br>Data-Driven Causality Analysis and<br> Graphical
      <span class="col-5 text-center">
        11.20 AM–11.50 AM
        </span> <span class="col-25">
-       Mr. Preksha Nema (CS): Let's Ask Again:<br> Refine Network for Automatic Question Generation
+       Ms. Preksha Nema (CS): Let's Ask Again:<br> Refine Network for Automatic Question Generation
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
