@@ -23,13 +23,13 @@ categories: events
        09:30 AM-10.15 AM
        </span>
        <span class="col-25"> 
-Prof. Raghunathan Rengasamy (ChE): Data-driven Digital Twin for<br> Industrial Processes: My Experiences    </span>
+Prof. Raghunathan Rengasamy (ChE):<br> Data-driven Digital Twin for<br> Industrial Processes: My Experiences    </span>
   </li> <li class="row">
      <span class="col-5 text-center">
       10:15 AM–10.35 AM
        </span>
        <span class="col-25">
-        Mr. Ashley Xavier (BT): Predicting Gestational Diabetes from GARBH-Ini data: Challenges
+        Mr. Ashley Xavier (BT):<br> Predicting Gestational Diabetes from GARBH-Ini data: Challenges
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
@@ -41,19 +41,19 @@ Prof. Raghunathan Rengasamy (ChE): Data-driven Digital Twin for<br> Industrial P
      <span class="col-5 text-center">
 10.50 AM–11.20 AM
        </span> <span class="col-25">
-Mr. Sudhakar Kathari (ChE): Data-Driven Causality Analysis and<br> Graphical Modeling of Multi-variable Processes        
+Mr. Sudhakar Kathari (ChE): <br>Data-Driven Causality Analysis and<br> Graphical Modeling of Multi-variable Processes        
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
        11.20 AM–11.50 AM
        </span> <span class="col-25">
-       Mr. Preksha Nema (CS): Let's Ask Again: Refine Network for Automatic Question Generation
+       Mr. Preksha Nema (CS): Let's Ask Again:<br> Refine Network for Automatic Question Generation
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
        11.50 AM–12.20 PM
        </span> <span class="col-25">
-     Mr. Prasanna M. (ChE): Leak Detection in Intermittently Operated Water Distribution Networks
+     Mr. Prasanna M. (ChE): <br>Leak Detection in Intermittently Operated Water Distribution Networks
      </span>
   </li>
  </ol>
