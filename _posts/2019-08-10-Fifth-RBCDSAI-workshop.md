@@ -20,60 +20,43 @@ categories: events
   </li>
   <li class="row">
      <span class="col-5 text-center">
-       03:30 PM
+       09:30 AM-10.15 AM
        </span>
-       <span class="col-25"> Registration & Refreshments
-     </span>
+       <span class="col-25"> 
+Prof. Raghunathan Rengasamy (ChE): Data-driven Digital Twin for<br> Industrial Processes: My Experiences    </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-      04:00 PM–04.15 PM
+      10:15 AM–10.35 AM
        </span>
        <span class="col-25">
-         Welcome Note by Facebook Policy/ team and <br> Prof. B. Ravindran, Head of RBCDSAI, IIT Madras
+        Mr. Ashley Xavier (BT): Predicting Gestational Diabetes from GARBH-Ini data: Challenges
+     </span>
+  </li> <li class="row">
+     <span class="col-5 text-center">
+       10.35 AM–10.50 AM
+       </span> <span class="col-25">Coffee Break
 
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       04.35 PM–04.55 PM
-       </span> <span class="col-25">  Case Study by Dr. Sridharakumar Narasimhan,<br> Associate Professor,Chemical Engineering, IIT Madras
-
+10.50 AM–11.20 AM
+       </span> <span class="col-25">
+Mr. Sudhakar Kathari (ChE): Data-Driven Causality Analysis and<br> Graphical Modeling of Multi-variable Processes        
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-04.55 PM–05.15 PM
+       11.20 AM–11.50 AM
        </span> <span class="col-25">
-        Case Study by Industry
+       Mr. Preksha Nema (CS): Let's Ask Again: Refine Network for Automatic Question Generation
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
-       05.15 PM–05.30 PM
+       11.50 AM–12.20 PM
        </span> <span class="col-25">
-       Break
-     </span>
-  </li> <li class="row">
-     <span class="col-5 text-center">
-       05.30 PM–06.30 PM
-       </span> <span class="col-25">
-      Presentation By Alex Pompe (Facebook)
+     Mr. Prasanna M. (ChE): Leak Detection in Intermittently Operated Water Distribution Networks
      </span>
   </li>
- <li class="row">
-     <span class="col-5 text-center">
-       06.30 PM–07.00 PM
-       </span> <span class="col-25">
-      Q&A
-     </span>
-  </li>
-<li class="row">
-     <span class="col-5 text-center">
-       07.00 PM Onwards
-       </span> <span class="col-25">
-      Networking & High Tea
-     </span>
-  </li>
-
-
-</ol>
+ </ol>
 <ul>
 
 
