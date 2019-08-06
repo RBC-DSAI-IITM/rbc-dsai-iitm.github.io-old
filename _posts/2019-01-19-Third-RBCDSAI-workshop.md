@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3rd RBCDSAI Workshop on Recent Progress in Data Science and AI
+title: Third RBCDSAI Workshop on Recent Progress in Data Science and AI
 venue: Aryabhatta Hall (CS25)
 date: 2019-01-19 09:00:00 +0530
 categories: events
