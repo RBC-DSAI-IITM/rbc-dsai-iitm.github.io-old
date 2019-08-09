@@ -9,9 +9,9 @@ categories: events
 
 <ul class="mb-5">
         <h2 class="post-title">Updated!!!</h2>
-        <li><b>Venue</b> : IITM Research Park</li>
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 15-12-2019 to 17-12-2019</li>
         <li><b>Time</b>&nbsp;&nbsp; : 09:00 AM to 05:00 PM </li>
+        <li><b>Venue</b> : IITM Research Park</li>
 </ul>
 
 
