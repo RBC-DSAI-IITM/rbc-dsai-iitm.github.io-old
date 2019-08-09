@@ -47,6 +47,6 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
-<a href="#">Click here for Registration</a><br>
+<a href="#">Registration Coming Soon...</a><br>
 </div>
 
