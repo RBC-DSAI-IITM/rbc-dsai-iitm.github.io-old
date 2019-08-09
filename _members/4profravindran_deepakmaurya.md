@@ -8,6 +8,7 @@ designations:
   - MS Scholar
 areas:
   - Hypergraphs
+  - Hyperedge Prediction
   - Tensor Decomposition
   - System Identification
 bio: I am currently an MS scholar under the guidance of Prof. B. Ravindran and Prof. Shankar Narasimhan. My current work is on spectral hypergraph theory using tensor representation of hypergraphs. More info can be found on my webpage. 
