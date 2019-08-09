@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Satya Jayadev P
-image: 
+image: default.png 
 email: ps-jayadev@yahoo.com
 designations: 
   - PhD 
