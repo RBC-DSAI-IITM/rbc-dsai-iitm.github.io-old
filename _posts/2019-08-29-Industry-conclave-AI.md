@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Industry Conclave on Artificial Intelligence
+title: <a href="https://www.latentview.com/ai-ml-conclave/">Industry Conclave on Artificial Intelligence</a>
 venue: ICSR Auditorium, IIT Madras
 date: 2019-08-29 09:00:00 +0530
 categories: events
@@ -10,7 +10,5 @@ categories: events
 	 <li><b>Time</b>&nbsp;&nbsp; : 09:00 AM To 06:00 PM</li>
 	 <li><b>Date</b>&nbsp;&nbsp; : 29th August 2019 (Thursday)</li>
 </ul>
-
-<h2 class="post-title text-center">Program details... coming Soon </h2>
 
 
