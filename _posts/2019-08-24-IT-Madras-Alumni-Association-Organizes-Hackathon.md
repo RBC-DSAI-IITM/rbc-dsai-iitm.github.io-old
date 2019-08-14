@@ -4,7 +4,7 @@ title: <a href="https://www.ndtv.com/education/iit-madras-alumni-association-org
 img: /assets/traffic.jpg
 categories: news
 ---
-<p align="justify">It is being held jointly with Web Science Trust, which fosters web science studies around the world & coordinates a global network of laboratories.</p>
+<p align="justify">The scenario for the Hackathon involved an Indian Smart City's Traffic Police Department which wishes to use Machine Learning/Artificial Intelligence techniques to solve their traffic crisis.</p>
 
 <p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
 
