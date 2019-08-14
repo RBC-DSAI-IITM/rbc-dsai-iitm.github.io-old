@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://www.latentview.com/ai-ml-conclave/">Industry Conclave on Artificial Intelligence</a>
+title: <a href="https://www.latentview.com/ai-ml-conclave/">2nd RBCDSAI AI/ML Conclave</a>
 venue: ICSR Auditorium, IIT Madras
 date: 2019-08-29 09:00:00 +0530
 categories: events
