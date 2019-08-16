@@ -1,10 +1,10 @@
 ---
 layout: member
 name: Satya Jayadev P
-image: default.png 
+image: jayadev.png 
 email: ps-jayadev@yahoo.com
 designations: 
-  - PhD 
+  - PhD Scholar
 homepage: 
 areas:
   - Applications of Data Science in System & Control
