@@ -5,8 +5,6 @@ venue: ICSR Auditorium, IIT Madras
 date: 2019-08-29 09:00:00 +0530
 categories: events
 ---
-<ul 
-     <a href="www.latenview.com/ai-ml-conclave/
-</ul>
+
 
 
