@@ -9,7 +9,7 @@ categories: events
 
 <ul>
 
-  <a href="https://www.latentview.com/ai-ml-conclave/"><img src="images/ImageDisplay.png" style="width:500px;height:850px;"></a>
+  <a href="https://www.latentview.com/ai-ml-conclave/"><img src="/images/ImageDisplay.png" style="width:500px;height:850px;"></a>
 
 </ul>
 
