@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ashutosh Raj
-image: default.jpg
+image: default.png
 email: me15b086@gmail.iitm.ac.in
 designations: 
   - Dual Degree
