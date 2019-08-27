@@ -1,6 +1,6 @@
 ---
 layout: member
-name:B.Bala Shyamala 
+name: B.Bala Shyamala 
 image: default.png
 email: balashyamala@gmail.com
 designations: 
