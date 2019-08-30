@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-to-help-manufacturing-automotive-sectors-adopt-ai-1593094-2019-08-29">RBCDSAI, IIT Madras Hosts 2nd AI-Ml Conclave</a>
-img: /assets/conclave.jpeg
+img: /assets/CONCLAVE.PNG
 categories: news
 ---
 <p align="justify">Indian Institute of Technology Madras-Robert Bosch Centre for Data Science and Artificial(RBCDSAI) hosted a Colloquium on 'Artificial Intelligence - A Priority for India' on April 22, 2019, bringing together leading researchers, academics, policymakers and industry leaders in India to understand and deliberate on the state of research and innovation in AI and Machine Learning in the country.It also focused on arriving at actionable programmes for the Indian AI ecosystem to contribute, collaborate and co-create. </p>
