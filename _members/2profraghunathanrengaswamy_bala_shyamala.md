@@ -1,7 +1,7 @@
 ---
 layout: member
 name: B.Bala Shyamala 
-image: default.png
+image: shyamala.png
 email: balashyamala@gmail.com
 designations: 
   - Postdoctoral Fellow
