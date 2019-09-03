@@ -7,5 +7,5 @@ designations:
 area:
 bio:
 email: Agastin14pcs837@gmail.com
-type: staff
+type: 
 ---
