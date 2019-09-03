@@ -4,13 +4,12 @@ title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-
 img: /assets/CONCLAVE.PNG
 categories: news
 ---
-<p align="justify">Indian Institute of Technology Madras-Robert Bosch Centre for Data Science and Artificial(RBCDSAI) hosted a Colloquium on 'Artificial Intelligence - A Priority for India' on April 22, 2019, bringing together leading researchers, academics, policymakers and industry leaders in India to understand and deliberate on the state of research and innovation in AI and Machine Learning in the country.It also focused on arriving at actionable programmes for the Indian AI ecosystem to contribute, collaborate and co-create. </p>
+<p align="justify">Indian Institute of Technology Madras-Robert Bosch Centre for Data Science and Artificial(RBCDSAI) , one of the premier AI Research Groups in the country, is looking to help manufacturing and automotive sectors to increase AI adoption in the industry. Towards this, the Second RBCDSAI AI/ML Conclave on manufacturing and automotive applications was organized at IIT Madras today on Aug 29, 2019, jointly by RBCDSAI and Latent View Analytics.</p>
 
-<p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
+<p align="justify">AI and Data Science have been a key driver in enabling growth across industries with the automotive industry being no exception. When it comes to this sector, the proliferation of AI and data science spans across the entire automotive business spectrum ranging from manufacturing to the aftermarket.</p>
 
-<p align="justify">"Artificial Intelligence is a core technology for all areas of connected life -- from connected mobility to buildings, factories and cities. The expertise of our Indian engineers contributes to expanding the AI skills set of Bosch," said Michael Bolle, Member of Bosch's Board of Management.</p>
+<p align="justify">It is about how AI can be a key enabler across business practices in the automotive and manufacturing industry - such as product development, automotive services, and manufacturing, to name a few. The event included deep-dive sessions on the challenges in ensuring a strong skill pipeline is built in collaboration with academia and industry.</p>
 
-<p align="justify">The centre will undertake foundational research in many areas of AI and Data Science, namely deep learning, reinforcement learning, network analytics, interpretable machine learning (ML), and domain aware AI.</p>
 <br><br>
 
 <strong>Below are the links for consolidated coverage of few press releases.
