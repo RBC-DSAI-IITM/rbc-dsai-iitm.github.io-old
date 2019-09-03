@@ -1,10 +1,10 @@
 ---
 layout: post
-title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-to-help-manufacturing-automotive-sectors-adopt-ai-1593094-2019-08-29">RBCDSAI, IIT Madras Hosts 2nd AI-Ml Conclave</a>
+title: <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-to-help-manufacturing-automotive-sectors-adopt-ai-1593094-2019-08-29">RBCDSAI, IIT Madras Hosts 2nd AI/ML Conclave</a>
 img: /assets/CONCLAVE.PNG
 categories: news
 ---
-<p align="justify">Indian Institute of Technology Madras-Robert Bosch Centre for Data Science and Artificial(RBCDSAI) , one of the premier AI Research Groups in the country, is looking to help manufacturing and automotive sectors to increase AI adoption in the industry. Towards this, the Second RBCDSAI AI/ML Conclave on manufacturing and automotive applications was organized at IIT Madras today on Aug 29, 2019, jointly by RBCDSAI and Latent View Analytics.</p>
+<p align="justify">Indian Institute of Technology Madras-Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI), one of the premier AI Research Groups in the country, is looking to help manufacturing and automotive sectors to increase AI adoption in the industry. Towards this, the Second RBCDSAI AI/ML Conclave on manufacturing and automotive applications was organized at IIT Madras today on Aug 29, 2019, jointly by RBCDSAI and Latent View Analytics.</p>
 
 <p align="justify">AI and Data Science have been a key driver in enabling growth across industries with the automotive industry being no exception. When it comes to this sector, the proliferation of AI and data science spans across the entire automotive business spectrum ranging from manufacturing to the aftermarket.</p>
 
