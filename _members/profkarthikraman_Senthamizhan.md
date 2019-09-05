@@ -1,7 +1,7 @@
 ---
 layout: member
 name: V. Senthamizhan
-image: Sendhu.jpg
+image: members/Sendhu.jpg
 email: senthamizhan1998@gmail.com
 designations: 
   - Project Associate
