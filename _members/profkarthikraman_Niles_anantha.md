@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Nilesh Anantha Subramanian 
-image: Nilesh.jpg
+image: default.png
 email: Nilesh.sept14@gmail.com
 designations: 
   - Project Associate 
