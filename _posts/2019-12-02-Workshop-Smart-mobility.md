@@ -59,9 +59,17 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Siddhartha Banerjee, Cornell University <br>
 *Tarun Rambha, Indian Institute of Science <br>
 
+<strong><p align="justify">Speakers:</p></strong><br>
+<p align="justify"
+*Kotagiri Rao, University of Melbourne
+*Satish Ukkusuri, Purdue University
+*Shankar Vishwanathan, Ford
+*Srini Peeta, Georgia Tech
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
 <a href="#">"Registrations - coming soon..."</a><br>
-</div>
+
+
+
 
