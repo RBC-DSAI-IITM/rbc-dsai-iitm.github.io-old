@@ -61,10 +61,10 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 
 <strong><p align="justify">Speakers:</p></strong><br>
 <p align="justify"
-*Kotagiri Rao, University of Melbourne
-*Satish Ukkusuri, Purdue University
-*Shankar Vishwanathan, Ford
-*Srini Peeta, Georgia Tech
+*Kotagiri Rao, University of Melbourne <br>
+*Satish Ukkusuri, Purdue University <br>
+*Shankar Vishwanathan, Ford <br>
+*Srini Peeta, Georgia Tech <br>
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
