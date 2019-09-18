@@ -42,7 +42,22 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Safety in future mobility <br>
 *Privacy and Fairness in Urban Mobility <br></p><br>
 
-<a href="/images/CFP_WSM2019.pdf">Call for Papers</a><br>
+<a href="/images/CFP_WSM2019_v2.pdf">Call for Papers</a><br>
+
+<strong><p align="justify">Program Committee:</p></strong><br>
+<p align="justify">
+*Arvind Ramanujam, Tata Consultancy Services <br>
+*Bhargava Chilukuri, IIT Madras <br>
+*Krishna Jagannathan, IIT Madras <br>
+*Kostas Kollias, Google <br>
+*Lisa Fawcett, Google <br>
+*Nirav Bhatt, IIT Madras <br>
+*Pravesh Biyani, IIIT Delhi <br>
+*Santhoji Katare, Ford <br>
+*Sayan Ranu, IIT Delhi <br>
+*Shankar Akella, Ashok Leyland <br>
+*Siddhartha Banerjee, Cornell University <br>
+*Tarun Rambha, Indian Institute of Science <br>
 
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
