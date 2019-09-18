@@ -60,7 +60,7 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Tarun Rambha, Indian Institute of Science <br>
 
 <strong><p align="justify">Speakers:</p></strong><br>
-<p align="justify"
+<p align="justify">
 *Kotagiri Rao, University of Melbourne <br>
 *Satish Ukkusuri, Purdue University <br>
 *Shankar Vishwanathan, Ford <br>
