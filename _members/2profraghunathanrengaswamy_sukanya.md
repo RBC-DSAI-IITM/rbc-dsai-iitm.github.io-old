@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sukanya G 
-image: Sukanya.jpeg
+image: Sukanya.png
 email: sukanya.gs.942@gmail.com
 designations: 
   - Project Associate 
