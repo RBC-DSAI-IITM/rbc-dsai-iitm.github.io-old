@@ -9,7 +9,7 @@ categories: events
 
 <ul>
 
-  <a href="https://drive.google.com/open?id=1VefTZAg0azSraUIfaOgOajGY0cXVbWdz"><img src="images/CTM_Outreach.pdf"></a>
+  <a href="https://drive.google.com/open?id=1VefTZAg0azSraUIfaOgOajGY0cXVbWdz"><img src="/images/CTM_Outreach.pdf"></a>
 
 </ul>
 
