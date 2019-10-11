@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Pavan Ravishankar
-image: pavan.png
+image: pavan-1.png 
 email: pavan [dot] rshankar [at] gmail [dot]com
 designations: 
    - MS Scholar
