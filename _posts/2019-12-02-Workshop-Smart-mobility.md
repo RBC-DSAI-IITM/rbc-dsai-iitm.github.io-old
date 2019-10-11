@@ -65,10 +65,12 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Satish Ukkusuri, Purdue University <br>
 *Shankar Vishwanathan, Ford <br>
 *Srini Peeta, Georgia Tech <br>
+*Mr.Anil Srivastava, NITI Aayog <br>
+
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
-<a href="#">"Registrations - coming soon..."</a><br>
+<a href="https://forms.gle/Uhv7F2KetQrDFLaH6">"Registrations"</a><br>
 
 
 
