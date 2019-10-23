@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Manjushri R 
-image: default.png
+image: manju-01.png
 email: rms.iyar@gmail.com
 designations: 
   - Project Associate
