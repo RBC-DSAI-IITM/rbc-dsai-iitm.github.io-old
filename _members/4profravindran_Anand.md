@@ -1,13 +1,15 @@
 ---
 layout: member
-name: Arjun Manoharan
-image: arjunm1.png
-email: arjunmanoharan2811@gmail.com
-homepage: https://arjunmanoharan.github.io/
+name: Anand A R
+image: default.png
+email: anand.rajasekar18@gmail.com
+homepage: 
 designations:
-  - MS Scholar
+  - Dual degree
 areas:
-  - Hierarchical Reinforcement Learning 
-bio: I a MS scholar working with Prof.Balaraman Ravindran in Hierarchical Reinforcement Learning. Prior to this I  was with Verizon Data Services India(VDSI) for two years.  During my stay at VDSI I worked on the qualification engine to qualify verizon products for wireline customers.
+  -  Reinforcement Learning 
+  -  Applied deep learning
+  -  Comutational biology
+bio: I am a dual degree student pursuing my masters in Data Science working under guidence of Prof. Karthik Raman and Prof. B Ravindran. I work on optimizing and finding novel molecuels using RL.
 type: student
 ---
