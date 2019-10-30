@@ -1,13 +1,15 @@
 ---
 layout: member
-name: Arjun Manoharan
-image: arjunm1.png
-email: arjunmanoharan2811@gmail.com
-homepage: https://arjunmanoharan.github.io/
+name: Rajan Kumar Soni
+image: default.png
+email: rajansoni424@gmail.com
+homepage: 
 designations:
   - MS Scholar
 areas:
-  - Hierarchical Reinforcement Learning 
-bio: I a MS scholar working with Prof.Balaraman Ravindran in Hierarchical Reinforcement Learning. Prior to this I  was with Verizon Data Services India(VDSI) for two years.  During my stay at VDSI I worked on the qualification engine to qualify verizon products for wireline customers.
+  - Machine Learning
+  - Explainability of neural networks
+  - Deep learning  
+bio: I a creature, So I keep learning everyday and so I evolve many years ago some one found machine can also learn. I was very curious about that but now got chance to make the machine learn. I am Rajan soni pursuing MS under the guidence of Prof. B. Ravindran. I love dancing. poetry and painting.
 type: student
 ---
