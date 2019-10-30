@@ -5,7 +5,7 @@ image: default.png
 email: harshavardhan864hk@gmail.com
 homepage:
 designations:
-  - MS Scholar
+  - Dual Degree
 areas:
   - Reinforcement learning
   - Network reprsentation learning  
