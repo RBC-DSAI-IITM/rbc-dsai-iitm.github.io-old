@@ -10,5 +10,5 @@ areas:
   - Optimization 
   - QSPR prediction
 bio: I am a PhD scholar, identifying data based solutions for chemical engineering applications through machine learning approaches. Machine learning and optimization algorithms always excites the enthusiast in me.
-type: student
+type: alumni
 ---
