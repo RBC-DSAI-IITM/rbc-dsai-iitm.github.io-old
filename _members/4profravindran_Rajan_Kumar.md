@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Rajan Kumar Soni
-image: default.png
+image: Rajan.JPG
 email: rajansoni424@gmail.com
 homepage: 
 designations:
