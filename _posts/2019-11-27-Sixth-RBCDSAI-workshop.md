@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sixth RBCDSAI Workshop on Recent Progress in Data Science and AI
-venue: BT seminar Hall, Bio Technology Department, Block I,IIT Madras, Chennai 600036
+venue: BT seminar Hall, Bio Technology Department
 date: 2019-11-27 09:30:00 +0530
 categories: events
 ---
 <ul class="mb-5" >
-	<li><b>Venue</b> : Aryabhatta Hall (CS25), Computer Science Department, IIT Madras, Chennai 600036 </li>
+	<li><b>Venue</b> : BT seminar Hall, Bio Technology Department, Block I,IIT Madras, Chennai 600036 </li>
 	 <li><b>Time</b>&nbsp;&nbsp; : 09:30 AM</li>
 	 <li><b>Date</b>&nbsp;&nbsp; : 27th November 2019 (Wednesday)</li>
 </ul>
