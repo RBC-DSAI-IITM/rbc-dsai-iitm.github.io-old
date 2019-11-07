@@ -29,7 +29,7 @@ Prof. Srinivasa Chakravarthy (BT):<br>Computing with neural oscillators </span>
       10:30 AM–11:00 AM
        </span>
        <span class="col-25">
-        Mr. Deepak Maurya (CS,ID student):<br> Hypergraph partitioning using tensor eigenvalue decomposition <br> 
+        Mr. Deepak Maurya (CS,ID student):<br> Hypergraph partitioning using tensor <br> eigenvalue decomposition  
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
@@ -41,19 +41,19 @@ Prof. Srinivasa Chakravarthy (BT):<br>Computing with neural oscillators </span>
      <span class="col-5 text-center">
 11:30 AM–12:00 AM
        </span> <span class="col-25">
-Ms. Malvika Sudhakar (BT,ID student): <br>Novel ratio-metric features enable the identification of new driver genes across cancer types<br>
+Ms. Malvika Sudhakar (BT,ID student): <br>Novel ratio-metric features enable <br> the identification of new driver genes<br> across cancer types
      </span>
   </li> <li class="row">
      <span class="col-5 text-center">
        12:00 AM–12:30 AM
        </span> <span class="col-25">
-       Dr. Sreeja R. (CH, PDF):<br>Multivariate analysis of spectral data for building kinetic models <br> 
+       Dr. Sreeja R. (CH, PDF):<br>Multivariate analysis of spectral <br> data for building kinetic models  
      </span>
   </li> <li class="row">
 <span class="col-5 text-center">
        12:30 AM–13:00 PM
        </span> <span class="col-25">
-     Mr.  Vijayanand Digge (EE, Student): <br>Data-driven controller design for performance management of web-servers in cloud <br> 
+     Mr.  Vijayanand Digge (EE, Student): <br>Data-driven controller design <br> for performance management of <br> web-servers in cloud  
      </span>
   </li>
  </ol>
