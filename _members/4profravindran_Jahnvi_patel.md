@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Jahnvi Patel 
-image: default.png
+image: Patel-Jahnvi.jpg
 email: jahnvi.1210@gmailcom
 homepage:
 designations:
