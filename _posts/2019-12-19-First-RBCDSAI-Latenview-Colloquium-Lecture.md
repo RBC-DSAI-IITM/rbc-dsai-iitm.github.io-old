@@ -11,9 +11,9 @@ categories: events
 	 <li><b>Date</b> : 19th December 2019</li>
 </ul>
 
-<br><strong>Talk By: </strong></br>
+<strong>Talk By: </strong>
 
-<p>" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan,</p> 
+<br><p>" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan,</p></br> 
 
 <p>Samuel D. Conte Professor, 
 Department of Computer Science, 
