@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First RBCDSAI Latenview Colloquium Lecture
+title: RBCDSAI Latentview Colloquium Series
 venue: Biotechnology Seminar Hall , IIT Madras
 date: 2019-12-19 03:30:00 +0530
 categories: events
@@ -8,11 +8,10 @@ categories: events
 <ul class="mb-5" >
 	<li><b>Venue</b> : Biotechnology Seminar Hall , IIT Madras</li>
 	 <li><b>Time</b> : 3.30 PM to 5.30 PM </li>
-	 <li><b>Date</b> : 24 & 25th January 2019</li>
+	 <li><b>Date</b> : 19th December 2019</li>
 </ul>
 
-<p>"First RBCDSAI Latenview Colloquium Lecture " 
- by Prof.Suresh Jagannathan,</p> 
+<br><strong><p align="justify">Talk By:</p></strong><br><p align="justify">" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan,</p></br> 
 
 <p>Samuel D. Conte Professor, 
 Department of Computer Science, 
