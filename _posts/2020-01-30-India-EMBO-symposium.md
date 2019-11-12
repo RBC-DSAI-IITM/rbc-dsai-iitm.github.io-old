@@ -1,6 +1,6 @@
 ---
 layout: post
-title: India|EMBO Symposium -"Engineering meets evolution: Designing biological systems"
+title: India|EMBO Symposium -"Engineering meets evolution:Designing biological systems"
 venue: ICSR Auditorium, IIT Madras
 date: 2020-01-30 09:00:00 +0530
 categories: events
