@@ -13,9 +13,10 @@ categories: events
 
 <strong>Talk By: </strong>
 
-<br>" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan, 
+<br>Prof.Suresh Jagannathan,<br>
 
-<br>   Samuel D. Conte Professor, 
-Department of Computer Science, 
-Purdue University, West Lafayette, Indiana, USA <br>
+<br>Samuel D. Conte Professor,<br> 
+<br>Department of Computer Science,<br> 
+<br>Purdue University,<br>
+<br>West Lafayette, Indiana, USA <br>
       
