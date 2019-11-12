@@ -13,7 +13,7 @@ categories: events
 
 <strong>Talk By: </strong>
 
-<br><p>" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan,</p></br> 
+<br>" RBCDSAI Latenview Colloquium Series" by Prof.Suresh Jagannathan, </br> 
 
 <p>Samuel D. Conte Professor, 
 Department of Computer Science, 
