@@ -16,7 +16,7 @@ categories: events
 <br>Prof.Suresh Jagannathan,<br>
 
 <br>Samuel D. Conte Professor, 
-<br>Department of Computer Science, 
-<br>Purdue University,
-<br>West Lafayette, Indiana, USA <br>
+Department of Computer Science, 
+Purdue University,
+West Lafayette, Indiana, USA <br>
       
