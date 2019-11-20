@@ -8,12 +8,12 @@ categories: events
 <div style="padding-left:16px">
 
 <ul class="mb-5">
-        <h2 class="post-title">Updated!!!</h2>
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 15-12-2019 to 17-12-2019</li>
         <li><b>Time</b>&nbsp;&nbsp; : 09:00 AM to 05:00 PM </li>
         <li><b>Venue</b> : IITM Research Park</li>
 </ul>
 
+<a href="/images/CFP_WSM2019_v2.pdf">Call for Papers</a><br>
 
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p><br>
 <p align="justify"> Transportation, particularly within cities, has undergone an immense transformation over the past decade. Availability of accurate real-time information and the emergence of transportation network companies have redefined how we plan, optimize, and manage our daily travel. The coming decade could completely reshape urban transport. Emerging technologies with 2-3 letter abbreviations - 5G, IoT, EV, AV, TNC - have the potential to disrupt urban mobility as we have known it for the past century. </p><br>
