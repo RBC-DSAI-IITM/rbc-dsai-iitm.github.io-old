@@ -16,6 +16,8 @@ categories: events
 
 <a href="/images/Workshop.pdf">Click for Program Informations</a><br />
 
+<a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
+
 <br><strong><p align="justify">Organizers:</p></strong><br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p><br>
 <p align="justify"> Transportation, particularly within cities, has undergone an immense transformation over the past decade. Availability of accurate real-time information and the emergence of transportation network companies have redefined how we plan, optimize, and manage our daily travel. The coming decade could completely reshape urban transport. Emerging technologies with 2-3 letter abbreviations - 5G, IoT, EV, AV, TNC - have the potential to disrupt urban mobility as we have known it for the past century. </p><br>
 
@@ -70,7 +72,7 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
 
-<a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
+
 
 
 
