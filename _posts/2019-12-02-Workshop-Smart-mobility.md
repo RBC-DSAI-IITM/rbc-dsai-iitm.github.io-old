@@ -15,7 +15,7 @@ categories: events
 
 <img src="/images/WSM2019-01.png" style="width:850px;height:1350px;" />
 
-<a href="/images/Workshop.pdf">Click for Program Informations</a><br />
+<a href="/images/Slide2.JPG">Click for Program Informations</a><br />
 
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
@@ -68,6 +68,8 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Satish Ukkusuri, Purdue University <br>
 *Shankar Vishwanathan, Ford <br>
 *Srini Peeta, Georgia Tech <br>
+
+<a href="/images/Slide3.JPG">Click for Speakers Informations</a><br />
 
 
 
