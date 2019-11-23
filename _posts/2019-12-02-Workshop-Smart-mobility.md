@@ -13,6 +13,7 @@ categories: events
         <li><b>Venue</b> : IITM Research Park</li>
 </ul>
 
+<img src="/images/WSM2019.pdf" style="width:850px;height:1607px;"/>
 
 <a href="/images/Workshop.pdf">Click for Program Informations</a><br />
 
