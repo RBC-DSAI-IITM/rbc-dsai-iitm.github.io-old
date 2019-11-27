@@ -4,13 +4,13 @@ title: <a href="https://economictimes.indiatimes.com/industry/services/education
 img: /assets/traffic.jpg
 categories: news
 ---
-<p align="justify">The scenario for the Hackathon involved an Indian Smart City's Traffic Police Department which wishes to use Machine Learning/Artificial Intelligence techniques to solve their traffic crisis.</p>
+<p align="justify">Researchers at the Indian Institute of Technology (IIT) Madras are working on two projects that use artificial intelligence and data analytics to improve learning outcomes for students.</p>
 
-<p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
+<p align="justify">They are analysing data from open-access learning portal NPTEL (National Programme on Technology Enhanced Learning) in order to reduce dropouts and improve understanding.</p>
 
-<p align="justify">"Artificial Intelligence is a core technology for all areas of connected life -- from connected mobility to buildings, factories and cities. The expertise of our Indian engineers contributes to expanding the AI skills set of Bosch," said Michael Bolle, Member of Bosch's Board of Management.</p>
+<p align="justify">NPTEL is a platform where teachers from the IITs put up videos on subjects generally related to engineering and science.</p>
 
-<p align="justify">The centre will undertake foundational research in many areas of AI and Data Science, namely deep learning, reinforcement learning, network analytics, interpretable machine learning (ML), and domain aware AI.</p>
+<p align="justify">Students can view them and get certifications for the courses they complete, at a nominal fee of Rs 1,000. In fact, engineering colleges have been mandated by AICTE (All India Council for Technical Education), the apex body for technical education in India, to cover 15-20% of their undergraduate syllabus through NPTEL</p>
 <br><br>
 
 <strong>Below are the links for consolidated coverage of few press releases.
