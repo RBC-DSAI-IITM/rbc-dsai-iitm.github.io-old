@@ -1,6 +1,7 @@
 ---
 layout: post
-title: <a href="https://www.ndtv.com/education/iit-madras-alumni-association-organizes-hackathon-to-solve-traffic-problem-in-indian-city-2084017/">IT Madras Alumni Association Organizes Hackathon To Solve Traffic Problem In Indian City</a>
+title: <a href="https://acm-datascience-blog.blogspot.com/2019/11/data-science-for-cricket.html"> Data Science for Cricket
+</a>
 img: /assets/traffic.jpg
 categories: news
 ---

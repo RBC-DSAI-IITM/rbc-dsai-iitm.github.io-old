@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://www.ndtv.com/education/iit-madras-alumni-association-organizes-hackathon-to-solve-traffic-problem-in-indian-city-2084017/">IT Madras Alumni Association Organizes Hackathon To Solve Traffic Problem In Indian City</a>
+title: <a href="https://economictimes.indiatimes.com/industry/services/education/iit-m-projects-aim-to-reduce-dropouts-improve-learning/articleshow/72233977.cms">IIT-M projects aim to reduce dropouts, improve learning</a>
 img: /assets/traffic.jpg
 categories: news
 ---
