@@ -11,7 +11,7 @@ categories: news
 
 <p align="justify">Disparate data from various sources can be collected and analyzed towards making decisions regarding almost all aspects of any sport.</p>
 
-<p align="justify">Ball-by-ball commentary, video feed, bats that are actual IoT devices producing fascinating information, can all be merged together for analysis.</p>
+<p align="justify">Ball-by-ball commentary, video feed, bats that are actual IoT devices producing fascinating information, can all be merged together for analysis</p>
 <br><br>
 
 <strong>Below are the links for consolidated coverage of few press releases.
