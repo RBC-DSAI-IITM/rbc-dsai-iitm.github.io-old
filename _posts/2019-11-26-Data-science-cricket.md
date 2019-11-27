@@ -1,7 +1,7 @@
 ---
+
 layout: post
-title: <a href="https://acm-datascience-blog.blogspot.com/2019/11/data-science-for-cricket.html"> Data Science for Cricket
-</a>
+title: <a href="https://acm-datascience-blog.blogspot.com/2019/11/data-science-for-cricket.html"> Data Science for Cricket</a>
 img: /assets/traffic.jpg
 categories: news
 ---
