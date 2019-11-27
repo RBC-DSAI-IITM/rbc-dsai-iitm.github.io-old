@@ -5,13 +5,13 @@ title: <a href="https://acm-datascience-blog.blogspot.com/2019/11/data-science-f
 img: /assets/traffic.jpg
 categories: news
 ---
-<p align="justify">The scenario for the Hackathon involved an Indian Smart City's Traffic Police Department which wishes to use Machine Learning/Artificial Intelligence techniques to solve their traffic crisis.</p>
+<p align="justify">Data Science, ML, AI are the flavors of the season all over the world and India is no exception.  Interest in these techniques is at a fever pitch; academicians and industrial practitioners alike are exploring the fundamental underpinnings and application potential of these techniques.  As a result, data science is being evaluated for implementation in all imaginable fields and sub-fields.  Sports is one such area with tremendous potential for data science applications.</p>
 
-<p align="justify">The mission is to create societal impact through multi-disciplinary interactions with the government, academic, research and industrial collaborators on core challenges in Data Science (DS) and Artificial Intelligence (AI).</p>
+<p align="justify">While sports analytics has been around for a long time, sabermetrics being a prime example, the scale of what can be achieved now with analytics is quite stupendous.</p>
 
-<p align="justify">"Artificial Intelligence is a core technology for all areas of connected life -- from connected mobility to buildings, factories and cities. The expertise of our Indian engineers contributes to expanding the AI skills set of Bosch," said Michael Bolle, Member of Bosch's Board of Management.</p>
+<p align="justify">Disparate data from various sources can be collected and analyzed towards making decisions regarding almost all aspects of any sport.</p>
 
-<p align="justify">The centre will undertake foundational research in many areas of AI and Data Science, namely deep learning, reinforcement learning, network analytics, interpretable machine learning (ML), and domain aware AI.</p>
+<p align="justify">Ball-by-ball commentary, video feed, bats that are actual IoT devices producing fascinating information, can all be merged together for analysis.</p>
 <br><br>
 
 <strong>Below are the links for consolidated coverage of few press releases.
