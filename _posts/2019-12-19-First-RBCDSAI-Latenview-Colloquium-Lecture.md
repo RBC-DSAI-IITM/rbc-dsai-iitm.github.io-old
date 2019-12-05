@@ -15,7 +15,7 @@ categories: events
 
 
 
-<strong>Talk By: </strong>
+<br><strong>Talk By: </strong></br>
 
 <br>Prof.Suresh Jagannathan,<br>
 
