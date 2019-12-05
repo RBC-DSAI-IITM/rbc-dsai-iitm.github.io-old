@@ -13,6 +13,8 @@ categories: events
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLTbuw2_eKw08UJmyTAmHz7Dwa-AalphU7rmDSU0DwBxtpPg/viewform?vc=0&c=0&w=1">Click here for Registration</a>
 
+
+
 <strong>Talk By: </strong>
 
 <br>Prof.Suresh Jagannathan,<br>
