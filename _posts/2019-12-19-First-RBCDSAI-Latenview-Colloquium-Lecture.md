@@ -6,7 +6,7 @@ date: 2019-12-19 03:30:00 +0530
 categories: events
 ---
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLTbuw2_eKw08UJmyTAmHz7Dwa-AalphU7rmDSU0DwBxtpPg/viewform?vc=0&c=0&w=1"><img src="/images/laten-view-01.png" style="width:700px;height:1300px;"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLTbuw2_eKw08UJmyTAmHz7Dwa-AalphU7rmDSU0DwBxtpPg/viewform?vc=0&c=0&w=1"><img src="/images/laten-view-01.png" style="width:2000px;height:2000px;"></a>
 
 
 
