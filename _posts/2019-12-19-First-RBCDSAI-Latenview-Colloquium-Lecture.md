@@ -11,7 +11,6 @@ categories: events
 
 
 
-Click here for Registration</a>
 
 
 
