@@ -11,7 +11,12 @@ categories: events
 	 <li><b>Date</b> : 19th December 2019</li>
 </ul>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLTbuw2_eKw08UJmyTAmHz7Dwa-AalphU7rmDSU0DwBxtpPg/viewform?vc=0&c=0&w=1">Click here for Registration</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfLTbuw2_eKw08UJmyTAmHz7Dwa-AalphU7rmDSU0DwBxtpPg/viewform?vc=0&c=0&w=1"><img src="/images/members/Latent.png"
+
+
+
+
+Click here for Registration</a>
 
 
 
