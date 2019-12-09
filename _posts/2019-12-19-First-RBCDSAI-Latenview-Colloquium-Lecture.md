@@ -11,7 +11,7 @@ categories: events
 <a href="/images/Abstract.pdf"><img src="/image/more-info.jpg"></a>
 
 
-<a href="https://www.cs.purdue.edu/people/faculty/suresh"><img src="/images/latentview.JPG" style="width:1000px;height:700px;"></a>
+<a href="https://www.cs.purdue.edu/people/faculty/suresh"><img src="/images/latentview.JPG" style="width:529px;height:794px;"></a>
 
 
 
