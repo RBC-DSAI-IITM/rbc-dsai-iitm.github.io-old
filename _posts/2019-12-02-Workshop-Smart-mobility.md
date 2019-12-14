@@ -15,11 +15,11 @@ categories: events
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
 
-<img src="/images/img-01.png" style="width:600px;height:550px;" />
+<img src="/images/img-01.png" style="width:900px;height:550px;" />
 
-<img src="/images/img-02.png" style="width:600px;height:550px;" />
+<img src="/images/img-02.png" style="width:900px;height:550px;" />
 
-<img src="/images/img-03.png" style="widht:600px;height:550px;" />
+<img src="/images/img-03.png" style="widht:900px;height:550px;" />
 
 <a href="/images/Slide2.JPG">Click for Program Informations</a><br />
 
