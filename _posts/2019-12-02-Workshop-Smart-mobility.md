@@ -1,4 +1,4 @@
----
+I---
 layout: post
 title: Workshop on Smart Mobility (Data-driven Models and Algorithms)
 venue: IITM Research Park
@@ -16,7 +16,9 @@ categories: events
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
 
-<img src="/images/WSM2019-01.png" style="width:850px;height:1350px;" />
+<img src="/images/WSM-01.jpg" style="width:850px;height:750px;" />
+<img src="/images/WSM-02.jpg" style="width:850px;height:750px;" />
+<img src="/images/WSM-03.jpg" style="widht:850px;height:750px;" />
 
 <a href="/images/Slide2.JPG">Click for Program Informations</a><br />
 
@@ -48,28 +50,7 @@ tutorials, panel discussions, and poster presentations on state-of-the-art and -
 *Safety in future mobility <br>
 *Privacy and Fairness in Urban Mobility <br></p><br>
 
-<strong><p align="justify">Program Committee:</p></strong><br>
-<p align="justify">
-*Arvind Ramanujam, Tata Consultancy Services <br>
-*Bhargava Chilukuri, IIT Madras <br>
-*Krishna Jagannathan, IIT Madras <br>
-*Kostas Kollias, Google <br>
-*Lisa Fawcett, Google <br>
-*Nirav Bhatt, IIT Madras <br>
-*Pravesh Biyani, IIIT Delhi <br>
-*Santhoji Katare, Ford <br>
-*Sayan Ranu, IIT Delhi <br>
-*Shankar Akella, Ashok Leyland <br>
-*Siddhartha Banerjee, Cornell University <br>
-*Tarun Rambha, Indian Institute of Science <br>
 
-<strong><p align="justify">Speakers:</p></strong><br>
-<p align="justify">
-*Anil Srivastava, NITI Aayog <br>
-*Kotagiri Rao, University of Melbourne <br>
-*Satish Ukkusuri, Purdue University <br>
-*Shankar Vishwanathan, Ford <br>
-*Srini Peeta, Georgia Tech <br>
 
 <a href="/images/Slide3.JPG">Click for Speakers Informations</a><br />
 
