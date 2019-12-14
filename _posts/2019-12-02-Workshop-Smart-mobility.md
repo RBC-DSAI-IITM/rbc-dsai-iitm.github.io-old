@@ -17,7 +17,7 @@ categories: events
 
 <div class="row">
  <div class="column">
-<img src="/images/WSM-01.jpg" style="width:600px;height:550px;" />
+<img src="/images/wsm-1.png" style="width:600px;height:550px;" />
  </div>
  <div class="column">
 <img src="/images/WSM-02.jpg" style="width:600px;height:550px;" />
