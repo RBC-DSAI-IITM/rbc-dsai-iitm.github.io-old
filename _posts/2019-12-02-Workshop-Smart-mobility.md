@@ -15,11 +15,11 @@ categories: events
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
 
-<img src="/images/img-01.png" style="width:700px;height:550px;" />
+<img src="/images/IMG1.png" style="width:700px;height:550px;" />
 
-<img src="/images/img-02.png" style="width:700px;height:550px;" />
+<img src="/images/IMG2.png" style="width:700px;height:550px;" />
 
-<img src="/images/img-03.png" style="widht:900px;height:550px;" />
+<img src="/images/IMG3.png" style="widht:700px;height:550px;" />
 
 
 
