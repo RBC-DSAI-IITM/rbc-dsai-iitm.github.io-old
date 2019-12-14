@@ -15,10 +15,17 @@ categories: events
 
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
-
-<img src="/images/WSM-01.jpg" style="width:850px;height:750px;" />
-<img src="/images/WSM-02.jpg" style="width:850px;height:750px;" />
-<img src="/images/WSM-03.jpg" style="widht:850px;height:750px;" />
+<div class="row">
+ <div class="column">
+<img src="/images/WSM-01.jpg" style="width:600px;height:550px;" />
+ </div>
+ <div class="column">
+<img src="/images/WSM-02.jpg" style="width:600px;height:550px;" />
+ </div>
+ <div class="column">
+<img src="/images/WSM-03.jpg" style="widht:600px;height:550px;" />
+ </div>
+</div>
 
 <a href="/images/Slide2.JPG">Click for Program Informations</a><br />
 
