@@ -19,7 +19,7 @@ categories: events
 
 <img src="/images/img-02.png" style="width:700px;height:550px;" />
 
-<img src="/images/img-03.png" style="widht:700px;height:550px;" />
+<img src="/images/img-03.png" style="widht:900px;height:550px;" />
 
 
 
