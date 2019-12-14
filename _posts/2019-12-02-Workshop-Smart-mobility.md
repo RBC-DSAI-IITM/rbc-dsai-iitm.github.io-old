@@ -23,8 +23,8 @@ categories: events
 
 
 
-<br><strong><p align="justify">Organizers:</p></strong>
-<br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p><br>
+<br><strong><p align="justify">Organizers:</p></strong></br>
+<br><p align="justify">Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research</p></br>
 
 
 
