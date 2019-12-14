@@ -5,22 +5,6 @@ venue: IITM Research Park
 date: 2019-12-15 09:00:00 +0530
 categories: events
 ---
-{
-  box-sizing: border-box;
-}
-
-.column {
- float: left;
- width: 50%;
- padding: 10px
-}
-
-/* clearfix (clear floats) */
-.row::after {
- content: "";
- clear: both;
- display: table;
-}
 
 <ul class="mb-5">
         <li><b>Date</b>&nbsp;&nbsp;&nbsp;  : 15-12-2019 to 17-12-2019</li>
@@ -30,17 +14,13 @@ categories: events
 
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
-<div class="row">
- <div class="column">
-<img src="/images/wsm-1.png" style="width:600px;height:550px;" />
- </div>
- <div class="column">
-<img src="/images/WSM-02.jpg" style="width:600px;height:550px;" />
- </div>
- <div class="column">
-<img src="/images/WSM-03.jpg" style="widht:600px;height:550px;" />
- </div>
-</div>
+
+<img src="/images/img-01.png" style="width:600px;height:550px;" />
+
+<img src="/images/img-02.png" style="width:600px;height:550px;" />
+
+<img src="/images/img-03.png" style="widht:600px;height:550px;" />
+
 <a href="/images/Slide2.JPG">Click for Program Informations</a><br />
 
 
