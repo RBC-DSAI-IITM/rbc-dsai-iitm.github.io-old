@@ -15,11 +15,13 @@ categories: events
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
 
-<img src="/images/IMG1.png" style="width:1100px;height:900px;" />
+<img src="/images/IMG1.png" style="width:900px;height:900px;" />
 
-<img src="/images/IMG2.png" style="width:1100px;height:900px;" />
+<img src="/images/IMG2.png" style="width:900px;height:900px;" />
 
-<img src="/images/IMG3.png" style="widht:1100px;height:900px;" />    &nbsp     &nbsp    
+<img src="/images/IMG3.png" style="widht:1100px;height:900px;" />   
+
+    
 
 <br><strong>Organizers:</strong>
 <br>Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research
