@@ -15,7 +15,7 @@ categories: events
 <a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
 
 
-<img src="/images/IMG1.png" style="width:800px;height:900px;" />
+<img src="/images/IMG1.png" style="width:880px;height:900px;" />
 
 <img src="/images/IMG2.png" style="width:900px;height:900px;" />
 
