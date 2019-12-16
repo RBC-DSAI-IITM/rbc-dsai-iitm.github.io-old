@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RBCDSAI Latentview Colloquium Series
+title: RBCDSAI LatentView Colloquium Series
 venue: ICSR Auditorium , IIT Madrasi
 date: 2019-12-19 03:30:00 +0530
 categories: events
