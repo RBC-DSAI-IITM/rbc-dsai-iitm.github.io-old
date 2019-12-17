@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Anand A R
-image: default.png
+image: anand.png
 email: anand.rajasekar18@gmail.com
 homepage: 
 designations:
