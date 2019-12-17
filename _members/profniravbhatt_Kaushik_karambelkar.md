@@ -1,14 +1,14 @@
 ---
 layout: member
-name: Sundari Ramji
-image: SundariRamji1.jpg
-email: sundari.ramji@gmail.com
+name: Kaushik Karambelkar
+image: default.png
+email: Kaushik.iitmadras@gmail.com
 designations: 
-  - Postdoctoral Fellow
+  - Dual Degree
 homepage: 
 areas:
-  - Systems Biology
-  - Computational Modelling
-bio: I completed my PhD from the Department of Chemical Engineering at IIT Madras. My PhD dealt with Modelling of hydrodynamics, mass transfer and reactions in two-phase flows in a microchannel. My research as a Postdoctoral fellow would deal with the Modelling and control of integrated multi-scale disease network. 
+  - Network Biology
+  
+bio: I work on mathematical modelling of the signalling and metbolic networks in whkext of breast cancer and intergrating those networks using novel mathematical approaches.
 type: student
 ---
