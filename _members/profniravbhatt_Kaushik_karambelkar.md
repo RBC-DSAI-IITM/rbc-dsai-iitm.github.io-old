@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Kaushik Karambelkar
-image: default.png
+image: new-01.png
 email: Kaushik.iitmadras@gmail.com
 designations: 
   - Dual Degree

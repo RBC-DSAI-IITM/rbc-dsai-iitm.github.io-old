@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ragunathan D 
-image: default.png
+image: raghu-01.png
 email: ragunathan.sci@gmail.com
 designations: 
   - Post Bacc 

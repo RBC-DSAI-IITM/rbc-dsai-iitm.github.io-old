@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Karthik Venkat Ramanan
-image: default.png
+image: karthick-01.png
 designations: 
   - Project Associate
 areas:
