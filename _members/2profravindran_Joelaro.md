@@ -1,7 +1,7 @@
 ---
 layout: member
 name: J. Joel Aro 
-image: default.png
+image: joel-01.png
 email: joelaro97@gmail.com
 homepage: 
 designations: 
