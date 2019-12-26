@@ -12,7 +12,8 @@ categories: events
         <li><b>Venue</b> : IITM Research Park</li>
 </ul>
 
-<a href="https://forms.gle/Uhv7F2KetQrDFLaH6">To Register Click Here</a><br>
+<a href="http://bit.ly/2ZlGr9z">Click here for Event Photos</a><br>
+<a href="http://bit.ly/2ELLy9M">Click here for Presentations</a><br>
 
 
 <img src="/images/IMG1.png" style="width:880px;height:900px;" />
