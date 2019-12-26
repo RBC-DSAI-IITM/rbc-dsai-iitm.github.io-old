@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Aditya Patel
-image: default.png
+image: aditya-01.png
 email: adityapatel28121995@gmail.com
 designations: 
   - Phd
