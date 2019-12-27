@@ -1,7 +1,7 @@
----
+i---
 layout: member
 name: Harshavardhan.P.v
-image: default.png
+image: Harshavardhan.png
 email: harshavardhan864hk@gmail.com
 homepage:
 designations:
