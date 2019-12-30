@@ -1,4 +1,4 @@
-i---
+---
 layout: member
 name: Harshavardhan.P.v
 image: Harshavardhan.png
