@@ -7,7 +7,10 @@ categories: events
 ---
 
 <ul class="mb-5">
-        
+       <li><b>Venue</b> : BT seminar Hall, Bio Technology Department, Block I,IIT Madras, Chennai 600036 </li>
+         <li><b>Time</b>&nbsp;&nbsp; : 09:30 AM</li>
+         <li><b>Date</b>&nbsp;&nbsp; : 27th November 2019 (Wednesday)</li>  
+</ul>      
 <br><strong>Title :</strong>
 <br>Human Allied Learning of Relational Deep Models <br> 
 
