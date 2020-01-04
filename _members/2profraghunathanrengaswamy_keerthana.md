@@ -10,5 +10,5 @@ areas:
   - Machine Learning Applications in CAE Simulations
   - Graph Algorithms
 bio: B.Tech Mechanical Engineering from IIT Madras, IDDD Data Sciences Programme - Currently Doing my DDP. 
-type: student
+type: 
 ---
