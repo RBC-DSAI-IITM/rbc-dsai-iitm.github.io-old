@@ -8,8 +8,8 @@ categories: events
 
 <ul class="mb-5">
        <li><b>Venue</b> : BT seminar Hall, Bio Technology Department, Block I,IIT Madras, Chennai 600036 </li>
-         <li><b>Time</b>&nbsp;&nbsp; : 09:30 AM</li>
-         <li><b>Date</b>&nbsp;&nbsp; : 27th November 2019 (Wednesday)</li>  
+         <li><b>Time</b>&nbsp;&nbsp; : 11:00 AM</li>
+         <li><b>Date</b>&nbsp;&nbsp; : 31th December 2019 (Tuesday)</li>  
 </ul>      
 <br><strong>Title :</strong>
 <br>Human Allied Learning of Relational Deep Models <br> 
@@ -20,10 +20,10 @@ categories: events
 
 
 
-<p align="justify"> Abstract :<br>Historically, Artificial Intelligence has taken a symbolic route for representing and reasoning about objects at a higher-level or a statistical route for learning complex models from large data. To achieve true AI, it is necessary to make these different paths meet and enable seamless human interaction. First, I will introduce for learning from rich, structured, complex and noisy data. One of the key attractive properties of the learned models is that they use a rich representation for modelling the domain that potentially allows for seam-less human interaction. Next, I will present the recent progress that allows for more reasonable human interaction where the human input is taken as “advice” and the learning algorithm combines this advice with data. Finally, I will discuss the potential of "closing the loop" where an agent figures out what it knows and solicits information about what it does not know. This is an important direction to realize the true goal of human allied AI. <br></p><br><br>
+<p align="justify"><strong> Abstract :</strong><br>Historically, Artificial Intelligence has taken a symbolic route for representing and reasoning about objects at a higher-level or a statistical route for learning complex models from large data. To achieve true AI, it is necessary to make these different paths meet and enable seamless human interaction. First, I will introduce for learning from rich, structured, complex and noisy data. One of the key attractive properties of the learned models is that they use a rich representation for modelling the domain that potentially allows for seam-less human interaction. Next, I will present the recent progress that allows for more reasonable human interaction where the human input is taken as “advice” and the learning algorithm combines this advice with data. Finally, I will discuss the potential of "closing the loop" where an agent figures out what it knows and solicits information about what it does not know. This is an important direction to realize the true goal of human allied AI. <br></p><br><br>
 
 
-<img src="/images/1-01.png" style="width:200px;height:200px;" />  <img src="/images/2-01.png" style="width:200px;height:200px;" /> <img src="/images/3-01.png" style="width:200px;height:200px;" /> <img src="/images/4-01.png" style="width:200px;height:200px;" />  <img src="/images/5-01.png" style="width:200px;height:200px;" />   <img src="/images/6-01.png" style="width:200px;height:200px;" />   <img src="/images/7-01.png" style="width:200px;height:200px;" />   <img src="/images/8.png" style="width:200px;height:200px;" />  <img src="/images/9-01.png" style="width:200px;height:200px;" />
+<a href="Click for Event images"><img src="/images/1-01.png" style="width:200px;height:200px;" />  <img src="/images/2-01.png" style="width:200px;height:200px;" /> <img src="/images/3-01.png" style="width:200px;height:200px;" /> <img src="/images/4-01.png" style="width:200px;height:200px;" />  <img src="/images/5-01.png" style="width:200px;height:200px;" />   <img src="/images/6-01.png" style="width:200px;height:200px;" />   <img src="/images/7-01.png" style="width:200px;height:200px;" />   <img src="/images/8.png" style="width:200px;height:200px;" />  <img src="/images/9-01.png" style="width:200px;height:200px;" />
 
 
 
