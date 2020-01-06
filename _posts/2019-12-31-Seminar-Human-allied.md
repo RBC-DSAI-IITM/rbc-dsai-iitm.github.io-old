@@ -12,8 +12,8 @@ categories: events
          <li><b>Date</b>&nbsp;&nbsp; : 31th December 2019 (Tuesday)</li>
 </ul>
 
-         <br><strong>Title :</strong>
-           <br>Human Allied Learning of Relational Deep Models <br>
+ <br><strong>Title :</strong>
+ <br>Human Allied Learning of Relational Deep Models <br>
 
 <a href="https://rbc-dsai-iitm.github.io/events/2019/12/31/Seminar-photos.html">click for Images</a>
 
