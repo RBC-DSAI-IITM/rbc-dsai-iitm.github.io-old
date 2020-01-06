@@ -3,7 +3,7 @@ layout: post
 title: Seminar of Human Allied Learning on Relational Deep Models, by Dr. Sriraam Natarajan
 venue: Alan M. Turing Hall (BSB 361)
 date: 2019-12-31 11:00:00 +0530
-categories:i events
+categories: events
 ---
 
 <ul class="mb-5">
