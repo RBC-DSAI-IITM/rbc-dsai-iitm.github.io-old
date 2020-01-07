@@ -6,10 +6,11 @@ date: 2019-12-31 11:00:00 +0530
 categories: events
 ---
 
-
+<ul class="mb-5" >
       <li><b>Venue</b> : Alan M. Turing Hall (BSB 361) Madras, Chennai 600036 </li>
       <li><b>Time</b>&nbsp;&nbsp; : 11:00 AM</li>
        <li><b>Date</b>&nbsp;&nbsp; : 31th December 2019 (Tuesday)</li>
+</ul>
 
  <br><strong>Title :</strong>
  <br>Human Allied Learning of Relational Deep Models <br>
