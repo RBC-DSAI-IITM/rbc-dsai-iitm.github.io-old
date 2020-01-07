@@ -3,7 +3,8 @@ layout: post
 title: Photos  
 venue: Alan M.Turning Hall
 date: 2019-12-31 11:00:00 +0530
-categories: events 
+
+categories:  
 ---
 
 
