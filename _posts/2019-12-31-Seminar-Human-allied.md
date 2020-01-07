@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk on Human Allied Learning on Relational Deep Models &nbsp  by Prof. Sriraam Natarajan
+title: Talk on Human Allied Learning on Relational Deep Models &nbsp          &nbsp   by Prof. Sriraam Natarajan
 venue: Alan M. Turing Hall (BSB 361)
 date: 2019-12-31 11:00:00 +0530
 categories: events
