@@ -55,11 +55,11 @@ categories: events
 
 <div class="header">
 
-<img src="./wsm_files/rbcdsai.jpg" alt="RBCDSAI" height="100">
+<img src="./images/rbcdsai.jpg" alt="RBCDSAI" height="100">
 
-<img src="./wsm_files/iitm.jpg" alt="IITM" height="100">
+<img src="./images/iitm.jpg" alt="IITM" height="100">
 
-<img src="./wsm_files/google.jpg" alt="Google" id="goo" height="100">
+<img src="./images/google.jpg" alt="Google" id="goo" height="100">
 
 </div>
 
