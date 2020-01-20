@@ -105,7 +105,7 @@ categories: events
 
     <td class="tg-0pky">Srinivasan Parthasarathy, Ohio State</td>
 
-    <td class="tg-0pky"><a href="./images/Srinivasan.pdf" target="_blank">Levering Telematics &amp; Contextual Data Analysis for Driving Risk Prediction</a></td>
+    <td class="tg-0pky"> <a href="/images/Srinivasan.pdf" target="_blank">Levering Telematics &amp; Contextual Data Analysis for Driving Risk Prediction</a></td>
 
   </tr>
 
