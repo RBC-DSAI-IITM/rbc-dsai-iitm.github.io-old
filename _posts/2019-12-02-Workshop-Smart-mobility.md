@@ -171,7 +171,7 @@ categories: events
 
     <td class="tg-0pky">Prabhjot Kaur</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Prabhjot.pdf" target="_blank">One-stop Integrated Solution for Smart Management of EV Infrastructure</a></td>
+    <td class="tg-0pky"> <a href="/images/Prabhjot.pdf" target="_blank">One-stop Integrated Solution for Smart Management of EV Infrastructure</a></td>
 
   </tr>
 
