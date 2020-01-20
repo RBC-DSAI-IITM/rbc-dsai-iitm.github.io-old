@@ -569,11 +569,7 @@ categories: events
 
   </tr>
 
-</table>
-</div>
-
-</body>
-</html>   
+   
 
 <br><strong>Organizers:</strong>
 <br>Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research
