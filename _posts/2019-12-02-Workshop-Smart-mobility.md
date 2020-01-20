@@ -14,7 +14,6 @@ categories: events
 
 <a href="http://bit.ly/2ZlGr9z">Click here for Event Photos</a><br>
    
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8"> <title>WSM 2019</title> </head> <body>
 
 <style type="text/css">
 
@@ -570,9 +569,11 @@ categories: events
 
   </tr>
 
-</table></div>
+</table>
+</div>
 
-</body> </html>   
+</body>
+</html>   
 
 <br><strong>Organizers:</strong>
 <br>Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research
