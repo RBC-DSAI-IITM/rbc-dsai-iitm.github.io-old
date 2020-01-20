@@ -163,7 +163,7 @@ categories: events
 
     <td class="tg-0pky">Surendra Reddy Kancharla, IIT Madras</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Surendra.pdf" target="_blank">Multi-Depot Two Echelon Capacitated Vehicle Routing Problem with Heterogeneous Fleet</a></td>
+    <td class="tg-0pky"> <a href="/images/Surendra.pdf" target="_blank">Multi-Depot Two Echelon Capacitated Vehicle Routing Problem with Heterogeneous Fleet</a></td>
 
   </tr>
 
