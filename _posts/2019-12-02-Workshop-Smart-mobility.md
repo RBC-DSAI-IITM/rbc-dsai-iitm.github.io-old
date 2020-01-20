@@ -115,7 +115,7 @@ categories: events
 
     <td class="tg-0pky">Bharadwaj Amrutur, IISc</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Bharadwaj.pdf" target="_blank">Smart City 2.0: Rethink the approach</a></td>
+    <td class="tg-0pky"> <a href="/images/Bharadwaj.pdf" target="_blank">Smart City 2.0: Rethink the approach</a></td>
 
   </tr>
 
