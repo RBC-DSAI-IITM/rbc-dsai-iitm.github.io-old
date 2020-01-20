@@ -147,7 +147,7 @@ categories: events
 
     <td class="tg-0pky">Nizam SP, Google</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Nizam.pdf" target="_blank">Where is my Train?</a></td>
+    <td class="tg-0pky"> <a href="/images/Nizam.pdf" target="_blank">Where is my Train?</a></td>
 
   </tr>
 
