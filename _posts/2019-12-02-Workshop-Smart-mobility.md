@@ -155,7 +155,7 @@ categories: events
 
     <td class="tg-0pky">Venkatesh Kannan, Flipkart</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Venkatesh.pdf" target="_blank">Solving the vehicle routing problem for optimizing shipment delivery</a></td>
+    <td class="tg-0pky"> <a href="/images/Venkatesh.pdf" target="_blank">Solving the vehicle routing problem for optimizing shipment delivery</a></td>
 
   </tr>
 
