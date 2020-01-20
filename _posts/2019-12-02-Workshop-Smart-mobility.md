@@ -139,7 +139,7 @@ categories: events
 
     <td class="tg-0pky">B Ravindran, IIT Madras</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Ravindran.pdf" target="_blank">Challenges with Data (science) for Vehicle Detection in Indian Traffic</a></td>
+    <td class="tg-0pky"> <a href="/images/Ravindran.pdf" target="_blank">Challenges with Data (science) for Vehicle Detection in Indian Traffic</a></td>
 
   </tr>
 
