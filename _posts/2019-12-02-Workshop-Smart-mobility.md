@@ -497,7 +497,7 @@ categories: events
 
     <td class="tg-0pky">Vinayak Dixit, UNSW</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Vinayak.pdf" target="_blank">A simple crowdsourced delay based traffic control</a></td>
+    <td class="tg-0pky"> <a href="/images/Vinayak.pdf" target="_blank">A simple crowdsourced delay based traffic control</a></td>
 
   </tr>
 
