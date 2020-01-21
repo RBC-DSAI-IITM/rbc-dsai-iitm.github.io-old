@@ -505,7 +505,7 @@ categories: events
 
     <td class="tg-0pky">Ramakrishna Pasumarthy, IIT Madras</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Ramakrishna.pdf" target="_blank">Vehicle Autonomy in Lane less Multi-Commodity and Heterogeneous Traffic</a></td>
+    <td class="tg-0pky"> <a href="/images/Ramakrishna.pdf" target="_blank">Vehicle Autonomy in Lane less Multi-Commodity and Heterogeneous Traffic</a></td>
 
   </tr>
 
@@ -545,7 +545,7 @@ categories: events
 
     <td class="tg-0pky">Sundaresan SA, Ashok Leyland</td>
 
-    <td class="tg-0pky" rowspan="3"><a href="./wsm_files/Panel2.pdf" target="_blank">Notes</td>
+    <td class="tg-0pky" rowspan="3"> <a href="/images/Panel2.pdf" target="_blank">Notes</td>
 
   </tr>
 
