@@ -269,7 +269,7 @@ categories: events
 
     <td class="tg-0pky">Pravesh Biyani, IIIT New Delhi</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Pravesh.pdf" target="_blank">Data Driven Planning and Optimisation for Public Transit --- Learnings</a></td>
+    <td class="tg-0pky"> <a href="/images/Pravesh.pdf" target="_blank">Data Driven Planning and Optimisation for Public Transit --- Learnings</a></td>
 
   </tr>
 
