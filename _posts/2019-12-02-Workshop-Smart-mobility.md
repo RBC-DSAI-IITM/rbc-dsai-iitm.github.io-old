@@ -425,7 +425,7 @@ categories: events
 
     <td class="tg-0pky">Anil Srivatsava, Niti Aayog<br></td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Plenary.pdf" target="_blank">Notes</a></td>
+    <td class="tg-0pky"> <a href="/images/Plenary.pdf" target="_blank">Notes</a></td>
 
   </tr>
 
