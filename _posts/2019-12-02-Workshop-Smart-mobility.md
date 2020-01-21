@@ -457,7 +457,7 @@ categories: events
 
     <td class="tg-0pky">Arun Tangirala, IIT Madras</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Arun.pdf" target="_blank">Use of Machine Learning In Transportation</a></td>
+    <td class="tg-0pky"> <a href="/images/Arun.pdf" target="_blank">Use of Machine Learning In Transportation</a></td>
 
   </tr>
 
