@@ -46,7 +46,7 @@ categories: events
 
 #goo{
 
-  float: right;
+  float: center;
 
 }
 
