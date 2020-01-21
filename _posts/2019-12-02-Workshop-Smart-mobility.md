@@ -54,17 +54,13 @@ categories: events
 
 <div class="header">
 
-<img src="/images/members/rbcdsai.jpg" alt="RBCDSAI" style="width:100px;height:100px;"> 
+<img src="/images/members/rbcdsai.jpg" alt="RBCDSAI" height="100"> 
 
 <img src="/images/members/iitm.jpg" alt="IITM" height="100">
 
 <img src="/images/members/google.jpg" alt="Google" id="goo" height="100">
 
 </div>
-
-<h1 style="color: #cb0000; text-align: center;">Workshop on Smart Mobility</h1>
-
-<h2 style="color: #cb0000; text-align: center;" id="hd2">(Data-driven Models and Algorithms)</h2>
 
 <div class="tg-wrap"><table class="tg">
 
