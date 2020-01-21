@@ -309,7 +309,7 @@ categories: events
 
     <td class="tg-0pky">Karthik K Srinivasan, IIT Madras</td>
 
-    <td class="tg-0pky" rowspan="7"><a href="./wsm_files/Panel1.pdf" target="_blank">Notes</a></td>
+    <td class="tg-0pky" rowspan="7"> <a href="/images/Panel1.pdf" target="_blank">Notes</a></td>
 
   </tr>
 
