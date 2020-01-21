@@ -465,7 +465,7 @@ categories: events
 
     <td class="tg-0pky">Avinash Achar, TCS</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Avinash.pdf" target="_blank">Predictive Modelling Approaches for Bus Travel Time Prediction</a></td>
+    <td class="tg-0pky"> <a href="/images/Avinash.pdf" target="_blank">Predictive Modelling Approaches for Bus Travel Time Prediction</a></td>
 
   </tr>
 
