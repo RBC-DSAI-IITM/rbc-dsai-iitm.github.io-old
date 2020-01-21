@@ -54,7 +54,7 @@ categories: events
 
 <div class="header">
 
-<img src="/images/members/rbcdsai.jpg" alt="RBCDSAI" style="width:500px;height:500px;"> 
+<img src="/images/members/rbcdsai.jpg" alt="RBCDSAI" style="width:2500px;height:2500px;"> 
 
 <img src="/images/members/iitm.jpg" alt="IITM" height="100">
 
