@@ -55,11 +55,11 @@ categories: events
 
 <div class="header">
 
-<img src="/images/members/rbcdsai-01.png" alt="RBCDSAI">
+<img src="/images/members/rbcdsai.jpg" alt="RBCDSAI" height="100">
 
 <img src="/images/members/iitm.jpg" alt="IITM" height="100">
 
-<img src="./images/google.jpg" alt="Google" id="goo" height="100">
+<img src="./images/members/google.jpg" alt="Google" id="goo" height="100">
 
 </div>
 
