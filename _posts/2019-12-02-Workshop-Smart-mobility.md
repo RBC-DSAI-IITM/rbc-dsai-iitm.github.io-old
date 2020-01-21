@@ -245,7 +245,7 @@ categories: events
 
     <td class="tg-0pky">Koyel Mukherjee, IBM</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Koyel.pdf" target="_blank">Xhare-a-Ride -  A Search optimized Peer-to-Peer Dynamic Ride Sharing System</a></td>
+    <td class="tg-0pky"> <a href="/images/Koyel.pdf" target="_blank">Xhare-a-Ride -  A Search optimized Peer-to-Peer Dynamic Ride Sharing System</a></td>
 
   </tr>
 
