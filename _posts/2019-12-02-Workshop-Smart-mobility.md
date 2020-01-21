@@ -545,7 +545,7 @@ categories: events
 
     <td class="tg-0pky">Sundaresan SA, Ashok Leyland</td>
 
-    <td class="tg-0pky" rowspan="3"> <a href="/images/Panel2.pdf" target="_blank">Notes</td>
+    <td class="tg-0pky" rowspan="3"> <a href="/images/Panel2.pdf" target="_blank">Notes</a></td>
 
   </tr>
 
