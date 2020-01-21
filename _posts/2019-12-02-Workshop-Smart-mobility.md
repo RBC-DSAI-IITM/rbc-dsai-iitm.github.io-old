@@ -213,7 +213,7 @@ categories: events
 
     <td class="tg-0pky">Srinivas Peeta, Georgia Tech</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Srinivas.pdf" target="_blank">Information Flow Propagation and Topologies for Control Under Connected And Autonomous Vehicles</a></td>
+    <td class="tg-0pky"> <a href="/images/Srinivas.pdf" target="_blank">Information Flow Propagation and Topologies for Control Under Connected And Autonomous Vehicles</a></td>
 
   </tr>
 
