@@ -449,7 +449,7 @@ categories: events
 
     <td class="tg-0pky">Vetri Elango, Google</td>
 
-    <td class="tg-0pky"><a href="./wsm_files/Vetri.pdf" target="_blank">Machine Learning in Demand Forecasting</a></td>
+    <td class="tg-0pky"> <a href="/images/Vetri.pdf" target="_blank">Machine Learning in Demand Forecasting</a></td>
 
   </tr>
 
