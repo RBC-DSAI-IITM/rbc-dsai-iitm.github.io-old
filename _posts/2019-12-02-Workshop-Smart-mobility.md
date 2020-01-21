@@ -565,7 +565,7 @@ categories: events
   </tr>
 
    
-
+&nbsp              &nbsp                   &nbsp
 <br><strong>Organizers:</strong>
 <br>Gitakrishnan Ramadurai, Robert Bosch Center for Data Science and AI, IIT-Madras <br> Sreenivas Gollapudi, Google Research
 <p align="justify"> E-mail:<a href="#"> gitakrishnan@iitm.ac.in</a> or<a href="#"> sgollapu@google.com</a> for sponsorship opportunities and<br> more information.</p><br><br>
