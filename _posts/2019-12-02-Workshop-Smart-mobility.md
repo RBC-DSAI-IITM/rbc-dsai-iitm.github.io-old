@@ -59,7 +59,7 @@ categories: events
 
 <img src="/images/members/iitm.jpg" alt="IITM" height="100">
 
-<img src="./images/members/google.jpg" alt="Google" id="goo" height="100">
+<img src="/images/members/google.jpg" alt="Google" id="goo" height="100">
 
 </div>
 
