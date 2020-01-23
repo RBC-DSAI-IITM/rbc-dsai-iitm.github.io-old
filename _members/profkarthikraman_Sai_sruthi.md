@@ -1,14 +1,13 @@
 ---
 layout: member
-name: V. Senthamizhan
-image: Sendhu_01.png
-email: senthamizhan1998@gmail.com
+name: Sai Sruthi A
+image: sai-01.png
+email: saisruthiganesh97@gmail.com
 designations: 
   - Project Associate
 areas:
-  - Machine learning
-  - Data science
-  - Biotechnology 
-bio: A curious science enthusiast with an insatiable appetite for Knowledge, looking forward to innorate and improve in the field of data science.
+  - Computational Biology 
+  - Bioinformatics
+bio: Graduated with B.Tech Biotechnology degree froms PSG college of Technology, coimbatore in May 2019.
 type: staff
 ---
