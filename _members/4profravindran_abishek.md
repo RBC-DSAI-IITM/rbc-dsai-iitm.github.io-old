@@ -10,5 +10,5 @@ areas:
   - Deep learning
   - Proteins
 bio: Using DL to predict PPIs. (DD project). 
-type: researchers
+type: student 
 ---
