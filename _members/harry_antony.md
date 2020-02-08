@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Harry Antony 
-image: default.png
+image: harry.jpg
 email: harry.v.antony@gmail.com
 homepage: 
 designations: 

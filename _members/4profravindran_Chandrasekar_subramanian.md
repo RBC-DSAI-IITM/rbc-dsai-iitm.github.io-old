@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Chandrasekar Subramanian
-image: default.png
+image: chandrasekar.jpg
 email: sekarnet@gmail.com
 homepage: 
 designations:
