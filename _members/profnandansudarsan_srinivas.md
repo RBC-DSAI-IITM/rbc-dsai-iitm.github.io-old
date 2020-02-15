@@ -9,5 +9,5 @@ areas:
   -Machine Learning 
  
 bio: Generated Spatio-Temporal crime heat maps using Support Vector Censored Regression. Extracted frequent patterns from application logs using winepi algorithm. 
-type: staff
+type: alumni
 ---
