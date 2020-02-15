@@ -4,7 +4,7 @@ name: Ragunathan D
 image: raghu-01.png
 email: ragunathan.sci@gmail.com
 designations: 
-  - Post Bacc 
+  - Senior Project Officer  
 areas:
   - Host-Pathogen Interaction
   - intrinsically Disordered Proteins
