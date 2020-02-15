@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Abhishek Rao 
-image: default.png
+image: Abshiek.jpg
 email: abhishekaroor@gmail.com
 homepage: 
 designations:
