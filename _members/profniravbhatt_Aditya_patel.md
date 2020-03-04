@@ -4,7 +4,7 @@ name: Aditya Patel
 image: aditya-01.png
 email: adityapatel28121995@gmail.com
 designations: 
-  - Phd
+  - Phd Scholar
 homepage: 
 areas:
   - comtrol and optimization
