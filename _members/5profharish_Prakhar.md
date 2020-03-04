@@ -3,7 +3,7 @@ layout: member
 name: P Krishna Kumar 
 image: default.png
 designations: 
-  - PhD
+  - PhD Scholar
 areas:
   - Machine Learning
   - Theory of deep learning 
