@@ -1,0 +1,63 @@
+- title: Introduction to Machine Learning
+  num: CS5011
+  instructor: B. Ravindran
+
+- title:  Reinforcement Learning
+  num: CS6700
+  instructor: B. Ravindran
+
+- title:  Probabilistic Reasoning in AI
+  num: CS6730
+  instructor: B. Ravindran
+
+- title:  Social Network Analysis
+  num: CS6012
+  instructor: B. Ravindran
+
+- title: Predictive and Prescriptive Data Analytics
+  num: MS6032
+  instructor: Nandan Sudarsanam
+
+- title:  Deep Learning
+  num: CS7015
+  instructor: Mitesh Khapra
+
+- title:  Data Structures and Algorithms for Biology
+  num: BT3051
+  instructor: Karthik Raman
+
+- title:  Computational Biology Laboratory
+  num: BT4110
+  instructor: Karthik Raman
+
+- title:  Process Optimization
+  num: CH5170
+  instructor: Sridharakumar Narasimhan
+
+- title: Applied Time-Series Analysis
+  num: CH5350
+  instructor: Arun K. Tangirala
+
+- title: Statistical Analysis and Design of Experiments
+  num: CH5020
+  instructor: Arun K. Tangirala / A. Kannan
+
+- title: Systems Biology
+  num: BT5240
+  instructor: Karthik Raman
+
+- title: Multivariate Data Analysis
+  num: CH5440
+  instructor: Shankar Narasimhan
+
+- title: System Identification
+  num: CH5230
+  instructor: Arun K. Tangirala
+
+- title: Graph Theory & Its Applications in Process Design
+  num: CH5470
+  instructor: Sridharakumar Narasimhan
+
+- title: Complex Network Analysis
+  num: EE5154
+  instructor: Venkatesh R
