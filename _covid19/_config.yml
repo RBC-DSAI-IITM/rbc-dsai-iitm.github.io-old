@@ -1,0 +1,32 @@
+title: Robert Bosch Center for Data Science and Artificial Intelligence
+
+email:  ravi@cse.iitm.ac.in
+
+description: >
+  This research initiative seeks to advance and implement practices 
+  for gathering, processing and analysing data across different 
+  engineering and social branches. 
+
+timezone: "Asia/Kolkata"
+  
+baseurl: "" 
+url    : "https://rbc-dsai.iitm.ac.in"
+
+include: ['_pages']
+
+collections:
+  news:
+  events:
+  nptel:
+  project:
+  research:
+  members:
+    permalink: /:collection/:path/
+    output: true
+
+
+authors:
+  denzil:
+    name: Denzil Francis Crasta
+  abhishek:
+    name: Abhishek Naik
