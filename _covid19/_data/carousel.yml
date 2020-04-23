@@ -1,0 +1,27 @@
+- title: Robert Bosch Centre for Data Science and Artificial Intelligence 
+  image: carousel3_bg.jpg
+  message: >
+    Founded in August 2017, with a vision to become an internationally renowned 
+    centre for data science research, where long-standing fundamental research problems, 
+    cutting across disciplines, are targeted and solved.
+  link: about.html 
+
+- title: Announcement
+  image: carousel2_bg.jpg
+  message: >
+   RBCDSAI is excited to announce the release of v1.0.0 of DCEIL, the first Distributed Community Detection Algorithm based on the state-of-the-art CEIL scoring function. It comes with GPL v2.0 and thus enables people from both academia and industry to use it in their work.
+  link: https://github.com/RBC-DSAI-IITM/DCEIL
+
+# - title: Reinforcement Learning 
+#   image: carousel2_bg.jpg
+#   message: >
+#     Learning algorithms that enable software agents to take actions 
+#     that maximizes some notion of cumulative reward.
+
+# - title: Natural Language Processing
+#   image: carousel1_bg.jpg
+#   message: >
+#     We develop algorithms to process and understand natural 
+#     language to aid interaction between computers and humans
+
+
