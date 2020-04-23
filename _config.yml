@@ -10,11 +10,12 @@ description: >
 timezone: "Asia/Kolkata"
   
 baseurl: "" 
-url    : "https://rbc-dsai.iitm.ac.in"
+url    : "https://rbcdsai.iitm.ac.in"
 
 include: ['_pages']
 
 collections:
+  covid19:
   news:
   events:
   nptel:
