@@ -10,7 +10,7 @@ layout: default
 
       <div class="carousel-inner">
 
-        {% for item in site.data.carousel %}
+        {% for item in site.covid19.data.carousel %}
         <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
           <img class="{{forloop.index}}-slide" src="images/{{ item.image }}" alt="First slide">
           <div class="container">
