@@ -1,0 +1,291 @@
+---
+layout: default
+---
+ <div id="research-areas-carousel" class="carousel slide" data-ride="carousel">
+
+      <ol class="carousel-indicators">
+        <li data-target="#research-areas-carousel" data-slide-to="0" class="active"></li>
+         <li data-target="#research-areas-carousel" data-slide-to="1"></li>
+      </ol>
+
+
+      <div class="carousel-inner">
+
+        {% for item in site.data.carousel %}
+        <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+          <img class="{{forloop.index}}-slide" src="images/{{ item.image }}" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption  d-md-block">
+              <h1> {{ item.title }} </h1>
+              <p class="mx-auto"> {{ item.message }} </p>
+              <p class="mx-auto"><a class="btn btn-lg btn-primary ripple" href="{{ item.link }}" role="button">Learn More</a></p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+      <a class="carousel-control-prev" href="#research-areas-carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#research-areas-carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+<style>
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 2px solid white;
+  opacity: 1.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 0%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+<style>
+p {
+    text-shadow: 0px 0px 0px white;
+}
+</style>
+<div class="background">
+  <div class="transbox">
+<p>
+    <style style="text/css">
+.scroll-left {
+ height: 40px;
+ overflow: hidden;
+ position: relative;
+}
+.scroll-left p {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+-moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);
+ transform:translateX(100%);
+ /* Apply animation to this element */
+ -moz-animation: scroll-left 20s linear infinite;
+ -webkit-animation: scroll-left 20s linear infinite;
+ animation: scroll-left 20s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   {
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%);
+ }
+ 100% {
+ -moz-transform: translateX(-100%); /* Browser bug fix */
+ -webkit-transform: translateX(-100%); /* Browser bug fix */
+ transform: translateX(-100%);
+ }
+}
+</style>
+
+<div class="">
+<p align="center"><a href="/images/PDF.jpg"style="color: red">RBCDSAI Post Doctoral Fellowship</a>&nbsp; <a href="/images/PBF.jpg"style="color: green">RBCDSAI Post Baccalaureate Fellowship</a><br>
+<a href="https://github.com/RBC-DSAI-IITM/DCEIL"style="color: blue">Announcement: RBCDSAI is excited to announce the release of v1.0.0 of DCEIL, the first Distributed Community Detection Algorithm.<br><a href="#"style="color: blue">System For Scheduling of Piped Water Networks&nbsp;&nbsp;<img src="images/click1.png">&nbsp;<a href="http://10.21.184.209:8080/scheduler/"style="color: blue">IITM Campus Users&nbsp;|&nbsp;<a href="http://14.139.160.87:8080/scheduler/"style="color: blue">Others</a></a>
+</a>
+</a> </p>
+</a></strong>
+
+
+  </div>
+</div>
+</div>
+
+
+    <!-- News and Spotlight Events  --> 
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-sm-7 news" >
+           <h3 class="section-title pl-0"> News </h3>
+
+          {% for post in site.categories["news"] limit:15 %}
+          <div class="card drop-shadow"> 
+            <div class="row no-gutters ">
+            <div class="col-2">
+            <img  class="member-img img-responsive center-block" src="{{post.img}}" alt="Card image cap" >
+            </div>
+            <div class="card-body col-10">
+              <a class="card-title" href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+              <h6 class="card-subtitle mb-2 "> {{ post.date | date: "%d %B %Y" }} </h6>
+              <p class="card-text">
+                {{ post.excerpt | remove: '<p>' | remove: '</p>'  }}
+              </p>
+            </div>
+            </div>
+          </div>
+        {% endfor %}
+        </div>
+
+        <div class="col-sm-5 events">
+        <!--
+          <h3 class="section-title pl-0"> Web Science Research Activities </h3>
+          -->
+         <style> 
+
+#box {
+  left: 100;
+  border: 2px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+</style>
+</head>
+<body>
+<h3 class="section-title pl-0"> Newsletter </h3>
+<div id="box">
+  <p><p><a href="/images/newsletter.pdf">Q4-2018</a> &nbsp;    <a href="/images/Q2-2019-Final.pdf">Q2-2019</a></p></p>
+  <p><p><a href="/images/newsletter2019.pdf">Q1-2019</a> &nbsp;    <a href="/images/Q3-2019.pdf">Q3-2019</a></p></p>
+  <p><p><a href="/images/Q4_News.pdf">Q4-2019</a> &nbsp;
+</div> 
+</body>
+</html>
+<style>
+
+
+#box {
+  text-align: right: 200;
+  border: 2px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+</style>
+</head>
+<body>
+<h3 class="section-title pl-0"> Awards </h3>
+<div id="box">
+  <p><br><strong>1630-1715 Award Session (Salon A)</strong><br><strong>Best Paper:</strong><p>Paper # represents poster board #.<br><strong>Chair : Gang Hua <br></strong><br> Ablation-CAM:Visual Explanations for Deep Convolutional Network via Gradient-free Localization,Saurabh Desai(Robert Bosch Centre for Data Science and Artificial Intelligence, iit madras)*; Harish Guruprasad Ramaswamy(IIT Madras)</br>    
+</div>
+</body>
+</html>
+         <h3 class="section-title pl-0"> Events </h3> 
+
+          {% for post in site.categories["events"] %}
+          <div class="card event-card drop-shadow"> 
+             <div class="container">
+             <div class="row ">
+             <div class="col-9">
+              <a class="card-title" href="{{ post.url }}">
+                {{ post.title }} 
+              </a>
+              <div class="card-speaker"> 
+                 {{post.speaker}}
+              </div>
+              <div class="card-subtitle"> 
+                {{ post.venue }}
+              </div>
+             </div>
+             <div class="col-3 text-right " style="margin-left:-15px">
+               <div class="cal-box">
+                 <div class="cal-day">{{ post.date | date: "%d %b" }} </div>
+                 <div class="cal-time">{{ post.date | date: "%l:%M %P" }} </div>
+               </div>
+               
+            </div>
+            </div>
+            </div>
+              
+          </div>
+          {% endfor %}
+
+
+         </div>
+        </div>
+
+        <div class="row">
+        <div class="col-12 " >
+          <div class="pub-container">
+          <h3 class="section-title mt-4" > Recent Publications </h3>
+          <ol class="px-0 mx-0 publications list">
+            {% for paper in site.data.publications_sorted limit:2 %}
+              <li>
+                <span class="pub-title">{{ paper.title}} </span> 
+                <span class="pub-authors">
+                {% assign authors = paper.author | split: " and " %}
+                {% assign str = "" %}
+                {% for author in authors %} 
+                  {% assign curr_str =  author | split: "," | reverse | join: " "| append:", " %}
+                  {% assign str = str | append: curr_str %} 
+                {% endfor %}
+                {% assign len = str | size | minus:2 %}
+                {{ str | slice:0, len }}
+                </span>
+                <span class="pub-journal">{{ paper.booktitle }}</span>
+                <span class="pub-year">({{ paper.year }})</span>
+                <span class="pub-location"></span>
+                <span class="pub-tail">
+                  {{ paper.volume }}
+                  {% if paper.number %} ({{ paper.number }}) {% endif %}
+                  {{ paper.pages}}
+                </span>
+                <span class="pub-links"> 
+                  {% if paper.link %}<a href="{{ paper.link }}">pdf</a> {% endif %}
+                  <!-- <a href="#">git</a> -->
+                </span>
+              </li>
+             {% endfor %}
+              <li class="border-0">
+               <a class="btn btn-primary btn-sm btn-view-more ripple" role="button" href="publications"> <strong> + </strong>  View More Publications </a>
+              </li>
+
+            </ol>
+            </div>
+            </div>
+            </div>
+
+    </div>
+
+    <div class="container mt-3" >
+      <div class="row">
+        <div class="col-3 pt-5">
+          <a href="http://web.iitm.ac.in/ibse/" target="_blank"><img class="pt-4" align="left" src="images/IBSE_logo.png" width="100" height="125"/></a>
+          <a href="http://www.webscience.org" target="_blank"><img class="pt-4" align="right" src="images/webtrust_logo_blue.jpg" width="125" height="100" /></a>
+        </div>
+        <div class="col-9 collab-section" >
+        <div >
+        <h3 class="section-title text-center"> Government and Industry Collaborators </h3>
+        <div class="container">
+          <div class="row align-items-center no-gutters">
+             <div class="col-2 text-center right-shadow zindex-sticky py-2">
+              <img   class="my-2 pr-3 brand-logo" src="images/bosch.png">
+              </div>
+            <div class="col-10">
+              <marquee behaviour="scroll" loop="1" scrollamount="2" direction="left" height="108" >
+                  {% for collaborator in site.data.collaborators  %}
+                       <img  width="75" class="my-2 mx-3" src="images/industrial/{{ collaborator.image }}"> 
+                  {% endfor %} 
+              </marquee>
+            </div>
+          </div>
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
