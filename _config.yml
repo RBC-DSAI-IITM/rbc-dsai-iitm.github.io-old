@@ -15,7 +15,6 @@ url    : "https://rbcdsai.iitm.ac.in"
 include: ['_pages']
 
 collections:
-  covid19:
   news:
   events:
   nptel:
