@@ -11,7 +11,7 @@ layout: default
 
       <div class="carousel-inner">
 
-        {% for item in site.data.carousel %}
+        {% for item in site.data.covid19_carousel %}
         <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
           <img class="{{forloop.index}}-slide" src="images/{{ item.image }}" alt="First slide">
           <div class="container">
@@ -104,7 +104,7 @@ p {
 </style>
 
 <div class="">
-<p align="center"><a href="https://rbc-dsai.iitm.ac.in/flyer.html"style="color: blue">RBCDSAI Post Doctoral Fellowship</a><br>
+<p align="center"><a href="/images/PDF.jpg"style="color: red"> Post Doctoral Fellowship</a>&nbsp; <a href="/images/PBF.jpg"style="color: green">RBCDSAI Post Baccalaureate Fellowship</a><br>
 <a href="https://github.com/RBC-DSAI-IITM/DCEIL"style="color: blue">Announcement: RBCDSAI is excited to announce the release of v1.0.0 of DCEIL, the first Distributed Community Detection Algorithm.<br><a href="#"style="color: blue">System For Scheduling of Piped Water Networks&nbsp;&nbsp;<img src="images/click1.png">&nbsp;<a href="http://10.21.184.209:8080/scheduler/"style="color: blue">IITM Campus Users&nbsp;|&nbsp;<a href="http://14.139.160.87:8080/scheduler/"style="color: blue">Others</a></a>
 </a>
 </a> </p>
@@ -151,9 +151,9 @@ p {
          <style> 
 
 #box {
-  border: 1px solid;
+  left: 100;
+  border: 2px solid;
   padding: 10px;
-  
   box-shadow: 5px 10px red;
 }
 </style>
@@ -161,16 +161,31 @@ p {
 <body>
 <h3 class="section-title pl-0"> Newsletter </h3>
 <div id="box">
-  <p><p><a href="/images/newsletter.pdf">Q4-2018</a></p></p> 
-  <p><p><a href="/images/q2_newletter2019.pdf">Q2-2019</a></p></p>
-  <p><p><a href="/images/newsletter2019.pdf">Q1-2019</a></p></p>
-  
-  
-</div>
-
+  <p><p><a href="/images/newsletter.pdf">Q4-2018</a> &nbsp;    <a href="/images/Q2-2019-Final.pdf">Q2-2019</a></p></p>
+  <p><p><a href="/images/newsletter2019.pdf">Q1-2019</a> &nbsp;    <a href="/images/Q3-2019.pdf">Q3-2019</a></p></p>
+  <p><p><a href="/images/Q4_News.pdf">Q4-2019</a> &nbsp;
+</div> 
 </body>
 </html>
-          <h3 class="section-title pl-0"> Events </h3> 
+<style>
+
+
+#box {
+  text-align: right: 200;
+  border: 2px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+</style>
+</head>
+<body>
+<h3 class="section-title pl-0"> Awards </h3>
+<div id="box">
+  <p><br><strong>1630-1715 Award Session (Salon A)</strong><br><strong>Best Paper:</strong><p>Paper # represents poster board #.<br><strong>Chair : Gang Hua <br></strong><br> Ablation-CAM:Visual Explanations for Deep Convolutional Network via Gradient-free Localization,Saurabh Desai(Robert Bosch Centre for Data Science and Artificial Intelligence, iit madras)*; Harish Guruprasad Ramaswamy(IIT Madras)</br>    
+</div>
+</body>
+</html>
+         <h3 class="section-title pl-0"> Events </h3> 
 
           {% for post in site.categories["events"] %}
           <div class="card event-card drop-shadow"> 
@@ -250,7 +265,7 @@ p {
     <div class="container mt-3" >
       <div class="row">
         <div class="col-3 pt-5">
-          <a href="http://web.iitm.ac.in/ibse/" target="_blank"><img class="pt-4" align="left" src="images/IBSE_logo.png" width="100" height="125"/></a>
+          <a href="https://ibse.iitm.ac.in/" target="_blank"><img class="pt-4" align="left" src="images/IBSE_logo.png" width="100" height="125"/></a>
           <a href="http://www.webscience.org" target="_blank"><img class="pt-4" align="right" src="images/webtrust_logo_blue.jpg" width="125" height="100" /></a>
         </div>
         <div class="col-9 collab-section" >
