@@ -1,28 +1,243 @@
 ---
 
 layout: post
-title: <>IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes</a>
+title: <a>IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes</a>
 img: /assets/traffic.jpg
 categories: news
 ---
-<p align="justify">Data Science, ML, AI are the flavors of the season all over the world and India is no exception.  Interest in these techniques is at a fever pitch; academicians and industrial practitioners alike are exploring the fundamental underpinnings and application potential of these techniques.  As a result, data science is being evaluated for implementation in all imaginable fields and sub-fields.  Sports is one such area with tremendous potential for data science applications.</p>
 
-<p align="justify">While sports analytics has been around for a long time, sabermetrics being a prime example, the scale of what can be achieved now with analytics is quite stupendous.</p>
+<p align="justify">Print coverage 
+Date: 7th April 2020
+Publication: The Economic Times (clip attached) 
+Edition: Bangalore
+Page No: 5
+Journalist: NA
+Headline: IIT-M Develops Algorithms 
 
-<p align="justify">Disparate data from various sources can be collected and analyzed towards making decisions regarding almost all aspects of any sport.</p>
+Date: 7th April 2020
+Publication: The Times of India (clip attached) 
+Edition: Chennai
+Page No: 4
+Journalist: NA
+Headline: IIT-M team develops fresh algorithm to study genes diseases
 
-<p align="justify">Ball-by-ball commentary, video feed, bats that are actual IoT devices producing fascinating information, can all be merged together for analysis</p>
-<br><br>
+Date: 8th April 2020
+Media: The Times of India (clip attached) 
+Edition: Chennai 
+Page No: 2 
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline:Tool powering online search can help find root cause of diseases </p>
 
-<strong>Below are the links for consolidated coverage of few press releases.
-<li> <a href="http://vigyanprasar.gov.in/isw/new-centre-for-data-science-and-AI-opens-in-iitmadras.html">http://vigyanprasar.gov.in/isw/new-centre-for-data-science-and-AI-opens-in-iitmadras.html</a> </li>
-<li> <a href="https://cio.economictimes.indiatimes.com/news/corporate-news/bosch-opens-ai-centre-at-iit-madras/67878114">https://cio.economictimes.indiatimes.com/news/corporate-news/bosch-opens-ai-centre-at-iit-madras/67878114</a> </li><li> <a href="https://indianexpress.com/article/education/iit-madras-gets-center-for-data-science-and-artificial-intelligence-5571792/">https://indianexpress.com/article/education/iit-madras-gets-center-for-data-science-and-artificial-intelligence-5571792/</a> </li>
-<li> <a href="https://www.thehindubusinessline.com/news/education/bosch-opens-centre-for-data-science-artificial-intelligence-at-iit-m/article26193127.ece">https://www.thehindubusinessline.com/news/education/bosch-opens-centre-for-data-science-artificial-intelligence-at-iit-m/article26193127.ece</a> </li>
-<li> <a href="http://www.newindianexpress.com/cities/chennai/2019/feb/07/robert-bosch-centre-launched-at-iit-madras-1935406.html">http://www.newindianexpress.com/cities/chennai/2019/feb/07/robert-bosch-centre-launched-at-iit-madras-1935406.html</a> </li>
-<li> <a href="https://www.ndtv.com/education/iit-madras-bosch-opens-center-for-data-science-and-artificial-intelligence-1989244">https://www.ndtv.com/education/iit-madras-bosch-opens-center-for-data-science-and-artificial-intelligence-1989244</a> </li>
-<li> <a href="http://www.uniindia.com/~/bosch-opens-center-for-data-science-and-ai-at-iit-m/States/news/1490923.html">http://www.uniindia.com/~/bosch-opens-center-for-data-science-and-ai-at-iit-m/States/news/1490923.html</a> </li>
-<li> <a href="https://indusbusinessjournal.com/2019/02/bosch-to-invest-rs-20-crore-in-ai-centre-in-india/">https://indusbusinessjournal.com/2019/02/bosch-to-invest-rs-20-crore-in-ai-centre-in-india/</a> </li>
-<li> <a href="https://www.businesstoday.in/current/economy-politics/bosch-opens-data-science-and-artificial-intelligence-centre-at-iit-madras/story/317798.html">https://www.businesstoday.in/current/economy-politics/bosch-opens-data-science-and-artificial-intelligence-centre-at-iit-madras/story/317798.html</a> </li>
-<li> <a href="https://www.thenewsminute.com/article/bosch-invest-rs-20-crore-artificial-intelligence-centre-iit-madras-96305">https://www.thenewsminute.com/article/bosch-invest-rs-20-crore-artificial-intelligence-centre-iit-madras-96305</a> </li>
-<li> <a href="http://tamil.eenaduindia.com/State/Chennai/2019/02/06235838/Bosch-opens-centre-for-data-science-amp-artificial.vpf">http://tamil.eenaduindia.com/State/Chennai/2019/02/06235838/Bosch-opens-centre-for-data-science-amp-artificial.vpf</a> </li>
+<p align="justify">Online coverage 
+
+Date: 7th April 2020
+Publication: Business Standard 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline: IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes
+<li> <a href="https://www.business-standard.com/article/pti-stories/iit-m-develops-algorithms-to-detect-diseases-causing-dysfunctional-proteins-and-genes-120040601029_1.html" </a> </li>
+
+Date: 7th April 2020
+Publication: The Times of India - Education Times 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline: IIT Madras researchers develop algorithms to identify genetic and protein links between similar diseases
+<li> <a href="https://educationtimes.com/article/newsroom/75007684/iit-madras-researchers-develop-algorithms-to-identify-genetic-and-protein-links-between-similar-diseases.html
+
+Date: 7th April 2020
+Publication: NDTV
+Edition: Online
+Journalist: Anisha Kumari 
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras Researchers Develop Algorithms To Detect Disease-Causing Dysfunctional Proteins, Genes
+<li> <a href="https://www.ndtv.com/education/iit-madras-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional-proteins-genes-2206982
+
+Date: 7th April 2020
+Publication: The New Indian Express - EDEX 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to detect disease-causing dysfunctional proteins, genes in biological networks
+<li> <a href="https://www.edexlive.com/news/2020/apr/06/iit-madras-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional-proteins-11134.html
+
+Date: 7th April 2020
+Publication: BW Education 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras Researchers Develop Algorithms To Detect Disease-Causing Dysfunctional Proteins
+<li> <a href="http://bweducation.businessworld.in/article/IIT-Madras-Researchers-Develop-Algorithms-To-Detect-Disease-Causing-Dysfunctional-Proteins-/06-04-2020-188366/
+
+Date: 7th April 2020
+Publication: India Today 
+Edition: Online
+Journalist: Aysha Aman
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to study diseases
+<li> <a href="https://www.indiatoday.in/education-today/news/story/iit-madras-researchers-develop-algorithms-to-study-diseases-1663903-2020-04-06
+
+Date: 7th April 2020
+Publication: Outlook
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline: IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes
+<li> <a href="https://www.outlookindia.com/newsscroll/iitm-develops-algorithms-to-detect-diseases-causing-dysfunctional-proteins-and-genes/1793285
+
+Date: 9th April 2020
+Media: Biospectrum 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras develops computational algorithms to link diseases to underlying genes
+<li> <a href="https://www.biospectrumindia.com/news/58/16170/iit-madras-develops-computational-algorithms-to-link-diseases-to-underlying-genes.html
+
+Date: 7th April 2020
+Publication: The Week 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline: IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes
+<li> <a href="https://www.theweek.in/wire-updates/business/2020/04/06/mes6-tn-diseases-iitm.html
+
+Date: 7th April 2020
+Publication: Daily Hunt 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to study diseases
+<li> <a href="https://m.dailyhunt.in/news/india/english/india+today-epaper-indiatoday/iit+madras+researchers+develop+algorithms+to+study+diseases-newsid-176443108
+
+Date: 7th April 2020
+Publication: LatestlY
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT-M Develops Algorithms to Detect Diseases Causing Dysfunctional Proteins and Genes
+<li> <a href="https://www.latestly.com/agency-news/iit-m-develops-algorithms-to-detect-diseases-causing-dysfunctional-proteins-and-genes-1663003.html
+
+Date: 7th April 2020
+Publication: Hindi to News 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras Researchers Develop Algorithms To Detect Illness-Inflicting Dysfunctional Proteins, Genes
+<li> <a href="https://hindi2news.com/iit-madras-researchers-develop-algorithms-to-detect-illness-inflicting-dysfunctional-proteins-genes/
+
+Date: 7th April 2020
+Publication: News Dig
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to study diseases
+<li> <a href="https://newsdig.in/news/801344671/IIT-Madras-researchers-develop-algorithms-to-study-diseases
+
+Date: 7th April 2020
+Publication: Edu Advise 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT M develop Algorithms to detect Disease-causing Dysfunctional
+<li> <a href="http://eduadvice.in/home/NewsDetail?pid=22231
+
+Date: 7th April 2020
+Publication: India Education Diary 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras Researchers develop Algorithms to detect Disease-causing Dysfunctional Proteins & Genes in Biological Networks
+<li> <a href="https://indiaeducationdiary.in/iit-madras-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional-proteins-genes-in-biological-networks/
+
+Date: 7th April 2020
+Publication: UC News 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to study diseases
+<li> <a href="https://www.ucnews.in/news/IIT-Madras-researchers-develop-algorithms-to-detect-diseasecausing-dysfunctional-proteins-genes-in-biological-networks/1674439419626467.html
+
+Date: 7th April 2020
+Publication: HT Syndication.com
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras Researchers develop Algorithms to detect Disease-causing Dysfunctional Proteins & Genes in Biological Networks
+<li> <a href="https://www.htsyndication.com/india-education-diary/article/iit-madras-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional-proteins-and-genes-in-biological-networks/41875707
+
+Date: 7th April 2020
+Publication: Shafqna.com
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Headline: IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes
+<li> <a href="http://in.shafaqna.com/EN/AL/2003265
+
+Date: 7th April 2020
+Publication: Devdiscourse 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes
+<li> <a href="https://www.devdiscourse.com/article/business/995290-iit-m-develops-algorithms-to-detect-diseases-causing-dysfunctional-proteins-and-genes
+
+Date: 6th April 2020
+Publication: Trending Updates Tamil
+Edition: Online
+Journalist: Vihaan
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: ஐ.ஐ.டி மெட்ராஸ் ஆராய்ச்சியாளர்கள் நோயை உருவாக்கும் செயலற்ற புரதங்கள், மரபணுக்களைக் கண்டறிய வழிமுறைகளை உருவாக்குகின்றனர் (IIT Madras Researchers Develop Algorithms To Detect Disease-Causing Dysfunctional Proteins, Genes)
+<li> <a href="https://bit.ly/2Xmgbge  
+
+Date: 8th April 2020
+Media: Navjeevan Express
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT-M Researchers develop Algorithms to detect Disease-causing Dysfunctional Proteins & Genes in Biological Networks
+<li> <a href="https://www.google.com/url?q=https://navjeevanexpress.com/iit-m-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional
+
+Date: 8th April 2020
+Media: Campus Varta 
+Edition: Online
+Journalist: NA
+Professor: Prof. B. Ravindran, Dr. Karthik Raman and Dr. Himanshu Sinha
+Visiting Professor: Prof Srinivasan Parthasarathy
+Student: Ms. Beethika Tripathi
+Headline: IIT Madras researchers develop algorithms to detect disease-causing dysfunctional proteins, genes in biological networks
+<li> <a href="https://www.campusvarta.com/campus-updates/iit-madras-researchers-develop-algorithms-to-detect-disease-causing-dysfunctional-proteins-genes-in-biological-networks/ 
+
 
