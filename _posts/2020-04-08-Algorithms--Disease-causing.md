@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: <a>IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes</a>
+title: <a >IIT-M develops algorithms to detect diseases causing dysfunctional proteins and genes</a>
 img: /assets/traffic.jpg
 categories: news
 ---
