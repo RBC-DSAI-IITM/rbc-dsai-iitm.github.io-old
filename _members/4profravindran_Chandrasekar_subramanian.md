@@ -5,7 +5,7 @@ image: chandrasekar.jpg
 email: sekarnet@gmail.com
 homepage: 
 designations:
-  - Senior Project Officer  
+  - PhD Scholar  
 areas:
   - Reinforcement learning
 
