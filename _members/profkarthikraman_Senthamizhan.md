@@ -4,7 +4,7 @@ name: V. Senthamizhan
 image: Sendhu_01.png
 email: senthamizhan1998@gmail.com
 designations: 
-  - Project Associate
+  - Post Baccalaureate Fellow
 areas:
   - Machine learning
   - Data science

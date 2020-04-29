@@ -4,7 +4,7 @@ name: Nilesh Anantha Subramanian
 image: Nilesh-01-01.png
 email: Nilesh.sept14@gmail.com
 designations: 
-  - Project Associate 
+  - Post Baccalaureate Fellow 
 areas:
   - Cancer Bilology
   - Computational biology
