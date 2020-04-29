@@ -4,7 +4,7 @@ name: Depen Morwani
 image: morwani1.png
 email: depenmorwani@gmail.com
 designations: 
-  - Project Associate
+  - MS Scholar
 areas:
   - Reinforcement Learning
   - Theoretical Deep Learning

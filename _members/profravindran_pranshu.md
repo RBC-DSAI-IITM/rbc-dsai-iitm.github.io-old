@@ -4,7 +4,7 @@ name: Pranshu Malviya
 image: pranshu.png
 email: pranshumalviya2@gmail.com
 designations: 
-  - Project Associate
+  - MS Scholar
 areas:
   - Time series
   - Machine Learning
