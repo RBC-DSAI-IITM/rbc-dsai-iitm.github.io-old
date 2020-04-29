@@ -13,5 +13,5 @@ areas:
  
 bio: I have completed my dual degree from the dept of Engineering Design and was guided by Dr. Balaraman Ravindran. I am currently a project officer working with Prof. Nandan Sudarsanam.
 email: rohansaphal@gmail.com
-type: staff
+type: alumni
 ---
