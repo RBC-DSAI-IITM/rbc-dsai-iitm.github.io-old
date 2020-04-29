@@ -3,7 +3,7 @@ layout: member
 name: Dhivya Karthic
 image: divyakarthic1.jpg
 designations: 
-  - Project Officer
+  - CTM Program Manager
 area:
 bio:
 email:
