@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://economictimes.indiatimes.com/industry/services/education/iit-m-projects-aim-to-reduce-dropouts-improve-learning/articleshow/72233977.cms">IITM projects aim to reduce dropouts, improve learning</a>
+title: <a href="https://economictimes.indiatimes.com/industry/services/education/iit-m-projects-aim-to-reduce-dropouts-improve-learning/articleshow/72233977.cms">IIT Madras projects aim to reduce dropouts, improve learning</a>
 img: /assets/traffic.jpg
 categories: news
 ---
