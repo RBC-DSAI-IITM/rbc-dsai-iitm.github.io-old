@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="https://www.ndtv.com/education/iit-madras-alumni-association-organizes-hackathon-to-solve-traffic-problem-in-indian-city-2084017/">IT Madras Alumni Association Organizes Hackathon To Solve Traffic Problem In Indian City</a>
+title: <a href="https://www.ndtv.com/education/iit-madras-alumni-association-organizes-hackathon-to-solve-traffic-problem-in-indian-city-2084017/">IIT Madras Alumni Association Organizes Hackathon To Solve Traffic Problem In Indian City</a>
 img: /assets/traffic.jpg
 categories: news
 ---
