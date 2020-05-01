@@ -7,7 +7,7 @@ designations:
   - Phd Scholar
 homepage: 
 areas:
-  - comtrol and optimization
+  - control and optimization
   
 bio: I have done Bachelor in Electrical Engineering from BZT Raipur.Currently I am doing my direct phd under Dr.Nirav Bhatt at IIT madras.
 type: student
