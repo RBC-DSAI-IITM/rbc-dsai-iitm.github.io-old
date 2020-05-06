@@ -1,4 +1,14 @@
 [
+{'title': 'Development and Evaluation of a low-cost WiFi Media Access Control Scanner as Traffic Sensor', 'booktitle': '2019 11th International Conference on Communication Systems \\& Networks (COMSNETS)', 'author': 'Patra, Satya Sundar and Muthurajan, Bharathiraja and Chilukuri, Bhargava Rama and Devi, Lelitha', 'ID': 'patra2019development', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Extraction of Pure Species Spectra from Labeled Mixture Spectral Data', 'journal': 'Industrial \\& Engineering Chemistry Research', 'author': 'Baikadi, Abhishek and Bhatt, Nirav and Narasimhan, Shankar', 'ID': 'baikadi2019extraction', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Analysis of Experimental Conditions, Measurement Strategies, and Model Identification Approaches on Parameter Estimation in Plug Flow Reactors', 'journal': 'Industrial \\& engineering chemistry process design and development', 'author': 'Sengupta, Tirthankar and Narasimhan, Sridharakumar and Bhatt, Nirav and others', 'ID': 'sengupta2019analysis', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Uncovering Novel Pathways for Enhancing Hyaluronan Synthesis in Recombinant Lactococcus lactis: Genome-Scale Metabolic Modeling and Experimental Validation', 'journal': 'Processes', 'author': 'Badri, Abinaya and Raman, Karthik and Jayaraman, Guhan', 'ID': 'badri2019uncovering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Rational metabolic engineering for enhanced alpha-tocopherol production in Helianthus annuus cell culture', 'journal': 'Biochemical Engineering Journal', 'author': 'Srinivasan, Aparajitha and Vijayakumar, S and Raman, Karthik and Srivastava, Smita', 'ID': 'srinivasan2019rational', 'year': '2019', 'ENTRYTYPE': 'article'},
+
 {'title': 'Generalized Random Surfer-Pair Models', 'booktitle': 'Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining', 'author': 'Narayanaswami, Sai Kiran and Ravindran, Balaraman and Ramaiyan, Venkatesh', 'ID': 'narayanaswami2019generalized', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biological Networks', 'journal': 'Frontiers in genetics', 'author': 'Tripathi, Beethika and Parthasarathy, Srinivasan and Sinha, Himanshu and Raman, Karthik and Ravindran, Balaraman', 'ID': 'tripathi2019adapting', 'year': '2019', 'ENTRYTYPE': 'article'},
