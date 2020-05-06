@@ -1,5 +1,9 @@
 [
-{'title': 'Evolutionary design principles in metabolism', 'journal': 'Proceedings of the Royal Society B', 'author': 'Sambamoorthy, Gayathri and Sinha, Himanshu and Raman, Karthik', 'number': '1898', 'ENTRYTYPE': 'article', 'volume': '286', 'year': '2019', 'ID': 'sambamoorthy2019evolutionary'},
+{'title': 'Generalized Random Surfer-Pair Models', 'booktitle': 'Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining', 'author': 'Narayanaswami, Sai Kiran and Ravindran, Balaraman and Ramaiyan, Venkatesh', 'ID': 'narayanaswami2019generalized', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biological Networks', 'journal': 'Frontiers in genetics', 'author': 'Tripathi, Beethika and Parthasarathy, Srinivasan and Sinha, Himanshu and Raman, Karthik and Ravindran, Balaraman', 'ID': 'tripathi2019adapting', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Extra: Transfer-guided exploration', 'journal': 'arXiv preprint arXiv:1906.11785', 'author': 'Santara, Anirban and Madan, Rishabh and Ravindran, Balaraman and Mitra, Pabitra', 'ID': 'santara2019extra', 'year': '2019', 'ENTRYTYPE': 'article'},
 
 {'title': 'Evolutionary design principles in metabolism', 'journal': 'Proceedings of the Royal Society B: Biological Sciences', 'author': 'Sambamoorthy, Gayathri and Sinha, Himanshu and Raman, Dr.Karthik', 'ID': 'gayathri2019evolutionary', 'year': '2019', 'ENTRYTYPE': 'article'},
 
