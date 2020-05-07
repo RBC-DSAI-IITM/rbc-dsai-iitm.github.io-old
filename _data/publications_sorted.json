@@ -1,4 +1,16 @@
 [
+{'title': 'Learning Conserved Networks from Flows', 'journal': 'arXiv preprint arXiv:1905.08716', 'author': 'Narasimhan, Shankar and Bhatt, Nirav and others', 'ID': 'narasimhan2019learning', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Efficient video classification using fewer frames', 'booktitle': 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition', 'author': 'Bhardwaj, Shweta and Srinivasan, Mukundhan and Khapra, Mitesh M', 'ID': 'bhardwaj2019efficient', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Deciphering the metabolic capabilities of Bifidobacteria using genome-scale metabolic models', 'journal': 'Scientific Reports', 'author': 'Devika, NT and Raman, Karthik', 'ID': 'devika2019deciphering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'author': 'Sudarsanam, Nandan and Chandran, Ramya and Frey, Daniel D.', 'journal': 'Journal of Mechanical Design', 'title': '{Conducting Non-adaptive Experiments in a Live Setting: A Bayesian Approach to Determining Optimal Sample Size}', 'number': '3', 'ENTRYTYPE': 'article', 'year': '2019', 'ID': '10.1115/1.4045603'},
+
+{'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
 {'title': 'Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems', 'journal': 'Transactions of the Association for Computational Linguistics', 'author': 'Banerjee, Suman and Khapra, Mitesh M', 'ID': 'banerjee2019graph', 'year': '2019', 'ENTRYTYPE': 'article'},
 
 {'title': 'Generalized Random Surfer-Pair Models', 'booktitle': 'Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining', 'author': 'Narayanaswami, Sai Kiran and Ravindran, Balaraman and Ramaiyan, Venkatesh', 'ID': 'narayanaswami2019generalized', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
