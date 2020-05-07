@@ -1,4 +1,6 @@
 [
+{'title': 'Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks', 'journal': 'arXiv preprint arXiv:2002.00786', 'author': 'Mylavarapu, Sravan and Sandhu, Mahtab and Vijayan, Priyesh and Krishna, K Madhava and Ravindran, Balaraman and Namboodiri, Anoop', 'ID': 'mylavarapu2020towards', 'year': '2020', 'ENTRYTYPE': 'article'},
+
 {'title': 'Learning Conserved Networks from Flows', 'journal': 'arXiv preprint arXiv:1905.08716', 'author': 'Narasimhan, Shankar and Bhatt, Nirav and others', 'ID': 'narasimhan2019learning', 'year': '2019', 'ENTRYTYPE': 'article'},
 
 {'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
