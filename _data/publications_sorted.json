@@ -1,1 +1,232 @@
 [
+{'ENTRYTYPE': 'article', 'title': 'Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling', 'ID': 'wilderinfluence', 'author': 'Wilder, Harshavardhan Kamarthi1 Priyesh Vijayan2 Bryan and Ravindran, Balaraman and Tambe, Milind'},
+
+{'title': 'Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks', 'journal': 'arXiv preprint arXiv:2002.00786', 'author': 'Mylavarapu, Sravan and Sandhu, Mahtab and Vijayan, Priyesh and Krishna, K Madhava and Ravindran, Balaraman and Namboodiri, Anoop', 'ID': 'mylavarapu2020towards', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'Learning Conserved Networks from Flows', 'journal': 'arXiv preprint arXiv:1905.08716', 'author': 'Narasimhan, Shankar and Bhatt, Nirav and others', 'ID': 'narasimhan2019learning', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Efficient video classification using fewer frames', 'booktitle': 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition', 'author': 'Bhardwaj, Shweta and Srinivasan, Mukundhan and Khapra, Mitesh M', 'ID': 'bhardwaj2019efficient', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Deciphering the metabolic capabilities of Bifidobacteria using genome-scale metabolic models', 'journal': 'Scientific Reports', 'author': 'Devika, NT and Raman, Karthik', 'ID': 'devika2019deciphering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'author': 'Sudarsanam, Nandan and Chandran, Ramya and Frey, Daniel D.', 'journal': 'Journal of Mechanical Design', 'title': '{Conducting Non-adaptive Experiments in a Live Setting: A Bayesian Approach to Determining Optimal Sample Size}', 'number': '3', 'ENTRYTYPE': 'article', 'year': '2019', 'ID': '10.1115/1.4045603'},
+
+{'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems', 'journal': 'Transactions of the Association for Computational Linguistics', 'author': 'Banerjee, Suman and Khapra, Mitesh M', 'ID': 'banerjee2019graph', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Generalized Random Surfer-Pair Models', 'booktitle': 'Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining', 'author': 'Narayanaswami, Sai Kiran and Ravindran, Balaraman and Ramaiyan, Venkatesh', 'ID': 'narayanaswami2019generalized', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': "Let's Ask Again: Refine Network for Automatic Question Generation", 'journal': 'arXiv preprint arXiv:1909.05355', 'author': 'Nema, Preksha and Mohankumar, Akash Kumar and Khapra, Mitesh M and Srinivasan, Balaji Vasan and Ravindran, Balaraman', 'ID': 'nema2019let', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Assessment of network module identification across complex diseases', 'journal': 'Nature methods', 'author': 'Choobdar, Sarvenaz and Ahsen, Mehmet E and Crawford, Jake and Tomasoni, Mattia and Fang, Tao and Lamparter, David and Lin, Junyuan and Hescott, Benjamin and Hu, Xiaozhe and Mercer, Johnathan and others', 'ENTRYTYPE': 'article', 'volume': '16', 'year': '2019', 'ID': 'choobdar2019assessment'},
+
+{'title': 'Temporal Analysis of a Bus Transit Network', 'booktitle': 'International Conference on Complex Networks and Their Applications', 'author': 'Manjalavil, Manju Manohar and Ramadurai, Gitakrishnan and Ravindran, Balaraman', 'ID': 'manjalavil2019temporal', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering', 'booktitle': 'International Conference on Complex Networks and Their Applications', 'author': 'Kumar, Tarun and Vaidyanathan, Sankaran and Ananthapadmanabhan, Harini and Parthasarathy, Srinivasan and Ravindran, Balaraman', 'ID': 'kumar2019new', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Development and Evaluation of a low-cost WiFi Media Access Control Scanner as Traffic Sensor', 'booktitle': '2019 11th International Conference on Communication Systems \\& Networks (COMSNETS)', 'author': 'Patra, Satya Sundar and Muthurajan, Bharathiraja and Chilukuri, Bhargava Rama and Devi, Lelitha', 'ID': 'patra2019development', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Extraction of Pure Species Spectra from Labeled Mixture Spectral Data', 'journal': 'Industrial \\& Engineering Chemistry Research', 'author': 'Baikadi, Abhishek and Bhatt, Nirav and Narasimhan, Shankar', 'ID': 'baikadi2019extraction', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Analysis of Experimental Conditions, Measurement Strategies, and Model Identification Approaches on Parameter Estimation in Plug Flow Reactors', 'journal': 'Industrial \\& engineering chemistry process design and development', 'author': 'Sengupta, Tirthankar and Narasimhan, Sridharakumar and Bhatt, Nirav and others', 'ID': 'sengupta2019analysis', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Uncovering Novel Pathways for Enhancing Hyaluronan Synthesis in Recombinant Lactococcus lactis: Genome-Scale Metabolic Modeling and Experimental Validation', 'journal': 'Processes', 'author': 'Badri, Abinaya and Raman, Karthik and Jayaraman, Guhan', 'ID': 'badri2019uncovering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Rational metabolic engineering for enhanced alpha-tocopherol production in Helianthus annuus cell culture', 'journal': 'Biochemical Engineering Journal', 'author': 'Srinivasan, Aparajitha and Vijayakumar, S and Raman, Karthik and Srivastava, Smita', 'ID': 'srinivasan2019rational', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Generalized Random Surfer-Pair Models', 'booktitle': 'Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining', 'author': 'Narayanaswami, Sai Kiran and Ravindran, Balaraman and Ramaiyan, Venkatesh', 'ID': 'narayanaswami2019generalized', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biological Networks', 'journal': 'Frontiers in genetics', 'author': 'Tripathi, Beethika and Parthasarathy, Srinivasan and Sinha, Himanshu and Raman, Karthik and Ravindran, Balaraman', 'ID': 'tripathi2019adapting', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Extra: Transfer-guided exploration', 'journal': 'arXiv preprint arXiv:1906.11785', 'author': 'Santara, Anirban and Madan, Rishabh and Ravindran, Balaraman and Mitra, Pabitra', 'ID': 'santara2019extra', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Evolutionary design principles in metabolism', 'journal': 'Proceedings of the Royal Society B: Biological Sciences', 'author': 'Sambamoorthy, Gayathri and Sinha, Himanshu and Raman, Dr.Karthik', 'ID': 'gayathri2019evolutionary', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biological Networks', 'journal': 'Frontiers in Genetics', 'author': 'Beethika, Tripathi and parthasarathy, Srinivasan and Sinha, Himanshu and Raman, Dr.Karthik and Ravindran, Prof.B', 'ID': 'Beethika2019adapting', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Rate of Change Analysis for Interestingness Measures', 'journal': 'To appear in the Knowledge and Information Systems (KAIS) Journal, Springer.', 'author': 'Sudarsanam, Dr.Nandan and Kumar, Nishanth and Ravindran, Prof.B', 'ID': 'sudarsanam2019rate', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Effect of Interlayer Coupling on Multilayer Network Centrality Measures', 'journal': 'Journal of the Indian Institute of Science', 'author': 'Kumar, Tarun and Narayanan, Manikandan and Ravindran, prof.B', 'number': '2', 'ENTRYTYPE': 'article', 'volume': '99', 'year': '2019', 'ID': 'tarun2019effect'},
+
+{'publisher': 'Springer', 'author': 'Sudarsanam, Dr.Nandan and Pitchai kannu, Balaji and D.Frey, Daniel', 'booktitle': 'To appear in Research in Engineering Design', 'title': 'Optimal replicates for Designed Experiments under the on-line framework', 'ENTRYTYPE': 'inproceedings', 'year': '2019', 'ID': 'balaji2019optimal'},
+
+{'author': 'Nema, Preksha and Shetty M, Shreyas and Jain, Parag and Laha, Anirban and Sankaranarayanan, Karthik and M.Khapra,Dr.Mitesh', 'booktitle': 'In Proceedings of the North American Chapter of the Association for Computational Linguistics', 'title': 'Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization', 'ID': 'preksha2018', 'pages': '', 'year': '2018', 'organization': 'NAACL 2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Sharma, Sahil and Jha, Ashutosh Kumar and Hegde, Parikshit S and Ravindran, Prof B.', 'booktitle': 'To appear in the Proceedings of the Sixth International Conference on Learning Representations', 'title': 'Learning to Multi-Task by Active Sampling', 'ID': 'sharma2018', 'pages': '', 'year': '2018', 'organization': 'ICLR 2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Garg, Nandani and Ramadurai, Dr.Gitakrishnan and Ranu, Sayan', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2018 10th International Conference on', 'title': 'Mining bus stops from raw GPS data of bus trajectories', 'ID': 'garg2018mining', 'pages': '583--588', 'year': '2018', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'Springer', 'author': 'Raman, Prof.Karthik and Pratapa, Aditya and Mohite, Omkar and Balachandran, Shankar', 'booktitle': 'Metabolic Network Reconstruction and Modeling', 'title': 'Computational Prediction of Synthetic Lethals in Genome-Scale Metabolic Models Using Fast-SL', 'ID': 'raman2018computational', 'pages': '315--336', 'year': '2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Santara, Anirban and Naik, Abhishek and Ravindran, Prof B. and Das, Dipankar and Mudigere, Dheevatsa and Avancha, Sasikanth and Kaul, Bharat', 'booktitle': 'Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems', 'title': 'Rail: Risk-averse imitation learning', 'ID': 'santara2018rail', 'pages': '2062--2063', 'year': '2018', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Recovering from random pruning: On the plasticity of deep convolutional neural networks', 'journal': 'arXiv preprint arXiv:1801.10447', 'author': 'Mittal, Deepak and Bhardwaj, Shweta and Dr.Khapra, Mitesh M and Ravindran, Prof B.', 'ID': 'mittal2018recovering', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Mittal, Deepak and Reddy, Avinash and Ramadurai, Dr.Gitakrishnan and Mitra, Dr.Kaushik and Ravindran, Prof.B', 'booktitle': 'Communication Systems \\& Networks (COMSNETS), 2018 10th International Conference on', 'title': 'Training a deep learning architecture for vehicle detection using limited heterogeneous traffic data', 'ID': 'mittal2018training', 'pages': '589--294', 'year': '2018', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'Elsevier', 'author': 'Sudarsanam, Dr.Nandan and Ravindran, Prof B.', 'journal': 'Computers \\& Industrial Engineering', 'title': 'Using Linear Stochastic Bandits to extend traditional offline Designed Experiments to online settings', 'ID': 'sudarsanam2018using', 'volume': '115', 'pages': '471--485', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'Efficient-UCBV: An Almost Optimal Algorithm Using Variance Estimates', 'booktitle': 'Thirty-Second AAAI Conference on Artificial Intelligence', 'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Nandan and Ravindran, Prof B.', 'ID': 'mukherjee2018efficient', 'year': '2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Santhiappan, Sudarsun and Chelladurai, Jeshuren and Ravindran, Prof B.', 'booktitle': 'Proceedings of the ACM India Joint International Conference on Data Science and Management of Data', 'title': 'A novel topic modeling based weighting framework for class imbalance learning', 'ID': 'santhiappan2018novel', 'pages': '20--29', 'year': '2018', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Chandramohan, T. N and Ravindran, Prof B.', 'booktitle': 'Proceedings of the ACM IKDD Joint International Conference on Data Science & Management of Data', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'ID': 'Chandramohan2018', 'pages': '', 'year': '2018', 'organization': 'ACM DL', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Bhuvaneswari, S and Pasumarthy,Dr.Ramkrishna and Ravindran, Prof B. and Mahindrakar,Dr.Arun D', 'booktitle': 'Indian Control Conference (ICC). 2018', 'title': 'Tracking and stabilization of mechanical systems using reinforcement learning', 'ID': 'bhuvaneswari2018tracking', 'pages': '206--211', 'year': '2018', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'A Partial Parameter HMM Based Clustering on Loan Repayment Data: Insights into Financial Behavior and Intent to Repay', 'booktitle': 'Proceedings of the 51st Hawaii International Conference on System Sciences', 'author': 'Philip, Dibu and Sudarsanam, Dr.Nandan and Ravindran, Prof B.', 'ID': 'philip2018partial', 'year': '2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Jain, A. and Nasre, R. and Ravindran, B.', 'journal': ' In the Proceedings of the Nineteenth IEEE International Conference on High Performance Computing and Communication HPCC 2017', 'title': 'DCEIL: Distributed Community Detection with the CEIL Score', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IEEE Press', 'ID': 'jain2017decil'},
+
+{'author': 'Das, Leya, Srinivasan, Babji, and Rengaswamy, Reghunathan', 'journal': 'IEEE Control Systems Technology', 'title': 'Multivariate Control Loop Performance Assessment based on Scaling Exponent and Mahalanobis Distance', 'ENTRYTYPE': 'inproceedings', 'year': '2016', 'organization': 'IEEE', 'ID': 'leyadas2016scaling'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Sankaran, Ganesh and Joopudi, Sreeram and Choudhury, Suman Roy and Narasimhan, Dr.Shankar and Rengaswamy, Prof Raghunathan', 'journal': 'Journal of Process Control', 'title': 'Optimal power distribution control for a network of fuel cell stacks', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018optimal'},
+
+{'publisher': 'Wiley Online Library', 'author': 'Das, Laya and Prof Rengaswamy, Raghunathan and Srinivasan, Babji', 'journal': 'AIChE Journal', 'title': 'Data mining and control loop performance assessment: The multivariate case', 'number': '8', 'ID': 'das2017data', 'volume': '63', 'pages': '3311--3328', 'year': '2017', 'ENTRYTYPE': 'article'},
+
+{'author': 'Chandramohan, T. N. and Ravindran, Prof B.', 'title': 'A Neural Attention Based Approach for Clickstream Mining', 'journal': ' In the proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017)', 'year': '2017', 'ENTRYTYPE': 'inproceedings', 'address': 'Alghero, Italy', 'ID': 'chandra2017clickstream'},
+
+{'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Kurian, Varghese and Narasimhan, Dr.Shankar and Rengaswamy, Prof Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Actuator network design to mitigate contamination effects in Water Distribution Networks', 'ID': 'palleti2018actuator', 'volume': '108', 'pages': '194--205', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Santhiappan, S., and Ravindran, B.', 'series': '1', 'journal': 'Advanced Computing and Communications', 'title': 'Class Imbalance Learning', 'ENTRYTYPE': 'article', 'volume': '1', 'year': '2017', 'ID': 'Venkatareddy2018'},
+
+{'title': 'Learning to repeat: Fine grained action repetition for deep reinforcement learning', 'journal': 'ICLR', 'author': 'Sharma, Sahil and Lakshminarayanan, Aravind S and Ravindran, Balaraman', 'ID': 'sharma2017learning', 'year': '2017', 'ENTRYTYPE': 'article'},
+
+{'author': 'Prasad, Vignesh and Jangir, Rishabh and Balaraman, Prof B. and Krishna, K Madhava', 'booktitle': 'Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems', 'title': 'Data Driven Strategies for Active Monocular SLAM using Inverse Reinforcement Learning', 'ID': 'prasad2017data', 'pages': '1697--1699', 'year': '2017', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Rajendran, J., Lakshminarayanan, A. S., Khapra, Dr.Mitesh. M., Parthasarathy, P., and Ravindran, Prof B.', 'booktitle': 'To appear in the Proceedings of the Fifth International Conference on Learning Representations', 'title': 'Attend, Adapt, and Transfer: Attentive Deep Architecture for Adaptive Transfer from Multiple Sources in the Same Domain', 'ID': 'attendrajendran2017', 'pages': '', 'year': '2017', 'organization': 'ICLR', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Mukherjee, Subhojyoti and Naveen, KP and Sudarsanam, Dr.Nandan and Ravindran, Prof B.', 'booktitle': 'To appear in the Proceedings of the Twenty Sixth International Joint Conference on Artificial Intelligence', 'title': 'Thresholding Bandits with Augmented UCB', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'IJCAI', 'ID': 'mukherjee2017thresholding'},
+
+{'author': 'Phillip, AnnaMary, Ramadurai, Gitakrishnan, and Devi, Lelitha', 'booktitle': 'Conference of the Transportation Research Group of India', 'title': 'Travel Time Prediction Using Support Vector Regression', 'ENTRYTYPE': 'inproceedings', 'year': '2017', 'organization': 'CTRG', 'ID': 'AnnaMaryPhillip2017'},
+
+{'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan', 'booktitle': 'Data Engineering (ICDE), 2017 IEEE 33rd International Conference on', 'title': 'Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy', 'ID': 'gupte2017role', 'pages': '771--782', 'year': '2017', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Diversity driven Attention Model for Query-based Abstractive Summarization', 'url': 'http://arxiv.org/abs/1704.08300', 'timestamp': 'Wed, 07 Jun 2017 14:40:10 +0200', 'journal': 'To appear in the Proceedings of the Fifty-Fifth Annual Meeting of the Association of Computational Linguistics (ACL 2017)', 'author': 'Preksha Nema and Mitesh M. Khapra and Anirban Laha and Balaraman Ravindran', 'ENTRYTYPE': 'article', 'year': '2017', 'ID': 'DBLP:journals/corr/NemaKLR17'},
+
+{'title': 'Dynamic Action Repetition for Deep Reinforcement Learning.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'AAAI', 'author': 'Lakshminarayanan, Aravind S and Sharma, Sahil and Ravindran, Balaraman', 'ID': 'lakshminarayanan2017dynamic', 'year': '2017', 'pages': '2133--2139'},
+
+{'citeulike-article-id': '14401087', 'doi': '10.1093/bioinformatics/btx481', 'posted-at': '2017-07-28 06:26:31', 'title': 'Predicting Novel Metabolic Pathways through Subgraph Mining', 'url': 'http://dx.doi.org/10.1093/bioinformatics/btx481', 'journal': 'Bioinformatics', 'author': 'Sankar, Aravind and Ranu, Sayan and Raman, Karthik', 'month': 'jul', 'priority': '2', 'year': '2017', 'keywords': 'retrosynthesis', 'ID': 'Sankar2017Predicting', 'citeulike-linkout-0': 'http://dx.doi.org/10.1093/bioinformatics/btx481', 'ENTRYTYPE': 'article', 'day': '27', 'issn': '1367-4803'},
+
+{'author': 'Bhatter, Purva and Raman, Karthik and Janakiraman, Vani', 'abstract': "{Microbial volatile organic compounds (VOCs) have gained prominence in the recent past for their potential use as disease markers. The discovery of microbial VOCs has benefited 'difficult to detect' diseases such as tuberculosis (TB). Few of the identified VOCs of Mycobacterium tuberculosis (Mtb) are currently being explored for their diagnostic potential. However, very little is known about the biosynthesis of these small lipophilic molecules. Here, we propose putative biosynthetic pathways in Mycobacterium tuberculosis for three VOCs, namely methyl nicotinate, methyl phenylacetate and methyl p-anisate, using computational approaches. In particular, we identify S-adenosyl methionine (SAM) transferases that play a crucial role in esterification of the acids to the final product. Our results provide important insights into the specificity of these pathways to Mtb species.}", 'number': '4', 'month': 'feb', 'citeulike-article-id': '14285376', 'year': '2017', 'keywords': 'metabolism, mtb', 'citeulike-linkout-0': 'http://dx.doi.org/10.1039/c6mb00796a', 'citeulike-linkout-1': 'http://view.ncbi.nlm.nih.gov/pubmed/28225105', 'citeulike-linkout-2': 'http://www.hubmed.org/display.cgi?uids=28225105', 'title': 'Elucidating the biosynthetic pathways of volatile organic compounds in Mycobacterium tuberculosis through a computational approach', 'pages': '750--755', 'priority': '2', 'pmid': '28225105', 'posted-at': '2017-02-24 10:20:13', 'ENTRYTYPE': 'article', 'journal': 'Mol. BioSyst.', 'volume': '13', 'ID': 'Bhatter2017Elucidating', 'day': '22', 'doi': '10.1039/c6mb00796a', 'url': 'http://dx.doi.org/10.1039/c6mb00796a', 'issn': '1742-2051'},
+
+{'abstract': '{Mutations in the hydrophobic interior of proteins are generally thought to weaken the interactions only in their immediate neighborhood. This forms the basis of protein engineering-based studies of folding mechanism and function. However, mutational work on diverse proteins has shown that distant residues are thermodynamically coupled, with the network of interactions within the protein acting as signal conduits, thus raising an intriguing paradox. Are mutational effects localized, and if not, is there a general rule for the extent of percolation and the functional form of this propagation? We explore these questions from multiple perspectives in this work. Perturbation analysis of interaction networks within proteins and microsecond long molecular dynamics simulations of several aliphatic mutants of ubiquitin reveal strong evidence of the distinct alteration of distal residue-residue communication networks. We find that mutational effects consistently propagate into the second shell of the altered site (even up to 15-20 \\AA{}) in proportion to the perturbation magnitude and dissipate exponentially with a decay distance constant of 4-5 \\AA{}. We also report evidence for this phenomenon from published experimental nuclear magnetic resonance data that strikingly resemble predictions from network theory and molecular dynamics simulations. Reformulating these observations onto a statistical mechanical model, we reproduce the stability changes of 375 mutations from 19 single-domain proteins. Our work thus reveals a robust energy dissipation-cum-signaling mechanism in the interaction network within proteins, quantifies the partitioning of destabilization energetics around the mutation neighborhood, and presents a simple theoretical framework for modeling the allosteric effects of point mutations.}', 'number': '1', 'citeulike-article-id': '14228860', 'year': '2017', 'keywords': 'networks, protein\\_structures', 'citeulike-linkout-0': 'http://dx.doi.org/10.1021/acs.biochem.6b00798', 'citeulike-linkout-1': 'http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b00798', 'citeulike-linkout-2': 'http://view.ncbi.nlm.nih.gov/pubmed/27958720', 'citeulike-linkout-3': 'http://www.hubmed.org/display.cgi?uids=27958720', 'author': 'Rajasekaran, Nandakumar and Suresh, Swaathiratna and Gopi, Soundhararajan and Raman, Karthik and Naganathan, Athi N.', 'pages': '294--305', 'priority': '2', 'pmid': '27958720', 'posted-at': '2016-12-16 12:30:11', 'ENTRYTYPE': 'article', 'journal': 'Biochemistry', 'volume': '56', 'ID': 'Rajasekaran2017General', 'day': '10', 'doi': '10.1021/acs.biochem.6b00798', 'url': 'http://dx.doi.org/10.1021/acs.biochem.6b00798', 'issn': '1520-4995', 'title': 'A General Mechanism for the Propagation of Mutational Effects in Proteins'},
+
+{'publisher': 'Elsevier', 'author': 'Palleti, Venkata Reddy and Narasimhan, Shankar and Rengaswamy, Raghunathan and Teja, Ravi and Bhallamudi, S Murty', 'journal': 'Computers & Chemical Engineering', 'title': 'Sensor network design for contaminant detection and identification in water distribution networks', 'ID': 'palleti2016sensor', 'volume': '87', 'pages': '246--256', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Public Library of Science', 'author': 'Chatterjee, Atanu and Manohar, Manju and Ramadurai, Gitakrishnan', 'journal': 'PloS one', 'title': 'Statistical analysis of bus networks in India', 'number': '12', 'ID': 'chatterjee2016statistical', 'volume': '11', 'pages': 'e0168478', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'MIT Press', 'author': 'Chandar, Sarath and Khapra, Mitesh M and Larochelle, Hugo and Ravindran, Balaraman', 'journal': 'Neural computation', 'title': 'Correlational neural networks', 'ENTRYTYPE': 'article', 'year': '2016', 'ID': 'chandar2016correlational'},
+
+{'title': 'EPOpt: Learning Robust Neural Network Policies Using Model Ensembles', 'journal': 'ICLR', 'author': 'Rajeswaran, Aravind and Ghotra, Sarvjeet and Levine, Sergey and Ravindran, Balaraman', 'ID': 'rajeswaran2016epopt', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Dynamic frame skip deep q network', 'journal': 'arXiv preprint arXiv:1605.05365', 'author': 'Lakshminarayanan, Aravind S and Sharma, Sahil and Ravindran, Balaraman', 'ID': 'lakshminarayanan2016dynamic', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'HEMI: Hyperedge Majority Influence Maximization', 'journal': 'arXiv preprint arXiv:1606.05065', 'author': 'Gangal, Varun and Ravindran, Balaraman and Narayanam, Ramasuri', 'ID': 'gangal2016hemi', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'author': 'Gangal, V., Narwekar, A., Ravindran, B., and Narayanam, R.', 'booktitle': 'In the Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence', 'title': 'Trust and distrust across coalitions: shapley value based centrality measures for signed networks', 'ID': 'trust2016gangal', 'pages': '4210-4211', 'year': '2016', 'organization': 'AAAI Press', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'In Silico Approaches to Metabolic Engineeringin Current Developments in Biotechnology and Bioengineering', 'booktitle': 'First ed.,', 'author': 'Badri, A and Srinivasan, A and Raman, K', 'ID': 'badri2016', 'year': '2016', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'Springer', 'author': 'Gayathri, KS and Elias, Susan and Ravindran, Balaraman', 'journal': 'Personal and Ubiquitous Computing', 'title': 'Hierarchical activity recognition for dementia care using Markov Logic Network', 'number': '2', 'ID': 'gayathri2015hierarchical', 'volume': '19', 'pages': '271--285', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'title': 'Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources', 'journal': 'arXiv preprint arXiv:1510.02879', 'author': 'Rajendran, Janarthanan and Lakshminarayanan, Aravind and Khapra, Mitesh M and Ravindran, Balaraman and others', 'ID': 'rajendran20152t', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'author': 'Saha, Avijit and Acharya, Ayan and Ravindran, Balaraman and Ghosh, Joydeep', 'booktitle': 'Data Mining (ICDM), 2015 IEEE International Conference on', 'title': 'Nonparametric Poisson Factorization Machine', 'ID': 'saha2015nonparametric', 'pages': '967--972', 'year': '2015', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'Springer', 'author': 'Sankar, M Vishnu and Ravindran, Balaraman', 'journal': 'Sadhana', 'title': 'Parallelization of game theoretic centrality algorithms', 'number': '6', 'ID': 'sankar2015parallelization', 'volume': '40', 'pages': '1821--1843', 'year': '2015', 'ENTRYTYPE': 'article'},
+
+{'author': 'Roy, Sanjukta and Ravindran, Balaraman', 'booktitle': 'Proceedings of the Second ACM IKDD Conference on Data Sciences', 'title': 'Measuring network centrality using hypergraphs', 'ID': 'roy2015measuring', 'pages': '59--68', 'year': '2015', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Pasumarthi, Ramakumar and Narayanam, Ramasuri and Ravindran, Balaraman', 'booktitle': 'Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems', 'title': 'Near optimal strategies for targeted marketing in social networks', 'ID': 'pasumarthi2015near', 'pages': '1679--1680', 'year': '2015', 'organization': 'International Foundation for Autonomous Agents and Multiagent Systems', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Gurukar, Saket and Ranu, Sayan and Ravindran, Balaraman', 'booktitle': 'Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data', 'title': 'Commit: A scalable approach to mining communication motifs from dynamic networks', 'ID': 'gurukar2015commit', 'pages': '475--489', 'year': '2015', 'organization': 'ACM', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Extended Discriminative Random Walk: A Hypergraph Approach to Multi-View Multi-Relational Transductive Learning.', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'IJCAI', 'author': 'Satchidanand, Sai Nageswar and Ananthapadmanaban, Harini and Ravindran, Balaraman', 'ID': 'satchidanand2015extended', 'year': '2015', 'pages': '3791--3797'},
+
+{'title': 'CEIL: a scalable, resolution limit free approach for detecting communities in large networks', 'booktitle': 'Twenty-Fourth International Joint Conference on Artificial Intelligence', 'author': 'Sankar, Vishnu and Ravindran, Balaraman and Shivashankar, S', 'ID': 'sankar2015ceil', 'year': '2015', 'ENTRYTYPE': 'inproceedings'},
+
+{'publisher': 'MIT Press', 'author': 'Sarath Chandar, A. P., Khapra, M., Larochelle, H., and Ravindran, B. ', 'journal': 'Neural Computation', 'title': 'Correlational Neural Networks', 'number': '2', 'ID': 'correlation2016', 'volume': '28', 'pages': '257-285', 'year': '2016', 'ENTRYTYPE': 'article'},
+
+{'title': 'Bridge correlational neural networks for multilingual multimodal representation learning', 'booktitle': 'In the Proceedings of the Fifteenth Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL:HLT 2016)', 'author': 'Rajendran, Janarthanan and Khapra, Mitesh M and Chandar, Sarath and Ravindran, Balaraman', 'ID': 'rajendran2016bridge', 'year': '2016', 'ENTRYTYPE': 'inproceedings'},
+
+{'abstract': 'Motivation: Synthetic lethal sets are sets of reactions/genes where only the simultaneous removal of all reactions/genes in the set abolishes growth of an organism. Previous approaches to identify synthetic lethal genes in genome-scale metabolic networks have built on the framework of flux balance analysis ({FBA}), extending it either to exhaustively analyze all possible combinations of genes or formulate the problem as a bi-level mixed integer linear programming ({MILP}) problem. We here propose an algorithm, {Fast-SL}, which surmounts the computational complexity of previous approaches by iteratively reducing the search space for synthetic lethals, resulting in a substantial reduction in running time, even for higher order synthetic lethals.', 'number': '20', 'month': 'oct', 'citeulike-article-id': '13648461', 'keywords': 'flux\\_analysis, synthetic\\_lethality', 'year': '2015', 'citeulike-linkout-4': 'http://bioinformatics.oxfordjournals.org/cgi/content/abstract/31/20/3299', 'citeulike-linkout-5': 'http://view.ncbi.nlm.nih.gov/pubmed/26085504', 'citeulike-linkout-6': 'http://www.hubmed.org/display.cgi?uids=26085504', 'citeulike-linkout-0': 'http://www.ncbi.nlm.nih.gov/pubmed/26085504', 'ENTRYTYPE': 'article', 'citeulike-linkout-2': 'http://bioinformatics.oxfordjournals.org/content/early/2015/06/16/bioinformatics.btv352.abstract', 'citeulike-linkout-3': 'http://bioinformatics.oxfordjournals.org/content/early/2015/06/16/bioinformatics.btv352.full.pdf', 'author': 'Pratapa, A. and Balachandran, S. and Raman, K.', 'citeulike-linkout-1': 'http://dx.doi.org/10.1093/bioinformatics/btv352', 'priority': '2', 'pmid': '26085504', 'day': '15', 'posted-at': '2015-06-18 08:56:24', 'journal': 'Bioinformatics', 'volume': '31', 'ID': 'Pratapa2015FastSL', 'pages': '3299--3305', 'publisher': 'Oxford University Press', 'doi': '10.1093/bioinformatics/btv352', 'url': 'http://www.ncbi.nlm.nih.gov/pubmed/26085504', 'issn': '1460-2059', 'title': 'Fast-SL:an efficient algorithm to identify synthetic lethal sets in metabolic networks'},
+
+{'title': 'An autoencoder approach to learning bilingual word representations', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'Advances in Neural Information Processing Systems', 'author': 'AP, Sarath Chandar and Lauly, Stanislas and Larochelle, Hugo and Khapra, Mitesh and Ravindran, Balaraman and Raykar, Vikas C and Saha, Amrita', 'ID': 'ap2014autoencoder', 'year': '2014', 'pages': '1853--1861'},
+
+{'author': 'Vijayan, Priyesh and Subramanian, Shivashankar and Ravindran, Balaraman', 'booktitle': 'Advances in Social Networks Analysis and Mining (ASONAM), 2014 IEEE/ACM International Conference on', 'title': 'Multi-label collective classification in multi-attribute multi-relational network data', 'ID': 'vijayan2014multi', 'pages': '509--514', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Gurukar, Saket and Ravindran, Balaraman', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2014 Sixth International Conference on', 'title': 'Temporal analysis of telecom call graphs', 'ID': 'gurukar2014temporal', 'pages': '1--6', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Chrungoo, Addwiteey and Manimaran, SS and Ravindran, Balaraman', 'booktitle': 'International Conference on Social Robotics', 'title': 'Activity recognition for natural human robot interaction', 'ID': 'chrungoo2014activity', 'pages': '84--94', 'year': '2014', 'organization': 'Springer', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Sivamurugan, Manimaran Sivasamy and Ravindran, Balaraman', 'booktitle': 'Robotics and Automation (ICRA), 2014 IEEE International Conference on', 'title': 'RRTPI: Policy iteration on continuous domains using rapidly-exploring random trees', 'ID': 'sivamurugan2014rrtpi', 'pages': '4362--4367', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Satchidanand, Sai Nageswar and Jain, Siddharth Kumar and Maurya, Amit and Ravindran, Balaraman', 'booktitle': 'Communication Systems and Networks (COMSNETS), 2014 Sixth International Conference on', 'title': 'Studying Indian Railways Network using hypergraphs', 'ID': 'satchidanand2014studying', 'pages': '1--6', 'year': '2014', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Scalable Positional Analysis for Studying Evolution of Nodes in Networks', 'journal': 'arXiv preprint arXiv:1402.3797', 'author': 'Gupte, Pratik Vinay and Ravindran, Balaraman', 'ID': 'gupte2014scalable', 'year': '2014', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Frontiers Media SA', 'author': 'Balasubramani, Pragathi P and Chakravarthy, V Srinivasa and Ravindran, Balaraman and Moustafa, Ahmed A', 'journal': 'Frontiers in computational neuroscience', 'title': 'An extended reinforcement learning model of basal ganglia to understand the contributions of serotonin and dopamine in risk-based decision making, reward prediction, and punishment learning', 'ENTRYTYPE': 'article', 'volume': '8', 'year': '2014', 'ID': 'balasubramani2014extended'},
+
+{'publisher': 'Oxford University Press', 'author': 'Sambamoorthy, Gayathri and Raman, Karthik', 'journal': 'Bioinformatics', 'title': 'Understanding the evolution of functional redundancy in metabolic networks', 'number': '17', 'ID': 'sambamoorthy2018understanding', 'volume': '34', 'pages': 'i981--i987', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Nature Publishing Group', 'author': 'Ravikrishnan, Aarthi and Nasre, Meghana and Raman, Karthik', 'journal': 'Scientific reports', 'title': 'Enumerating all possible biosynthetic pathways in metabolic networks', 'number': '1', 'ID': 'ravikrishnan2018enumerating', 'volume': '8', 'pages': '9932', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'CRC Press', 'author': 'Ravikrishnan, Aarthi and Raman, Karthik', 'title': 'Systems-Level Modelling of Microbial Communities: Theory and Practice', 'ENTRYTYPE': 'book', 'year': '2018', 'ID': 'ravikrishnan2018systems'},
+
+{'publisher': ' IFAC-PapersOnLine ', 'author': 'Bhattacharya, P Tangirala, A and Raman, Karthik', 'title': 'A generic systems-theoretic framework for the design of biological networks that can achieve robust adaptation', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'bhattacharya2018generic'},
+
+{'publisher': ' Engineering Applications of Artificial Intelligence ', 'author': 'Sivadurgaprasad, Chinta Abhishek, Sivaram and Rengaswamy, Raghunathan', 'title': 'Prediction error-based clustering approach for multiple-model learning using statistical testing', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sivadurgaprasad2018prediction'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Modeling and Control of Battery Systems. Part II: A Model Predictive Controller for Optimal Charging', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018modeling'},
+
+{'publisher': 'Elsevier', 'author': 'Suresh, Resmi and Rengaswamy, Raghunathan', 'journal': 'Computers \\& Chemical Engineering', 'title': 'Modeling and Control of Battery Systems. Part I: Revisiting Butler-Volmer Equations to Model Non-linear Coupling of Various Capacity Fade Mechanisms', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'suresh2018modeling'},
+
+{'publisher': 'Elsevier', 'author': 'Das, Laya and Kumar, Gaurav and Rengaswamy, Raghunathan and Srinivasan, Babji', 'journal': 'ISA transactions', 'title': 'A novel approach for benchmarking and assessing the performance of state estimators', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'das2018novel'},
+
+{'publisher': 'NCBI', 'author': 'Sahoo S, Kumar R and Ranjith, Nicolay B and Mohite O, Sivaraman K, Khetan V, Rishi P,  Ganesan S, Subramanian K,  Raman K, Miles W, Elchuri SV', 'journal': 'aheadofprint', 'title': 'Metabolite systems profiling identifies exploitable weaknesses in Retinoblastoma.', 'ENTRYTYPE': 'article', 'year': '2018', 'ID': 'sahoo2018Metabolite'},
+
+{'publisher': 'IEEE', 'author': 'Pappu, Satya Jayadev and Bhatt, Nirav and Pasumarthy, Ramkrishna and Rajeswaran, Aravind', 'journal': 'IEEE Transactions on Smart Grid', 'title': 'Identifying Topology of Low Voltage Distribution Networks Based on Smart Meter Data', 'number': '5', 'ID': 'pappu2018identifying', 'volume': '9', 'pages': '5113--5122', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'On the primal-dual dynamics of Support Vector Machines', 'journal': 'arXiv preprint arXiv:1805.00699', 'author': 'Kosaraju, Krishna Chaitanya and Mohan, Shravan and Pasumarthy, Ramkrishna', 'ID': 'kosaraju2018primal', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'On Controllable Sparse Alternatives to Softmax', 'ENTRYTYPE': 'inproceedings', 'booktitle': 'Advances in Neural Information Processing Systems', 'author': 'Laha, Anirban and Chemmengath, Saneem Ahmed and Agrawal, Priyanka and Khapra, Mitesh and Sankaranarayanan, Karthik and Ramaswamy, Harish G', 'ID': 'laha2018controllable', 'year': '2018', 'pages': '6421--6431'},
+
+{'title': 'Consistent algorithms for multiclass classification with a reject option', 'journal': 'arXiv preprint arXiv:1505.04137', 'author': 'Ramaswamy, Harish G and Tewari, Ambuj and Agarwal, Shivani', 'ID': 'ramaswamy2015consistent', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Public Library of Science', 'author': 'Azhagesan, Karthik and Ravindran, Balaraman and Raman, Karthik', 'journal': 'PloS one', 'title': 'Network-based features enable prediction of essential genes across diverse organisms', 'number': '12', 'ID': 'azhagesan2018network', 'volume': '13', 'pages': 'e0208722', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'Learning to prevent Monocular SLAM failure using Reinforcement Learning', 'journal': 'To appear in the Proceedings of the Eleventh Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2018). ACM ICPS.', 'author': 'Prasad, V and Yadav, K, Singh, S., Daga, S., Pareekutty, N., Krishna, K. M., Ravindran, B., and Bhowmick, B.', 'ID': 'prasad2018Learning', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'ACM', 'author': 'Philip, Dibu John and Sudarsanam, Nandan and Ravindran, Balaraman', 'journal': 'ACM SIGMIS Database: the DATABASE for Advances in Information Systems', 'title': 'Improved Insights on Financial Health through Partially Constrained Hidden Markov Model Clustering on Loan Repayment Data', 'number': '3', 'ID': 'philip2018improved', 'volume': '49', 'pages': '98--113', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Kaushik, Meha and Prasad, Vignesh and Krishna, K Madhava and Ravindran, Balaraman', 'booktitle': '2018 IEEE Intelligent Vehicles Symposium (IV)', 'title': 'Overtaking Maneuvers in Simulated Highway Driving using Deep Reinforcement Learning', 'ID': 'kaushik2018overtaking', 'pages': '1885--1890', 'year': '2018', 'organization': 'IEEE', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Reddy, R., Chandar, S., and Ravindran, B', 'booktitle': 'To appear in the proceedings of the SIAM International Conference on Data Mining', 'title': 'Edge Replacement Grammars: A Formal Language Approach for Generating Graphs', 'ID': 'reddy2019', 'pages': '', 'year': '2019', 'organization': 'SDM19', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Studying the Plasticity in Deep Convolutional Neural Networks using Random Pruning', 'journal': 'To appear in the Journal of Machine Vision and Applications. Springer.', 'author': 'Mittal, Deepak and Bhardwaj, Shweta and Khapra, Mitesh M and Ravindran, Balaraman', 'ID': 'mittal2019recovering', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'title': 'Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing', 'journal': 'To appear in the Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2019)', 'author': 'Kumar, Athindran Ramesh and Ravindran, Balaraman and Raghunathan, Anand', 'ID': 'kumar2018pack', 'year': '2019', 'ENTRYTYPE': 'article'},
+
+{'author': 'Ananyasai., Midun Das, Gupta., and Srinivasan, Mukundhan., Mitesh, M M', 'booktitle': 'In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019), Honolulu, Hawaii, USA', 'title': 'Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses', 'ID': 'ananyasai2019', 'pages': '', 'year': '2019', 'organization': 'AAAI 2019', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Towards a Better Metric for Evaluating Question Generation Systems', 'journal': 'arXiv preprint arXiv:1808.10192', 'author': 'Nema, Preksha and Khapra, Mitesh M', 'ID': 'nema2018towards', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'Towards Exploiting Background Knowledge for Building Conversation Systems', 'journal': 'arXiv preprint arXiv:1809.08205', 'author': 'Moghe, Nikita and Arora, Siddhartha and Banerjee, Suman and Khapra, Mitesh M', 'ID': 'moghe2018towards', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'title': 'A Dataset for Building Code-Mixed Goal Oriented Conversation Systems', 'journal': 'arXiv preprint arXiv:1806.05997', 'author': 'Banerjee, Suman and Moghe, Nikita and Arora, Siddhartha and Khapra, Mitesh M', 'ID': 'banerjee2018dataset', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'ENTRYTYPE': 'article', 'title': 'ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions', 'year': '2018', 'ID': 'parikh2018eliminet', 'author': 'Parikh, Soham and Sai, Ananya and Nema, Preksha and Khapra, Mitesh M'},
+
+{'publisher': 'ACS Publications', 'author': 'Maurya, Deepak and Tangirala, Arun K and Narasimhan, Shankar', 'journal': 'Industrial \\& Engineering Chemistry Research', 'title': 'Identification of Errors-in-Variables Models Using Dynamic Iterative Principal Component Analysis', 'number': '35', 'ID': 'maurya2018identification', 'volume': '57', 'pages': '11939--11954', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'publisher': 'Springer', 'author': 'Arneson, Douglas and Zhang, Yong and Yang, Xia and Narayanan, Manikandan', 'journal': 'Journal of genetics', 'title': 'Shared mechanisms among neurodegenerative diseases: from genetic factors to gene networks', 'number': '3', 'ID': 'arneson2018shared', 'volume': '97', 'pages': '795--806', 'year': '2018', 'ENTRYTYPE': 'article'},
+
+{'author': 'Singh Moirangthem, Sailash., Pasumarthy, Ramakrishna., and Viswanath, Talasila.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'Time Series Analysis of Surface EMG Signal - Linear, Non Linear and Chaotic Approaches', 'ID': 'sailash2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'},
+
+{'author': 'Subhadeep, Kumar., Pasumarthy, Ramakrishna., and Nirav, Bhatt.,', 'booktitle': 'Fifth Indian Control Conference', 'title': 'A Game Theoretic Formulation of Path Selection in Urban Transportation Networks', 'ID': 'Subhadeep2019', 'pages': '', 'year': '2019', 'organization': 'IIT Delhi', 'ENTRYTYPE': 'inproceedings'}
+
+]
