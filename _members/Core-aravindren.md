@@ -4,7 +4,7 @@ name: Balaraman Ravindran
 image: ravi.jpg
 designations: 
   - Head, Robert Bosch Centre for Data Science and AI
-  - Professor
+  - Professor, CSE Department
   - Mindtree Faculty Fellow
 area:
   - Machine learning

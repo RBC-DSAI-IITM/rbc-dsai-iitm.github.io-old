@@ -3,11 +3,11 @@ layout: member
 name: Raghunathan Rengaswamy 
 image: raghur.png
 designations: 
-  - Marti Mannariah Gurunath Chair in Department of Chemical Engineering, IIT Madras
-  - Professor Dept of Chemical Engineering, IIT Madras
-  - Adjunct Professor Department of Chemical Engineering, Texas Tech University
-  - Adjunct Professor Department of Chemical and Biomolecular Engineering, Clarkson University
-  - Founding Director Gyan Data Pvt Ltd
+  - Marti Mannariah Gurunath, Chair in Department of Chemical Engineering, IIT Madras
+  - Professor, Dept of Chemical Engineering, IIT Madras
+  - Adjunct Professor, Department of Chemical Engineering, Texas Tech University
+  - Adjunct Professor, Department of Chemical and Biomolecular Engineering, Clarkson University
+  - Founding Director, Gyan Data Pvt Ltd
 area:
   - Fault Detection and Diagnosis (FDD)
   - development of Sensor Placement (SP)
