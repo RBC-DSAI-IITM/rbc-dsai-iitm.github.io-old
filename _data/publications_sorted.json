@@ -1,4 +1,26 @@
 [
+{'title': 'Conducting non-adaptive experiments in a live setting: a Bayesian approach to determining optimal sample size', 'journal': 'Journal of Mechanical Design', 'author': 'Sudarsanam, Nandan and Chandran, Ramya and Frey, Daniel D', 'ID': 'sudarsanam2020conducting', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'Ablation-CAM: Visual Explanations for Deep Convolutional Network via Gradient-free Localization', 'booktitle': 'The IEEE Winter Conference on Applications of Computer Vision', 'author': 'Ramaswamy, Harish Guruprasad and others', 'ID': 'ramaswamy2020ablation', 'year': '2020', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'PlotQA: Reasoning over Scientific Plots', 'booktitle': 'The IEEE Winter Conference on Applications of Computer Vision', 'author': 'Methani, Nitesh and Ganguly, Pritha and Khapra, Mitesh M and Kumar, Pratyush', 'ID': 'methani2020plotqa', 'year': '2020', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Thermodynamically consistent estimation of Gibbs free energy from data: data reconciliation approach', 'journal': 'Bioinformatics', 'author': 'Salike, Saman and Bhatt, Nirav', 'ID': 'salike2020thermodynamically', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort', 'journal': 'medRxiv', 'author': 'Vijayram, Ramya and Damaraju, Nikhita and Xavier, Ashley and Desiraju, Koundinya and Thiruvengadam, Ramachandran and Rengasamy, Raghunathan and Sinha, Himanshu and Bhatnagar, Shinjini and others', 'ID': 'vijayram2020comparison', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'MINREACT: an efficient algorithm for identifying minimal metabolic networks', 'journal': 'bioRxiv', 'author': 'Sambamoorthy, Gayathri and Raman, Karthik', 'ID': 'sambamoorthy2020minreact', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'Novel ratio-metric features enable the identification of new driver genes across cancer types', 'journal': 'bioRxiv', 'author': 'Sudhakar, Malvika and Rengaswamy, Raghunathan and Raman, Karthik', 'ID': 'sudhakar2020novel', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness against Adversarial Attacks', 'journal': 'arXiv preprint arXiv:2004.10162', 'author': 'Sen, Sanchari and Ravindran, Balaraman and Raghunathan, Anand', 'ID': 'sen2020empir', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'ENTRYTYPE': 'article', 'title': 'Supplementary material for a Unified Non-Negative Matrix Factorization Framework for Semi Supervised Learning on Graphs', 'ID': 'mitrasupplementary', 'author': 'Mitra, Anasua and Vijayan, Priyesh and Parthasarathy, Srinivasan and Ravindran, Balaraman'},
+
+{'title': 'Interpretability with Accurate Small Models', 'journal': 'Frontiers in Artificial Intelligence', 'author': 'Ghose, Abhishek and Ravindran, Balaraman', 'ID': 'ghose2020interpretability', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'Predicting software defect type using concept-based classification', 'journal': 'Empirical Software Engineering', 'author': 'Patil, Sangameshwar and Ravindran, B', 'ID': 'patil2020predicting', 'year': '2020', 'ENTRYTYPE': 'article'},
+
 {'ENTRYTYPE': 'article', 'title': 'Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling', 'ID': 'wilderinfluence', 'author': 'Wilder, Harshavardhan Kamarthi1 Priyesh Vijayan2 Bryan and Ravindran, Balaraman and Tambe, Milind'},
 
 {'title': 'Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks', 'journal': 'arXiv preprint arXiv:2002.00786', 'author': 'Mylavarapu, Sravan and Sandhu, Mahtab and Vijayan, Priyesh and Krishna, K Madhava and Ravindran, Balaraman and Namboodiri, Anoop', 'ID': 'mylavarapu2020towards', 'year': '2020', 'ENTRYTYPE': 'article'},
