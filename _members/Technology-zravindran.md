@@ -4,7 +4,7 @@ name: Prof. B. Ravindran
 image: governingravi1.png
 
 designations: 
-  - Ex officio- Member and secretary, Head-RBCDSAI
+  - Ex officio - Member and secretary, Head-RBCDSAI
 
 area:
 
