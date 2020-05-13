@@ -3,7 +3,7 @@ layout: member
 name: Nandan Sudarsanam 
 image: nandan.png
 designations: 
-  - Assistant Professor, Department of Management Studies, IIT Madras.
+  - Associate Professor, Department of Management Studies, IIT Madras.
 area:
   - Data mining/Machine Learning
   - Applied Statistics, Algorithmic
