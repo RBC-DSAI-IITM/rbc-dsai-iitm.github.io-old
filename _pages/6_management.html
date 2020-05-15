@@ -65,7 +65,7 @@ permalink: management
                    {% if designation_count > 0 %}
                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more affiliations"  data-toggle="collapse" > {{desination count }} affiliations </a>
                      <div class="collapse" id="{{member.name | slugify }}" >
-                     {% for designation in member.designations offset:0 %}
+                     {% for designation in member.designations offset:1 %}
                       <h6 class="card-subtitle mb-2">{{ designation }}</h6>
                      {% endfor %}
                      </div>
