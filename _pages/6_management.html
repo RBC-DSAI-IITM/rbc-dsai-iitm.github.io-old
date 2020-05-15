@@ -58,14 +58,14 @@ permalink: management
                    {% endfor %}
                  {% else %}
 
-                   {% for designation in member.designations limit:1 %}
+                   {% for designation in member.designations limit:2 %}
                     <h6 class="card-subtitle mb-2">{{ designation }}
                     </h6>
                    {% endfor %}
                    {% if designation_count > 1 %}
                      <a href="{{member.name | slugify | prepend: '#' }}" class="toggle-btn drop-shadow-mild " title="see more affiliations"  data-toggle="collapse" > {{ designation_count | minus: 1}} affiliations </a>
                      <div class="collapse" id="{{member.name | slugify }}" >
-                     {% for designation in member.designations offset:1 %}
+                     {% for designation in member.designations offset:2 %}
                       <h6 class="card-subtitle mb-2">{{ designation }}</h6>
                      {% endfor %}
                      </div>
