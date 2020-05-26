@@ -13,11 +13,11 @@
     cutting across disciplines, are targeted and solved.
   link: about.html 
 
-- title: Announcement
-  image: carousel2_bg.jpg
-  message: >
-   RBCDSAI is excited to announce the release of v1.0.0 of DCEIL, the first Distributed Community Detection Algorithm based on the state-of-the-art CEIL scoring function. It comes with GPL v2.0 and thus enables people from both academia and industry to use it in their work.
-  link: https://github.com/RBC-DSAI-IITM/DCEIL
+#- title: Announcement
+#  image: carousel2_bg.jpg
+#  message: >
+#   RBCDSAI is excited to announce the release of v1.0.0 of DCEIL, the first Distributed Community Detection Algorithm based on the state-of-the-art CEIL scoring function. It comes with GPL v2.0 and thus enables people from both academia and industry to use it in their work.
+#  link: https://github.com/RBC-DSAI-IITM/DCEIL
 
 # - title: Reinforcement Learning 
 #   image: carousel2_bg.jpg
