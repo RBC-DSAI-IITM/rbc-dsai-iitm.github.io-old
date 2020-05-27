@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href="https://economictimes.indiatimes.com/industry/services/education/iit-m-projects-aim-to-reduce-dropouts-improve-learning/articleshow/72233977.cms">IIT Madras projects aim to reduce dropouts, improve learning</a>
-img: /assets/colla-01.png
+img: /assets/colloa.jpg
 categories: news
 ---
 <p align="justify">Researchers at the Indian Institute of Technology (IIT) Madras are working on two projects that use artificial intelligence and data analytics to improve learning outcomes for students.</p>
