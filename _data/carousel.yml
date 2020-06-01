@@ -5,18 +5,11 @@
     model the infection spread and analyse other COVID-19 related data. 
   link: https://rbcdsai.iitm.ac.in/covid19/
   
-- title: Robert Bosch Centre for Data Science and Artificial Intelligence 
-  image: carousel3_bg.jpg
-  message: >
-    RBCDSAI won Best Papet Awards From 2018 till 2019, centre for data science research, where long-standing fundamental research problems, 
-    cutting across disciplines, are targeted and solved.
-  link: images/AWARDS.pdf 
-
 - title: Robert Bosch Centre for Data Science and Artificial Intelligence
   image: carousel3_bg.jpg
   message: >
-    Robert Bosch Centre for Data Science and Artificial Intelligence (RBC DSAI) at IIT Madras has invited applications for its post Baccalaurea    te Fellowship Program for those who wish to pursue a one or two years research internship in the areas of data science and artificial intel    ligence.
-  link: images/PostBac.pdf
+    Founded in August 2017, with a vision to become an internationally renowned centre for data science research, where long-standing fundament    al research problems, cutting across disciplines, are targeted and solved. 
+  link: about.html
 
 #- title: Announcement
 #  image: carousel2_bg.jpg
