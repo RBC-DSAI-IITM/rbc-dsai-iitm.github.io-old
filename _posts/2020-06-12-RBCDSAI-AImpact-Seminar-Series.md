@@ -7,15 +7,24 @@ categories: events
 ---
 
 <ul class="mb-5" >
-      <a href="Join the seminar on Zoom: 82771002381"> </a>
-      <li><b>Time</b>&nbsp;&nbsp; : 05:00 PM</li>
+       <li><b>Time</b>&nbsp;&nbsp; : 05:00 PM</li>
        <li><b>Date</b>&nbsp;&nbsp; : 12th June 2020 (Friday)</li>
 </ul>
 
  <br><strong>Title :</strong>
- <br>Human Allied Learning of Relational Deep Models <br>
+ <br>RBCDSAI AImpact Seminar Series <br>
+  <a href="https://us02web.zoom.us/j/82771002381"> </a>
 
-<div align="justify"><strong> Abstract :</strong><br>Historically, Artificial Intelligence has taken a symbolic route for representing and reasoning about objects at a higher-level or a statistical route for learning complex models from large data. To achieve true AI, it is necessary to make these different paths meet and enable seamless human interaction. First, I will introduce for learning from rich, structured, complex and noisy data. One of the key attractive properties of the learned models is that they use a rich representation for modelling the domain that potentially allows for seam-less human interaction. Next, I will present the recent progress that allows for more reasonable human interaction where the human input is taken as “advice” and the learning algorithm combines this advice with data. Finally, I will discuss the potential of "closing the loop" where an agent figures out what it knows and solicits information about what it does not know. This is an important direction to realize the true goal of human allied AI.<br><a href="https://rbc-dsai.iitm.ac.in/events/2019/12/31/Seminar-photos.html">Click For Photos</a><br><br></div>
+<br><strong>Prof. B. Ravindran will introduce the seminar series and the speakers at 5.00 pm.</br>
+<strong>Speaker:Dr. Harish Guruprasad</strong>
+<br><strong>Talk Title: Towards Interpretable AI:  Visualization of learned neural models</br>
+<div align="justify"><strong> Abstract :</strong><br>The trade-off between interpretability and accuracy in machine learning is a long-standing challenge in Machine learning. The rise of deep neural networks and their ubiquitous usage has brought this problem to the forefront once again. The power of neural networks comes mainly from its multi-layer feature representation through the use of "hidden nodes". By their very nature, hidden nodes are not interpretable, and can at best be conjectured to represent some latent factor that aids in the final task, e.g. a hidden node may detect eyes in an image, and later layers can use this information for predicting the presence of a cat. Hence an entire class of approaches that try to "understand" a learned network based on various "visualizations" have arisen. This "understanding" can be used by the programmer for debugging the learned network or conveyed to the end-user as a reason for a particular prediction. In this talk, we will discuss some standard visualization approaches used for understanding the predictions of deep networks on images, speech, and audio tasks.  
+
+<strong>Speaker:Saurabh Desai</strong>
+<br><strong>Talk Title: Ablation-CAM: Visual Explanations for Deep Convolutional Network via Gradient-free Localization</br>
+<br> <h1 Bio: Saurabh is currently a graduate student at Oregon State University under Dr.Stefan Lee in the Computer Science department. Previously, he used to work as a Project Associate at RBCDSAI, IIT Madras under supervision of Dr. Balaraman Ravindran and Dr.Harish Guruprasad. His interests lie in Explainable AI, Computer Vision, Reinforcement learning and Embodied AI. </h1>
+
+<div align="justify"><strong> Abstract :</strong><br>In response to recent criticism of gradient-based visualization techniques, we propose a new methodology to generate visual explanations for deep Convolutional Neural Networks (CNN) - based models. Our approach - Ablation-based Class Activation Mapping (Ablation CAM) uses ablation analysis to determine the importance (weights) of individual feature map units w.r.t. class. Further, this is used to produce a coarse localization map highlighting the important regions in the image for predicting the concept. Our objective and subjective evaluations show that this gradient-free approach works better than state-of-the-art Grad-CAM technique. Moreover, further experiments are carried out to show that Ablation-CAM is class discriminative as well as can be used to evaluate trust in a model. </a><br><br></div>
 
 
       
