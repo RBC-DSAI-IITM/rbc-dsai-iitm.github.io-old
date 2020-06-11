@@ -3,7 +3,7 @@ layout: post
 title: AI and Data Science summit
 venue: 
 date: 2020-06-18 09:00:00 +0530
-categories: events
+categories: 
 ---
 
 <ul class="mb-5">
