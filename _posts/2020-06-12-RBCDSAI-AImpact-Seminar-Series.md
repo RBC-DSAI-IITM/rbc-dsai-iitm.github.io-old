@@ -15,9 +15,9 @@ categories: events
  <br>RBCDSAI AImpact Seminar Series <br>
 
 
-  <a href="https://us02web.zoom.us/j/82771002381">Join In </a>
+  <a href="https://us02web.zoom.us/j/82771002381"> Join In </a>
 
-   <img src="/images/aimpact.jpg"> 
+  <img src="/images/aimpact.jpg" style="width:221px;height:66px;"></a>
 
 <br><strong>Prof. B. Ravindran will introduce the seminar series and the speakers at 5.00 pm. 
 <strong>Speaker:Dr. Harish Guruprasad</strong>
