@@ -29,8 +29,6 @@
 
 {'title': 'Deciphering the metabolic capabilities of Bifidobacteria using genome-scale metabolic models', 'journal': 'Scientific Reports', 'author': 'Devika, NT and Raman, Karthik', 'ID': 'devika2019deciphering', 'year': '2019', 'ENTRYTYPE': 'article'},
 
-{'author': 'Sudarsanam, Nandan and Chandran, Ramya and Frey, Daniel D.', 'journal': 'Journal of Mechanical Design', 'title': '{Conducting Non-adaptive Experiments in a Live Setting: A Bayesian Approach to Determining Optimal Sample Size}', 'number': '3', 'ENTRYTYPE': 'article', 'year': '2019', 'ID': '10.1115/1.4045603'},
-
 {'title': 'On Knowledge distillation from complex networks for response prediction', 'booktitle': 'Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)', 'author': 'Arora, Siddhartha and Khapra, Mitesh M and Ramaswamy, Harish G', 'ID': 'arora2019knowledge', 'year': '2019', 'ENTRYTYPE': 'inproceedings'},
 
 {'title': 'Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems', 'journal': 'Transactions of the Association for Computational Linguistics', 'author': 'Banerjee, Suman and Khapra, Mitesh M', 'ID': 'banerjee2019graph', 'year': '2019', 'ENTRYTYPE': 'article'},

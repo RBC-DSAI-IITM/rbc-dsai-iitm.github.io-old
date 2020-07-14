@@ -4,7 +4,7 @@ name: Sriram R
 image: sriram.png
 email: sram022@gmail.com
 designations: 
-  - Junior Scientist @buddiHealth
+  - M Tech
 homepage: 
 areas:
   - Network Biology
