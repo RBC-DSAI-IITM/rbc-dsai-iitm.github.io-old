@@ -1,4 +1,8 @@
 [
+{'title': 'Hypergraph Clustering by Iteratively Reweighted Modularity Maximization', 'journal': 'Applied Network Science', 'author': 'Kumar, Tarun and Vaidyanathan, Sankaran and Ananthapadmanabhan, Harini and Parthasarathy, Srinivasan and Ravindran, Balaraman', 'ID': 'tarun2020hypergraph', 'year': '2020', 'ENTRYTYPE': 'article'},
+
+{'title': 'HPRA: Hyperedge Prediction using Resource Allocation', 'booktitle': '12th ACM Conference on Web Science', 'author': 'Kumar, Tarun and Kamanuru, Darwin and Parthasarathy, Srinivasan and Ravindran, Balaraman', 'ID': 'tarun2020hpra', 'year': '2020', 'ENTRYTYPE': 'inproceedings'},
+  
 {'title': 'Conducting non-adaptive experiments in a live setting: a Bayesian approach to determining optimal sample size', 'journal': 'Journal of Mechanical Design', 'author': 'Sudarsanam, Nandan and Chandran, Ramya and Frey, Daniel D', 'ID': 'sudarsanam2020conducting', 'year': '2020', 'ENTRYTYPE': 'article'},
 
 {'title': 'Ablation-CAM: Visual Explanations for Deep Convolutional Network via Gradient-free Localization', 'booktitle': 'The IEEE Winter Conference on Applications of Computer Vision', 'author': 'Ramaswamy, Harish Guruprasad and others', 'ID': 'ramaswamy2020ablation', 'year': '2020', 'ENTRYTYPE': 'inproceedings'},
