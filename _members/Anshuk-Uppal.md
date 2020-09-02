@@ -2,7 +2,7 @@
 layout: member
 name: Anshuk Uppal
 image: Anshuk-Uppal.jpg
-email: anshuk98 [at] gmail [dot] com
+email: anshuk98@gmail.com
 homepage: 
 designations: 
   - Post Baccalaureate Fellow
