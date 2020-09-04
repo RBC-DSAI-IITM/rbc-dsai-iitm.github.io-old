@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Dhivya Karthic
-image: divyakarthic1.jpg
+image: Dhivya Karthic.jpg
 designations: 
   - CTM Program Manager
 area:

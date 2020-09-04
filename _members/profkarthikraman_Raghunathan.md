@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ragunathan D 
-image: raghu-01.png
+image: Ragunathan D.jpg
 email: ragunathan.sci@gmail.com
 designations: 
   - Senior Project Officer  

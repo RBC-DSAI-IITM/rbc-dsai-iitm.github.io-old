@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Keerthika M 
-image: keerthika.jpg
+image: Keerthika M.jpg
 designations: 
   - Junior Research Fellow
 areas:

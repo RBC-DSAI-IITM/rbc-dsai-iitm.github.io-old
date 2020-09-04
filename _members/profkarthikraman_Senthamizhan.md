@@ -1,7 +1,7 @@
 ---
 layout: member
 name: V. Senthamizhan
-image: Sendhu_01.png
+image: V. Senthamizhan.jpg
 email: senthamizhan1998@gmail.com
 designations: 
   - Post Baccalaureate Fellow

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Amrit Seshadri Diggavi
-image: amrit-01.png
+image: Amrit Seshadri Diggavi.jpg
 email: amritds18@gmail.com
 homepage: 
 designations:

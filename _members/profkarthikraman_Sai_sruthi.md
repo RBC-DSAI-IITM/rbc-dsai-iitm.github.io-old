@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Sai Sruthi A
-image: sai-01.png
+image: Sai Sruthi A.jpg
 email: saisruthiganesh97@gmail.com
 designations: 
   - Project Associate
