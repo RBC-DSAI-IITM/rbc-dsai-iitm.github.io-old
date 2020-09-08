@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Philge Philip
-image: pHILGE-3-01.png
+image: Philge_Philip.jpg
 email: philgev2 [at] gmail [dot] com
 homepage: https://www.linkedin.com/in/philge-philip-a598a414/
 designations: 
