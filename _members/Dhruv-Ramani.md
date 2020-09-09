@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Dhruv Ramani
-image: Dhruv-Ramani.jpg
+image: dd.png
 email: dhruvramani1998@gmail.com
 homepage: 
 designations: 
