@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Shaiju N K
-image: NK.jpg
+image: SHJ.jpg
 designations: 
   - System administrator
 area:
