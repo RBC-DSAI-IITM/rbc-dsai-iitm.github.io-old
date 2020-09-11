@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Jeshuren Chelladurai
-image: Jeshuren Chelladurai.jpg
+image: Jeshuren_Chelladurai.jpg
 email: jeshurench [at] gmail [dot] com
 homepage: https://www.linkedin.com/in/jeshuren/
 designations: 
