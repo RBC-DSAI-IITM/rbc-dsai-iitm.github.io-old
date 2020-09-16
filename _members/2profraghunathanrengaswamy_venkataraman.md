@@ -9,5 +9,5 @@ areas:
   - Manufacturing Analystics
   - Reinforcement learning
 bio: Ardent researcher that is inclined towards solving socially relevant problems.Area of research Manufacturing Analytics, Process systems, Reinforcement Learning
-type: student
+type: alumni
 ---
