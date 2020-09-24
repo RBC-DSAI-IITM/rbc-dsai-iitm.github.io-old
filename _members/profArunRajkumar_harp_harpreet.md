@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Harp HARPREET SINGH
+name: HARPREET SINGH
 image: harp.jpeg
 designations: 
   - Post Baccalaureate Fellow
