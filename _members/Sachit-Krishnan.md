@@ -11,6 +11,6 @@ areas:
   - Mathematical Modelling
   - Autonomous Vehicles
   - Graph Theory
-bio: Math and Physics enthusiast. Can work on cars all day. Currently working in a project on Lane-Less Traffic modelling under Prof. Ramkrishna. Hobbies include racing simulators, football and playing the guitar.
+bio: I obtained my Bachelor's in Electrical and Electronics Engineering at NIT Karnataka in 2020. My research interests include control theory, system stability and graph theory. I am currently working on the development of string stable car-following models under Dr. Pasumarthy. 
 type: staff
 ---
