@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Saravanakumaran P
-image: default.jpg
+image: default.png
 
 email: 
 homepage: 

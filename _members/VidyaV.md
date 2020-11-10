@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Vidya V
-image: default.jpg
+image: default.png
 
 email: 
 homepage: 
