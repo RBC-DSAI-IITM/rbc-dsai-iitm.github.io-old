@@ -10,5 +10,5 @@ areas:
   - intrinsically Disordered Proteins
   - Low Complexity Repeats
 bio: Completed my Material in genomis from MKV, Madurai. Submitted my thesis in molecular virology from SLS,Jnv. 
-type: staff
+type: alumni
 ---
