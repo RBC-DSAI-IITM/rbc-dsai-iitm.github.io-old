@@ -11,7 +11,7 @@ categories: events
         <li><b>Time</b>&nbsp;&nbsp; : 09:30 AM to 12:00 PM </li>
 </ul>
 
-<a href="https://sites.google.com/view/rbcdsai-workshop/home"><img src="/images/Eighth_workshop_Poster_1.png" style="width:1000px;height:1000px;"></a>
+<a href="https://sites.google.com/view/rbcdsai-workshop/home"><img src="/images/Eighth_workshop_Poster_1.png" style="width:1000px;height:1000px;"></a><br>
 
    
 
