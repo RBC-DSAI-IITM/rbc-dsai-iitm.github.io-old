@@ -5,10 +5,10 @@ image: Pavan-01.png
 email: pavan [dot] rshankar [at] gmail [dot]com
 designations: 
    - MS Scholar
-homepage: https://prsettigunte.github.io/
+homepage: https://sites.google.com/view/pavanravishankar
 areas:
   - Causal Inference
   - Reinforcement Learning
-bio: I am a computer scientist pursuing M.S research at Department of Computer Science, IIT Madras, advised by Balaraman Ravindran. Prior to this, I interned at NVIDIA(May 2018-Oct 2018), worked at InMobi(Nov 2016-June 2017), interned at Flipkart(Jan 2016-June 2016) and completed undergraduate studies in Information Systems(2012-2016) at Department of Computer Science and Information Systems from Birla Institute of Technology and Science, Pilani Campus.
+bio: I am an M.S Research Scholar in the Department of Computer Science at IIT Madras guided by Prof. Balaraman Ravindran and co-guided by Prof. Sudarsan Padmanabhan. I am part of the Robert Bosch Centre for Data Science and Artificial Intelligence (RBC-DSAI) Lab. Previously, I was a Visiting Student Researcher in the Department of Computer Science at Stanford University hosted by Prof. Emma Brunskill from March to May 2020. My research interests are in AI Fairness and AI Governance. (Site)
 type: student
 ---
