@@ -1,4 +1,4 @@
-
+---
 layout: member
 name: Himanshu Sinha
 image: sinha.jpg
