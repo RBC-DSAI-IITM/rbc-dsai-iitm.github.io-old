@@ -7,5 +7,6 @@ designations:
 area:
 bio:
 email:
-type: Distinguished fellow
+
+type: Distinguished-fellow
 ---
