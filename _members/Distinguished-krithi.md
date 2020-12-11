@@ -8,5 +8,5 @@ area:
 bio:
 email:
 
-type: Distinguished
+type: Distinguished-fellow
 ---
