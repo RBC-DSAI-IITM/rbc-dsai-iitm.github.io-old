@@ -24,13 +24,13 @@
 }
 
 .people-card > .card-body {
-  padding:1.3rem ;
+  padding:2.3rem ;
   background-color:white;
   text-align: left;
 }
 
 .people-card > .card-body > .card-title > a {
-  font-size:3em;
+  font-size:1em;
   font-weight:bold;
   color : #0162cb;
 } 
@@ -38,7 +38,7 @@
 .people-card .toggle-btn {
   color: #d14f4f;
   text-decoration: none;
-  font-size:1.8em;
+  font-size:0.8em;
   background-color:#f9ffc4;
   border-radius: 5px;
   padding:5px;
