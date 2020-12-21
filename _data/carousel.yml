@@ -1,15 +1,23 @@
-- title: RBCDSAI - Responding to COVID-19
-  image: banner_ds.jpg
+- title: RBCDSAI introduces 'NetGenes'
+  image: NetGenesBG.png
   message: >
-    Researchers from RBCDSAI, IIT Madras have been working on several timely projects to
-    model the infection spread and analyse other COVID-19 related data. 
-  link: https://rbcdsai.iitm.ac.in/covid19/
+    Researchers from IBSE & RBCDSAI, IIT Madras have published a standalone web database containing
+    computationally predicted essential genes for 2700+ organisms.
+  link: https://rbc-dsai-iitm.github.io/NetGenes/
   
 - title: Robert Bosch Centre for Data Science and Artificial Intelligence
   image: carousel3_bg.jpg
   message: >
     Founded in August 2017, with a vision to become an internationally renowned centre for data science research, where long-standing fundament    al research problems, cutting across disciplines, are targeted and solved. 
   link: about.html
+  
+  
+# - title: RBCDSAI - Responding to COVID-19
+#   image: banner_ds.jpg
+#   message: >
+#     Researchers from RBCDSAI, IIT Madras have been working on several timely projects to
+#     model the infection spread and analyse other COVID-19 related data. 
+#   link: https://rbcdsai.iitm.ac.in/covid19/
 
 #- title: Announcement
 #  image: carousel2_bg.jpg
